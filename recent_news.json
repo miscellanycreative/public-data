@@ -1,11 +1,12 @@
 [
   {
-    "article_path": "/article/immigration-enforcement-officials-search-ilhan-omars-home-in-pre-dawn-raid",
-    "article_url": "https://ground.news/article/immigration-enforcement-officials-search-ilhan-omars-home-in-pre-dawn-raid",
+    "article_path": "/article/282d828c-092f-4280-a498-9a9709305582",
+    "article_url": "https://ground.news/article/282d828c-092f-4280-a498-9a9709305582",
     "bias": [
-      "Left-Leaning coverage frames the event as a qualified federal “search” tied to a “criminal investigation,” stressing anonymous sourcing and de-emphasizing immigration details.",
-      "Center coverage adds Homeland Security context and a fraud probe but mixes description with charged terms such as “raided” and “swoop.” Right-leaning accounts intensify the narrative through “pre-dawn raid,” “immigration fraud,” “Somali-born,” and “Dem’s,” portraying aggressive enforcement and alleged Democratic wrongdoing, while highlighting a judicial warrant.",
-      "All perspectives agree agents searched Omar’s home during an ongoing investigation, but their dividing line is whether the episode signifies cautious uncertainty, institutional process, or immigration-focused political accountability."
+      "Left-Leaning coverage casts the dispute as Trump’s attempt to “withhold” DOGE documents, stressing transparency, “firing thousands” of federal workers, and canceled funding; its language suggests obstruction and public harm.",
+      "Center coverage adds procedural texture, invoking FOIA and warning Supreme Court review could “derail” access, while describing a “sweeping purge.” Right-leaning framing de-emphasizes records and DOGE’s agency impacts, instead presenting a legal “challenge” centered on “executive privilege claims,” foregrounding confidentiality and presidential authority.",
+      "The pivotal divide is disclosure versus executive power.",
+      "All address Supreme Court review of a DOGE-related legal dispute, but references to Trump, Musk, watchdogs, and records vary."
     ],
     "bias_bar_text": null,
     "center_pct": null,
@@ -15,134 +16,78 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
-      "Homeland Security Investigations agents executed a pre-dawn, judicially authorized search warrant at the Washington, D.C.-area residence of Democratic U.S. Representative Ilhan Omar as part of an ongoing federal criminal investigation.",
-      "Reporting from Fox News indicates the search stems from a federal fraud probe examining historical immigration paperwork completed by her late father when she arrived in the United States as a child.",
-      "The Department of Justice confirmed the HSI action in a statement, noting: \"Today in the Washington, D.C., area, Homeland Security Investigations executed a judicially authorized search warrant secured by the Department of Justice. This enforcement action is part of an ongoing federal criminal investigation\".",
-      "The raid follows earlier comments by border czar Tom Homan confirming that the Minnesota congresswoman was subject to an active federal investigation.",
-      "Neither Rep. Omar nor her legal counsel has formally responded regarding the specifics of the search, and the Department of Justice has not released supporting affidavits or announced formal charges."
+      "On Oct 13, The Supreme Court agreed to hear the administration's appeal regarding transparency requirements for the Department of Government Efficiency, examining whether the group must disclose internal communications to watchdog organizations.",
+      "Initially led by tech billionaire Elon Musk, DOGE was tasked with overhauling the government; the administration contends the group acted as a presidential advisory body exempt from the Freedom of Information Act.",
+      "The Government Accountability Office reported DOGE overstated its savings, claiming credit for canceled leases predating the group, while Citizens for Responsibility and Ethics in Washington continues seeking organizational and financial information.",
+      "Critics called the appeal \"an obvious delay tactic to keep the American public in the dark about DOGE,\" highlighting the group's reckless operation amid the upcoming Supreme Court case.",
+      "With eight months left on its charter, the Department of Government Efficiency has now been dissolved, and The Supreme Court expects to issue a decision next year."
     ],
     "title": "Source Icon",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/zelenskyy-says-ukraine-is-ready-to-agree-to-energy-ceasefire-but-warns-russia-must-do-same",
-    "article_url": "https://ground.news/article/zelenskyy-says-ukraine-is-ready-to-agree-to-energy-ceasefire-but-warns-russia-must-do-same",
-    "bias": [
-      "Left-Leaning coverage frames Ukraine as cooperative—“ready” to agree—while portraying Russia as obstructive through terms like “attacks continue,” urging the United States to “pressure” Moscow and calling the deal a “major step” toward ending the war.",
-      "Right-Leaning coverage instead spotlights Zelenskyy being “informed … through the media,” implying diplomatic sidelining and uncertainty, while stressing that Ukraine acts only “if the Russians are too.” Center coverage de-emphasizes partisan stakes, specifying reciprocal limits on strikes against energy infrastructure and oil refineries.",
-      "All perspectives emphasize conditional reciprocity, but their divide reflects wider disagreement over American leadership, Ukrainian credibility, and responsibility for sustaining the war."
-    ],
+    "article_path": "/article/638832a3-5c4f-4f3e-bcc8-7d0ec0f110aa",
+    "article_url": "https://ground.news/article/638832a3-5c4f-4f3e-bcc8-7d0ec0f110aa",
+    "bias": null,
     "bias_bar_text": null,
-    "center_pct": 46.0,
+    "center_pct": 55.0,
     "error": null,
-    "left_pct": 36.0,
+    "left_pct": 24.0,
     "location": null,
-    "right_pct": 18.0,
-    "status": "ok",
+    "right_pct": 21.0,
+    "status": "no_change",
     "summary": [
-      "On Monday, Ukrainian President Volodymyr Zelenskyy welcomed the energy ceasefire announced by President Donald Trump but warned Moscow must cease attacks on energy infrastructure, reporting immediate Russian violations.",
-      "Despite the announcement, Russia launched 121 drones and one Kh-59 missile overnight, with strikes recorded at 15 locations across Ukraine. A separate Russian drone attack on the village of Pisochyn killed three people Sunday evening.",
-      "Zelenskyy stated he learned of the deal via media reports, saying, \"We are waiting for the details of the conditions.\" He expressed readiness to sign guarantees if the Americans ensure Russian compliance.",
-      "At the Warsaw Security Forum, violations were reported despite the agreement, prompting Zelenskyy to urge Washington to step in and ensure Moscow abides by the terms.",
-      "Russia has utilized energy infrastructure attacks to deny civilians power and water, aiming to wear down public resistance. The Russian Defence Ministry claimed its air defences intercepted 151 Ukrainian drones overnight."
+      "On Monday, October 12, 2026, one rider died and four others were injured during an incident on the Goliath roller coaster at Six Flags Over Georgia, prompting immediate evacuation of passengers from the 200-foot-tall ride.",
+      "Six Flags Entertainment Corporation temporarily closed nine similar roller coasters across six amusement parks \"out of an abundance of caution\" while authorities investigate the fatal incident and the company cooperates fully with local investigators.",
+      "Witnesses reported seeing a man fall from the Goliath roller coaster and strike parts of the ride multiple times before landing, though officials have not confirmed the specific cause of death or other injury details.",
+      "Detectives with the Cobb County Police Department Major Crimes Unit are leading the investigation while park staff responded immediately to the scene; Six Flags stated it is cooperating fully with authorities.",
+      "This incident follows recent legal scrutiny at Six Flags Magic Mountain, where the company retired the X2 roller coaster last month following multiple injury-related lawsuits, highlighting broader industry safety concerns."
     ],
-    "title": "Zelenskyy says Ukraine is ready to agree to energy ceasefire, but warns Russia must do same",
+    "title": "One dead and several injured after incident involving US rollercoaster at Six Flags Over Georgia",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/nobel-prize-in-economics-awarded-to-robert-e-hall-and-michael-woodford_e8562d",
-    "article_url": "https://ground.news/article/nobel-prize-in-economics-awarded-to-robert-e-hall-and-michael-woodford_e8562d",
+    "article_path": "/article/hackers-heat-french-supermarket-fridges-sparking-fires-and-food-losses_4b45e6",
+    "article_url": "https://ground.news/article/hackers-heat-french-supermarket-fridges-sparking-fires-and-food-losses_4b45e6",
     "bias": [
-      "Left-Leaning coverage largely presents Hall and Woodford’s Nobel as a straightforward recognition of “stabilization” research, occasionally emphasizing that the winners are “Americans,” while de-emphasizing practical policy consequences.",
-      "Right-Leaning coverage similarly uses positive language such as “recognised,” but frames the work through inflation, employment, and “policy” effectiveness, making economic utility more salient than nationality or institutional ceremony.",
-      "Center coverage adds “rewarded” and institutional context, including the prize’s history.",
-      "No side uses overtly partisan terms like “woke” or “crisis.” All agree on the recipients and research, with differences reflecting priorities over identity, institutions, and applied economic outcomes."
+      "Left-Leaning coverage foregrounds food waste, consumer welfare, and food-security anxiety, calling the incident “unprecedented,” “massive,” or a “food crisis,” while right-leaning accounts stress sabotage and infrastructure vulnerability through phrases like “turned refrigerators into ovens,” “food terror,” and “pirates.” The pivotal divide is whether roughly 150 confirmed Intermarché stores—or estimates reaching 500-plus—signals a social and environmental emergency or a national-security failure; fires and possible European spillover intensify the right’s threat framing.",
+      "Center coverage more often emphasizes technical uncertainty, outdated software , and the ongoing investigation.",
+      "All perspectives highlight 50-degree temperatures, discarded food, millions in losses, and connected-system risks, reflecting wider divides over public welfare versus security."
     ],
     "bias_bar_text": null,
     "center_pct": 39.0,
     "error": null,
-    "left_pct": 32.0,
-    "location": null,
-    "right_pct": 29.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, American-born Robert Hall and Michael Woodford won the Bank of Sweden Prize in Economic Sciences in Memory of Alfred Nobel for their work on the microeconomic foundations of macroeconomic stabilisation.",
-      "The Royal Swedish Academy in Stockholm announced the award, which the Bank established in 1968 as a memorial to Nobel, the 19th-century Swedish businessman and chemist.",
-      "John Hassler, chair of the Committee for the Prize in Economic Sciences, said the laureates' \"work has provided us with a stable theoretical foundation\" for models used by central banks and governments worldwide.",
-      "Recipients will receive 12 million Swedish kronor , whether the prize is awarded to an individual, a small group of laureates, or an organization.",
-      "Although technically not a Nobel Prize , it is presented on Dec. 10 alongside other honors announced last week in medicine, physics, chemistry, literature and peace."
-    ],
-    "title": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/judge-orders-trump-administration-to-cancel-taxpayer-funded-tv-ads_7a7096",
-    "article_url": "https://ground.news/article/judge-orders-trump-administration-to-cancel-taxpayer-funded-tv-ads_7a7096",
-    "bias": [
-      "Left-Leaning coverage frames the roughly $20 million campaign as “pro-Trump propaganda,” “blatantly unlawful,” and election-oriented misuse of taxpayer funds, portraying the judge’s halt as necessary protection.",
-      "Right-Leaning coverage foregrounds a “Biden-appointed judge,” calls the spots “public service announcements,” and stresses that Trump offered to “foot the bill,” casting the temporary order as partisan overreach while noting future private funding.",
-      "The pivotal divide is whether the ads were educational messaging or political glorification, alongside whether a 14-day restraint was consequential since the campaign was ending.",
-      "Center coverage emphasizes procedure and competing claims.",
-      "All sides acknowledge the ruling, public funding, and Trump’s role, reflecting broader disputes over executive power, election influence, and institutional trust."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 53.0,
-    "error": null,
-    "left_pct": 32.0,
-    "location": null,
-    "right_pct": 15.0,
-    "status": "ok",
-    "summary": [
-      "On Sunday, U.S. District Judge Jennifer Rochon ordered the Trump administration to halt taxpayer-funded television advertisements, imposing a temporary restraining order that bars the government from airing or renewing ad contracts for two weeks.",
-      "Common Cause and other plaintiffs challenged the advertisements, alleging they functioned as political propaganda designed to assist Republican candidates in the November midterm elections rather than serve as legitimate public service announcements.",
-      "Plaintiffs sought to block the ads by Friday to prevent airing during weekend programming such as football games and Saturday Night Live, though the Trump administration stated in a Saturday filing it had already planned to cease the campaign.",
-      "President Donald Trump called the ads a \"positive promotion for our great U.S.A.,\" while the White House announced that MAGA PAC would fund future advertisements instead of using taxpayer money going forward.",
-      "Common Cause President and CEO Virginia Kase Solomon vowed continued accountability efforts, stating the group will not cease until \"no president from any party can waste and abuse taxpayer funds for propaganda ever again."
-    ],
-    "title": "Judge orders Trump administration to cancel taxpayer-funded TV ads",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/004693b4-6215-4f51-b95f-90fcab40d377",
-    "article_url": "https://ground.news/article/004693b4-6215-4f51-b95f-90fcab40d377",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 43.0,
-    "error": null,
-    "left_pct": 27.0,
+    "left_pct": 31.0,
     "location": null,
     "right_pct": 30.0,
-    "status": "no_change",
+    "status": "ok",
     "summary": [
-      "On Sunday, President Donald Trump announced an \"energy ceasefire\" between Russia and Ukraine, claiming both sides agreed to suspend strikes on energy infrastructure effective immediately. Neither government has confirmed the arrangement.",
-      "Trump's declaration followed an October 9 diesel supply deal with Russian President Vladimir Putin, during which Trump had urged Ukrainian President Volodymyr Zelenskyy to halt strikes on Russian oil refineries, blaming Kyiv for rising fuel prices.",
-      "Zelenskyy described the ceasefire as \"news for me,\" yet confirmed Ukraine's readiness to halt refinery strikes if Moscow provides \"real guarantees\" and stops attacking Ukrainian power infrastructure.",
-      "European Commission President Ursula von der Leyen voiced support for the ceasefire, while officials warned the truce must be observed; Russia has continued intensifying strikes on Ukrainian power facilities throughout the weekend.",
-      "Skepticism remains, as analysts note Trump has made similar unconfirmed ceasefire claims previously. With no formal verification from the Kremlin, both nations remain locked in a long-range aerial war over energy infrastructure."
+      "A major coordinated cyberattack targeted commercial refrigeration systems across hundreds of French supermarkets overnight, remotely manipulating industrial cooling controls to trigger continuous forced defrost cycles and spike internal temperatures up to 50°C .",
+      "The attack primarily impacted systems manufactured by Danish climate solutions company Danfoss, exploiting software vulnerabilities—previously flagged by security researchers in August—to override safety limits and run defrost heaters indefinitely.",
+      "More than 300 Intermarché and Netto locations, nearly 100 Coopérative U stores, and several E.Leclerc outlets were hit, resulting in massive food spoilage, millions of euros in lost inventory, and localized electrical fire outbreaks triggered by overheating defrost elements.",
+      "The Paris Prosecutor's Office opened a formal nationwide criminal investigation into the attack, while supermarket groups voiced concerns that standard commercial insurance policies may fail to cover damages caused by remote cyber sabotage.",
+      "The breach occurred alongside a separate European retail cyber incident that disrupted website orders, delivery systems, and electronic shelf labels across Dutch and Belgian chains, including Albert Heijn and Delhaize."
     ],
-    "title": "Trump says Russia and Ukraine reached 'energy ceasefire'",
+    "title": "Hackers heat French supermarket fridges, sparking fires and food losses",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/the-new-york-times-british-and-us-officials-believe-that-the-people-arrested-near-the-raf-fairford-air-base-were-linked-to-an-iran-backed",
-    "article_url": "https://ground.news/article/the-new-york-times-british-and-us-officials-believe-that-the-people-arrested-near-the-raf-fairford-air-base-were-linked-to-an-iran-backed",
+    "article_path": "/article/security-incident-at-us-run-air-base-almost-certainly-directed-by-iran-uk-prime-minister-says_02dae6",
+    "article_url": "https://ground.news/article/security-incident-at-us-run-air-base-almost-certainly-directed-by-iran-uk-prime-minister-says_02dae6",
     "bias": [
-      "Coverage converges on a suspected Iran-linked plot at the U.S.-run RAF Fairford base, but diverges in emphasis and certainty: left-leaning accounts amplify Burnham’s “almost certainly” attribution, his “vows” to impose sanctions , seven arrests, and the withdrawal of 12 B-1 bombers, creating an urgent response-oriented tone.",
-      "Right-Leaning coverage stresses officials’ “likely” assessment, an “Iran-backed operation,” and uncertainty over whether the IRGC or another Iranian body was involved, while foregrounding arrests and possible coordination in Iran.",
-      "Center coverage stays narrower, highlighting the “apparent plan to attack” and attributing claims to officials.",
-      "All frame Iran as central, reflecting wider divides over hawkish certainty versus evidentiary caution."
+      "Coverage converges on Britain’s claim that Iran’s IRGC “almost certainly” directed a suspected RAF Fairford plot, but diverges in emphasis: left-leaning reports use “vows,” “sanction,” and “terror plot” to stress confrontation, sanctions , and wider regional policy, including Saudi Arabia; right-leaning accounts deploy “terror plot,” “forced,” “major scare,” and “hostile” to portray a threat to U.S. forces and Britain’s reliability as a host.",
+      "Center coverage preserves attribution and uncertainty, foregrounding Iran’s denial, seven arrests, release on bail without charges, and the unresolved investigation.",
+      "All note the diplomatic response; reports said 12 U.S. B-1s were withdrawn, underscoring differing geopolitical priorities."
     ],
-    "bias_bar_text": "Left 50% Center 30% R 20%",
-    "center_pct": 30.0,
+    "bias_bar_text": null,
+    "center_pct": 39.0,
     "error": null,
-    "left_pct": 50.0,
+    "left_pct": 31.0,
     "location": null,
-    "right_pct": 20.0,
+    "right_pct": 30.0,
     "status": "ok",
     "summary": [
       "On Monday, British Prime Minister Andy Burnham told MPs that the security incident at RAF Fairford last month was \"highly likely to have been coordinated in Iran, almost certainly directed by Iran's Islamic Revolutionary Guard.\"",
@@ -151,477 +96,687 @@
       "Iranian Foreign Minister Abbas Araghchi denied the allegations, writing on social media that Britain was \"barking up the wrong tree\" and that releasing suspects \"really says it all.\"",
       "The Air Force recently redeployed its bombers from RAF Fairford back to the United States following renewed security concerns, with Burnham noting close coordination with the US regarding shared base protection."
     ],
-    "title": "Security Incident at US-Run Air Base Almost Certainly Directed by Iran, UK Prime Minister Says",
+    "title": "Security incident at US-run air base almost certainly directed by Iran, UK prime minister says",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/nasa-may-already-have-proof-life-once-existed-on-another-planet-scientists-might-never-get-to-find-out",
-    "article_url": "https://ground.news/article/nasa-may-already-have-proof-life-once-existed-on-another-planet-scientists-might-never-get-to-find-out",
-    "bias": null,
-    "bias_bar_text": "10% Center 90%",
-    "center_pct": 90.0,
-    "error": null,
-    "left_pct": 10.0,
-    "location": null,
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "On Mars, NASA 's Perseverance rover stores promising 'potential biosignature' samples from the Sapphire Canyon region, but the Mars Sample Return program intended to retrieve them was canceled in 2024 after costs reached $11 billion.",
-      "A joint venture between NASA and the European Space Agency, the Mars Sample Return program faced cancellation after the budget ballooned to $11 billion. NASA Administrator Isaacman later criticized the program's original design as 'too costly to succeed.'",
-      "Scientists consider the Sapphire Canyon sample a 'scientific holy grail' due to its spotted appearance suggesting ancient microbial activity. NASA spent about $2.4 billion to build the rover, which currently lacks instruments to definitively confirm signs of life.",
-      "China is now positioned to potentially beat the U.S. in retrieving Martian samples. The Chinese Academy aims to launch its Tianwen-3 mission in 2028, with a goal of picking up samples from Mars by 2031.",
-      "Despite ongoing advocacy, NASA leaders have not yet revealed a path forward to retrieve the cached samples. While the agency explores simpler, potentially commercial alternatives, the current lack of a concrete plan leaves Perseverance's samples awaiting return."
-    ],
-    "title": "NASA Cancels Mars Sample Return as Perseverance Sample Raises Life Questions",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/elon-musk-emerges-as-the-top-booster-for-republicans-with-276-million-in-donations",
-    "article_url": "https://ground.news/article/elon-musk-emerges-as-the-top-booster-for-republicans-with-276-million-in-donations",
+    "article_path": "/article/immigration-enforcement-officials-search-ilhan-omars-home-in-pre-dawn-raid",
+    "article_url": "https://ground.news/article/immigration-enforcement-officials-search-ilhan-omars-home-in-pre-dawn-raid",
     "bias": [
-      "Left-Leaning coverage frames Elon Musk ’s more than $276 million as wealth-driven intervention, using “quietly funneled,” “save Republicans,” and “staggering amount” to suggest opacity, vulnerability, and excessive influence.",
-      "Right-Leaning coverage emphasizes a “huge financial injection” designed to “help Republicans win,” highlighting Musk’s opposition to Democrats and their polling advantage, though “interferes” signals concern about intervention.",
-      "Center coverage softens the clash by calling him a “top booster” while detailing roughly $158 million to the Senate Leadership Fund and $76 million to America PAC.",
-      "All perspectives emphasize Musk as the largest known donor supporting Republican midterm efforts, revealing broader divides over money, power, and partisan electoral stakes."
+      "Left-Leaning coverage frames the event as a qualified federal “search” tied to a “criminal investigation,” stressing anonymous sourcing and de-emphasizing immigration details.",
+      "Center coverage adds Homeland Security context and a fraud probe but mixes description with charged terms such as “raided” and “swoop.” Right-leaning accounts intensify the narrative through “pre-dawn raid,” “immigration fraud,” “Somali-born,” and “Dem’s,” portraying aggressive enforcement and alleged Democratic wrongdoing, while highlighting a judicial warrant.",
+      "All perspectives agree agents searched Omar’s home during an ongoing investigation, but their dividing line is whether the episode signifies cautious uncertainty, institutional process, or immigration-focused political accountability."
     ],
     "bias_bar_text": null,
-    "center_pct": 49.0,
+    "center_pct": 44.0,
     "error": null,
     "left_pct": 28.0,
-    "location": "United States",
-    "right_pct": 23.0,
-    "status": "ok",
-    "summary": [
-      "Since July, Elon Musk has contributed more than $276 million to Republican-aligned groups and his super PAC, establishing himself as the largest known donor in the 2026 midterm elections.",
-      "Musk funneled approximately $158 million to the Senate Leadership Fund, the primary super PAC working to preserve the Republican Senate majority amid party headwinds in the midterms.",
-      "Another $76 million went to America PAC for conservative voter mobilization, while Musk provided $10 million to Lone Star Liberty PAC supporting Texas Republican nominee Ken Paxton.",
-      "President Donald Trump presented Musk with the National Medal of Science last week, cementing their reconciliation after a previous falling out during the transition period.",
-      "Republicans maintain a significant financial advantage over Democratic counterparts, though the party braces for potential losses amid voter frustration over stubborn prices and the unpopular war with Iran."
-    ],
-    "title": "Elon Musk emerges as the top booster for Republicans with $276 million in donations",
-    "topic": "Elon Musk",
-    "topic_full": "Elon Musk · United States"
-  },
-  {
-    "article_path": "/article/many-gop-states-have-imposed-new-voting-rules-this-year-some-mirroring-trumps-midterm-proposals",
-    "article_url": "https://ground.news/article/many-gop-states-have-imposed-new-voting-rules-this-year-some-mirroring-trumps-midterm-proposals",
-    "bias": [
-      "Left-Leaning coverage frames Republican-led voting laws as restrictions, stressing that more than 20 states are “imposing” rules tied to Trump’s agenda, including proof-of-citizenship requirements and limits on mail voting.",
-      "Right-Leaning coverage portrays the same measures as “tightening rules” that supporters call “election safeguards,” while noting similar federal proposals stalled and voting-rights groups warn they could “make it harder” for eligible voters.",
-      "Center coverage remains comparatively descriptive.",
-      "The pivotal divide is whether identification, citizenship proof, mail ballots, and voter rolls protect election integrity or burden access.",
-      "All emphasize the scale and Republican leadership, reflecting broader disputes over voting security, participation, and Trump’s influence."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 59.0,
-    "error": null,
-    "left_pct": 27.0,
-    "location": "United States",
-    "right_pct": 14.0,
-    "status": "ok",
-    "summary": [
-      "More than three dozen voting laws passed in Republican-controlled states take effect this election season, many incorporating elements of President Donald Trump 's stalled proposals for stricter registration and identification requirements.",
-      "Following failed federal attempts by President Donald Trump to pass national proof-of-citizenship laws and voter ID mandates, state legislatures adopted similar strategies to influence this year's midterm elections.",
-      "The Brennan Center identified nearly 40 laws taking effect this election season that make it harder for eligible voters to register or cast ballots, including new requirements for student IDs in New Hampshire and proof of citizenship in Ohio.",
-      "Freda Levenson, legal director of the ACLU of Ohio, noted that databases used to verify citizenship are often outdated, threatening eligible voters as rights groups challenge these mandates in court.",
-      "As early voting gets underway, voters face new hurdles like Ohio's eliminated four-day grace period for mail ballots, while Republican officials defend the rules as necessary to prevent noncitizen voting, citing charges against roughly 90 individuals."
-    ],
-    "title": "Many GOP states have imposed new voting rules this year, some mirroring Trump’s midterm proposals",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/federal-judge-halts-additional-tree-cutting-at-east-potomac-golf-links",
-    "article_url": "https://ground.news/article/federal-judge-halts-additional-tree-cutting-at-east-potomac-golf-links",
-    "bias": [
-      "Left-Leaning coverage casts the halt as another Trump “roadblock,” using phrases like “slams brakes” and “pet vanity projects” while foregrounding environmental damage—roughly 500 trees removed—and questions over who authorized it.",
-      "Right-Leaning coverage de-emphasizes Trump’s political and preservationist context, instead portraying a “temporary” or “immediate” procedural pause before an emergency hearing, while center coverage similarly sticks to the order’s duration and location.",
-      "The pivotal divide is whether the episode signals overreach and ecological harm or merely an interim legal step.",
-      "All perspectives emphasize the judge’s tree-cutting halt, reflecting broader tensions over Trump-era redevelopment, environmental stewardship, and judicial oversight."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 23.0,
-    "error": null,
-    "left_pct": 59.0,
-    "location": "United States",
-    "right_pct": 18.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, U.S. District Judge Ana C. Reyes ordered the administration to halt all tree removal at East Potomac Golf Course, demanding to know who authorized the sudden plan to clear hundreds of trees.",
-      "The Interior Department claims the Park Service is \"finally implementing a 7-year-old plan\" to address overgrowth, though plaintiffs argue this is a cover to advance President Donald Trump 's plan to turn the public site into a championship-style venue.",
-      "Government filings detailed a plan to remove 169 trees starting Saturday, with 90 more planned, totaling up to 529; plaintiffs allege the government announced the project late Friday to avoid oversight before the weekend.",
-      "Reyes ordered Kevin Griess, superintendent of the National Mall and Memorial Parks, to appear at a 10 a.m. hearing to explain the authorization, invoking her earlier promise of \"serious consequences\" for unauthorized cutting.",
-      "Ruling that plaintiffs \"are likely to suffer immediate and irreparable harm,\" the judge halted all work until 7 a.m. Tuesday and rejected arguments that the project is too advanced to stop."
-    ],
-    "title": "Judge temporarily halts tree cutting at DC's East Potomac golf course",
-    "topic": "Donald Trump",
-    "topic_full": "Donald Trump · United States"
-  },
-  {
-    "article_path": "/article/starbucks-says-it-is-not-buying-chipotle-after-takeover-speculation",
-    "article_url": "https://ground.news/article/starbucks-says-it-is-not-buying-chipotle-after-takeover-speculation",
-    "bias": [
-      "The left-leaning framing stays narrow and definitive, emphasizing Starbucks ’ “not buying” denial and treating the acquisition report as “speculation,” while the right-leaning account recasts the rumor as denied “takeover plans” and uses colorful language such as “biggest gastronomic fusion,” stressing the hypothetical combination’s historic drama.",
-      "Center coverage supplies the financial lens, calling it a potential “largest restaurant deal on record,” a “restaurant giant” with roughly $50 billion in annual sales, while noting shares rose about 1% and the denial was “quashing speculation.” Despite tonal differences, all agree no acquisition occurred, reflecting competing priorities between rumor control, market scale, and corporate spectacle."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 64.0,
-    "error": null,
-    "left_pct": 12.0,
-    "location": "United States",
-    "right_pct": 24.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, Starbucks Corp denied plans to acquire Chipotle Mexican Grill, ending speculation about a potential mega-deal. \"Starbucks is not buying Chipotle,\" a Starbucks spokesperson told CNBC.",
-      "The Financial Times reported Thursday that Starbucks explored a takeover proposal in recent months, citing people familiar with the matter. Starbucks had previously issued a non-definitive statement regarding the rumors.",
-      "Following the denial, Chipotle's stock fell more than 2% in premarket trading Monday, while Starbucks shares rose more than 1%. Earlier rumors had driven Chipotle's stock higher and Starbucks shares lower.",
-      "Starbucks CEO Brian Niccol is currently leading the company's turnaround program, which shareholders feared would be an expensive distraction. Niccol previously led Chipotle until late 2024.",
-      "Both companies are back to trading on their own fundamentals following the denial. Chipotle shares have plunged about 20% over the last year as the chain attempts to recover from lagging traffic."
-    ],
-    "title": "Starbucks says it is not buying Chipotle after takeover speculation",
-    "topic": "Stock Markets",
-    "topic_full": "Stock Markets · United States"
-  },
-  {
-    "article_path": "/article/a-spanish-language-radio-show-overflows-with-voters-frustration-in-pennsylvania-battleground",
-    "article_url": "https://ground.news/article/a-spanish-language-radio-show-overflows-with-voters-frustration-in-pennsylvania-battleground",
-    "bias": [
-      "Left-Leaning coverage foregrounds “frustration” over fuel prices and inflation, portraying the Lehigh Valley program as a window into economic unease.",
-      "Center coverage similarly notes voter dissatisfaction, while adding the program’s hour of political discussion.",
-      "The available right-leaning excerpt de-emphasizes those economic details and focuses on Martinez’s request for one “positive” thing about Trump and a caller’s mention of a promised $5,000 “payout,” without supplying a distinct ideological interpretation.",
-      "Yet the identical headlines—including “overflows,” “frustration,” and “battleground”—and shared facts reveal limited divergence: all describe the same contested-election setting and political exchange."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 51.0,
-    "error": null,
-    "left_pct": 35.0,
-    "location": "United States",
-    "right_pct": 14.0,
-    "status": "ok",
-    "summary": [
-      "Victor Martinez, who runs La Mega 101.7, a Spanish-language radio station in Pennsylvania's Lehigh Valley, hosts a politics talk show from his studio in Allentown that shapes discourse in the 7th Congressional District.",
-      "Matt Tuerk, Allentown's Democratic mayor, said this year's election has the \"same vibes\" as two years ago, when residents faced rising childcare, mortgage, and grocery costs that persist today.",
-      "In the 7th Congressional District, Republican incumbent Ryan Mackenzie faces Democratic challenger Bob Brooks, a retired firefighter, with both campaigns actively courting Latino voters through targeted outreach.",
-      "Restaurant owner Pena, who voted for Trump hoping for economic relief, now says \"they're still living day by day\" and is leaning toward Brooks this year, citing unmet expectations.",
-      "Republicans are buying advertising time on Martinez's show to maintain Latino support, though some listeners dismissed a $5,000 payout President Donald Trump promised if Republicans keep control of Congress."
-    ],
-    "title": "A Spanish-language radio show overflows with voters’ frustration in Pennsylvania battleground",
-    "topic": "Donald Trump",
-    "topic_full": "Donald Trump · United States"
-  },
-  {
-    "article_path": "/article/bill-gates-warns-cyberattacks-most-imminent-ai-threat_9b2df1",
-    "article_url": "https://ground.news/article/bill-gates-warns-cyberattacks-most-imminent-ai-threat_9b2df1",
-    "bias": [
-      "Left-Leaning coverage broadens Gates’s warning into “grim possibilities,” “a billion deaths,” bioterrorism, unemployment, and a case for stronger regulation, while right-leaning coverage stresses near-term cyberattacks , financial disruption, extortion, and “bad people,” framing weak safeguards and voluntary self-policing as a “terrible idea.” The center distinguishes immediate malicious use from distant loss of control, using “most imminent” and “real danger” more cautiously.",
-      "The pivotal divide is whether AI is chiefly a civilization-scale regulatory threat or an urgent law-and-order risk.",
-      "All perspectives agree safeguards are inadequate, cyberattacks could rise, and corporate self-regulation is insufficient—reflecting wider disputes over state oversight, security, and technological power."
-    ],
-    "bias_bar_text": "L 14% Center 25% Right 61%",
-    "center_pct": 25.0,
-    "error": null,
-    "left_pct": 14.0,
     "location": null,
-    "right_pct": 61.0,
+    "right_pct": 28.0,
     "status": "ok",
     "summary": [
-      "On Sunday, Microsoft co-founder Bill Gates warned that unregulated artificial intelligence will likely trigger a surge of AI-enabled cyberattacks over the coming year, citing bad actors and weak safeguards.",
-      "Gates described artificial intelligence as 'the most dangerous technology humans ever invented,' emphasizing that the immediate threat involves 'bad people' using existing systems rather than AI itself 'getting out of control.'",
-      "During an ABC News interview, Gates urged federal guardrails to prevent bad actors from exploiting advanced models for bioterrorism and cyberattacks, comparing the need for oversight to existing regulations governing cars, aircraft, and medicines.",
-      "Seeking federal oversight, Gates requested a meeting with President Donald Trump to discuss AI safeguards, noting he has already consulted with several other politicians about these concerns.",
-      "Separately, Gates continues advocating for tasks designated 'Human Reserved' and potential automation taxes to manage workforce displacement, keeping these employment proposals distinct from his warnings about catastrophic misuse."
+      "Homeland Security Investigations agents executed a pre-dawn, judicially authorized search warrant at the Washington, D.C.-area residence of Democratic U.S. Representative Ilhan Omar as part of an ongoing federal criminal investigation.",
+      "Reporting from Fox News indicates the search stems from a federal fraud probe examining historical immigration paperwork completed by her late father when she arrived in the United States as a child.",
+      "The Department of Justice confirmed the HSI action in a statement, noting: \"Today in the Washington, D.C., area, Homeland Security Investigations executed a judicially authorized search warrant secured by the Department of Justice. This enforcement action is part of an ongoing federal criminal investigation\".",
+      "The raid follows earlier comments by border czar Tom Homan confirming that the Minnesota congresswoman was subject to an active federal investigation.",
+      "Neither Rep. Omar nor her legal counsel has formally responded regarding the specifics of the search, and the Department of Justice has not released supporting affidavits or announced formal charges."
     ],
-    "title": "Bill Gates warns cyberattacks most imminent AI threat",
+    "title": "Immigration Officials Conduct Pre-Dawn Search at Ilhan Omar's Home",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/we-wont-begrudge-peace-promised-to-pursue-those-involved-in-a-shipment-of-al-bader-explosives",
-    "article_url": "https://ground.news/article/we-wont-begrudge-peace-promised-to-pursue-those-involved-in-a-shipment-of-al-bader-explosives",
+    "article_path": "/article/white-house-has-asked-ambassador-kimberly-guilfoyle-to-resign-new-trump-press-secretary-says",
+    "article_url": "https://ground.news/article/white-house-has-asked-ambassador-kimberly-guilfoyle-to-resign-new-trump-press-secretary-says",
     "bias": [
-      "Left-Leaning coverage foregrounds “thorough investigation,” “pursue,” and “hold accountable,” portraying the seizure as both a security threat and an accountability test, while “militant Hezbollah group” adds negative coloring.",
-      "Right-Leaning coverage emphasizes the truck being “seized” on the Beirut–Bekaa Valley highway and, uniquely, attributes details to Information Minister Paul Morcos; “pursue” stresses enforcement more than punishment, though it still includes Salam’s investigation.",
-      "Center coverage is more concise, limiting emphasis to the seizure, alleged Hezbollah connection, destination, and inquiry.",
-      "Across perspectives, all highlight explosives, Beirut, suspected—not proven—Hezbollah links, and Salam’s promised investigation, differing chiefly in location, attribution, and rhetorical emphasis."
+      "Left-Leaning coverage frames Guilfoyle’s departure as a troubling Trump-linked episode, using phrases like “eyebrow-raising admission,” “beleaguered ambassador,” and “misconduct allegations,” while foregrounding her media and campaign ties.",
+      "Center coverage supplies cautious context, describing “improper and possibly illegal conduct” as allegations and noting Trump had considered firing her.",
+      "Right-Leaning coverage de-emphasizes those claims, presenting the resignation as a straightforward White House personnel decision and emphasizing conciliatory language such as “wish her well.” The pivotal divide is whether the event signals scandal and accountability or routine staffing, though all perspectives agree Guilfoyle was asked to resign and that the White House announced it."
     ],
-    "bias_bar_text": "Left 59% Center 35% 6%",
-    "center_pct": 35.0,
+    "bias_bar_text": "Left 42% Center 37% R 21%",
+    "center_pct": 37.0,
     "error": null,
-    "left_pct": 59.0,
+    "left_pct": 42.0,
     "location": null,
-    "right_pct": 6.0,
+    "right_pct": 21.0,
     "status": "ok",
     "summary": [
-      "On Monday, Prime Minister Nawaf Salam announced Lebanon will investigate suspected Hezbollah members linked to an explosives-laden truck intercepted last week at the Dahr al-Baidar checkpoint.",
-      "Historically, Hezbollah moved weapons freely across Lebanon; however, the government declared all military activities by the Iran-backed group illegal in March following a three-month war that killed nearly 4,000 people.",
-      "Two detained suspects were transporting 780 kilograms of explosives, including 250 kilograms each of TNT and C-4, from Baalbek to Beirut for an operative named Zulfiqar.",
-      "Describing the incident as a \"criminal operation,\" Salam vowed to pursue those responsible, noting C-4 explosives have been used in several \"infamous political assassinations in Lebanon's modern history.\"",
-      "Information Minister Paul Morcos confirmed judicial authorities received the two detained suspects, while the government vowed firm action against weapons transport outside state control."
+      "On Tuesday, White House press secretary Katie Zacharia announced the administration has asked U.S. Ambassador to Greece Kimberly Guilfoyle to resign amid a misconduct probe. \"We have asked Ambassador Guilfoyle to resign,\" Zacharia said at her inaugural briefing.",
+      "State Department Inspector General investigators have been probing allegations that Guilfoyle misused her position, including bragging about luxury trips funded by Greek tycoons and promoting a Greek construction company's interests at diplomatic meetings.",
+      "Trump donor Eric Deters accused the ambassador this month of soliciting him to pay a $100,000 American Express bill for administrative access. Text messages Deters provided appeared to show Guilfoyle instructing him to wire funds so \"it won't show up anywhere.\"",
+      "President Donald Trump confirmed Monday that Guilfoyle's tenure was ending, shifting from his earlier sympathetic stance when he said the situation was \"too bad.\" Vice President JD Vance and Secretary of State Marco Rubio had defended her as facing only accusations.",
+      "Attorneys David Schwartz and Jesse Binnall denied all impropriety in a Monday statement, asserting Guilfoyle \"sought, obtained and followed State Department guidance\" on travel. They contended Deters' debt claims were unfounded, which he disputes."
     ],
-    "title": "Lebanon’s PM vows thorough investigation after explosives-laden truck seized at checkpoint",
+    "title": "White House says US ambassador to Greece Guilfoyle asked to resign",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/exclusive-most-americans-oppose-betting-on-elections-government-events-reuters-ipsos-poll-finds",
-    "article_url": "https://ground.news/article/exclusive-most-americans-oppose-betting-on-elections-government-events-reuters-ipsos-poll-finds",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 100.0,
-    "error": null,
-    "left_pct": null,
-    "location": "United States",
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "A Reuters/Ipsos poll shows most Americans oppose using prediction markets to bet on elections and government actions, reflecting broad public discomfort with wagering on political events.",
-      "The booming prediction market industry led by Polymarket and Kalshi faces scrutiny over insider trading and manipulation concerns, while the administration of President Donald Trump pursues federal regulations.",
-      "Some 69% of Democrats and 61% of Republicans oppose betting on election results, while 63% of Americans oppose wagering on government policy announcements, illustrating bipartisan consensus.",
-      "Democratic lawmakers have introduced bills to restrict the industry, and The Senate barred staff from using prediction markets as states fight the administration's federal jurisdiction push.",
-      "Legal experts expect the jurisdictional dispute between states and the Commodity Futures Trading Commission to reach the Supreme Court, while companies claim they offer unbiased information."
-    ],
-    "title": "Most Americans oppose betting on elections, government events, Reuters/Ipsos poll finds",
-    "topic": "Prediction Markets",
-    "topic_full": "Prediction Markets · United States"
-  },
-  {
-    "article_path": "/article/snap-enrollment-sinks-to-198-million-in-june-as-states-face-higher-costs-and-new-rules",
-    "article_url": "https://ground.news/article/snap-enrollment-sinks-to-198-million-in-june-as-states-face-higher-costs-and-new-rules",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 96.0,
-    "error": null,
-    "left_pct": 4.0,
-    "location": "United States",
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "According to Department of Agriculture data, Supplemental Nutrition Assistance Program enrollment fell to 19.8 million households in June, down nearly 12% from the same time last year.",
-      "President Donald Trump signed the \"One Big Beautiful Bill Act\" into law last year, requiring many SNAP recipients to work 80 hours a month and raising the age limit from 54 to 64.",
-      "Nine states saw drops exceeding 100,000 households, with Florida experiencing the largest decrease at more than 293,000; Alaska was the only state where participation increased, rising 4%.",
-      "Effective Oct. 1, states must cover 75% of administrative costs while the federal government pays 25%; starting next year, states become responsible for SNAP benefits costs tied to payment error rates above 6%.",
-      "The Center on Budget and Policy Priorities reports that some states have begun reducing SNAP participation to lower their payment error rates and cut program costs in response to policy changes."
-    ],
-    "title": "SNAP enrollment sinks to 19.8 million in June as states face higher costs and new rules",
-    "topic": "Supplemental Nutrition Assistance Program (SNAP)",
-    "topic_full": "Supplemental Nutrition Assistance Program (SNAP) · United States"
-  },
-  {
-    "article_path": "/article/cash-app-settlement-payments-are-coming-in-october-heres-who-qualifies",
-    "article_url": "https://ground.news/article/cash-app-settlement-payments-are-coming-in-october-heres-who-qualifies",
+    "article_path": "/article/nasas-perseverance-rover-breaks-off-world-driving-distance-record",
+    "article_url": "https://ground.news/article/nasas-perseverance-rover-breaks-off-world-driving-distance-record",
     "bias": [
-      "The purported left-right divide is modest: left headlines show no clear ideological bias, but emphasize a “payout” and the companies’ denial of wrongdoing, while right coverage spotlights “up to $2,500” and the “alleged” 2021 breach, preserving legal uncertainty.",
-      "Center headlines are generally neutral, adding who qualifies, the November 2024 filing cutoff, 8.2 million affected users, reimbursement categories, and October payment timing; “finally” hints at delay.",
-      "Thus, eligibility mechanics and liability language—not competing political narratives—form the clearest dividing line.",
-      "Across perspectives, coverage converges on the $15 million settlement and possible claimant payments, while deadlines and approval rules are de-emphasized on the left and right."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 77.0,
-    "error": null,
-    "left_pct": 17.0,
-    "location": "United States",
-    "right_pct": 6.0,
-    "status": "ok",
-    "summary": [
-      "Users who filed approved claims in a $15 million data security settlement with Cash App and Block Inc. are scheduled to receive payments this month, according to the official settlement website.",
-      "The settlement stems from a lawsuit alleging Cash App and Block failed to protect customer information following security incidents in 2022 and 2023, including unauthorized access and recycled phone number issues.",
-      "Eligible users could seek up to $2,500 for documented out-of-pocket losses, with additional compensation for up to three hours of lost time at $25 per hour.",
-      "Neither Cash App nor Block admitted to wrongdoing as part of the agreement, which established the $15 million fund to cover legal fees, administrative costs, and valid user claims.",
-      "The court granted final approval on March 27, 2025; the deadline to file claims passed on Nov. 18, 2024, and new claims are no longer being accepted."
-    ],
-    "title": "$15.8 million being sent to users of cash advance app, FTC says",
-    "topic": "FTC",
-    "topic_full": "FTC · United States"
-  },
-  {
-    "article_path": "/article/abdul-el-sayed-turns-the-tables-on-kristen-welker-when-she-tries-to-divide-democrats",
-    "article_url": "https://ground.news/article/abdul-el-sayed-turns-the-tables-on-kristen-welker-when-she-tries-to-divide-democrats",
-    "bias": [
-      "Left-Leaning coverage frames El-Sayed’s shift as party repair and resistance to an effort to “divide Democrats,” praising how he “turns the tables” on questioning; center coverage presents a restrained “walks back” or “disavowed” account.",
-      "Right-Leaning commentary instead spotlights contradiction—past claims that Obama enabled war and violated civil liberties versus campaigning with him—and suggests election-driven image management, using terms such as “full rehab treatment,” “Elitist Media,” and “ritual warm tongue bath,” while emphasizing de-emphasized context like Hasan Piker’s role.",
-      "All perspectives recognize the 2012 criticism, El-Sayed’s explanation that he was younger and angry, and his renewed alignment with Obama, reflecting wider divides over Democratic unity, media trust, and ideological consistency."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 21.0,
-    "error": null,
-    "left_pct": 29.0,
-    "location": "Michigan",
-    "right_pct": 50.0,
-    "status": "ok",
-    "summary": [
-      "Michigan Democratic Senate candidate Abdul El-Sayed disavowed a 2012 opinion piece criticizing President Barack Obama during a 'Meet the Press' interview, walking back claims of 'failures' weeks before the two headline a Detroit rally on October 24.",
-      "Addressing the 14-year-old column, El-Sayed told host Kristen Welker he was 'younger' and 'angry about circumstances' in 2012, adding that he now appreciates how difficult presidential change truly is.",
-      "Welker pressed El-Sayed on a March synagogue attack where he said 'hurt people hurt people,' prompting another apology and acknowledgment he spoke with Senator Elissa Slotkin, who is Jewish, about his remarks.",
-      "El-Sayed faces former GOP Rep. Mike Rogers in the general election for the open Senate seat; Republicans initially favored him as an opponent, but his campaign has proven more competitive than expected.",
-      "President Obama will headline the October 24 rally alongside El-Sayed and Michigan Secretary of State Jocelyn Benson, the Democratic nominee vying to succeed Governor Gretchen Whitmer, in Detroit."
-    ],
-    "title": "El-Sayed Addresses Past Obama Criticism, Says Democrats Now ‘Stand on the Shoulders of Giants’",
-    "topic": "Abdul El-Sayed",
-    "topic_full": "Abdul El-Sayed · Michigan"
-  },
-  {
-    "article_path": "/article/santa-clarita-bike-fire-map-evacuation-updates-as-wildfire-burns-in-los-angeles-county",
-    "article_url": "https://ground.news/article/santa-clarita-bike-fire-map-evacuation-updates-as-wildfire-burns-in-los-angeles-county",
-    "bias": [
-      "Coverage shows little ideological divergence in the event’s basic portrayal: left-leaning accounts emphasize a “fast-moving” fire , evacuations, and the coordinated response by county firefighters and the Forest Service; center coverage adds granular timing, locations, changing acreage estimates, and 12% containment; right-leaning framing heightens immediacy with “erupted,” “homes evacuated,” and “scorched,” prioritizing danger over operational detail.",
-      "The pivotal divide is rhetorical intensity and emphasis—not policy: one account initially cites 75 acres, while others report roughly 200–230, underscoring evolving estimates.",
-      "All perspectives converge on rapid spread, evacuation orders, and a serious Santa Clarita wildfire, reflecting shared concern about public safety rather than a broader partisan dispute."
+      "Left-Leaning coverage foregrounds achievement with upbeat phrases such as “28 miles and counting” and connects the record to advances in self-driving technology.",
+      "Right-Leaning coverage presents the same event more briefly and straightforwardly, emphasizing 45.2 kilometers since arrival while de-emphasizing technological, historical, and institutional context.",
+      "Center coverage adds precision and color: 28.10 miles, Opportunity’s “long-standing” record, JPL and Caltech, the six-wheeled design, and a “full marathon” on the “Red Planet.” The perspectives converge on Perseverance’s Mars driving record, but differ in whether they spotlight technological progress, simply relay the milestone, or contextualize its scale and significance."
     ],
     "bias_bar_text": null,
     "center_pct": 45.0,
     "error": null,
-    "left_pct": 39.0,
-    "location": "Santa Clarita",
-    "right_pct": 16.0,
+    "left_pct": 34.0,
+    "location": null,
+    "right_pct": 21.0,
     "status": "ok",
     "summary": [
-      "On Sunday afternoon, the Bike Fire erupted in Santa Clarita, quickly consuming at least 230 acres near Cambria Estates Lane and Ravenhill Road. Los Angeles County Fire Department crews responded immediately to the fast-moving blaze.",
-      "This incident marks the second notable brush fire in the Santa Clarita Valley within two weeks, following the 1,048-acre Bouquet Fire near Castaic last weekend. Crews also contained the 150-acre Danny Fire near Gorman on October 8.",
-      "Both Los Angeles County Fire and Angeles National Forest crews coordinated suppression efforts, battling \"erratic\" fire behavior while mobilizing two air tankers and two type 1 helicopters. The aircraft were deployed to assist with the rapidly spreading blaze.",
-      "Officials issued evacuation orders for the Sultus, MacMillan, Nadeu, and Sandsouth areas as structures became threatened. Los Angeles County Animal Care and Control established an animal shelter at the Antelope Valley Fairgrounds in Lancaster.",
-      "The fire remained at 0% containment as of Sunday, with officials reporting the cause was currently unknown. Authorities continued monitoring the blaze as it burned through the rugged terrain near Golden Valley High School."
+      "On Monday, NASA announced that Perseverance has driven farther than any other vehicle on Mars, reaching 28.1 miles and surpassing Opportunity's previous record of 28.06 miles.",
+      "Since landing in Jezero Crater in February 2021, Perseverance has relied on an autonomous navigation system called AutoNav, which guides more than 90% of its driving without human intervention from Earth.",
+      "Capable of traveling up to 1,351 feet in a single Martian day, Perseverance builds on a 29-year legacy of past Mars rovers including Sojourner, Spirit, Opportunity and Curiosity.",
+      "\"Perseverance's engineering hardware and instruments are in excellent shape,\" said Steven Lee, project manager for NASA's two Mars rovers, with assessments indicating operations could continue well into the 2030s.",
+      "NASA recently approved a mission extension through 2028, allowing Perseverance to continue exploring Lac de Charmes and traveling toward Idubi to investigate potential ancient hydrothermal systems."
     ],
-    "title": "Wildfire north of Los Angeles prompts evacuation order for parts of Santa Clarita",
-    "topic": "Wildfires",
-    "topic_full": "Wildfires · Santa Clarita"
+    "title": "NASA's Mars Rover Breaks Record for Off-Planet Driving",
+    "topic": "Space Agency",
+    "topic_full": "Space Agency"
   },
   {
-    "article_path": "/article/luxury-travel-burned-his-head-will-trumps-ambassador-be-fired",
-    "article_url": "https://ground.news/article/luxury-travel-burned-his-head-will-trumps-ambassador-be-fired",
+    "article_path": "/article/early-morning-spacex-launch-may-create-visible-space-jellyfish-plume-wtop-news",
+    "article_url": "https://ground.news/article/early-morning-spacex-launch-may-create-visible-space-jellyfish-plume-wtop-news",
     "bias": [
-      "Left-Leaning coverage frames the episode as a widening Trump-family “scandal,” using phrases like “Faces the Axe,” “Private Fury,” and “improper and possibly illegal conduct,” while stressing donor influence and delayed media scrutiny.",
-      "Right-Leaning coverage likewise highlights “misconduct,” a “pay-to-play scheme,” and being “on very thin ice,” but emphasizes accountability, the reported inspector-general inquiry, attorneys’ denial, and the lack of an official finding.",
-      "Center coverage stays more measured, foregrounding “allegations,” the disputed $100,000, and possible removal.",
-      "All perspectives stress Trump and Rubio’s reported anger and potential firing, reflecting shared concern over diplomatic ethics, access, and political loyalty."
+      "The coverage shows little genuine left-right ideological divide: left-leaning accounts emphasize the completed launch’s “sonic booms,” “cosmic jellyfish,” and cargo mission to the International Space Station, turning it into a regional spectacle, while right-leaning accounts focus on a potentially “spectacular” Carolina viewing opportunity, precise timing, and weather-dependent uncertainty.",
+      "Center-Leaning coverage bridges them with conditional language such as “may” and “chance,” explaining the plume scientifically as sunlight illuminating exhaust.",
+      "The pivotal split is spectacle versus contingency—and visual excitement versus mission context—though all perspectives share enthusiasm for the launch and its striking East Coast visibility."
     ],
     "bias_bar_text": null,
-    "center_pct": 67.0,
+    "center_pct": 72.0,
     "error": null,
-    "left_pct": 14.0,
-    "location": "United States",
-    "right_pct": 19.0,
-    "status": "ok",
-    "summary": [
-      "President Donald Trump and Secretary of State Marco Rubio are considering firing US Ambassador to Greece Kimberly Guilfoyle following reports alleging improper and possibly illegal conduct, a senior US official said on Sunday.",
-      "The Wall Street Journal reported allegations including threats to Greek officials, improper gifts, and offering administration access to a donor in exchange for paying a $100,000 credit card bill before Guilfoyle's confirmation hearing.",
-      "Lawyers David Schwartz and Jesse Binnall rejected the claims, asserting Guilfoyle \"sought, obtained and followed State Department guidance\" on travel and that the $100,000 payment was for unpaid prior public speaking services.",
-      "Democratic lawmakers including Rep. Gregory Meeks and Sen. Jeanne Shaheen have called for an investigation, while the State Department's inspector general is reviewing allegations that first surfaced in The Journal last month.",
-      "A senior US official reported Sunday that Trump and Rubio are \"extremely pissed off\" by Guilfoyle's reported conduct and will likely decide on action this week after Monday's Columbus Day holiday."
-    ],
-    "title": "Trump, Rubio weigh firing US envoy to Greece after mounting reports of improper conduct: Report",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/trump-announces-zacharias-first-press-briefing",
-    "article_url": "https://ground.news/article/trump-announces-zacharias-first-press-briefing",
-    "bias": [
-      "The coverage diverges more by emphasis than clear ideology: one item spotlights a “new on-screen face,” Trump’s “great job” assessment, and Karoline Leavitt’s replacement, while the largely neutral announcement reports stress Columbus Day , Tuesday’s first briefing, and its 9:30 a.m. start.",
-      "The more distinctly right-leaning wording uses “praises” and “heaped praise,” portraying Trump’s approval and the appointment’s formal launch favorably; “routine transition” is implied, not argued.",
-      "Neither side explains the change or Zacharia’s background.",
-      "Both attribute the announcement to Trump and agree on the Monday start and Tuesday briefing, leaving broader implications underdeveloped."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 17.0,
-    "error": null,
-    "left_pct": 8.0,
-    "location": "United States",
-    "right_pct": 75.0,
-    "status": "ok",
-    "summary": [
-      "President Donald Trump announced that Katie Zacharia would begin serving as White House press secretary on Monday, replacing Karoline Leavitt.",
-      "Trump said Zacharia would hold her first news conference Tuesday at 9:30 a.m. in the White House briefing room.",
-      "According to Trump, Leavitt left the role to spend more time with her family.",
-      "Zacharia previously advised Truth Social."
-    ],
-    "title": "White House New Press Secretary to Assume Her Post on Monday",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/massie-backs-trumps-diesel-deal-with-russia-in-rare-move",
-    "article_url": "https://ground.news/article/massie-backs-trumps-diesel-deal-with-russia-in-rare-move",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 33.0,
-    "error": "Message: \n",
     "left_pct": 17.0,
     "location": "United States",
-    "right_pct": 50.0,
-    "status": "fail",
-    "summary": null,
-    "title": "Massie backs Trump’s diesel deal with Russia in rare move",
-    "topic": "Thomas Massie",
-    "topic_full": "Thomas Massie · United States"
+    "right_pct": 11.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, Oct. 13, 2026, a SpaceX Falcon 9 rocket lifted off from Cape Canaveral Space Force Station at 6:33 a.m., carrying the CRS-35 mission with more than 6,300 pounds of supplies for the International Space Station.",
+      "Early morning launches occurring shortly before sunrise create a \"space jellyfish\" effect, as sunlight illuminates the rocket's exhaust plume against a dark sky, creating a glowing cloud with wispy trails.",
+      "About eight minutes after liftoff, the Falcon 9 first-stage booster made a recovery landing at Landing Zone 40; this mission marks NASA's 35th commercial resupply flight, utilizing a Cargo Dragon on its fourth trip to space.",
+      "The Dragon spacecraft is scheduled to dock autonomously with the International Space Station's Harmony module around 11 a.m. on Thursday, Oct. 15, following an approximate 52-hour flight.",
+      "This delivery follows the recent departure of Crew-12, which opened a necessary docking port for the Dragon, while the station's other port hosts the Crew Dragon Grace carrying Crew-13, which arrived earlier this month."
+    ],
+    "title": "SpaceX launches cargo ship to space station in spectacular pre-dawn flight",
+    "topic": "SpaceX",
+    "topic_full": "SpaceX · United States"
   },
   {
-    "article_path": "/article/feud-spills-onto-south-carolina-debate-stage-as-darline-graham-annie-andrews-snipe-in-senate-race",
-    "article_url": "https://ground.news/article/feud-spills-onto-south-carolina-debate-stage-as-darline-graham-annie-andrews-snipe-in-senate-race",
+    "article_path": "/article/the-government-resorts-to-a-un-court-for-oil-in-malvinas-and-experts-warn-about-the-risk-of-the-move",
+    "article_url": "https://ground.news/article/the-government-resorts-to-a-un-court-for-oil-in-malvinas-and-experts-warn-about-the-risk-of-the-move",
+    "bias": null,
+    "bias_bar_text": "Center 33% Right 67%",
+    "center_pct": 33.0,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": 67.0,
+    "status": "no_change",
+    "summary": [
+      "On Tuesday, Argentina filed a request with the International Tribunal for the Law of the Sea to halt British-authorized hydrocarbon activity near the Falkland Islands, seeking to preserve its sovereign rights over the continental shelf.",
+      "United Kingdom Foreign Secretary Miliband's approval on Tuesday of the Israeli-led Sea Lion field development in the Northern Falklands Basin triggered Argentina's legal challenge amid escalating tensions.",
+      "The filing \"seeks to preserve Argentina's sovereign rights over its continental shelf and prevent activities authorized unilaterally and illegally by the United Kingdom,\" the government added.",
+      "Britain stated it will stand firm defending the Falkland Islanders' right to self-determination, while project owners Navitas and Rockhopper Exploration do not expect Argentina's actions to derail development.",
+      "Last month, President Javier Milei 's government presented legislation to Congress seeking to toughen penalties on companies and individuals involved in unauthorized resource activities near the Islands."
+    ],
+    "title": "The Government Resorts to a UN Court for Oil in Malvinas and Experts Warn About the Risk of the Move",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/florida-to-execute-a-prisoner-who-killed-his-cellmate-in-hopes-of-gett",
+    "article_url": "https://ground.news/article/florida-to-execute-a-prisoner-who-killed-his-cellmate-in-hopes-of-gett",
     "bias": [
-      "Left-Leaning coverage frames the debate as evidence of Graham’s weakness, spotlighting her disputed Iran answer as a “gaffe,” calling her “unqualified,” and emphasizing the surname issue as a political tactic, while right-leaning coverage portrays Andrews as a “radical liberal,” foregrounding Medicare for All, “open borders,” and Graham’s “deeply personal” family explanation.",
-      "Their tones diverge through “fiery,” “snipe,” and “unserious” versus “identity-based insults” and “despicable.” Center coverage more evenly stresses a tightening race, mutual attacks, logistics, and third-party participation.",
-      "All portray a contentious, competitive debate over Iran, the economy, and AI, reflecting broader fights over competence, identity, and ideology."
+      "Left-Leaning framing foregrounds the unsettling motive—“hopes,” “death row”—and the nearly 18-year interval, inviting reflection on capital punishment’s moral complexity without explicitly opposing it.",
+      "Right-Leaning coverage stresses criminal severity through “killed,” “execute,” “strangling,” and the guilty plea, while de-emphasizing broader context; it does not clearly highlight the waiver of appeals.",
+      "Center coverage supplies the procedural spine, naming James Robertson, the victim, first-degree murder, and his waiver of appeals.",
+      "Across perspectives, all emphasize Tuesday’s scheduled execution, the killing, and Robertson’s stated motive, revealing differing priorities: ethical unease and unusual circumstances versus culpability and legal finality."
+    ],
+    "bias_bar_text": "Left 52% Center 41% 7%",
+    "center_pct": 41.0,
+    "error": null,
+    "left_pct": 52.0,
+    "location": null,
+    "right_pct": 7.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, inmate James Robertson, 63, is set to be executed at Florida State Prison near Starke for the 2008 strangling of his cellmate, Frank Hart. Robertson pleaded guilty and waived all appeals.",
+      "Robertson told investigators he killed Hart to secure a transfer to death row, preferring execution to life in prison. He committed the unprovoked 2008 attack while already incarcerated.",
+      "Florida has carried out more than half of the 30 total U.S. executions this year. Robertson's death would mark the state's 17th execution of 2026.",
+      "Governor Ron DeSantis withdrew a death warrant last week for William Lee Thompson without providing a specific reason. Thompson remains on death row, though a new warrant could be signed later.",
+      "If upcoming executions of William Reaves and Jesse Guardado proceed as planned, Florida will match its 2025 total of 19 executions. Two more inmates are already scheduled for death."
+    ],
+    "title": "Florida to Execute a Prisoner Who Killed His Cellmate in Hopes of Getting a Death Sentence",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/jury-selection-in-gendron-federal-trial-to-begin-tuesday",
+    "article_url": "https://ground.news/article/jury-selection-in-gendron-federal-trial-to-begin-tuesday",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 47.0,
+    "error": null,
+    "left_pct": 53.0,
+    "location": "Buffalo",
+    "right_pct": null,
+    "status": "no_change",
+    "summary": [
+      "Jury selection began Tuesday at the Buffalo Federal Courthouse for Payton Gendron's federal trial, where he faces over two dozen hate crime charges and more than a dozen firearms charges.",
+      "Already serving life in prison for state murder and domestic terrorism convictions, Gendron now faces federal capital charges for the May 14, 2022, attack at the Tops Friendly Markets on Jefferson Avenue.",
+      "The shooting killed 10 Black people, including 86-year-old Ruth Whitfield, after Gendron drove over 200 miles from Conklin and fired around 60 shots from a semiautomatic rifle.",
+      "Families of victims remain divided on the death penalty , with some preferring life imprisonment. \"Yay! Go for the death penalty.' That's never been me,\" said Buffalo Common Council member Zeneta Everhart, whose son Zaire survived.",
+      "Although New York does not carry out executions, federal prosecutors can pursue capital punishment under dual sovereignty. The U.S. Attorney's Office would designate another state for execution if Gendron receives the death sentence."
+    ],
+    "title": "Jury Selection to Begin in Federal Hate Crimes Trial over Buffalo, N.Y., Supermarket Shooting",
+    "topic": "Death Penalty",
+    "topic_full": "Death Penalty · Buffalo"
+  },
+  {
+    "article_path": "/article/edward-waters-announces-it-will-build-first-on-campus-dorm-since-1982",
+    "article_url": "https://ground.news/article/edward-waters-announces-it-will-build-first-on-campus-dorm-since-1982",
+    "bias": [
+      "Coverage shows little overt partisan conflict: left-leaning framing foregrounds the “first” on-campus dormitory since 1982 and the four-decade gap, presenting financing as enabling institutional renewal, while right-leaning coverage stresses the broader $33 million capital-improvement program but de-emphasizes the specific $25 million financing figure.",
+      "Center-Leaning accounts add the clearest financial distinction, separating the $25 million package from the larger investment.",
+      "The pivotal divide is whether the project signifies historically important progress for Florida’s oldest historically Black university or primarily represents capital spending.",
+      "Still, all perspectives emphasize the dormitory announcement, the university’s heritage, and financing—revealing more shared attention to development and institutional investment than ideological disagreement."
     ],
     "bias_bar_text": null,
-    "center_pct": 49.0,
+    "center_pct": 31.0,
     "error": null,
-    "left_pct": 32.0,
-    "location": "South Carolina",
+    "left_pct": 56.0,
+    "location": "Jacksonville",
+    "right_pct": 13.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, Oct. 8, 2026, Edward Waters University President A. Zachary Faison announced $25 million in financing to build the first on-campus dormitory in 42 years, part of $33 million in capital improvements for the New Town-based campus.",
+      "Rice Capital Access Program Chief Executive William Fisher provided the loan, citing Edward Waters' 37% enrollment growth since 2019 and financial responsibility that made the university attractive to lenders despite broader higher education headwinds.",
+      "Sam Newby, president of the Edward Waters Alumni Leadership Council, said he was \"overjoyed\" at the advancement, noting that 42 years have passed since the university last constructed on-campus housing.",
+      "Jacksonville Mayor Donna Deegan expects a $2 million city-funded track and field facility to serve as a recreation and exercise hub for Northwest Jacksonville residents, benefiting both students and the surrounding community.",
+      "With the new residence facility expected to open in the Fall 2028 semester, these improvements aim to provide additional beds for the university's growing student population at the historic HBCU."
+    ],
+    "title": "Edward Waters announces it will build first on-campus dorm since 1982",
+    "topic": "Education",
+    "topic_full": "Education · Jacksonville"
+  },
+  {
+    "article_path": "/article/trump-says-legendary-rallies-raising-midterm-enthusiasm-for-republicans",
+    "article_url": "https://ground.news/article/trump-says-legendary-rallies-raising-midterm-enthusiasm-for-republicans",
+    "bias": [
+      "Left-Leaning coverage frames Trump’s “all the way” trip to Alaska as an “unusual” intervention, suggesting its distance signals a potentially “close” Senate race and Republican concern; center coverage adds that Alaska is small and has not elected a Democratic senator in nearly 20 years, while retaining the qualifier “may.” Right-leaning coverage shifts from electoral vulnerability to rallies, “legendary” crowds, and Trump’s claimed “tremendously positive impact” on Republican enthusiasm, alongside stops in Ohio, Arizona, and Montana and JD Vance ’s campaigning.",
+      "All portray Trump campaigning ahead of the midterms, but diverge over competitive uncertainty versus Republican momentum."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 32.0,
+    "error": null,
+    "left_pct": 46.0,
+    "location": "Alaska",
+    "right_pct": 22.0,
+    "status": "ok",
+    "summary": [
+      "President Donald Trump will headline a rally for Republican Sen. Dan Sullivan in Wasilla, Alaska, on Tuesday, aiming to bolster the incumbent ahead of the Nov. 3 election.",
+      "High gasoline prices from the Iran war and persistent inflation have damaged Trump's approval ratings, leaving Democrats hopeful for Alaska upsets as Sullivan faces Democrat Mary Peltola, who emphasizes cost-of-living issues.",
+      "Trump recently announced a $54 billion investment by South Korea's government into an Alaska natural gas project, while his trade war with Canada involves 50% tariffs on about $20 billion in products.",
+      "Alaska uses ranked choice voting for the 2026 General Election, a system GOP leaders call 'confusing, burdensome and costly,' while the ballot includes retired teacher Dan J. Sullivan, labeled a 'sham candidate' by allies.",
+      "Pollster Ivan Moore suggests the race may be decided by voters unsure about their support for Trump; Alaska hasn't backed a Democrat for Senate in nearly 20 years, yet the state remains competitive."
+    ],
+    "title": "Trump Heads to Alaska to Rally Support for Sen. Dan Sullivan",
+    "topic": "2026 Midterm Elections",
+    "topic_full": "2026 Midterm Elections · Alaska"
+  },
+  {
+    "article_path": "/article/trump-says-he-cares-for-americans-they-think-hes-more-focused-o",
+    "article_url": "https://ground.news/article/trump-says-he-cares-for-americans-they-think-hes-more-focused-o",
+    "bias": [
+      "Left-Leaning coverage foregrounds “profiting off the presidency,” “more focused on his wealth,” and possible “unethical or illegal” enrichment, casting expanding family ventures as conflicts between private gain and public service.",
+      "Coverage categorized as right-leaning repeats the same negative poll language—an inconsistency with typical pro-Trump framing—but stresses “divided opinions,” Republican skepticism, and Trump’s denials.",
+      "Center reports attribute claims to the AP-NORC poll, contextualize “record money” from new ventures, and label them “allegations.” Across perspectives, roughly six in ten respondents perceive unethical or illegal profiteering and prioritize wealth over helping Americans; the divide centers on partisan interpretation and contested motives."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 52.0,
+    "error": null,
+    "left_pct": 33.0,
+    "location": "United States",
+    "right_pct": 15.0,
+    "status": "ok",
+    "summary": [
+      "An AP-NORC poll of 2,140 adults indicates about 6 in 10 U.S. adults believe President Donald Trump is profiting from the presidency, either illegally or unethically.",
+      "Concerns stem from the Trump Organization striking eight foreign deals in his presidency's first year and Trump generating more than $1 billion from new crypto businesses after loosening industry regulations.",
+      "Democrats are especially likely to believe Trump has broken the law, with about 8 in 10 saying that, while only about 1 in 10 Republicans allege illegal activity.",
+      "The White House denies any conflict of interest, stating Trump acts only in the country's interest; Republican Audra Pelsue of Syracuse, New York, dismisses critics as \"too angry to see straight.\"",
+      "Most Americans feel Trump prioritizes his wealth over their needs, with few adults—about 1 in 10—saying he focuses \"a lot\" on people like them."
+    ],
+    "title": "AP-NORC Poll Says Most Americans See Trump Profiting From Presidency",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/lottery-system-returns-for-observing-duane-davis-sentencing-in-tupac-shakur-murder",
+    "article_url": "https://ground.news/article/lottery-system-returns-for-observing-duane-davis-sentencing-in-tupac-shakur-murder",
+    "bias": [
+      "Left-Leaning coverage foregrounds the conviction, potential life sentence, and Davis’s alleged role in “orchestrating” Tupac Shakur ’s “murder,” using morally forceful language that compresses allegation and adjudication.",
+      "Right-Leaning coverage de-emphasizes prosecution details and instead highlights the court’s lottery system for observing sentencing, adopting a procedural, comparatively restrained tone.",
+      "Center coverage bridges these frames, adding context such as the 1996 killing and calling Shakur a “rap icon,” while still repeating “orchestrating.” The pivotal divide is whether the story is about culpability and punishment or courtroom access; all perspectives emphasize the sentencing proceeding and its public significance."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 45.0,
+    "error": null,
+    "left_pct": 36.0,
+    "location": "Las Vegas",
     "right_pct": 19.0,
     "status": "ok",
     "summary": [
-      "On Sunday, October 11, 2026, Republican Senator Darline Graham and Democratic nominee Annie Andrews clashed during their only Senate debate in Columbia, South Carolina , trading heated exchanges over qualifications and personal attacks.",
-      "Appointed by Republican Governor Henry McMaster following the death of her brother, Senator Lindsey Graham, in July, Graham subsequently won the Republican nomination after an August runoff backed by President Donald Trump.",
-      "Andrews criticized Graham's qualifications, stating she \"has shown time and time again that she is not up for the job\" for a full six-year term. Graham retorted, \"I'm just as qualified as you.\"",
-      "The Senate Leadership Fund, a leading Republican super PAC, plans to spend $5 million supporting Graham, with an insider describing the investment as an \"insurance policy\" to retain the seat.",
-      "With three women vying for the seat, South Carolina is poised to elect its first woman to the U.S. Senate, as early voting begins October 19 and Election Day approaches November 3."
+      "On Tuesday, Duane Davis faces sentencing for orchestrating the murder of rap icon Tupac Shakur , gunned down off the Las Vegas Strip over 30 years ago, with the Clark County District Court holding the hearing in Downtown Las Vegas.",
+      "A rivalry between the South Side Compton Crips and Mob Piru prompted the 1996 shooting, as Davis sought retaliation for a brawl involving his nephew, Orlando Anderson, hours before the killing.",
+      "Following nine days of testimony in August, a jury convicted Davis of first-degree murder after three hours of deliberation; defense attorney Michael Sanft argued the lack of physical evidence connected his client to the 30-year-old crime.",
+      "Prosecutor Binu Palal said the family endured years of Davis \"bragging about killing someone they loved,\" while Shakur's siblings Maurice Shakur and Sekyiwa Shakur are expected to provide statements at sentencing.",
+      "Davis intends to appeal his conviction, which carries a life sentence without parole, while Clark County District Attorney Steve Wolfson stated his office lacks sufficient evidence to charge anyone else in the killing."
     ],
-    "title": "Feud spills onto South Carolina debate stage as Darline Graham, Annie Andrews snipe in Senate race",
-    "topic": "South Carolina Politics",
-    "topic_full": "South Carolina Politics · South Carolina"
+    "title": "Duane ‘Keffe D’ Davis Faces Life in Prison for Orchestrating Murder of Rapper Tupac Shakur",
+    "topic": "Tupac Shakur",
+    "topic_full": "Tupac Shakur · Las Vegas"
   },
   {
-    "article_path": "/article/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-wsj-reports",
-    "article_url": "https://ground.news/article/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-wsj-reports",
+    "article_path": "/article/trump-attacks-immigrants-from-somalia-and-haiti-while-rallying-in-ohio-for-republican-candidates_c565f8",
+    "article_url": "https://ground.news/article/trump-attacks-immigrants-from-somalia-and-haiti-while-rallying-in-ohio-for-republican-candidates_c565f8",
     "bias": [
-      "Left-Leaning coverage frames Amazon ’s possible $7 billion purchase as an “American giant” maneuver to “compete with Nvidia,” broadening the story into a tech-power contest and noting interest from Nvidia and Anthropic.",
-      "Right-Leaning coverage instead stresses Decart as a valuable “acquisition target,” citing “advanced discussions,” a possible deal that could “wrap up soon,” its $300 million funding, nearly $4 billion prior valuation, and technical products.",
-      "Center coverage foregrounds uncertainty—“in talks,” “around $7 billion,” and inability to independently verify—rather than strategic triumph.",
-      "The pivotal divide is whether the report signals geopolitical-industrial competition or simply a promising transaction; all perspectives emphasize Amazon, Israeli origins, AI, and the unfinalized $7 billion negotiations."
+      "Left-Leaning coverage frames the Youngstown rally through violence and moral condemnation, emphasizing that a protester was punched and mocked, with terms like “sick and twisted,” “scum,” and “pummels,” while portraying immigration remarks as attacks on Somali and Haitian communities.",
+      "Right-Leaning coverage recasts the same episode as a disruptive “leftist” heckler and “savage roast,” foregrounding “impressive” crowds, “big rally energy,” and an immigration “crackdown.” Center coverage is more logistical, calling the atmosphere “raucous” and the rhetoric “red meat.” The pivotal divides are political violence, immigrant characterization, and crowd enthusiasm; all acknowledge Trump’s rally, campaign purpose, protest , and immigration focus, reflecting broader cultural and electoral polarization."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 47.0,
+    "error": null,
+    "left_pct": 15.0,
+    "location": "Youngstown",
+    "right_pct": 38.0,
+    "status": "ok",
+    "summary": [
+      "US President Donald Trump held a lively campaign rally in Youngstown, Ohio, on October 12, seeking to energise Republican supporters ahead of the November 3 midterm elections and help the party retain control of Congress.",
+      "Trump urged his supporters to turn out for Republican Senator Jon Husted, who is facing a competitive reelection contest against Democratic challenger Sherrod Brown.",
+      "Immigration dominated much of Trump's speech, as he targeted Somali and Haitian communities and criticised Democratic politicians, including Minnesota Representative Ilhan Omar.",
+      "The rally featured several disruptions, including confrontations involving protesters, while large sections of the venue remained empty despite an enthusiastic response from some attendees.",
+      "Trump's campaign efforts come as Republicans face challenges over rising living costs, fuel prices and concerns about economic priorities, prompting the president to encourage loyal voters to support GOP candidates in the upcoming elections."
+    ],
+    "title": "Trump attacks immigrants from Somalia and Haiti while rallying in Ohio for Republican candidates",
+    "topic": "Donald Trump",
+    "topic_full": "Donald Trump · Youngstown"
+  },
+  {
+    "article_path": "/article/trump-in-ohio-navy-submarine-repair-center-coming-to-cleveland-kimberly-clark-and-vallourec-put-848m-into-buckeye-state",
+    "article_url": "https://ground.news/article/trump-in-ohio-navy-submarine-repair-center-coming-to-cleveland-kimberly-clark-and-vallourec-put-848m-into-buckeye-state",
+    "bias": [
+      "Left-Leaning coverage frames the Cleveland submarine repair announcement as a “midterm appeal,” portraying Trump as touting jobs for electoral advantage in a “crucial battleground state,” while right-leaning accounts cast it as a “job-creation juggernaut,” “massive” facility, and evidence of nearly $850 million in Ohio investment.",
+      "The pivotal divide is whether the rally announcement signifies campaign strategy or economic achievement; left coverage de-emphasizes the investment figures, while right coverage de-emphasizes questions about timing, verification, funding, and job totals.",
+      "Center reporting stays comparatively descriptive, emphasizing Cleveland and attribution.",
+      "All perspectives agree on the facility, rally setting, and jobs theme, reflecting broader tensions over political motive versus manufacturing success."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 53.0,
+    "error": null,
+    "left_pct": 8.0,
+    "location": "Ohio",
+    "right_pct": 39.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, President Donald Trump announced that the Department of War selected Cleveland, Ohio, for a new Submarine Component Repair Center, calling the 46,000-square-foot facility 'a big deal that everybody wanted.'",
+      "Following a presidential memorandum Trump signed in August, Defence Secretary Pete Hegseth received orders to establish a facility to refurbish submarine components within 90 days to support the industrial base.",
+      "Trump campaigns in Ohio amid voter focus on pocketbook issues: retail gasoline has risen to more than $4.35 this week, while mortgage rates above 7% have sent home sales to a 12-year low.",
+      "Republicans face a challenging path to retain control of Congress, with Ohio serving as a key battleground where the Senate Majority PAC plans to spend $7 million to support Democratic candidates.",
+      "Republican Vivek Ramaswamy and Democrat Amy Acton face a tight gubernatorial race to succeed GOP Governor Mike DeWine, as Trump mobilizes his base to counter Democratic momentum before the November 3 midterm election."
+    ],
+    "title": "Trump Says Pentagon Will Site Submarine Repair Center in Cleveland",
+    "topic": "Donald Trump",
+    "topic_full": "Donald Trump · Ohio"
+  },
+  {
+    "article_path": "/article/characterai-initiates-voluntary-chapter-11-proceeding-to-facilitate-value-maximizing-sale-process",
+    "article_url": "https://ground.news/article/characterai-initiates-voluntary-chapter-11-proceeding-to-facilitate-value-maximizing-sale-process",
+    "bias": [
+      "The left-leaning framing stresses “bankruptcy,” Delaware court proceedings, and the possibility of selling “all or most” assets, portraying Disney as merely the “first bidder”; the right-leaning account compresses the event into a straightforward $20 million sale, de-emphasizing procedural details and broader implications.",
+      "Center coverage softens the setback through “voluntary” Chapter 11 and “value-maximizing,” while noting continued operations and that Disney may be licensing intellectual property rather than buying the app.",
+      "The pivotal divide is whether this signals corporate collapse or managed restructuring.",
+      "All perspectives converge on Chapter 11, Disney’s involvement, and the approximate $20 million transaction, reflecting differing levels of economic caution rather than overt ideological conflict."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 46.0,
+    "error": null,
+    "left_pct": 35.0,
+    "location": "United States",
+    "right_pct": 19.0,
+    "status": "ok",
+    "summary": [
+      "Character Technologies filed for Chapter 11 bankruptcy in Delaware on Monday, initiating a court-supervised sale process with Disney lined up as the initial 'stalking horse' bidder for specific intellectual property.",
+      "Legal, regulatory, and operational headwinds prompted the filing, following lawsuits regarding teen mental health crises. CEO Colin Adams stated the board determined this sale provides the \"best opportunity to maximize value for all stakeholders.\"",
+      "Disney agreed to pay $20 million for a perpetual, non-exclusive license to certain intellectual property and legal claims. Character Technologies listed estimated assets and liabilities between $50 million and $100 million in its court filing.",
+      "\"Disney's bid would set a baseline offer while allowing competing bidders to submit higher bids,\" the company said. The sale process is expected to conclude by late November or early December 2026.",
+      "If the process fails to produce a buyer, the platform will be wound down. Previously, Disney hired former Character Technologies boss Karandeep Anand; years earlier, Disney requested the platform stop hosting chatbots copying its characters."
+    ],
+    "title": "Character.AI files for bankruptcy, agrees to sell some assets for $20 million",
+    "topic": "Business",
+    "topic_full": "Business · United States"
+  },
+  {
+    "article_path": "/article/dating-app-bumble-in-1-billion-takeover-talks-report-says",
+    "article_url": "https://ground.news/article/dating-app-bumble-in-1-billion-takeover-talks-report-says",
+    "bias": [
+      "Left-Leaning coverage emphasizes the reported $1 billion take-private talks and celebrates the market response with “surged” or “jump,” while stressing uncertainty, lack of independent confirmation, and companies’ silence.",
+      "Right-Leaning framing recasts the same event as a rescue from “struggles,” “falling user numbers,” “tough competition,” and even a prior “crash,” while highlighting Ithaca’s Silicon Valley ties and possible speed of completion.",
+      "Center coverage moderates both sides through “advanced talks,” attribution, and the specific 52% rise to $3.86.",
+      "The dividing line is whether the deal signals investor confidence or corporate deterioration; all emphasize the valuation and dramatic stock reaction."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 53.0,
+    "error": null,
+    "left_pct": 21.0,
+    "location": "Austin",
+    "right_pct": 26.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, Bumble entered advanced talks to be taken private by Ithaca Holdings in a deal valuing the Austin-based dating app operator at roughly $1 billion.",
+      "The company has struggled amid slowing user engagement in a crowded market, with a market valuation of roughly $389 million as of Friday's close.",
+      "Bumble stock surged 50% to $3.81 on Monday with more than 17.7 million shares trading, though shares remain about 91% below the $43 IPO price from February 2021.",
+      "CEO Whitney Wolfe Herd is overhauling the app with AI-powered features to revive growth, while board approval, Blackstone Inc.'s position, and financing terms remain key hurdles.",
+      "A deal could arrive as soon as this week, though Bumble and Ithaca Holdings have not immediately responded to requests for comment."
+    ],
+    "title": "Dating app Bumble in $1 billion takeover talks, report says",
+    "topic": "Business",
+    "topic_full": "Business · Austin"
+  },
+  {
+    "article_path": "/article/imf-raises-2026-global-growth-forecast-to-31-as-ai-boom-offsets-middle-east-conflict_46472f",
+    "article_url": "https://ground.news/article/imf-raises-2026-global-growth-forecast-to-31-as-ai-boom-offsets-middle-east-conflict_46472f",
+    "bias": [
+      "Left-Leaning coverage frames the IMF ’s modest upgrade—3.1% global growth in 2026—as “sluggish,” stressing debt, refinancing, inflation, cyberattacks, and an AI-market “boom” that could trigger instability.",
+      "Right-Leaning coverage calls the revision a “positive surprise,” emphasizing “resilience,” adaptation, and AI investment offsetting energy shocks, while treating risks as threats accompanying otherwise improving growth; “symbolically increased” minimizes the upgrade.",
+      "Center coverage presents a “split outlook,” highlighting poorer countries and vulnerable households.",
+      "The pivotal divide is whether AI signals inclusive progress or speculative inequality.",
+      "All perspectives acknowledge 3.4% growth in 2027, geopolitical, energy, debt, and financial risks, reflecting broader debates over markets, distribution, and stability."
     ],
     "bias_bar_text": null,
     "center_pct": 34.0,
     "error": null,
-    "left_pct": 8.0,
+    "left_pct": 40.0,
     "location": "United States",
-    "right_pct": 58.0,
+    "right_pct": 26.0,
     "status": "ok",
     "summary": [
-      "On Sunday, The Wall Street Journal reported that Amazon is in talks to acquire AI startup Decart for around $7 billion, citing people familiar with the matter.",
-      "Founded in 2023 by Israeli engineers Dean, Orian Leitersdorf, and Moshe Shalev, Decart specializes in real-time AI, developing the Lucy model for video editing and Oasis for robotics simulation.",
-      "A $300 million funding round in May led by Radical Ventures valued Decart at nearly $4 billion, with Nvidia joining as a new investor.",
-      "Anthropic previously explored acquiring Decart for about $6 billion in August, but the maker of The Claude decided against the purchase after due diligence in September.",
-      "The purchase could wrap up soon if negotiations do not collapse, though Amazon and Decart have not commented on the reports, leaving the deal's outcome uncertain."
+      "On Tuesday, the International Monetary Fund raised its 2026 global economic growth forecast by 0.1 percentage point to 3.1%, citing \"resilience\" in the face of persistent high energy costs and other shocks.",
+      "Twin economic forces of the war in Iran and the AI technology boom have created a \"fragmented\" world economy, reallocating growth based on exposure to war-induced shocks and AI-related demand.",
+      "During an event Monday, IMF Managing Director Kristalina Georgieva called AI's employment impact \"a slow moving tsunami,\" estimating around 40% of global jobs face potential augmentation, downgrading, or elimination.",
+      "Global inflation is set to accelerate to 4.7% in 2026, creating a \"bifurcated outlook\" where energy-importing countries without AI exposure remain most vulnerable to financial instability.",
+      "Mounting debt poses a growing risk to global financial stability, IMF Chief Economist Tenreyro warned, urging countries to focus on \"rebuilding supply-side resilience\" and maintaining price stability."
     ],
-    "title": "Amazon in Talks to Buy AI Startup Decart for Around $7 Billion, WSJ Reports",
-    "topic": "Technology",
-    "topic_full": "Technology · United States"
+    "title": "IMF raises 2026 global growth forecast to 3.1%, as AI boom offsets Middle East conflict",
+    "topic": "IMF",
+    "topic_full": "IMF · United States"
   },
   {
-    "article_path": "/article/after-the-north-incident-the-israeli-army-is-opening-an-investigation",
-    "article_url": "https://ground.news/article/after-the-north-incident-the-israeli-army-is-opening-an-investigation",
-    "bias": null,
-    "bias_bar_text": "Right 100%",
-    "center_pct": null,
-    "error": "Message: \n",
-    "left_pct": null,
+    "article_path": "/article/trump-russia-and-china-are-not-helping-iran-significantly",
+    "article_url": "https://ground.news/article/trump-russia-and-china-are-not-helping-iran-significantly",
+    "bias": [
+      "The left-leaning framing situates Trump’s claim within the “ongoing conflict,” emphasizes his dismissal of critics as “radical left-wing lunatics,” and softens the assertion to limited or “not significant” assistance.",
+      "Center coverage foregrounds attribution—Trump “does not believe” China and Russia are helping “at all”—without endorsing it.",
+      "Right-Leaning coverage presents his “confidence,” stresses that Moscow and Beijing have “too much to lose,” and adds that U.S. detection would be swift, while also repeating his colorful description of Iran.",
+      "The dividing line is whether to spotlight uncertainty and context or strategic reassurance; all perspectives agree Trump made the claim without independent verification."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 25.0,
+    "error": null,
+    "left_pct": 29.0,
+    "location": "United States",
+    "right_pct": 46.0,
+    "status": "ok",
+    "summary": [
+      "US President Donald Trump said he did not believe China and Russia were providing any assistance to Iran in its ongoing war with the United States, dismissing claims made by his critics.",
+      "Trump argued that Beijing and Moscow had too much to lose by supporting Tehran and said Washington would quickly detect any involvement by either country.",
+      "The president reiterated his earlier statements that Chinese President Xi Jinping and Russian President Vladimir Putin had indicated they would not supply weapons to Iran.",
+      "Despite Trump’s assessment, reports have raised concerns about possible Chinese assistance to Iran, including alleged military equipment supplies and help in circumventing oil sanctions.",
+      "China and Russia maintain close relations with Iran, with Beijing condemning US attacks on Tehran and Moscow warning that the conflict could trigger a nuclear arms race in the Middle East."
+    ],
+    "title": "Trump says he does not believe China and Russia are helping Iran 'at all'",
+    "topic": "Donald Trump",
+    "topic_full": "Donald Trump · United States"
+  },
+  {
+    "article_path": "/article/ai-models-may-soon-self-replicate-without-access-to-data-centers-anthropic-warns_fce5cf",
+    "article_url": "https://ground.news/article/ai-models-may-soon-self-replicate-without-access-to-data-centers-anthropic-warns_fce5cf",
+    "bias": [
+      "Left-Leaning coverage frames the warning as an AI “nightmare,” using “nightmare fuel,” “terrifying,” and “AI worms” to spotlight uncontrolled spread through ovens, TVs, and refrigerators.",
+      "Right-Leaning coverage instead portrays decentralized replication as a cybersecurity threat, stressing “hacking bases,” a “viral algorithm,” and systems “hard to shut down,” while remaining more attentive to uncertainty.",
+      "Center coverage tempers both, emphasizing that current models struggle to complete replication and that tests were simplified.",
+      "The pivotal divide is whether Anthropic ’s projection—possible capability within months—is presented chiefly as imminent catastrophe or qualified technical risk.",
+      "All perspectives agree that autonomous propagation could endanger IoT security and resist containment, reflecting broader disputes over technological governance and public vulnerability."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 33.0,
+    "error": null,
+    "left_pct": 31.0,
+    "location": "United States",
+    "right_pct": 36.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, Anthropic warned that small AI models could soon self-replicate on internet-connected devices, including smart ovens and Android TVs, stating systems may be only \"months away\" from spreading without human assistance.",
+      "Smaller models are improving rapidly, with researchers noting they could achieve autonomous replication by the end of 2026; models under 30 billion parameters can already complete many individual replication steps.",
+      "Researchers tested this using 15 off-brand Android TV boxes costing about $55 each, splitting a Gemma4-26B-A4B model across devices to demonstrate potential spread and describing the resulting network as a \"digital slime mold.\"",
+      "Containment is difficult because autonomous agents have \"no centralized point to shut off,\" and Anthropic researchers warned such systems could adapt to unfamiliar hardware, potentially reaching the scale of the Kimwolf botnet that infected more than two million devices.",
+      "The Dario Amodei-led company urged manufacturers to harden baseline security on internet-connected gadgets, writing, \"We should aim to harden our systems to make it difficult for such replicators to spread."
+    ],
+    "title": "AI models may soon self-replicate without access to data centers, Anthropic warns",
+    "topic": "Artificial Intelligence",
+    "topic_full": "Artificial Intelligence · United States"
+  },
+  {
+    "article_path": "/article/russia-says-it-may-export-up-to-35-million-tons-of-diesel-a-month-by-year-end",
+    "article_url": "https://ground.news/article/russia-says-it-may-export-up-to-35-million-tons-of-diesel-a-month-by-year-end",
+    "bias": [
+      "Left-Leaning coverage frames the Russia–US diesel agreement as politically controversial, stressing criticism from Ukraine and US lawmakers and the possibility that Moscow could “exceed” Trump’s announced volumes; “criticised” adds a skeptical, adversarial tone.",
+      "Right-Leaning coverage portrays the same forecast—3–3.5 million tons monthly—as commercially beneficial, emphasizing “additional supplies,” buyers, global prices, and assurances “without prejudice to the domestic market,” while de-emphasizing criticism.",
+      "Center coverage stays narrow, using “may” and attribution to focus on the projection and sanctions easing.",
+      "All perspectives highlight a return to “pre-crisis levels,” reflecting shared attention to energy markets amid broader geopolitical divisions."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 26.0,
+    "error": null,
+    "left_pct": 27.0,
+    "location": "Russia",
+    "right_pct": 47.0,
+    "status": "ok",
+    "summary": [
+      "Russia aims to recover its diesel exports to 3.0-3.5 million tons per month by year-end, Deputy Prime Minister Alexander Novak said on Monday, returning to pre-crisis volumes.",
+      "This recovery follows a deal with President Donald Trump , who temporarily lifted sanctions on Russian fuel to help balance global supply and demand.",
+      "Trump announced on Oct 9 that Russia would immediately supply more than 300,000 tonnes, followed by 500,000 tonnes in November and 1 million tonnes \"immediately thereafter.\"",
+      "Global diesel prices have already fallen around 5-6% due to the deal, Novak reported, noting Russia has the capacity to increase exports despite previous attacks.",
+      "Soaring diesel prices remain a concern for voters ahead of Nov 3 midterm elections, affecting farmers and truckers who depend on fuel stability."
+    ],
+    "title": "Russia says its diesel exports may exceed volumes announced by Trump",
+    "topic": "Russian Politics",
+    "topic_full": "Russian Politics · Russia"
+  },
+  {
+    "article_path": "/article/us-hopes-diesel-deal-can-soften-moscow-on-peace-talks-sources-say",
+    "article_url": "https://ground.news/article/us-hopes-diesel-deal-can-soften-moscow-on-peace-talks-sources-say",
+    "bias": [
+      "Left-Leaning coverage frames the diesel proposal through Kyiv’s “skeptical” reaction, Washington–Ukraine tensions, and prior “failure” to sustain talks, portraying a risky concession; right-leaning coverage casts it as Trump’s transactional strategy to bring Putin back to the “negotiating table,” secure Russian “concessions,” halt refinery attacks, and potentially permit 3.5 million tons of exports monthly.",
+      "Both emphasize “soften” and diplomacy, but the left stresses uncertainty and Ukrainian resistance, while the right highlights executive leverage and pragmatic restraint.",
+      "Center coverage de-emphasizes personalities, instead foregrounding Russia ’s Donbas demand.",
+      "The shared focus—energy trade as geopolitical leverage—reflects broader divides over accommodation, sovereignty, and military pressure."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 31.0,
+    "error": null,
+    "left_pct": 38.0,
+    "location": "Russia",
+    "right_pct": 31.0,
+    "status": "ok",
+    "summary": [
+      "On Friday in Miami, President Donald Trump 's envoys Steve Witkoff and Jared Kushner told Ukrainian officials that a deal allowing Russian diesel exports aims to draw Russia back to peace negotiations.",
+      "This proposal follows failed previous efforts to launch sustained talks ending the 4½-year-old war; the Americans believe the diesel deal could \"soften\" Moscow, signaling Trump is open to engagement.",
+      "Russia will supply more than 2.25 million barrels of diesel to global markets under the agreement, while Kushner also requested that Ukraine stop striking Russian refineries, a demand made several times previously.",
+      "Ukrainian officials remain skeptical, viewing the approach as appeasement, while Zelenskiy called the deal a \"weak decision\" by the US and a gift to Putin.",
+      "The Kremlin shows little interest in negotiating until Putin secures territory, claiming he needs \"the remaining 11% of Donbas, which he can present domestically as victory,\" while Russia continues striking energy targets."
+    ],
+    "title": "US hopes diesel deal can 'soften' Moscow on peace talks: Report",
+    "topic": "Russian Politics",
+    "topic_full": "Russian Politics · Russia"
+  },
+  {
+    "article_path": "/article/cooper-leads-whatley-by-at-least-7-points-in-new-nc-senate-polls",
+    "article_url": "https://ground.news/article/cooper-leads-whatley-by-at-least-7-points-in-new-nc-senate-polls",
+    "bias": [
+      "Coverage converges on Democrat Roy Cooper leading Republican Michael Whatley in North Carolina ’s 2026 Senate race—about 48.8% to 40.9%—but emphasis differs: left-leaning headlines mainly foreground the “nearly 8%” lead in relatively restrained language, while right-leaning coverage stresses the surprise of a Democrat ahead despite the state’s historical Republican advantage, calling Whatley the “favorite,” Cooper an “underdog,” and later “slightly favored,” while adding fundraising and FEC context.",
+      "Center coverage heightens the horse-race tone with “up big” and “way up,” cites a 54%-40% poll, early voting, and presidential approval.",
+      "All de-emphasize methodology and expert interpretation."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 59.0,
+    "error": null,
+    "left_pct": 14.0,
+    "location": "North Carolina",
+    "right_pct": 27.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, a Trafalgar Group survey showed Democrat Roy Cooper leading Republican Michael Whatley 48.8% to 40.9% in North Carolina's open U.S. Senate race.",
+      "This North Carolina Senate seat represents a key battleground for the Republican Party , which currently holds 53 seats nationwide, as candidate Michael Whatley campaigns on delivering President Donald Trump's agenda.",
+      "While the Trafalgar survey of 1,091 likely voters skewed 71.8% white, Republicans have won five consecutive U.S. Senate races in the state since 2008, establishing a formidable historical advantage.",
+      "Following the polling release, Whatley's campaign vowed to \"double down on winning\" even as national super PACs shift resources to other tight races to protect the Republican majority.",
+      "Early in-person voting begins Thursday through October 31, with the general election set for November 3, giving both campaigns a final sprint to mobilize North Carolina voters."
+    ],
+    "title": "Cooper leads Whatley by at least 7 points in new NC Senate polls",
+    "topic": "North Carolina Politics",
+    "topic_full": "North Carolina Politics · North Carolina"
+  },
+  {
+    "article_path": "/article/feds-confirm-surge-in-troops-chinooks-for-border-mission",
+    "article_url": "https://ground.news/article/feds-confirm-surge-in-troops-chinooks-for-border-mission",
+    "bias": [
+      "Left-Leaning coverage foregrounds “surging troops,” infantry vehicles, and a Black Hawk, while “showcases” implies the Army may be publicizing a quieter river; right-leaning coverage frames the same deployment as “calmer,” a “critical point,” and an effort to “confront cartel activity,” while citing reduced asylum crossings and possible “political strategy.” The dividing line is whether quiet conditions reflect military presence, policy restrictions, or presentation.",
+      "Center coverage stays operational, noting patrols from McAllen through Starr County and a reported Coast Guard shooting.",
+      "Across perspectives, hundreds of U.S. and Mexican troops, cartel concerns, and quieter Roma conditions are shared emphases."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 53.0,
+    "error": null,
+    "left_pct": 38.0,
+    "location": "Roma",
+    "right_pct": 9.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, the U.S. Army repositioned hundreds of troops to the Rio Grande Valley as part of Operation Unified Resolve, a Joint Task Force-Southern Border initiative patrolling from McAllen through Starr County.",
+      "Military officials initiated the surge following signs of elevated cartel activity and a September 26 incident where Coast Guard personnel returned fire after being shot at from the Mexican border near Garceño, Texas.",
+      "Coordinating with the U.S., Mexico deployed 500 National Guard and military officers to Tamaulipas, while the U.S. Army now commands some 8,000 troops along the 2,000-mile border supporting the Border Patrol.",
+      "U.S. Customs and Border Protection maintains proactive intelligence on foreign threats, while the Border Patrol Rio Grande Valley Sector warned cartels that \"Any threat to us or our partners will be met with overwhelming force.\"",
+      "Acting Deputy Chief Patrol Agent Joel Garcia stated operations have proven effective, evidenced by reduced traffic and successful drug seizures in areas that were recently busy illegal crossing points."
+    ],
+    "title": "After Surging Troops to the Border, US Army Showcases a Quieter Rio Grande",
+    "topic": "Feds",
+    "topic_full": "Feds · Roma"
+  },
+  {
+    "article_path": "/article/former-san-francisco-pd-sergeant-kills-wife-daughter-in-double-murder-suicide-sources-say",
+    "article_url": "https://ground.news/article/former-san-francisco-pd-sergeant-kills-wife-daughter-in-double-murder-suicide-sources-say",
+    "bias": [
+      "Left-Leaning coverage frames the deaths through domestic violence and public-safety context, stressing a “suspected murder-suicide,” the 911 call, street closures, and “no known threat,” while praising Ann Mannix as “pioneering.” Right-leaning accounts intensify the crime narrative with “shot dead,” “tragic,” and “posh” or “wealthy, coastal enclave,” emphasizing the suspected husband-perpetrator and class-coded setting.",
+      "Center coverage is more restrained, presenting three deaths and an investigation, though “shocking” and definitive formulations sometimes intrude.",
+      "The key divide is certainty and relevance: confirmed facts versus inferred sequence, and community safety versus sensational status and geography.",
+      "All agree on the deaths, police backgrounds, and suspected murder-suicide."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 49.0,
+    "error": null,
+    "left_pct": 21.0,
+    "location": "San Francisco",
+    "right_pct": 30.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, the Marin County Sheriff's Office launched an investigation into a murder-suicide that left three people dead in a residence in Strawberry, an unincorporated community near Mill Valley, California.",
+      "Sources identified the suspect as retired San Francisco Police Sergeant Kevin Mannix, 68, who allegedly killed his estranged wife, former SFPD Deputy Chief Ann Mannix, 65, and their 24-year-old daughter, Katie.",
+      "Deputies responded to a 911 call reporting shots fired at 5:03 p.m. on Sunday, with a caller managing to escape before law enforcement secured the perimeter and entered the residence.",
+      "Ann Mannix was remembered by the San Francisco Police Officers Association as a trailblazer who became the first woman to join and lead the department's SWAT team, rising to command Field Operations.",
+      "Authorities confirmed there is no ongoing threat to the public, while spokesperson Miguel Almaguer noted the active investigation and referred those in need to the National Domestic Violence Hotline."
+    ],
+    "title": "Former San Francisco PD Sergeant Kills Wife, Daughter in Double Murder-Suicide, Sources Say",
+    "topic": "San Francisco, California",
+    "topic_full": "San Francisco, California · San Francisco"
+  },
+  {
+    "article_path": "/article/coventry-man-grows-first-recorded-pumpkin-over-3-000-pounds_ef4ff1",
+    "article_url": "https://ground.news/article/coventry-man-grows-first-recorded-pumpkin-over-3-000-pounds_ef4ff1",
+    "bias": [
+      "Left-Leaning coverage spotlights Rhode Island ’s 3,156-pound “giant” pumpkin and frames it as a likely record, using vivid comparisons to “nearly three concert grand pianos,” while right-leaning coverage adopts more caution—“possible world record”—and broadens the story with the 2,389-pound California winner, “massive” size, $21,501 prize, and expected Guinness recognition.",
+      "Center coverage sometimes declares “record-breaking” or “surpasses” while also adding contest context.",
+      "The key divide is whether pending certification merits celebration or skepticism, though all perspectives emphasize the extraordinary weight, formal weigh-off, and provisional record claim—reflecting differing preferences for triumphal novelty, qualification, and comparative context rather than ideological conflict."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 58.0,
+    "error": null,
+    "left_pct": 24.0,
+    "location": "Rhode Island",
+    "right_pct": 18.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday, Ron Wallace of Coventry, Rhode Island , set a potential world record at the Southern New England Giant Pumpkin Weigh-Off with a 3,156-pound squash, the first recorded pumpkin to exceed 3,000 pounds.",
+      "Meanwhile, horticulture teacher Travis Gienger of Anoka, Minnesota, won the 53rd World Championship Pumpkin Weigh-Off in Half Moon Bay, California, for the fifth time with his 2,389-pound pumpkin named Rocky.",
+      "After driving 35 hours to transport his pumpkin, Gienger earned $21,501 in prize money, calculated at $9 per pound. Rocky fell far short of Wallace's potential record weight.",
+      "Competition organizer Ronan Fowler praised Gienger's ability to grow massive pumpkins despite 30-degree weather. Gienger suggests that competing seriously now requires climate-controlled environments to protect gourds.",
+      "Wallace's 3,156-pound pumpkin awaits official certification by Guinness World Records, which currently lists a 2,857-pound squash as the record holder. If verified, his entry would beat the previous record by nearly 300 pounds."
+    ],
+    "title": "3,156-Pound Pumpkin Grown in Rhode Island Is Inspected for Possible World Record",
+    "topic": "Rhode Island",
+    "topic_full": "Rhode Island · Rhode Island"
+  },
+  {
+    "article_path": "/article/ai-data-centers-are-coming-for-federal-land-they-are-roiling-the-neva",
+    "article_url": "https://ground.news/article/ai-data-centers-are-coming-for-federal-land-they-are-roiling-the-neva",
+    "bias": [
+      "Left- and right-leaning coverage largely converges, portraying AI data centers as a disruptive force in Nevada politics through phrases like “coming for” federal land and “roiling” the governor’s race, while stressing voters’ worries about electricity bills, water, and environmental damage.",
+      "Neither side notably touts economic gains; the right’s condensed framing de-emphasizes local detail, while the left foregrounds public-resource and ecological disruption.",
+      "Center coverage adds context—80% federal land ownership, a proposed $15 billion investment, and fears the project could “ruin the community” or “scar the desert landscape.” The divide reflects development-versus-environment and public-control tensions."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 64.0,
+    "error": null,
+    "left_pct": 24.0,
+    "location": "Boulder City",
+    "right_pct": 12.0,
+    "status": "ok",
+    "summary": [
+      "In Nevada's closely watched governor's race, data center development on public lands has emerged as a polarizing issue between Republican Gov. Joe Lombardo and Democratic nominee Aaron Ford.",
+      "With 80% of Nevada owned by the federal government, the Townsite project became a flashpoint after the Bureau of Land Management authorized it, leaving residents like Janelle Sorenson feeling excluded from the process.",
+      "Boulder City resident Sorenson and former Republican Autumn McGrath-Shook oppose the projects, while University of Nevada Las Vegas professor David Damore noted candidates have 'muddied the waters' on their positions.",
+      "Ford pledged to pause tax abatements and pursue litigation against data centers , while Lombardo signed an executive order requiring them to pay more taxes to support schools.",
+      "Sierra Club director Olivia Tanager urged Congress to pass stricter environmental review legislation, while Data Center Coalition executive Dan Diorio said the industry intends to develop responsibly, 'ensuring that it' causes no harm."
+    ],
+    "title": "Nevada Data Center Fight Spills Into Governor’s Race",
+    "topic": "Data Centers",
+    "topic_full": "Data Centers · Boulder City"
+  },
+  {
+    "article_path": "/article/14-000-for-beirut-and-suburb-and-12-000-for-the-rest-of-the-regions",
+    "article_url": "https://ground.news/article/14-000-for-beirut-and-suburb-and-12-000-for-the-rest-of-the-regions",
+    "bias": [
+      "Left-Leaning coverage foregrounds humanitarian relief, using “aid,” “displaced,” and “despite pressures” to portray Hezbollah ’s up-to-$14,000 assistance as resilient support for families with “destroyed homes,” while noting reported $200 million Iranian funding.",
+      "Right-Leaning coverage places the same program beside U.S. and Lebanese “sanctions,” calls Hezbollah a “militant group,” and says it “drew Lebanon into a new war,” shifting attention from compassion to responsibility, geopolitics, and Iran; it also specifies rent and furniture costs.",
+      "Center coverage remains condensed and event-focused.",
+      "All perspectives emphasize the $14,000 plan and war-displaced households, revealing a broader divide over humanitarian legitimacy versus militant accountability."
+    ],
+    "bias_bar_text": "Left 54% C 21% Right 25%",
+    "center_pct": 21.0,
+    "error": null,
+    "left_pct": 54.0,
     "location": null,
-    "right_pct": 100.0,
-    "status": "fail",
-    "summary": null,
-    "title": "One Killed, Several Wounded in Galilee Panhandle Explosion",
+    "right_pct": 25.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, Executive Council chairman Ali Damoush announced Hezbollah will provide up to $14,000 in financial assistance to families whose primary homes were destroyed or rendered uninhabitable during the war with Israel.",
+      "The two wars against Israel since 2023 have destroyed or damaged more than 290,000 homes, with total costs potentially exceeding $27 billion, after Hezbollah entered the conflict in support of Iran.",
+      "Families in Beirut and its southern suburbs receive $14,000, while those elsewhere receive $12,000; payments are distributed in four installments over one year, excluding beneficiaries who own a second home.",
+      "Reuters reported last week that Hezbollah received $200 million from Iran, though The United States disputed the claim, stating the money was \"not there,\" while Hezbollah declined to comment on funding sources.",
+      "Hezbollah emerged weakened from two wars with Israel since 2023, facing tightened funding controls despite the aid announcement, while violence has decreased since June following a framework agreement between Lebanon and Israel."
+    ],
+    "title": "Hezbollah to Compensate Owners of Homes Destroyed in Lebanon During War with Israel",
     "topic": null,
     "topic_full": null
   },
@@ -677,28 +832,28 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/chuck-schumer-has-broad-support-from-his-caucus-but-midterms-could-de",
-    "article_url": "https://ground.news/article/chuck-schumer-has-broad-support-from-his-caucus-but-midterms-could-de",
+    "article_path": "/article/german-defense-minister-diesel-deal-with-russia-showed-trumps-hopelessness_870354",
+    "article_url": "https://ground.news/article/german-defense-minister-diesel-deal-with-russia-showed-trumps-hopelessness_870354",
     "bias": null,
-    "bias_bar_text": "Center 67% Right 33%",
-    "center_pct": 67.0,
+    "bias_bar_text": "Center 100%",
+    "center_pct": 100.0,
     "error": "Message: \n",
     "left_pct": null,
     "location": null,
-    "right_pct": 33.0,
+    "right_pct": null,
     "status": "fail",
     "summary": null,
-    "title": "Chuck Schumer Has Broad Support From His Caucus, but Midterms Could Decide His Future as Leader – WTOP News",
+    "title": "Trump Is \"with His Back to the Wall,\" Warns German Defense Minister. \"What Lies at the Root of Russia's Proximity to Russia",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/new-york-opts-into-federal-scholarship-tax-credit-program_d312b0",
-    "article_url": "https://ground.news/article/new-york-opts-into-federal-scholarship-tax-credit-program_d312b0",
+    "article_path": "/article/how-do-you-overcome-that-ms-now-host-presses-dnc-chair-about-democrats-unpopularity-dsa_775d44",
+    "article_url": "https://ground.news/article/how-do-you-overcome-that-ms-now-host-presses-dnc-chair-about-democrats-unpopularity-dsa_775d44",
     "bias": [
-      "Left-Leaning coverage frames Hochul’s decision as a rupture with labor and a threat to public education , using phrases like “breaks with,” “embrace,” “siphon resources,” and “vehemently opposed” to stress Republican influence and possible funding diversion.",
-      "Right-Leaning coverage recasts the same action as “education freedom,” a victory that “bucks intense opposition,” and a way to help fund private schools, yeshivas, and Jewish education, while favorably describing Trump’s role as “championed.” The pivotal divide is whether tax credits expand parental choice or weaken public schools; Catholic bishops’ “praised” response offers a softer, family-benefit-centered middle perspective.",
-      "Both sides emphasize Hochul’s politically consequential break with teachers unions and the program’s potential effects on families, reflecting wider conflicts over unions, religious education, and government-supported choice."
+      "Coverage centers on the same Democratic “big tent” strategy but assigns it sharply different meaning: center-leaning framing emphasizes an internal debate, with Martin “defends” coalition-building while Gottheimer warns against “far-left socialist factions” and “radical progressive policies”; right-leaning portrayals intensify the conflict, saying Martin “embraces” “anti-ICE DSA communists,” “covers for socialists,” and “refuses to disavow” them.",
+      "The pivotal divide is whether inclusion signals electoral breadth or ideological surrender, reinforced by the right’s prominent, uncontextualized $49 trillion deficit estimate.",
+      "Both perspectives highlight DSA influence and Democratic electoral strategy, reflecting wider disputes over party identity, immigration, socialism, and fiscal risk."
     ],
     "bias_bar_text": null,
     "center_pct": null,
@@ -708,138 +863,29 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
-      "On Friday, Governor Kathy Hochul announced New York will participate in the federal scholarship tax credit program, allowing taxpayers to claim credits for donations to scholarship-granting organizations beginning Jan. 1, 2027.",
-      "Hochul had delayed joining the GOP-led program to ensure federal regulations contained no \"poison pills,\" ultimately concluding the initiative would bring resources to state students without reducing public school funding.",
-      "Taxpayers may claim credits of up to $1,700 for individuals or up to $3,400 for married couples filing jointly, with eligibility extending to families earning up to 300% of the area's median income.",
-      "The Jewish community and Catholic bishops praised the move, while teachers unions warned the program could divert essential funds from public schools.",
-      "United Federation of Teachers President Michael Mulgrew called the move \"a failure of leadership,\" pledging to continue efforts to roll back the policy as the governor prepares to notify the federal government."
+      "Democratic National Committee Chair Ken Martin defended including Democratic Socialists in the party’s “big tent” during an interview with MS NOW host Peter Alexander.",
+      "Martin said Democrats should expand their coalition through addition rather than subtraction and welcome new voices, including people near the political center.",
+      "Alexander questioned whether Democrats needed a middle ground, while Martin said many Americans are moderate, center-left, or center-right.",
+      "Republicans have criticized Democrats’ ties to the Democratic Socialists of America, while some mainstream Democrats have sought to distance themselves from its label."
     ],
-    "title": "New York Joins Federal School Scholarship Program Despite Union Opposition",
+    "title": "DNC Chair Ken Martin Defends ‘Big Tent’ Strategy Amid Questions About Democratic Socialists",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/prime-minister-carney-speaks-with-president-of-the-united-states-donald-j-trump",
-    "article_url": "https://ground.news/article/prime-minister-carney-speaks-with-president-of-the-united-states-donald-j-trump",
-    "bias": [
-      "Left-Leaning coverage foregrounds Carney’s “strongly supported” backing for an “energy ceasefire ” and Trump’s “leadership,” framing diplomacy as possible “de-escalation” while de-emphasizing the diesel dispute.",
-      "Right-Leaning coverage presents the truce as capable of “significantly de-escalat” war and “protect thousands of civilians,” but pivots sharply to Carney’s claim that the Russian deal would “finance war,” while portraying Bildt as someone who “rages” and calls Trump an “ally of Putin.” Center coverage supplies the concrete 300,000-tonne figure and balances support with condemnation.",
-      "All agree on ceasefire diplomacy, revealing a broader divide over Trump’s credibility, Russia-related trade, and humanitarian versus geopolitical priorities."
-    ],
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": null,
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "On Sunday, Prime Minister Mark Carney spoke with U.S. President Donald Trump, expressing \"strong support for this agreement\" regarding the newly announced \"energy ceasefire\" between Ukraine and Russia.",
-      "Despite his support for the ceasefire, Carney criticized Trump's diesel fuel supply arrangement with the Kremlin announced on Friday, arguing it \"is in direct opposition to the efforts of Ukraine, Canada, and our allies.\"",
-      "Republican Senator Thom Tillis questioned the deal's legality on NBC's \"Meet the Press\" on Sunday, stating \"I do believe there's a legitimate case for saying the president's not following the law,\" while Treasury Secretary Scott Bessent defended the administration.",
-      "Ukrainian President Volodymyr Zelenskyy reported that Russians launched more than 200 strikes on electricity facilities this past week, including 17 attacks on gas and oil infrastructure, contradicting the ceasefire announcement.",
-      "Carney and Zelenskyy coordinated with European allies on defense needs, with Carney supporting Canada's involvement in developing the FREYJA anti-ballistic system to strengthen Ukraine's air defenses."
-    ],
-    "title": "Prime Minister Carney speaks with President of the United States Donald J. Trump",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/mullin-says-livestreaming-hasan-execution-is-part-of-restoring-american-values_cf75e6",
-    "article_url": "https://ground.news/article/mullin-says-livestreaming-hasan-execution-is-part-of-restoring-american-values_cf75e6",
+    "article_path": "/article/air-force-maj-jason-watson-is-in-solitary-24-hours-daily-after-publicly-calling-for-trumps-impeachment",
+    "article_url": "https://ground.news/article/air-force-maj-jason-watson-is-in-solitary-24-hours-daily-after-publicly-calling-for-trumps-impeachment",
     "bias": null,
     "bias_bar_text": null,
-    "center_pct": 27.0,
-    "error": null,
-    "left_pct": 33.0,
-    "location": "United States",
-    "right_pct": 40.0,
-    "status": "no_change",
-    "summary": [
-      "On Sunday, Homeland Security Secretary Markwayne Mullin defended the administration's plan to livestream Nidal Hasan's December 3 execution by firing squad, dismissing security risks and stating, \"No one has to watch it.\"",
-      "Defense Secretary Pete Hegseth announced last week that Hasan, a former Army psychiatrist convicted of the 2009 Fort Hood attack that killed 13 people, will face a firing squad—the first U.S. military execution in 65 years.",
-      "Republican Senator Lisa Murkowski labeled the plan \"gruesome,\" warning it could provide Hasan with the \"martyrdom he seeks,\" while Australian Senator Barnaby Joyce decried the broadcast as \"Roman amphitheatre stuff.\"",
-      "President Donald Trump stated he would \"make a decision, ultimately\" regarding the broadcast, while Vice President JD Vance cast doubt on whether the livestream will proceed, citing potential risks.",
-      "Experts remain skeptical whether authorities can effectively block the broadcast online, as the unprecedented proposal has ignited global debate over normalizing state-sanctioned violence and digital censorship boundaries."
-    ],
-    "title": "Mullin says livestreaming Hasan execution is part of ‘restoring American values’",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/doj-charges-16-people-some-undocumented-with-election-crimes_6f0fa9",
-    "article_url": "https://ground.news/article/doj-charges-16-people-some-undocumented-with-election-crimes_6f0fa9",
-    "bias": [
-      "Center-Leaning coverage frames the DOJ’s 16 cases as limited allegations, stressing “extremely rare” illegal voting and “little evidence” of systemic fraud, while right-leaning coverage portrays them as a nationwide “crackdown” protecting “election integrity,” amplifying a broader figure of 64 defendants across 17 states.",
-      "The center uses “noncitizens” and foregrounds scale; the right emphasizes “foreign nationals,” “aliens,” and “illegal immigrants,” linking prosecutions to immigration and “razor-thin elections.” The pivotal divide is whether individual charges demonstrate a broader threat.",
-      "Both acknowledge alleged illegal voting, false citizenship claims, and fraudulent registration, but interpret their significance through contrasting skepticism versus law-and-order and national-election concerns."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 18.0,
-    "error": null,
+    "center_pct": null,
+    "error": "Message: \n",
     "left_pct": null,
-    "location": "United States",
-    "right_pct": 82.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, the United States Justice Department announced charges against 16 noncitizens for election crimes related to the 2024 federal general election, with defendants across Florida, Louisiana, Wisconsin, and Minnesota.",
-      "Prosecutors charged two individuals in Florida, three in Louisiana, one in Wisconsin, and 10 in Minnesota with fraudulent voter registration and false citizenship claims, though all defendants are presumed innocent until proven guilty.",
-      "Bahamian Terrance Patrick Evans and Italian Andrea Catanese face charges in Florida; Evans allegedly voted despite knowing he lacked United States citizenship, while Catanese falsely stated on his naturalization application he had never voted.",
-      "These charges represent 0.0000001 percent of 154 million people who voted in the 2024 presidential election; the Cybersecurity and Infrastructure Security Agency verified the voting process as secure."
-    ],
-    "title": "DOJ Charges 16 Noncitizens With Alleged Election Crimes Across Five States",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/fugitive-businessman-taken-into-us-custody-in-venezuela-bribery-case_8d09a3",
-    "article_url": "https://ground.news/article/fugitive-businessman-taken-into-us-custody-in-venezuela-bribery-case_8d09a3",
-    "bias": [
-      "Left-Leaning coverage frames Pulido chiefly as a “fugitive” in an alleged “bribery” case, stressing indictments, money laundering, and uncertainty over how he reached U.S. custody; center coverage similarly distinguishes accusation from legal proceedings while spotlighting the $10 million bounty and “Maduro ally.” Right-leaning narratives intensify the political and humanitarian stakes, calling him a “Maduro-linked fugitive,” alleged “bagman,” or someone who would “cash in” on Venezuelans’ “basic needs,” while emphasizing CLAP contracts, regime ties, and an impending Miami court appearance.",
-      "All perspectives highlight his capture, alleged bribes, and Saab connection, reflecting wider divides over law enforcement, Maduro, and humanitarian abuse."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 43.0,
-    "error": null,
-    "left_pct": 27.0,
-    "location": "United States",
-    "right_pct": 30.0,
-    "status": "ok",
-    "summary": [
-      "On Sunday, U.S. authorities took Alvaro Pulido into custody following an investigation by the Drug Enforcement Administration, FBI, and Homeland Security Investigations into a bribery scheme involving Venezuela .",
-      "Indicted in 2019 and 2021, Pulido allegedly paid bribes to Venezuelan officials to secure state contracts with PDVSA, the state-run oil company, alongside business partner Alex Saab.",
-      "Last month, Pulido pleaded guilty in a related bribery case, agreeing to cooperate against Maduro and forfeit $195 million in criminal proceeds; the State Department previously offered a $10 million reward for his arrest.",
-      "Homeland Security Task Force spokesperson Nicole Navas Oxman confirmed the arrest Sunday, noting Pulido will make his initial court appearance Tuesday in Miami.",
-      "Acting President Delcy Rodr faces pressure from Venezuela's ruling coalition to resist U.S. efforts to apprehend Venezuelan insiders, following the January ouster of Maduro by the U.S. military under the Trump administration."
-    ],
-    "title": "Fugitive businessman taken into US custody in Venezuela bribery case",
-    "topic": "Venezuela Politics",
-    "topic_full": "Venezuela Politics · United States"
-  },
-  {
-    "article_path": "/article/rev-adam-hamilton-drops-the-holy-hammer-and-humiliates-jd-vance",
-    "article_url": "https://ground.news/article/rev-adam-hamilton-drops-the-holy-hammer-and-humiliates-jd-vance",
-    "bias": [
-      "Left-Leaning coverage casts Hamilton’s response as a decisive political triumph, using phrases such as “Holy Hammer,” “humiliates,” and “Republicans are freaking out,” while framing Vance’s comments as “attacks” on faith and emphasizing polling suggesting Hamilton could flip the seat.",
-      "Center-Leaning coverage narrows the dispute to whether Vance “misrepresented” Hamilton’s religion, attributing sharper language like “false hit,” “really sad,” and “pathetic” to Hamilton rather than adopting it outright; it also highlights the seat’s century-long Republican control.",
-      "Both perspectives agree on the candidates, the faith dispute, and Hamilton’s rejection of Vance’s characterization, reflecting broader divides over partisan combat and religious identity."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 25.0,
-    "error": null,
-    "left_pct": 75.0,
-    "location": "Kansas",
+    "location": null,
     "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "On Sunday, Democratic Kansas Senate candidate Adam Hamilton accused Vice President JD Vance of attacking his faith and spreading falsehoods during an interview on ABC's This Week.",
-      "During a September 14 campaign stop in Olathe, Vance claimed Hamilton believes 'it's a sin to be white and a sin to raise cattle and eat meat,' prompting the recent exchange.",
-      "Refuting the accusations, Hamilton stated, 'Every single line of what you just read was a lie,' clarifying his sermon addressed the Christian concept of repentance regarding racism.",
-      "The heated rhetoric reflects growing Republican concerns about a race recent polling suggests is effectively tied, despite Republicans holding the Senate seat for more than a century.",
-      "As Democrats seek a four-seat net gain to retake the Senate, Hamilton positions himself as an independent-minded candidate, suggesting Vice President Kamala Harris keep her distance from the race."
-    ],
-    "title": "Hamilton says Vance’s attacks on his religion are ‘really sad,’ ‘pathetic’",
-    "topic": "JD Vance",
-    "topic_full": "JD Vance · Kansas"
+    "status": "fail",
+    "summary": null,
+    "title": "Air Force Major Jason Watson Faces UCMJ Charges After Trump Impeachment Protest",
+    "topic": null,
+    "topic_full": null
   }
 ]
