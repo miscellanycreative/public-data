@@ -1,18 +1,66 @@
 [
   {
-    "article_path": "/article/us-inflation-hits-37-in-september-above-forecasts_12d9fb",
-    "article_url": "https://ground.news/article/us-inflation-hits-37-in-september-above-forecasts_12d9fb",
-    "bias": [
-      "Left-Leaning coverage frames 3.7% inflation as “Trump’s inflation nightmare,” emphasizing broken promises, squeezed working families, and electoral “bad news,” while right-leaning accounts stress a “painful surprise,” Fed-target slippage, energy costs, and the case for higher rates—sometimes calling it an “ugly headline” that obscures steadier core inflation.",
-      "Center coverage more cautiously highlights forecasts, market expectations, and inflation’s breadth.",
-      "A key dividing line is whether the 9.1% gasoline increase signals broad failure or an energy-driven spike, alongside competing interpretations of “a whole bunch of good news.” All portray affordability and the midterms as consequential, reflecting wider ideological disputes over blame, policy, and economic credibility."
-    ],
+    "article_path": "/article/trump-after-bipartisan-backlash-says-pentagon-wont-livestream-execution-of-fort-hood-shooter",
+    "article_url": "https://ground.news/article/trump-after-bipartisan-backlash-says-pentagon-wont-livestream-execution-of-fort-hood-shooter",
+    "bias": null,
     "bias_bar_text": null,
     "center_pct": null,
     "error": null,
     "left_pct": null,
     "location": null,
     "right_pct": null,
+    "status": "no_change",
+    "summary": [
+      "President Donald Trump announced Thursday that the Pentagon will not livestream the firing-squad execution of Fort Hood shooter Nidal Malik Hasan, reversing Defense Secretary Pete Hegseth's plan to broadcast the event online.",
+      "Growing public opposition prompted the reversal, as Hegseth had originally proposed streaming the December 3 execution by firing squad to demonstrate America's response to terrorism.",
+      "Hasan, a former Army Major, killed 13 people and injured 32 in a 2009 shooting spree at Fort Hood, Texas; the execution remains scheduled to proceed by firing squad.",
+      "Immediate families of victims may still witness the execution in person, while President Trump wrote on Truth Social Thursday that many \"well meaning people would rather not watch him die\" through streaming.",
+      "In his Truth Social post, Trump cited FBI communications between Hasan and Yemeni-American cleric Anwar al-Awlaki during President Barack Obama administration, though investigators previously concluded those emails posed no threat."
+    ],
+    "title": "Source Icon",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/social-security-administration-announces-36-cost-of-living-adjustment-for-2027_76e021",
+    "article_url": "https://ground.news/article/social-security-administration-announces-36-cost-of-living-adjustment-for-2027_76e021",
+    "bias": [
+      "Left-Leaning coverage frames the 3.6% COLA as necessary but inadequate, stressing “is it enough?”, “soaring prices,” healthcare costs, and a possible 2032 funding shortfall that could erode retirees’ security.",
+      "Right-Leaning coverage mixes relief—“big bump” and “greater financial stability”—with skepticism about inflation , taxpayers, and younger Americans, using “major caveat” and “pay the price” to portray intergenerational conflict.",
+      "Center coverage is more procedural, explaining CPI calculations, payment timing, and the roughly $70–$75 increase while acknowledging it may be a “drop in the bucket.” All perspectives emphasize inflation and recognize the 3.6% adjustment, but diverge over adequacy, solvency, and fairness."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 65.0,
+    "error": null,
+    "left_pct": 24.0,
+    "location": null,
+    "right_pct": 11.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, October 14, 2026, the Social Security Administration announced a 3.6% cost-of-living adjustment for 2027, affecting more than 76 million Americans. This annual adjustment aims to help beneficiaries manage rising prices for essential goods and services.",
+      "The 3.6% figure derives from the Consumer Price Index for Urban Wage Earners and Clerical Workers , which tracked average price changes from July through September 2026. This metric measures inflation across a basket of goods purchased by workers.",
+      "Retirees will receive an average monthly payment increase of $75 in 2027. The projected Medicare Part B premium increase of just $6.60 suggests many seniors may retain more of this year's COLA than in recent years.",
+      "Senior advocacy groups argue this adjustment fails to restore lost purchasing power. AARP CEO Myechia Minter-Jordan noted that one in five older Americans lacks retirement savings, intensifying financial insecurity amid persistent inflation.",
+      "Without legislative reform, the Old Age and Survivors Insurance Trust Fund faces depletion by 2032. Experts warn this could trigger a 22% payment cut for beneficiaries, a long-standing concern for the system's long-term viability."
+    ],
+    "title": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/us-inflation-hits-37-in-september-above-forecasts_de6961",
+    "article_url": "https://ground.news/article/us-inflation-hits-37-in-september-above-forecasts_de6961",
+    "bias": [
+      "Left-Leaning coverage frames 3.7% inflation as “Trump’s inflation nightmare,” saying he “wrecked” the economy and tying price pressures to tariffs, the Iran war, and Republican “woes,” with wages lagging inflation squeezing families.",
+      "Right-Leaning coverage also calls the figure an “ugly headline” and political “slap in the face,” but stresses that gasoline surged 9.1%, energy drove over half the monthly increase, and moderate core inflation offers a “bright spot.” Center coverage presents a mixed economic challenge, emphasizing Fed rate-hike risks and uncertainty.",
+      "All agree prices rose above expectations and threatened affordability, reflecting broader divides over blame, policy, and economic interpretation."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 49.0,
+    "error": null,
+    "left_pct": 32.0,
+    "location": null,
+    "right_pct": 19.0,
     "status": "ok",
     "summary": [
       "On Wednesday, the Bureau of Labor Statistics reported consumer prices rose 0.6% in September, pushing annual inflation to 3.7%, well above the Federal Reserve 's 2% target.",
@@ -21,7 +69,7 @@
       "The inflation report lands weeks before the November 3 midterm elections, where affordability remains a central voter concern, creating headwinds for the administration and Republican candidates.",
       "Policymakers meet October 28 to decide on interest rates, with investors pegging a nearly 25% chance of another increase and officials signaling one additional hike this year."
     ],
-    "title": "Source Icon",
+    "title": "US Inflation Hits 3.7% in September, Above Forecasts",
     "topic": null,
     "topic_full": null
   },
@@ -77,702 +125,513 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/bank-of-america-hit-with-more-than-12-billion-in-penalties-over-money-laundering-violations_4c3852",
-    "article_url": "https://ground.news/article/bank-of-america-hit-with-more-than-12-billion-in-penalties-over-money-laundering-violations_4c3852",
+    "article_path": "/article/4-killed-including-3-children-in-oregon-elementary-school-shooting-suspect-also-dead_4340a2",
+    "article_url": "https://ground.news/article/4-killed-including-3-children-in-oregon-elementary-school-shooting-suspect-also-dead_4340a2",
     "bias": [
-      "Left-Leaning coverage frames the $1.2 billion penalty as “historic,” stressing corporate accountability, national-security risks from Chinese money-laundering networks, and possible earnings consequences while retaining qualifiers like “alleged.” Right-leaning coverage uses sharper language—“massive,” “huge,” “widespread failures,” and “financial slap”—portraying longstanding institutional negligence, emphasizing the $750 million OCC penalty and the bank’s reliance on others to detect suspicious activity.",
-      "Center coverage presents a “compliance breakdown,” adding the more-than-$5 billion in unreported transactions and $11.6 million sanctions settlement.",
-      "All perspectives emphasize serious AML and sanctions failures, reflecting shared concern over financial crime, national security, and regulatory accountability."
+      "Left-Leaning coverage foregrounds victims and systemic gun violence, using phrases like “mass shooting,” “devastating day,” and “tragedy,” while de-emphasizing the armed intervention’s political implications.",
+      "Right-Leaning coverage frames the same event through self-defense and law-and-order, calling the civilian a “hero bystander” or “Good Samaritan” and the suspect a “crazed teen gunman,” while highlighting firearms policy.",
+      "The pivotal divide is whether the shooting signifies a national gun-violence crisis or the value of armed civilian action.",
+      "Center coverage emphasizes uncertainty, official timelines, lockdowns, reunification, and conflicting counts.",
+      "All perspectives stress children’s deaths, emergency response, and the suspect’s death, reflecting shared concern amid broader ideological divides."
     ],
-    "bias_bar_text": null,
-    "center_pct": 55.0,
-    "error": null,
-    "left_pct": 20.0,
-    "location": null,
-    "right_pct": 25.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, the Treasury Department ordered Bank of America to pay $1.2 billion after finding willful violations of the Bank Secrecy Act and sanctions laws.",
-      "The bank admitted it \"failed to maintain\" an anti-money laundering program and neglected to report over $5 billion in suspicious transactions to the Financial Crimes Enforcement Network , with over $1 billion involving national security risks including Chinese Money Laundering Networks.",
-      "As part of the settlement, the Office of the Comptroller of the Currency levied a $750 million fine—the largest ever by that agency—while the institution settled \"its potential civil liability for 475 apparent violations\" of sanctions programs targeting Russia, Iran, and Burma.",
-      "Treasury Secretary Scott Bessent warned that compliance failures expose the U.S. financial system to significant illicit finance risks, stating, \"Today's actions send a clear message that even the biggest financial institution are not above the law.\"",
-      "Processing $450 trillion in corporate payments and about $4.5 trillion for 70 million individual clients annually, the bank reports third-quarter earnings on Wednesday, facing heightened regulatory scrutiny."
-    ],
-    "title": "Bank of America hit with more than $1.2 billion in penalties over money-laundering violations",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/cornell-suspends-fraternity-parties-for-rest-of-academic-year-amid-sexual-assault-controversy",
-    "article_url": "https://ground.news/article/cornell-suspends-fraternity-parties-for-rest-of-academic-year-amid-sexual-assault-controversy",
-    "bias": [
-      "Left-Leaning coverage frames Cornell’s response as institutional failure, foregrounding student “protesting,” “mounting outrage,” survivor advocacy, and demands for “systemic change,” while right-leaning coverage links the alleged “gang rape” to a “serious drug and alcohol problem,” administrative “failing to act,” and calls for “zero-tolerance” discipline.",
-      "The pivotal divide is whether the story centers accusers and university accountability or fraternity culture and campus disorder; the right also cites 35% of responding women, tempered by a 13% response rate.",
-      "Center coverage de-emphasizes ideology, stressing suspension, state-police involvement, and allegation qualifiers.",
-      "All emphasize the allegations, scrutiny, and Cornell’s sweeping suspension."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 58.0,
+    "bias_bar_text": "Left 25% Center 49% Right 26%",
+    "center_pct": 49.0,
     "error": null,
     "left_pct": 25.0,
     "location": null,
-    "right_pct": 17.0,
+    "right_pct": 26.0,
     "status": "ok",
     "summary": [
-      "On Wednesday, Cornell University students staged a seven-hour sit-in and economic blackout to protest the institution's handling of an alleged 2024 sexual assault at Chi Phi fraternity.",
-      "Anger stems from allegations that Jane Doe was sexually assaulted by multiple men at Chi Phi two years ago; a rally on Monday drew thousands demanding justice after authorities did not pursue charges in 2024.",
-      "Black Students United co-president Kennedy Young demanded trauma-informed training for university police and minimum sanctions for offenders, while Cornell's media relations office did not respond to requests for comment.",
-      "In response to backlash, Cornell announced yesterday that former federal prosecutor Sally Yates will lead an independent review of the university's handling of the 2024 case.",
-      "U.S. Senator Tim Kaine and U.S. Representative Debbie Dingell introduced two federal bills requiring independent campus advocates and funding for survivor mental health services, counseling, and academic support."
+      "On Thursday, a 16-year-old gunman forced entry into Silver Rail Elementary School in Bend, Oregon, killing three children ages 5, 8, and 11, plus one teacher, before dying inside, Bend Police Chief Mike Krantz said.",
+      "Officers arrived at the campus at 1:02 p.m., minutes after dispatchers received reports of a shooter firing into a car outside the school. An armed community member who witnessed the suspect enter pursued him inside and shot him, authorities said.",
+      "Two additional victims—a seven-year-old student and a 54-year-old teacher—remain hospitalized with critical injuries. The attack triggered an immediate facility-wide lockdown, with adjacent campuses also placed under precautionary lockdown.",
+      "Bend-La Pine Schools Superintendent Steven Cook canceled classes districtwide Friday, while police directed families to Journey Church at 61303 S Highway 97 for reunification with students evacuated by bus.",
+      "Oregon Governor Tina Kotek praised the community member's intervention, saying the bystander's actions carry \"a heavy emotional burden.\" The shooting marks the 28th mass killing in the U.S. this year, according to a database maintained by The Associated Press and USA Today."
     ],
-    "title": "Cornell suspends fraternity parties for rest of academic year amid sexual assault controversy",
+    "title": "4 Killed, Including 3 Children, in Oregon Elementary School Shooting; Suspect Also Dead",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/social-security-administration-announces-36-cost-of-living-adjustment-for-2027_60e1a0",
-    "article_url": "https://ground.news/article/social-security-administration-announces-36-cost-of-living-adjustment-for-2027_60e1a0",
+    "article_path": "/article/supporters-rally-behind-duong-family-as-corruption-trial-begins",
+    "article_url": "https://ground.news/article/supporters-rally-behind-duong-family-as-corruption-trial-begins",
     "bias": [
-      "Left-Leaning coverage frames the 3.6% COLA as a test of adequacy, asking “is it enough?” amid “stubbornly high inflation ,” while foregrounding long-term funding risks and political accountability.",
-      "Right-Leaning coverage calls the roughly $75 monthly increase a “welcome boost” and “real money,” yet stresses that gasoline, housing, and healthcare costs may erase relief.",
-      "Center coverage emphasizes the CPI-W formula and Medicare premiums, portraying the adjustment as administrative rather than partisan.",
-      "The dividing line is whether the raise represents meaningful protection or inadequate purchasing power.",
-      "All perspectives highlight inflation and fixed-income vulnerability, reflecting a broader debate over government support, fiscal sustainability, and economic security."
+      "Coverage splits over what the Thao corruption trial means: left-leaning accounts dramatize courtroom combat through “fiery allegations” and “strenuous disavowals,” foregrounding prosecution claims versus defense denials; right-leaning framing crystallizes an alleged transaction—“trading city money” for campaign favors, a partner’s no-show job, and benefits to businesses—inviting skepticism about government self-dealing.",
+      "Center coverage de-emphasizes that mechanism and defense response, instead stressing the seated jury, procedure, and prosecutors’ “betrayed Oakland” and “put her power up for sale” language.",
+      "All portray a federal trial over alleged bribery and political benefits, but diverge over due process, public trust, and transactional accountability."
     ],
-    "bias_bar_text": "Left 25% Center 64% 11%",
-    "center_pct": 64.0,
+    "bias_bar_text": "Left 39% Center 48% R 13%",
+    "center_pct": 48.0,
     "error": null,
-    "left_pct": 25.0,
+    "left_pct": 39.0,
     "location": null,
-    "right_pct": 11.0,
+    "right_pct": 13.0,
     "status": "ok",
     "summary": [
-      "On Wednesday, October 14, 2026, the Social Security Administration announced a 3.6% cost-of-living adjustment for 2027, affecting more than 76 million Americans. This annual adjustment aims to help beneficiaries manage rising prices for essential goods and services.",
-      "The 3.6% figure derives from the Consumer Price Index for Urban Wage Earners and Clerical Workers , which tracked average price changes from July through September 2026. This metric measures inflation across a basket of goods purchased by workers.",
-      "Retirees will receive an average monthly payment increase of $75 in 2027. The projected Medicare Part B premium increase of just $6.60 suggests many seniors may retain more of this year's COLA than in recent years.",
-      "Senior advocacy groups argue this adjustment fails to restore lost purchasing power. AARP CEO Myechia Minter-Jordan noted that one in five older Americans lacks retirement savings, intensifying financial insecurity amid persistent inflation.",
-      "Without legislative reform, the Old Age and Survivors Insurance Trust Fund faces depletion by 2032. Experts warn this could trigger a 22% payment cut for beneficiaries, a long-standing concern for the system's long-term viability."
+      "Opening statements in the federal corruption trial of former Oakland Mayor Sheng Thao and three co-defendants began Wednesday, with prosecutors alleging an elaborate bribery and conspiracy scheme involving millions in city contracts.",
+      "Prosecutors detailed an alleged 2022 scheme involving an Apple note on Andy Duong's phone, outlining plans to sell 300 housing units and secure a 10-year contract extension for California Waste Solutions in exchange for $75,000 in campaign mailers and a $300,000 'no-show' job for Jones.",
+      "Defense attorney Jeff Tsai countered the government's narrative as \"pure fiction,\" arguing that prosecutors relied on star witness Mario Juarez to frame Thao, who he said never sought or received money.",
+      "Testimony began Thursday with former chief of staff Leigh Hanson describing the outsized role Jones held in Thao's administration, testifying that Jones threatened her job after she raised concerns about his influence.",
+      "The corruption trial is expected to last about a month, with the four defendants facing up to 35 years in prison if convicted of all charges; all have pleaded not guilty to the bribery and fraud counts."
     ],
-    "title": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
+    "title": "Thao Trial Opens with Fiery Allegations, Strenuous Disavowals",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/white-house-press-secretary-katie-zacharia-didnt-pass-bar-exam_5013a4",
-    "article_url": "https://ground.news/article/white-house-press-secretary-katie-zacharia-didnt-pass-bar-exam_5013a4",
+    "article_path": "/article/talarico-compares-his-campaign-to-the-biblical-david-after-gop-invests-over-158m-against-him",
+    "article_url": "https://ground.news/article/talarico-compares-his-campaign-to-the-biblical-david-after-gop-invests-over-158m-against-him",
     "bias": [
-      "Left-Leaning coverage foregrounds alleged professional failure, using phrases like “didn’t pass,” “unlicensed lawyer,” and “scrutiny” to question Zacharia’s credentials and Trump’s judgment; center coverage frames an unresolved licensing dispute, highlighting the White House “defends” her, possible improper self-description, and her provocative “When I moved to China” response.",
-      "Right-Leaning commentary pivots to terminology, calling her “unquestionably a lawyer” while distinguishing lawyer from licensed attorney and dismissing criticism as “huffing and puffing.” The pivotal divide is whether legal education, reportedly confirmed by Pepperdine graduation, suffices without bar admission.",
-      "All acknowledge her appointment, legal training, reported exam failure, and public self-description, reflecting wider disputes over accountability, partisan scrutiny, and media overreaction."
-    ],
-    "bias_bar_text": "Left 46% Center 40% R 14%",
-    "center_pct": 40.0,
-    "error": null,
-    "left_pct": 46.0,
-    "location": null,
-    "right_pct": 14.0,
-    "status": "ok",
-    "summary": [
-      "White House Press Secretary Katie Zacharia failed the California bar exam following her 2011 graduation from Pepperdine University Caruso School of Law, according to reports confirmed by The Wall Street Journal and The Washington Post.",
-      "Public scrutiny intensified after a reporter asked President Trump and Zacharia on Tuesday which U.S. state bar exam she passed, to which Zacharia initially replied, \"When I moved to China\"—before later claiming she misheard the question over Marine One engine noise as asking where she lived after law school.",
-      "Multiple media investigations found no public record of Zacharia holding an active or expired license to practice law in California, Texas, Washington, D.C., or any other U.S. jurisdiction, though she did pass the Multistate Professional Responsibility Examination .",
-      "Despite lacking a license, Zacharia repeatedly identified herself as an attorney or lawyer across television appearances, podcasts, and social media—prompting government watchdog Campaign for Accountability to file a formal complaint with the State Bar of California regarding potential unauthorized practice of law.",
-      "In defense of her credentials, Zacharia stated that she worked in international transaction law for Beijing-based Zhong Lun Law Firm—a role legal experts noted does not require a local license—while the White House affirmed she maintains appropriate credentials for her communications duties."
-    ],
-    "title": "Report Says Katie Zacharia Failed the California Bar Exam in 2011 Amid Credentials Controversy",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/elon-musk-says-trump-is-ultimately-responsible-for-any-curbs-on-ukraines-starshield-systems",
-    "article_url": "https://ground.news/article/elon-musk-says-trump-is-ultimately-responsible-for-any-curbs-on-ukraines-starshield-systems",
-    "bias": [
-      "Left-Leaning coverage frames Starshield restrictions as a dangerous weakening of Ukraine, invoking “panic,” “people will die,” and a search for the “culprit,” while linking responsibility to Trump or Washington; right-leaning coverage emphasizes Musk’s claim that the U.S. military and president control the system, portraying Ukrainian accusations as “betrayal” and foregrounding the demand for Zelensky to “go.” Center coverage bridges both, describing defenses as “cripple” while stressing unresolved causation and broader doubts about U.S. support.",
-      "The pivotal divide is whether the episode signifies abandonment of an ally or legitimate presidential control; all acknowledge disrupted drones , roughly 160-km/h limits, and restored service, reflecting wider U.S.-Ukraine and geopolitical tensions."
+      "Left-Leaning coverage frames Talarico as a sympathetic “David” confronting billionaire influence, spotlighting Musk’s $168 million and suggesting the Democrat has become more than an “underdog.” Right-leaning coverage likewise stresses the imbalance—over $158 million from Republican leadership and Musk—but emphasizes grassroots resistance, calling Musk the “world’s richest man” and supporters Talarico’s “slingshot.” Thus, both use dramatic biblical imagery, though the left foregrounds money’s threat to democracy while the right highlights populist defiance.",
+      "Center-Leaning coverage de-emphasizes those sharper conflicts, presenting an “underdog bid” entering its final weeks and a “national conversation.” All agree the race pits a Democratic challenger against formidable Republican resources in Texas."
     ],
     "bias_bar_text": null,
     "center_pct": 29.0,
     "error": null,
-    "left_pct": 43.0,
-    "location": "United States",
-    "right_pct": 28.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, Ukraine's defense ministry confirmed that Starshield satellite internet functionality for military forces has been restored, a day after the service was throttled at speeds over 100 miles per hour on Wednesday.",
-      "SpaceX imposed unexpected speed restrictions on Starlink terminals overnight Wednesday without advance warning, limiting connections to 160 km/h and hampering critical drone missions, logistics, and reconnaissance operations.",
-      "Former Defence Minister Mykhailo Fedorov reported the restoration on Telegram, while volunteer Serhii Sternenko highlighted connectivity problems; units of the 7th Air Assault Corps in Huliaipole confirmed the service disruptions.",
-      "The defense ministry continues seeking clarification on reasons for Wednesday's disruption of the military-grade service, stating the next task is to completely remove remaining speed limits for Starshield.",
-      "Coordinating with SpaceX and NATO partners, the ministry activated backup communication channels during the disruption; units reported that the restored service remains operational across the frontline."
-    ],
-    "title": "Elon Musk says Trump is ‘ultimately’ responsible for any curbs on Ukraine’s Starshield systems",
-    "topic": "Elon Musk",
-    "topic_full": "Elon Musk · United States"
-  },
-  {
-    "article_path": "/article/sk-hynix-seeks-us-nod-to-expand-china-chip-output-ties-approval-to-us-plant-report",
-    "article_url": "https://ground.news/article/sk-hynix-seeks-us-nod-to-expand-china-chip-output-ties-approval-to-us-plant-report",
-    "bias": [
-      "Center-Leaning coverage frames SK Hynix’s request as “expand China production,” stressing export controls as a means to “maintain technological superiority” amid U.S.-China competition.",
-      "Right-Leaning coverage instead portrays a corporate bargain: approval for additional American equipment is a “condition for U.S. factory” investment, while Dalian output “could help finance” the project; it also foregrounds SK Hynix’s claim that existing work is authorized and capacity will not expand.",
-      "Thus, “condition” suggests pressure on Washington from one perspective, while the other emphasizes strategic containment.",
-      "Both highlight the linked China equipment request and U.S. NAND investment, reflecting broader tensions between national security and commercial interdependence."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 37.0,
-    "error": null,
-    "left_pct": null,
-    "location": "United States",
-    "right_pct": 63.0,
-    "status": "ok",
-    "summary": [
-      "On Wednesday, South Korea's SK Hynix requested Washington's approval to export U.S. chipmaking equipment to China , conditioning the request on its potential construction of a new NAND facility in the U.S.",
-      "The Commerce Department previously revoked exemptions for Hynix and Samsung, labeling them a \"Biden-era loophole,\" and generally denies licenses for equipment intended to expand capacity at Chinese facilities.",
-      "Solidigm, the U.S. unit of Hynix, seeks tools for the unused \"Mod B\" space at the Dalian site, which relies on equipment from major U.S. firms including Lam Research, Applied Materials, and KLA.",
-      "Expanded Chinese production would help Solidigm fund a U.S. NAND plant, and the company is considering an initial public offering as early as next year to finance this facility.",
-      "The Trump administration is pressing foreign chipmakers to build plants in the U.S. to rebuild manufacturing capacity, while NAND pricing has increased sevenfold since mid-2023, according to Walt Coon, a memory industry expert at TechInsights."
-    ],
-    "title": "SK Hynix conditions new US factory on more US chip equipment exports to China: Report",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/oil-prices-fall-as-trump-considers-easing-sanctions-on-shadow-fleet-tankers",
-    "article_url": "https://ground.news/article/oil-prices-fall-as-trump-considers-easing-sanctions-on-shadow-fleet-tankers",
-    "bias": [
-      "Left-Leaning coverage frames easing sanctions on the “shadow fleet” as a geopolitical concession—possibly a “gift to Putin” that could finance Russia’s war against Ukraine—while highlighting Ukraine’s criticism and Britain’s call for “tougher sanctions.” Right-leaning coverage stresses practical limits, legal cargo, and “experts doubt benefits,” portraying the move as an uncertain attempt to expand oil availability and reduce freight rates rather than aid Russia.",
-      "Center coverage foregrounds tanker shortages, “record-high global freight rates,” and market effects, including reported prices near $104.39 Brent and $94.02 WTI.",
-      "All agree the proposal remains under consideration and targets shipping costs, reflecting broader security-versus-energy tensions."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 27.0,
-    "error": null,
-    "left_pct": 35.0,
-    "location": "United States",
-    "right_pct": 38.0,
-    "status": "ok",
-    "summary": [
-      "On Wednesday, the United States administration discussed easing sanctions on shadow fleet vessels to reduce record-high global freight rates and boost crude oil exports from the Gulf.",
-      "Energy Secretary Chris Wright revealed these talks at the World Petroleum Congress in Riyadh this week, following President Donald Trump 's recent decision to temporarily lift sanctions on Russian diesel, which sparked backlash from Ukrainian President Volodymyr Zelenskiy and US senators.",
-      "Officials clarified the talks focus on allowing \"legal oil\"—not Russian or Iranian products—to flow on previously sanctioned vessels, noting this \"could make a small number of additional tankers available for certain Hormuz shuttle runs\" between Iran and Oman.",
-      "Critics, including some Republicans, argue that lifting restrictions aids Russian President Vladimir Putin's war efforts in Ukraine, while companies must seek approval via the Treasury Department to use these vessels.",
-      "Research group Energy Aspects maintains that easing sanctions is \"unlikely to add meaningful mainstream fleet capacity overnight\" given that most sanctioned tankers are already active, as the administration faces political pressure regarding fuel prices ahead of the November 3 midterm elections."
-    ],
-    "title": "US considers easing sanctions on shadow fleet vessels to cut freight rates, official says",
-    "topic": "US Foreign Policy",
-    "topic_full": "US Foreign Policy · United States"
-  },
-  {
-    "article_path": "/article/us-military-destroys-iranian-affiliated-ship-in-gulf-of-oman-after-evacuating-crew",
-    "article_url": "https://ground.news/article/us-military-destroys-iranian-affiliated-ship-in-gulf-of-oman-after-evacuating-crew",
-    "bias": [
-      "Left-Leaning coverage foregrounds a U.S. military action while hedging its rationale with “allegedly,” “suspected,” and “US says,” whereas right-leaning coverage presents the dhow as an active Iranian threat and celebrates the response through phrases like “sneaky moves,” “did not go well,” and “halting naval threats.” The left emphasizes uncertainty around surveillance and targeting; the right highlights Pentagon footage, “destruction,” blockade enforcement, and possible future strikes.",
-      "Center coverage, where present, adds crew evacuation and “rising maritime tensions.” The pivotal divide is whether this was a qualified defensive incident or part of a broader coercive campaign.",
-      "All acknowledge the October 6 destruction, CENTCOM’s allegations, and the crew’s safe evacuation, reflecting shared focus on escalating U.S.-Iran security tensions."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 39.0,
-    "error": null,
-    "left_pct": 17.0,
-    "location": "Oman",
-    "right_pct": 44.0,
-    "status": "ok",
-    "summary": [
-      "On October 6, Central Command forces destroyed an Iranian-affiliated dhow in the Gulf of Oman after determining it was \"conducting surveillance and targeting US Navy ships in the Gulf of Oman\". All crew members were safely removed before the strike.",
-      "For seven months, Iran's Islamic Revolutionary Guard Corps has targeted civilian mariners and Navy warships, CENTCOM reported, prompting heightened vigilance across the strategic waterway.",
-      "A Navy fighter jet disabled The Panama-flagged vessel, known as the Ocean Molica and also the Arika Sun, disabling its propulsion system without harming the crew per CENTCOM.",
-      "Repatriation efforts for the crew are currently ongoing, according to CENTCOM, as military forces continue monitoring the Gulf for potential threats.",
-      "Near the Strait of Hormuz, CENTCOM disabled a commercial vessel on October 10 for ignoring Navy blockade warnings, reflecting broader regional security challenges."
-    ],
-    "title": "US military destroys Iranian-affiliated ship in Gulf of Oman after evacuating crew",
-    "topic": "Iran War",
-    "topic_full": "Iran War · Oman"
-  },
-  {
-    "article_path": "/article/lisa-cooks-lawyers-call-trumps-investigation-committee-demonstrably-biased",
-    "article_url": "https://ground.news/article/lisa-cooks-lawyers-call-trumps-investigation-committee-demonstrably-biased",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 29.0,
-    "error": null,
-    "left_pct": 71.0,
-    "location": "United States",
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "On Tuesday, lawyers for Federal Reserve Governor Lisa Cook challenged a White House committee of inquiry, labeling the panel \"demonstrably biased\" in a letter to counsel William Scharf.",
-      "The White House established the committee last Friday to investigate accusations against Cook, aiming to determine whether there is \"cause\" to fire her from the board.",
-      "Lawyer Abbe Lowell noted all three committee members are Trump appointees, including economic adviser Kevin Hassett, Labor Secretary Keith Sonderling, and Equal Employment Opportunity Commission Andrea Rich, raising independence concerns.",
-      "Cook will not participate in a November 5 hearing because she \"will be executing her official duties as Governor\" at financial and monetary policy meetings in Europe, Lowell said.",
-      "President Donald Trump previously attempted to fire Cook in August 2025, but the Supreme Court ruled she could remain in her position while litigation continues. No president has fired a Fed governor before."
-    ],
-    "title": "Lisa Cook’s lawyers call Trump’s investigation committee ‘demonstrably biased’",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/trump-us-to-build-advanced-weapons-testing-range-in-montana",
-    "article_url": "https://ground.news/article/trump-us-to-build-advanced-weapons-testing-range-in-montana",
-    "bias": [
-      "Left-Leaning coverage presents Trump’s Kalispell rally announcement narrowly, using the promotional phrase “super range” in quotation marks without clear ideological wording, while de-emphasizing specific systems such as hypersonic weapons, space, and electronic warfare.",
-      "Center coverage adds attribution—“Trump says”—and situates the proposal alongside guns and tariffs.",
-      "Right-Leaning coverage foregrounds campaign leadership and “state-of-the-art,” “cutting-edge,” and “advanced weapons,” emphasizing technological capability.",
-      "Thus, the main divide is emphasis, not an explicit dispute over the project: all portray a proposed Pentagon -linked Montana testing facility, while none details funding, site, timeline, environmental review, feasibility, or authorization."
-    ],
-    "bias_bar_text": "10% Center 27% Right 63%",
-    "center_pct": 27.0,
-    "error": null,
-    "left_pct": 10.0,
-    "location": null,
-    "right_pct": 63.0,
-    "status": "ok",
-    "summary": [
-      "On Wednesday, President Donald Trump announced plans for a new defense 'Super Range' in Kalispell, Montana, to test advanced military technologies including autonomous weapons, space systems, electronic warfare, and hypersonic weapons.",
-      "Trump made the announcement during a campaign rally in Kalispell, a city of about 30,000 people 200 miles northwest of Helena, while supporting Republican candidates ahead of upcoming midterm elections.",
-      "The Pentagon initiative aims to test advanced hardware, with officials noting that hypersonic weapons travel at speeds above Mach 5 while supersonic systems exceed Mach 1.",
-      "Defending his tariff policies, Trump claimed they protect American sawmills, while reaffirming support for the Second Amendment by contrasting NRA ratings for local House and Senate candidates.",
-      "Montana currently hosts the state-affiliated Montana Spaceport and Test Range, though Trump did not specify if the new project would integrate with existing infrastructure as the national campaign push intensifies."
-    ],
-    "title": "Trump Says Advanced Defense Test Range to Be Located in Montana",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/police-say-chicago-suburb-suspect-in-alleged-mass-shooting-plot-had-white-supremacy-manifesto",
-    "article_url": "https://ground.news/article/police-say-chicago-suburb-suspect-in-alleged-mass-shooting-plot-had-white-supremacy-manifesto",
-    "bias": null,
-    "bias_bar_text": "Left 33% Center 67%",
-    "center_pct": 67.0,
-    "error": null,
-    "left_pct": 33.0,
-    "location": null,
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "On Sunday, police in Palatine, Illinois, arrested 19-year-old Alexandros Paporakis for allegedly planning a mass shooting targeting a Hindu place of worship in Aurora, about 30 km west of Chicago.",
-      "Investigators recovered a document titled \"Why I Fought: A.K.A.: \" expressing white supremacist ideologies with references to violence against individuals of Indian descent, police said.",
-      "A concerned co-worker alerted authorities after Paporakis shared images of tactical equipment; police subsequently seized an AR-style rifle, hundreds of rounds of ammunition, and a tactical vest with white supremacist imagery.",
-      "Paporakis appeared for a detention hearing on Wednesday where a judge ordered him held on charges of making a terrorist threat and unlawful possession of weapons. Congressman Raja Krishnamoorthi stated he was \"horrified that a white supremacist allegedly attempted to massacre Indian Americans.\"",
-      "The Indian American Advocacy Council urged the FBI and Department of Justice to intensify scrutiny of online hate influencers, warning that online hate against South Asians has surged 240% between January 2024 and June 2026."
-    ],
-    "title": "Police say Chicago suburb suspect in alleged mass shooting plot had white supremacy manifesto",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/teen-accused-of-plotting-mass-shooting-at-chicago-area-hindu-temple_13dfc4",
-    "article_url": "https://ground.news/article/teen-accused-of-plotting-mass-shooting-at-chicago-area-hindu-temple_13dfc4",
-    "bias": [
-      "Left-Leaning coverage foregrounds “white supremacist,” “neo-Nazi,” and “hate-fueled” ideology, framing the alleged plan as racial and religious terror against Hindu and Indian-American worshippers; right-leaning coverage instead heightens imminent danger with “sociopathic,” “terror attack plot,” “massacre,” prolonged surveillance, and the rifle that reportedly jammed, emphasizing law-and-order protection.",
-      "The pivotal divide is whether the story centers on extremist ideology and community context or a threatening individual and vulnerable temple.",
-      "Center coverage, where present, de-emphasizes partisan labels, stressing “alleged,” police attribution, charges, and the distinction between a plot and completed attack.",
-      "All perspectives emphasize the 19-year-old’s arrest, recovered weapons, white-supremacist writings, and intervention, reflecting shared concern over extremism, public safety, and religious violence."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 43.0,
-    "error": null,
-    "left_pct": 26.0,
-    "location": "Illinois",
-    "right_pct": 31.0,
-    "status": "ok",
-    "summary": [
-      "On Wednesday, a Cook County judge ordered 19-year-old Alexandros Paporakis detained after he was charged with plotting a mass shooting at a Hindu place of worship in the Aurora area.",
-      "Paporakis authored a self-titled document, \"Why I Fought: A.K.A.: ,\" which expressed white supremacist ideologies and included references to violence directed toward individuals of South Asian heritage, according to Palatine police .",
-      "Investigators executing a search warrant recovered a rifle, multiple loaded magazines, hundreds of rounds of ammunition, and a tactical vest containing body armor with white supremacist imagery, Palatine Police Chief William Nord said.",
-      "Palatine and Mount Prospect police arrested Paporakis on Sunday after receiving reports of concerning electronic communications, an action FBI Chicago Special Agent in Charge Ryan Whalen described as demonstrating \"swift action.\"",
-      "Authorities continue investigating the incident with FBI assistance while stating they have not identified any known ongoing threat to the public; the Aurora Police Department has conducted outreach to local Hindu places of worship."
-    ],
-    "title": "Teen accused of plotting mass shooting at Chicago-area Hindu temple",
-    "topic": "US Crime",
-    "topic_full": "US Crime · Illinois"
-  },
-  {
-    "article_path": "/article/anthropic-to-add-us-voting-information-to-claude-before-midterms",
-    "article_url": "https://ground.news/article/anthropic-to-add-us-voting-information-to-claude-before-midterms",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 70.0,
-    "error": "Message: \n",
-    "left_pct": 10.0,
-    "location": "United States",
-    "right_pct": 20.0,
-    "status": "fail",
-    "summary": null,
-    "title": "Anthropic to add US voting information to Claude before midterms",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/us-floats-fees-for-spanish-ships-caps-on-olive-oil-imports-over-port-dispute_b6e2b8",
-    "article_url": "https://ground.news/article/us-floats-fees-for-spanish-ships-caps-on-olive-oil-imports-over-port-dispute_b6e2b8",
-    "bias": [
-      "Left-Leaning coverage frames the proposed taxes as “punishment” for Spain’s positions on Israel, Iran, and NATO spending, emphasizing political retaliation; right-leaning coverage calls it a “commercial war,” “threatens” roughly $2.8 billion—17% of relevant exports—and portrays Spain’s actions toward Israel-bound ships as a “ blockade .” Center coverage de-emphasizes that geopolitical framing, highlighting the FMC’s proposed $200,000 fee, alleged denial of access to U.S. Maritime Security Program vessels, port-access rules, and possible olive-oil restrictions.",
-      "Thus, the same measures appear either coercive diplomacy, an economic threat, or regulatory remedies within a shared U.S.-Spain international trade dispute."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 75.0,
-    "error": null,
-    "left_pct": 6.0,
-    "location": "United States",
-    "right_pct": 19.0,
-    "status": "ok",
-    "summary": [
-      "On Wednesday, the Federal Maritime Commission proposed imposing a $200,000 per-voyage fee on Spanish-flagged vessels and restricting imports of Spanish goods including olive oil, cosmetics, and ceramics over a port access dispute.",
-      "An investigation by the agency revealed Spain denied access to US-flagged vessels at its ports, creating unfavorable shipping conditions that hindered national security needs and ocean supply chain efficiency.",
-      "Trade categories facing potential restrictions include perfumery, oils, fats, ceramics, and confectionaries, with measures subject to a 60-day public comment period before taking effect.",
-      "Spanish government officials stated on Wednesday they are analyzing the FMC's conclusions and will defend national interests in coordination with the European Commission and member states.",
-      "These proposed measures represent the first concrete trade plan since President Donald Trump threatened to sever ties with Spain last year over NATO spending and stances on Gaza and the US-led Iran conflict."
-    ],
-    "title": "US floats fees for Spanish ships, caps on olive oil imports over port dispute",
-    "topic": "US Foreign Policy",
-    "topic_full": "US Foreign Policy · United States"
-  },
-  {
-    "article_path": "/article/democrats-ask-for-ai-air-traffic-control-tool-pause-until-questions-answered",
-    "article_url": "https://ground.news/article/democrats-ask-for-ai-air-traffic-control-tool-pause-until-questions-answered",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 64.0,
-    "error": null,
-    "left_pct": 36.0,
-    "location": "United States",
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "On Tuesday, more than two dozen lawmakers urged the Federal Aviation Administration to pause the new SMART tool in the Washington-area, citing safety concerns and lack of testing data.",
-      "The Strategic Management pilot launched September 21, 2026, at Reagan National, Washington Dulles, and BWI to predict traffic flows and improve air traffic management in the region.",
-      "Representative April McClain Delaney, a Maryland Democrat, questioned accountability for the $875 million system and noted lawmakers had not seen safety evaluation reports or training documentation for aviation personnel.",
-      "Transportation Secretary Sean Duffy dismissed the software as \"dumb AI\" on Tuesday, emphasizing controllers remain in charge, while officials must respond by October 19.",
-      "FAA Administrator Bryan Bedford previously called the technology \"transformational,\" with plans to expand beyond the Washington-area using about 200 data streams to optimize flight scheduling."
-    ],
-    "title": "Democrats ask for AI air traffic control tool pause until questions answered",
-    "topic": "FAA",
-    "topic_full": "FAA · United States"
-  },
-  {
-    "article_path": "/article/ag-paxton-sues-gerber-and-nestle-over-heavy-metals-in-baby-food",
-    "article_url": "https://ground.news/article/ag-paxton-sues-gerber-and-nestle-over-heavy-metals-in-baby-food",
-    "bias": [
-      "Left-Leaning coverage foregrounds Nestlé’s multinational identity and “arsenic,” framing the case through corporate accountability and consumer danger, while right-leaning coverage amplifies Paxton’s enforcement role and uses phrases like “dangerous levels,” “toxic,” and “misleading,” adding alleged 2017–2019 tests, cadmium, and purportedly absent recalls.",
-      "Center coverage more consistently qualifies claims with “alleged,” stressing marketing as “safe and pure,” deception, and QR-code disclosures.",
-      "The pivotal divide is whether to emphasize hazardous contamination, corporate conduct, or the lawsuit’s legal and political context—including Paxton’s campaign.",
-      "All perspectives converge on allegations involving arsenic and lead, deceptive safety representations, and parental protection, reflecting broader tensions over regulation, corporate power, and partisan accountability."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 60.0,
-    "error": null,
-    "left_pct": 10.0,
+    "left_pct": 47.0,
     "location": "Texas",
-    "right_pct": 30.0,
+    "right_pct": 24.0,
     "status": "ok",
     "summary": [
-      "On Oct. 9, Texas Attorney General Ken Paxton filed a lawsuit in Collin County against Gerber Products and Nestlé, alleging the companies misled Texans about baby food safety and testing.",
-      "Paxton alleges Gerber marketed products as safe and rigorously tested despite internal tests revealing toxic metals including arsenic, lead, cadmium and mercury in the ingredients.",
-      "Tests revealed Gerber carrots contained up to 17 times the bottled-water limit for cadmium, while sweet potatoes had nearly 10 times the limit for lead from 2017 through 2019.",
-      "Suing under the Texas Deceptive Trade Practices Act, the state seeks civil penalties exceeding $10 million; Competitor Beech-Nut previously recalled infant rice cereal after similar arsenic findings, unlike Gerber.",
-      "Gerber began posting test results via QR codes in 2025 to comply with California law, but the lawsuit argues these do not resolve the alleged deception since Gerber has not issued a recall for heavy metals."
+      "At a rally Thursday in San Marcos, Texas, Democrat James Talarico compared his U.S. Senate campaign to David battling Goliath, facing more than $158 million in outside Republican spending.",
+      "Talarico, a seminarian and state representative, is attempting to become the first Democrat to win statewide in over 30 years by framing politics as a struggle between the ultrawealthy and everyone else.",
+      "Elon Musk contributed $158 million to the Senate Leadership Fund, which funneled the same amount to Texas PAC supporting Paxton, while also providing $10 million to Lone Star Liberty PAC.",
+      "The candidate has distanced himself from President Joe Biden and his own party, even as progressive Sen. Bernie Sanders visits Texas this month without sharing a stage with Talarico.",
+      "Attendees at the rally, including 29-year-old bartender Kaitlyn Johnson, expressed frustration with big money's influence, saying wealthy donors want to \"buy us\" and become \"kings of the country."
     ],
-    "title": "Paxton suing Gerber and Nestlé over alleged arsenic and lead in baby food",
+    "title": "Talarico compares his campaign to the biblical David after GOP invests over $158M against him",
     "topic": "Texas Politics",
     "topic_full": "Texas Politics · Texas"
   },
   {
-    "article_path": "/article/many-americans-are-struggling-to-afford-basic-necessities_3a9fd8",
-    "article_url": "https://ground.news/article/many-americans-are-struggling-to-afford-basic-necessities_3a9fd8",
+    "article_path": "/article/michigan-dnr-to-track-fish-stocking-using-23andme-style-gene-testing",
+    "article_url": "https://ground.news/article/michigan-dnr-to-track-fish-stocking-using-23andme-style-gene-testing",
     "bias": [
-      "Left-Leaning coverage foregrounds inflation ’s 3.7% annual CPI rise and uses “struggle” to spotlight household hardship; center coverage adds that 44% reported difficulty paying for food, housing, transportation, or medical care, with lower-income adults “hit hardest.” Right-leaning coverage shifts from “inflation” to “soaring costs,” “markedly more alarmed” consumers, and gasoline—74% were very concerned—sometimes invoking “economic collapse” and presenting a claimed $5.3 million lifetime cost for the “American Dream.” Thus, left framing stresses measured inflation, while right framing amplifies anxiety and broader affordability implications.",
-      "Across perspectives, rising costs and difficulty affording necessities remain the shared concern, though emphasis reflects wider ideological divides over economic direction."
+      "Coverage shows little conventional left-right polarization: all sides present the Michigan DNR’s “ 23andMe -style” genetic testing as a practical way to measure stocking “success” and determine whether fish descend from stocked populations.",
+      "The left emphasizes public scale, highlighting the program’s $11 million cost and repeating “success” more often, while the right de-emphasizes cost and stresses operational usefulness without skepticism or partisan language.",
+      "Center coverage adds a cautious qualifier—“some” operations—narrowing the claim.",
+      "The pivotal divide is therefore not ideology but emphasis over public-resource implications and scope; all perspectives share the same basic interpretation while leaving limitations, ecological effects, and preliminary results unexamined."
     ],
     "bias_bar_text": null,
-    "center_pct": 40.0,
+    "center_pct": 29.0,
     "error": null,
-    "left_pct": 20.0,
-    "location": "United States",
-    "right_pct": 40.0,
+    "left_pct": 59.0,
+    "location": "Michigan",
+    "right_pct": 12.0,
     "status": "ok",
     "summary": [
-      "A new Pew Research Center survey found 44 percent of Americans struggled to pay for basic necessities over the past year, while 60 percent report lacking sufficient income to lead their desired life.",
-      "Inflation continues to pressure household budgets, with the Consumer Price Index rising 0.6 percent from August to September and year-over-year prices increasing 3.7 percent.",
-      "High energy costs drive significant public anxiety, with 74 percent of Americans expressing concern over gasoline prices that reached $4.333 per gallon, a 47 percent increase over the past seven months.",
-      "President Donald Trump claimed \"prices are coming down very fast\" earlier this week, yet 65 percent of Americans say his economic policies have made conditions worse.",
-      "As voters look toward November elections, economic concerns rank as a top priority, with 70 percent of Americans reporting they have cut back on \"extras\" while lacking sufficient emergency savings."
+      "The Michigan Department of Natural Resources has implemented parentage-based genetic testing to evaluate fish-stocking operations, which spent over $11 million during the 2024-25 fiscal year.",
+      "Jen Johnson, senior fisheries management biologist for the DNR, told the Michigan Natural Resources Commission on Wednesday that genetic testing replaces problematic physical tagging methods prone to reporting errors.",
+      "Pilot research in the Upper Peninsula revealed mixed results: 24 of 25 fish in Lake Emily matched stocked parents, while only two of 147 caught in Hagerman Lake were related.",
+      "Following these findings, the department will discontinue stocking Hagerman Lake after genetic analysis showed recent walleye efforts were ineffective compared to successful 1980s programs using Lake Gogebic stock.",
+      "Fisheries chief Randy Claramunt plans to expand the initiative to 500 samples statewide next fiscal year, aiming to optimize stocking decisions and potentially apply the tool to other species."
     ],
-    "title": "As inflation rises, more than 40 percent say they struggle to pay for basic necessities: Pew",
-    "topic": "US Economy",
-    "topic_full": "US Economy · United States"
+    "title": "Michigan DNR to track fish stocking using 23andMe-style gene testing",
+    "topic": "23andMe",
+    "topic_full": "23andMe · Michigan"
   },
   {
-    "article_path": "/article/maga-candidates-cringeworthy-dance-video-branded-most-embarrassing-post-of-all-time",
-    "article_url": "https://ground.news/article/maga-candidates-cringeworthy-dance-video-branded-most-embarrassing-post-of-all-time",
-    "bias": [
-      "Left-Leaning coverage frames Blackburn’s AI performance as “AI cringe,” “AI slop,” and “well-deserved backlash,” linking the episode to MAGA politics and earlier conservative criticism of Kendrick Lamar.",
-      "Right-Leaning coverage also portrays it negatively—“bizarre,” “backfires,” and “mockery and confusion”—but emphasizes bipartisan criticism, campaign damage, and questions about older politicians’ digital fluency or AI limits.",
-      "Center coverage is briefer, calling it “corny” and “horrifying” without broader ideological context.",
-      "The pivotal divide is whether the video signifies MAGA hypocrisy or a cross-party failure of judgment; all perspectives highlight Blackburn’s candidacy, Lamar-inspired imagery, and widespread ridicule."
-    ],
+    "article_path": "/article/justice-department-cuts-off-evidence-sharing-with-minnesota-investigators-probing-fatal-ice-shootings",
+    "article_url": "https://ground.news/article/justice-department-cuts-off-evidence-sharing-with-minnesota-investigators-probing-fatal-ice-shootings",
+    "bias": null,
     "bias_bar_text": null,
-    "center_pct": 12.0,
-    "error": null,
-    "left_pct": 50.0,
-    "location": "Tennessee",
-    "right_pct": 38.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, Sen. Marsha Blackburn posted an AI-generated video depicting herself dancing to Kendrick Lamar's \"Not Like Us.\" The clip mimics Lamar's 2025 Super Bowl performance and features fellow Tennessee Republicans as backup dancers.",
-      "The video mimics Lamar's 2025 Super Bowl halftime show, a performance many MAGA pundits previously criticized as \"Satanic\" and \"absolute trash.\" Blackburn's post, captioned \"Tomorrow,\" appears to promote the start of early voting.",
-      "Critics on social media mocked the clip, calling it an \"AI cringe fest\" and questioning the irony of using music from an artist Blackburn previously criticized during 2007 congressional hearings on rap music.",
-      "Blackburn's gubernatorial opponent, Tennessee state Rep. Jerri Green, condemned the video, stating, \"When I say please stop using AI to support our campaign, this is what I mean.\"",
-      "While Blackburn holds a polling advantage in the race to replace term-limited Republican Gov. Bill Lee, the video sparked widespread ridicule, with some observers calling for Lamar to issue a cease-and-desist letter."
-    ],
-    "title": "GOP’s Blackburn releases AI Kendrick Lamar video, to some criticism",
-    "topic": "Tennessee Politics",
-    "topic_full": "Tennessee Politics · Tennessee"
-  },
-  {
-    "article_path": "/article/court-to-hear-argument-on-how-a-video-privacy-law-applies-in-the-internet-age",
-    "article_url": "https://ground.news/article/court-to-hear-argument-on-how-a-video-privacy-law-applies-in-the-internet-age",
-    "bias": [
-      "Left-Leaning coverage foregrounds privacy’s protective purpose, portraying a “Blockbuster-era” law getting a “fresh look,” while right-leaning framing stresses obsolescence through “VHS-era” and casts the case as a “test” of whether outdated regulation fits digital tracking, emphasizing 247Sports and skepticism from justices on both sides.",
-      "Center coverage de-emphasizes ideological cues, focusing on statutory scope, who may sue, and future litigation.",
-      "The pivotal divide is whether modernization means preserving privacy safeguards or limiting an antiquated law’s reach.",
-      "All perspectives highlight the 1988 statute, Supreme Court review, and the clash between rental-era rules and internet technology—reflecting broader tensions over privacy, regulation, and technological change."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 70.0,
-    "error": null,
-    "left_pct": 25.0,
-    "location": "United States",
-    "right_pct": 5.0,
-    "status": "ok",
-    "summary": [
-      "On Wednesday, the Supreme Court heard oral arguments in Salazar v. Paramount Global, examining whether the 1988 Video Privacy Protection Act applies to digital tracking tools used by modern media companies.",
-      "Congress enacted the Video Privacy Protection Act in 1988 after Supreme Court nominee Robert Bork's rental history leaked to the press. Salazar alleges Paramount violated this law by sharing his Facebook ID and video-watching history with Facebook without consent.",
-      "At issue is whether Salazar qualifies as a 'consumer' under the statute. Paramount argues the law covers only those purchasing audiovisual materials, while Salazar contends it broadly protects anyone subscribing to any service from a video provider.",
-      "During arguments, Justice Elana Kagan stressed companies could easily obtain consent or use paywalls. Paramount lawyer Paul Clement countered that broad interpretations would create \"unworkable\" liabilities for routine digital business practices.",
-      "A ruling expected by next summer could resolve a circuit split over the law's scope. The outcome may reshape how companies use tracking technologies for targeted advertising, potentially exposing businesses to significant liability."
-    ],
-    "title": "Supreme Court weighs scope of 1980s video privacy law in internet newsletter age",
-    "topic": "US Supreme Court",
-    "topic_full": "US Supreme Court · United States"
-  },
-  {
-    "article_path": "/article/georgia-shatters-its-day-1-early-voting-record-for-a-midterm",
-    "article_url": "https://ground.news/article/georgia-shatters-its-day-1-early-voting-record-for-a-midterm",
-    "bias": [
-      "Left-Leaning coverage celebrates Georgia’s more than 188,000 first-day ballots—over 50,000 above 2022—as participation that “shatters” a record and signals voter engagement.",
-      "Right-Leaning framing similarly portrays residents turning out “in droves” or “in force,” but links the surge to Republican mobilization, J.D.",
-      "Vance’s visit, and a state “in play,” emphasizing national competitiveness.",
-      "Center coverage uses “breaks” or “surges,” stresses that totals are unofficial, and situates the vote within specific races.",
-      "The pivotal divide is interpretation: shared record turnout and Raffensperger’s “confidence” claim versus differing emphasis on access, enthusiasm, procedural caution, and partisan stakes."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 50.0,
-    "error": null,
-    "left_pct": 10.0,
-    "location": "Georgia",
-    "right_pct": 40.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, Georgia began early voting for the midterm election with more than 188,600 in-person ballots cast on the first day, breaking the midterm early voting record.",
-      "The first-day total represents a 40 percent increase from the 134,962 ballots cast in 2022, and exceeds the 70,849 voters recorded during the 2018 midterm's first day.",
-      "Officials have accepted 10,267 absentee ballots out of more than 130,000 issued, while voters now complete an additional check-in step requiring poll workers to handwrite names on numbered lists.",
-      "Secretary of State Brad Raffensperger attributed the turnout to voter confidence in election integrity, stating, \"This record-breaking turnout proves that voters have confidence in the integrity of our elections.\"",
-      "Early voting continues through Oct. 30, with Election Day scheduled for Tuesday, Nov. 3. Voters can find polling locations through the Secretary of State's Voter Page."
-    ],
-    "title": "Georgia shatters its Day 1 early voting record for a midterm",
-    "topic": "Georgia Politics",
-    "topic_full": "Georgia Politics · Georgia"
-  },
-  {
-    "article_path": "/article/fox-news-predicts-democrats-will-win-house-in-midterms-for-first-time-this-cycle_779df7",
-    "article_url": "https://ground.news/article/fox-news-predicts-democrats-will-win-house-in-midterms-for-first-time-this-cycle_779df7",
-    "bias": [
-      "Left-Leaning coverage frames the forecast that Democrats could take the House as an “ice-cold reality check” and says “reality is not good for Trump,” linking $6.50 diesel, unhappy farmers and truckers, and grocery costs to Republican vulnerability while portraying the prediction as especially damaging from a “ MAGA -friendly” source.",
-      "Center coverage uses the more restrained “predicts” and “economic pressures,” adding improved Democratic candidate quality rather than emphasizing presidential failure.",
-      "The pivotal divide is whether inflation signals Trump-era policy breakdown or a broader electoral calculation; both highlight Democratic House momentum and economic anxiety, while the Senate remains uncertain, reflecting wider disputes over leadership, blame, and partisan credibility."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 15.0,
-    "error": null,
-    "left_pct": 71.0,
-    "location": "United States",
-    "right_pct": 14.0,
-    "status": "ok",
-    "summary": [
-      "Fox News' latest power rankings predicted this week that Democrats are likely to flip the Republican-controlled House for the first time this election cycle, with at least 219 seats favored for the party.",
-      "Combined with improvements in Democratic candidate quality and Republican-led redistricting efforts falling short, the House appears out of reach for the GOP this year, Fox News contributor Rémy Numa wrote Tuesday.",
-      "Diesel and gas prices at record highs have rural voters souring on the Republican Party , contributing to 20 races shifting leftward according to Fox News analysis.",
-      "President Donald Trump faces sinking approval ratings and strained relations with Fox, which has become more critical in recent weeks amid the network's midterm forecast.",
-      "With 18 seats still considered toss-ups, Trump is in a 'very tight spot,' as Stuart Varney explained, frantic for solutions to lower fuel prices before the midterms."
-    ],
-    "title": "Fox News predicts Democrats will win House in midterms for first time this cycle",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/pentagon-pr-official-takes-over-stars-and-stripes-months-after-editor-publisher-kicked-out",
-    "article_url": "https://ground.news/article/pentagon-pr-official-takes-over-stars-and-stripes-months-after-editor-publisher-kicked-out",
-    "bias": [
-      "No left-leaning headlines are provided; the contrast is chiefly between center and right framing.",
-      "Center coverage emphasizes the leadership change and prior editors being “kicked out,” using “takes over” to evoke disruption, while right-leaning coverage stresses the Pentagon appointing “its own” public-affairs executive to a “historically independent,” 165-year-old publication.",
-      "The right also highlights Devine’s dual role, sharpening concerns about autonomy; center coverage de-emphasizes that history and potential conflict.",
-      "Both agree Devine is an interim Pentagon official, but their emphasis reflects broader divides over government control, institutional independence, and press authority."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 23.0,
+    "center_pct": 92.0,
     "error": null,
     "left_pct": 8.0,
-    "location": "United States",
-    "right_pct": 69.0,
-    "status": "ok",
+    "location": "Minnesota",
+    "right_pct": null,
+    "status": "no_change",
     "summary": [
-      "On Tuesday, the Pentagon appointed Christian Devine, an executive director and principal adviser in its public affairs office, as acting publisher of Stars and Stripes. Devine will retain his Pentagon duties while leading the publication until a permanent replacement is hired.",
-      "This appointment follows an internal overhaul initiated by chief Pentagon spokesperson Sean Parnell in January to remove \"woke distractions.\" The department previously dismissed editor-in-chief Erik Slavin, reporter Lara Korte, publisher Max Lederer, and ombudsman Jacqueline Smith.",
-      "Lawmakers, including Sen. Elizabeth Warren, allege recent Pentagon actions threaten the paper's editorial independence. U.S. District Judge Amit Mehta warned that standard rules could make First Amendment protections \"a hollow promise for Stars and Stripes journalists.\"",
-      "Devine acknowledged he has \"a lot to learn\" about his new role but expressed commitment to preserving editorial integrity. He said he is \"confident that Stripes can modernize its platform to prioritize original reporting\" relevant to the military community.",
-      "No timeline exists for the transition, leaving the publication under dual control of a Pentagon official indefinitely. The department continues navigating the balance between its oversight role and the paper's long-standing mandate to cover the military independently."
+      "Minnesota investigators filed court documents on Tuesday seeking federal intervention to access evidence from the Justice Department regarding fatal ICE shootings of Renee Good and Alex Pretti , alleging the DOJ is withholding critical materials.",
+      "Federal authorities initially cooperated with the Bureau of Criminal Apprehension during a three-week period in late June, but abruptly halted evidence-sharing without explanation, leaving state investigators without access to critical materials.",
+      "Bureau of Criminal Apprehension Superintendent Drew Evans stated in court filings that investigators are blocked from accessing the cellphone of the agent who shot Good, firearms used against Pretti, and scene evidence including shell casings.",
+      "Hennepin County Attorney Mary Moriarty repeatedly contacted US Attorney Daniel Rosen to resume evidence-sharing, but Rosen informed her his office would stop sharing evidence 'indefinitely,' citing 'challenges with D.C.'",
+      "While collaboration between federal and local authorities continues as normal in other homicide and gun cases, Minnesota officials are now battling the DOJ in Washington to obtain evidence required for their investigations."
     ],
-    "title": "Pentagon taps DOD public affairs official as Stars and Stripes publisher",
-    "topic": "Pentagon",
-    "topic_full": "Pentagon · United States"
+    "title": "Justice Department cuts off evidence sharing with Minnesota investigators probing fatal ICE shootings",
+    "topic": "Department of Justice",
+    "topic_full": "Department of Justice · Minnesota"
   },
   {
-    "article_path": "/article/appeals-court-finds-floridas-law-restricting-social-media-can-be-enforced",
-    "article_url": "https://ground.news/article/appeals-court-finds-floridas-law-restricting-social-media-can-be-enforced",
+    "article_path": "/article/fed-chair-warsh-says-price-stability-is-key-but-shies-away-from-signals-about-rates-wtop-news",
+    "article_url": "https://ground.news/article/fed-chair-warsh-says-price-stability-is-key-but-shies-away-from-signals-about-rates-wtop-news",
     "bias": [
-      "Left-Leaning coverage frames the ruling through First Amendment concerns, calling the measure a “ban” on “kids’ accounts” and stressing that the challenge remains unresolved, while right-leaning coverage portrays the decision as a state-empowering victory that “clears Florida to enforce” teen restrictions, using terms like “substantive.” Center coverage favors procedural language—“lifts block” and “restricting”—without foregrounding ideological stakes.",
-      "The pivotal divide is whether the ruling represents potential censorship or child protection and state authority; age thresholds and parental permission receive greater attention on the left.",
-      "All perspectives acknowledge the injunction’s reversal, likely constitutionality, and continuing litigation, reflecting broader tensions over speech, parental control, and government regulation."
+      "Left-Leaning coverage frames Warsh’s restraint as evasiveness, using phrases like “shies away” and “holds cards close,” while stressing unexpectedly high inflation and possible rate hikes.",
+      "Right-Leaning coverage presents his refusal to “prejudge” decisions as disciplined neutrality, foregrounds “price stability,” and adds AI as a “positive supply shock” supporting growth.",
+      "Center coverage occupies the middle, emphasizing that markets were “happy,” rate-hike expectations fell, and stocks rose, while supplying September’s 0.25-point increase to roughly 3.9%.",
+      "The dividing line is whether ambiguity signals troubling opacity, prudent independence, or market reassurance; all perspectives agree that price stability and incoming data will shape October’s decision."
     ],
     "bias_bar_text": null,
-    "center_pct": 49.0,
+    "center_pct": 37.0,
     "error": null,
-    "left_pct": 29.0,
-    "location": "Florida",
+    "left_pct": 41.0,
+    "location": "United States",
     "right_pct": 22.0,
     "status": "ok",
     "summary": [
-      "On Wednesday, the 11th Circuit Court of Appeals ruled that Florida's law banning social media accounts for minors is likely constitutional, reversing a lower court's preliminary injunction. The decision allows House Bill 3 to remain in effect while legal challenges proceed.",
-      "Signed by Governor Ron DeSantis in 2024, the law prohibits children under 14 from creating personal accounts and mandates parental permission for 14- and 15-year-olds. It targets platforms utilizing algorithms and 'addictive features' like infinite scrolling to engage young users.",
-      "A unanimous three-judge panel applied intermediate scrutiny, concluding the statute is content-neutral because it regulates platform mechanics rather than specific viewpoints. The court noted the law 'doesn't burden substantially more speech than necessary' to protect minors from social media addiction.",
-      "NetChoice and the Computer & Communications Industry Association criticized the ruling, with director Paul Taske warning it could force social media sites to verify the age and parental status of all users. The groups alleged this creates compliance burdens.",
-      "While the legal challenges continue in district court, the law remains in effect across Florida. Several other states have implemented similar restrictions on youth social media access, which are also currently facing active legal challenges in court."
+      "On Friday, Federal Reserve Chairman Kevin Warsh stated in Bangkok that he will not prejudge interest rate decisions for the central bank's upcoming October and December meetings.",
+      "Speaking with International Monetary Fund Managing Director Kristalina Georgieva at the IMF-World Bank Annual Meetings, Warsh observed a \"synchronous tightening in monetary policy in most places around the world.\"",
+      "Stubbornly elevated U.S. inflation hit 3.7% in September, driving the Federal Reserve's recent rate hike to roughly 3.9%, with officials indicating further increases are likely this year.",
+      "While identifying artificial intelligence as a \"huge benefit\" to the global economy, Warsh acknowledged that the investment surge is contributing to higher inflation pressures.",
+      "To address data lags in assessing inflation trends, Warsh noted that Fed economists may soon utilize new analytical tools to distill information, positioning artificial intelligence as a transformative resource."
     ],
-    "title": "Florida wins key ruling allowing it to enforce a law that targets social media use by kids",
-    "topic": "Florida Politics",
-    "topic_full": "Florida Politics · Florida"
+    "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
+    "topic": "Kevin Warsh",
+    "topic_full": "Kevin Warsh · United States"
   },
   {
-    "article_path": "/article/sfpd-da-to-release-investigation-updates-on-49ers-player-keion-white-shooting",
-    "article_url": "https://ground.news/article/sfpd-da-to-release-investigation-updates-on-49ers-player-keion-white-shooting",
+    "article_path": "/article/large-study-finds-no-link-between-ultra-processed-food-and-colorectal-cancer",
+    "article_url": "https://ground.news/article/large-study-finds-no-link-between-ultra-processed-food-and-colorectal-cancer",
     "bias": [
-      "The left-leaning framing foregrounds the spectacle—White hosting a Super Bowl party involving “Lil Baby” and “strippers”—while stressing that only two suspects were charged; the right-leaning account strips away entertainment details, calls it a post-Super Bowl “after-party” shooting, and emphasizes four men charged.",
-      "Their pivotal divide is the suspects’ legal status, while the center presentation de-emphasizes both, highlights the months-long “Operation D-Line” investigation, and uses the upbeat phrase “reels in four.” All perspectives converge on four arrests and White’s shooting, reflecting a broader tension between sensational social context, enforcement-focused accountability, and procedural framing."
+      "Left-Leaning coverage frames the large cohort’s null overall finding as “surprising,” linking it to concern over “rising rates” of colorectal cancer among younger people and stressing that food type matters.",
+      "Right-Leaning coverage calls the outcome “unexpected,” foregrounds the roughly 461,000 participants, and highlights differing associations across categories, while “comprehensive” language lends scope positive weight.",
+      "Center coverage uses restrained technical phrasing, focusing narrowly on total intake and the cohort finding rather than category effects or younger-onset trends.",
+      "All perspectives converge on no overall association, but their framing reflects broader divides over public-health implications and interpretive emphasis."
     ],
     "bias_bar_text": null,
-    "center_pct": 53.0,
+    "center_pct": 34.0,
     "error": null,
-    "left_pct": 39.0,
-    "location": "California",
-    "right_pct": 8.0,
+    "left_pct": 33.0,
+    "location": "United States",
+    "right_pct": 33.0,
     "status": "ok",
     "summary": [
-      "The San Francisco Police Department announced the arrest of four suspects on Wednesday in connection with the February 9 shooting of 49ers defensive end Keion White at a Mission District nightclub.",
-      "Early on February 9, White was shot in the ankle at the Dahlia Lounge after an argument involving rapper Lil Baby's entourage escalated, according to police reports.",
-      "San Francisco Police Chief Derrick Lew said the months-long 'Operation D-Line' involved over 250 law enforcement personnel and 50 search warrants, resulting in seizure of firearms and nearly 15 pounds of narcotics.",
-      "Gregory Walker and Curtis Green were booked into San Francisco County Jail on Monday, while authorities work to transfer Marquis Davis and Antoine Washington to San Francisco to face charges.",
-      "After undergoing successful surgery, White returned to the field this season and has recorded 3.0 sacks in four of the 49ers' five games while maintaining a career-best pace."
+      "On October 15, researchers published a study in the journal PLOS Medicine finding no overall association between total ultra-processed food intake and colorectal cancer incidence in more than 400,000 U.S. adults.",
+      "Erikka Loftfield of the National Cancer Institute and colleagues analyzed data from 461,682 adults aged 50 to 71 enrolled in the NIH-AARP Diet and Health Study between 1995 and 1996.",
+      "While total intake showed no link to cancer, researchers found that replacing 10% of UPF gram weight with minimally processed foods correlated with a 2% lower CRC incidence, reinforcing current dietary guidance.",
+      "Loftfield stated the findings align with current recommendations, noting that higher whole-grain and dairy intake but lower meat consumption from UPF sources associated with reduced CRC incidence.",
+      "Researchers cautioned findings cannot be generalized to younger, more diverse populations, particularly as CRC is now the leading cancer-related cause of death among those under 50 in the United States."
     ],
-    "title": "4 arrested in the shooting of San Francisco 49ers player Keion White at a Super Bowl party",
-    "topic": "Sports",
-    "topic_full": "Sports · California"
+    "title": "Large study finds no link between ultra-processed food and colorectal cancer",
+    "topic": "Cancer",
+    "topic_full": "Cancer · United States"
   },
   {
-    "article_path": "/article/luna-a-small-dog-missing-for-over-a-month-in-yellowstone-is-reunited-with-her-owners",
-    "article_url": "https://ground.news/article/luna-a-small-dog-missing-for-over-a-month-in-yellowstone-is-reunited-with-her-owners",
+    "article_path": "/article/exclusive-fbi-probes-long-island-dem-party-boss-after-claims-he-tried-to-buy-votes-for-reelection",
+    "article_url": "https://ground.news/article/exclusive-fbi-probes-long-island-dem-party-boss-after-claims-he-tried-to-buy-votes-for-reelection",
+    "bias": null,
+    "bias_bar_text": "C 14% Right 86%",
+    "center_pct": 14.0,
+    "error": "Message: \n",
+    "left_pct": null,
+    "location": null,
+    "right_pct": 86.0,
+    "status": "fail",
+    "summary": null,
+    "title": "Exclusive | FBI probes Long Island Dem party boss after claims he tried to buy votes for reelection",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/uk-will-make-case-for-us-to-continue-backing-ukraine-amid-strained-relations",
+    "article_url": "https://ground.news/article/uk-will-make-case-for-us-to-continue-backing-ukraine-amid-strained-relations",
     "bias": [
-      "The coverage’s left-right divide is muted: both use reassuring language such as “reunited,” while the left foregrounds Luna’s vulnerability—a 10-year-old Jack Russell, “fears for her survival,” “eluded capture,” live-trap rescue, and park confirmation.",
-      "The right instead stresses chronology and urgency, portraying her as “on the loose” since September as winter approached.",
-      "Center coverage de-emphasizes that framing, detailing sightings near intersections, employee housing, and lodges while noting Yellowstone’s “predators.” Thus, the sharpest contrast is emotional rescue narrative versus time-driven urgency, although all perspectives converge on Luna’s prolonged disappearance and reunion; winter danger is explicit mainly on the left and right."
+      "Left-Leaning coverage frames the dispute as a “deterioration” in transatlantic ties, warning that Trump’s administration could restrict intelligence sharing and portraying support for Ukraine as a “huge opportunity” to strengthen U.S. influence; right-leaning coverage instead stresses the Starshield interruption, saying it “endangered” troops and civilians while casting Britain as a constructive “bridge-builder” amid a “low point.” The pivotal divide is whether to emphasize strategic alliance commitments or immediate operational risks.",
+      "Center coverage narrows the issue to Streeting’s “strained relations” and claimed U.S. interests.",
+      "All agree Britain seeks continued backing and that the Starlink/Starshield dispute signals broader geopolitical strain."
     ],
-    "bias_bar_text": null,
-    "center_pct": 22.0,
+    "bias_bar_text": "Left 57% Center 29% R 14%",
+    "center_pct": 29.0,
     "error": null,
     "left_pct": 57.0,
-    "location": "Yellowstone National Park",
-    "right_pct": 21.0,
+    "location": null,
+    "right_pct": 14.0,
     "status": "ok",
     "summary": [
-      "On Wednesday, Luna, a 10-year-old Jack Russell terrier, was reunited with her California owners after spending over a month lost in Yellowstone National Park .",
-      "A housekeeping staffer accidentally opened a cabin door, causing Luna to bolt into the sprawling 3,500-square-mile park home to grizzly bears, wolves and other predators.",
-      "Katie Boucher, president of the Norris Ark Training and Recovery Center in Norris, Montana, set a trap baited with family-scented items as Luna had been spotted retracing her family's steps through lodges and employee housing.",
-      "A veterinary examination on Wednesday afternoon found Luna underweight but alert and in good spirits, according to Boucher.",
-      "Rescue efforts intensified as winter approached and the seasonal RV park where Luna stayed prepared to close next Monday, with local resident Marie Jaskula urging visitors not to chase the dog."
+      "On Wednesday, Prime Minister Andy Burnham welcomed Ukrainian President Volodymyr Zelensky to Downing Street, pledging that Britain's support for Ukraine \"will not change\" amid strained relations between Kyiv and Washington.",
+      "Relations between Washington and Kyiv have frayed following President Donald Trump 's decision to ease Russian diesel sanctions, compounded by allegations that SpaceX imposed speed limits on Starlink terminals used for Ukrainian drone defense.",
+      "Zelensky told the Financial Times that Moscow ignored an \"energy ceasefire\" demand from Trump, criticizing the US president's willingness to strike deals with Russia and his admiration for leaders who maintain power 20, 30, or 40 years.",
+      "Skills Minister Baroness Jacqui Smith insisted Thursday that the UK remains \"pretty direct and clear\" with Washington, vowing to \"make the case\" that allies should provide the support Ukraine deserves and needs.",
+      "Britain has accelerated supplies of air defense missiles and introduced sanctions last week against Russian oil entities, while working to retrofit British capabilities onto equipment gifted to Kyiv from other nations."
     ],
-    "title": "Luna, a small dog missing for over a month in Yellowstone, is reunited with her owners",
-    "topic": "Dogs",
-    "topic_full": "Dogs · Yellowstone National Park"
+    "title": "UK will ‘make case’ for US to continue backing Ukraine amid strained relations",
+    "topic": null,
+    "topic_full": null
   },
   {
-    "article_path": "/article/white-house-is-sued-by-kushners-government-work-control-agency",
-    "article_url": "https://ground.news/article/white-house-is-sued-by-kushners-government-work-control-agency",
+    "article_path": "/article/exclusive-investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources-say",
+    "article_url": "https://ground.news/article/exclusive-investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources-say",
     "bias": [
-      "Left-Leaning coverage frames the lawsuit as an accountability crisis, using terms like “shady backroom deals,” “profit-seeking,” and “enormous government power,” while emphasizing Kushner’s $6 billion investment firm, foreign sovereign-wealth funds, and alleged failure to disclose finances.",
-      "Right-Leaning coverage focuses more narrowly on procedural violations—“without Senate approval” and federal “ethics requirements”—portraying the dispute as an authority and compliance question rather than possible self-dealing.",
-      "Center coverage de-emphasizes financial implications, simply presenting a lawsuit over diplomatic activity.",
-      "All perspectives emphasize alleged unconfirmed diplomacy and contested authority, reflecting broader divides over executive power, ethics, foreign influence, and Trump-aligned political networks."
+      "Left-Leaning coverage spotlights revenue growth of more than threefold yet foregrounds harsh skepticism, using phrases like “AI doomers,” “not good enough,” and “it’s over” to dramatize doubts about Anthropic .",
+      "Right-Leaning coverage acknowledges “strong Q3 results” and IPO potential but stresses slowing growth, broader AI-market risks, and a possible valuation shift from roughly $2 trillion to $1.5 trillion—figures reported inconsistently across excerpts—using terms like “sinks in” and “aggravates the fall.” Center coverage mediates between them, emphasizing financing costs and investor caution.",
+      "All connect performance to IPO prospects, but only center and right prominently broaden the concern beyond Anthropic."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 21.0,
+    "error": null,
+    "left_pct": 16.0,
+    "location": "United States",
+    "right_pct": 63.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, Anthropic reported $16.8 billion in quarterly revenue, yet stocks plummeted as investors turned bearish on the AI trade amid valuation concerns.",
+      "A valuation above $2 trillion would be roughly 30 times annualized third-quarter revenue, forcing investors to weigh the enormous infrastructure commitments required to sustain growth.",
+      "With an 85% adjusted gross margin, Anthropic still faces financing hurdles; some CoreWeave bonds yield close to 15%, signaling growing funding concerns for levered companies.",
+      "Vey-Sern Ling, managing director at Union Bancaire Privee, warned that \"the real concern is not profitability itself, but the increasingly expensive price of keeping it sustainable.\"",
+      "Citrini Research posted \"Oh it's over over\" as figures circulated, while Geiger Capital described the revenue as \"not good enough,\" reflecting broader skepticism about sector profitability."
+    ],
+    "title": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown: Report",
+    "topic": "Anthropic",
+    "topic_full": "Anthropic · United States"
+  },
+  {
+    "article_path": "/article/trump-criticizes-zelenskyy-over-refinery-strikes-calls-for-elections-in-ukraine",
+    "article_url": "https://ground.news/article/trump-criticizes-zelenskyy-over-refinery-strikes-calls-for-elections-in-ukraine",
+    "bias": [
+      "Left-Leaning coverage foregrounds Russia’s continuing strikes on Ukrainian energy infrastructure, casting Trump’s “disgrace” accusation as criticism of Ukraine that underplays wartime context.",
+      "Center coverage narrows the dispute to potential global consequences, emphasizing diesel supplies, energy prices, and Trump’s claim that Zelensky is “stalling the deal.” Right-leaning coverage intensifies the personal and partisan frame, describing Trump as “blasting” or “tearing into” Zelensky, portraying Ukraine as “provoking” higher oil prices, and highlighting Trump’s view that Putin is “easier to deal with,” alongside elections in Ukraine.",
+      "All perspectives emphasize the strikes, Trump’s condemnation, and energy-price concerns, reflecting wider divides over escalation, accountability, and diplomacy."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 20.0,
+    "error": null,
+    "left_pct": 37.0,
+    "location": "Ukraine",
+    "right_pct": 43.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, President Donald Trump called Ukraine's renewed strikes on Russian oil refineries a \"disgrace\" in a Newsmax interview, claiming they are driving up global energy prices.",
+      "Ukrainian President Volodymyr Zelensky resumed attacks after Moscow continued targeting Ukrainian energy facilities, violating a reciprocal \"energy ceasefire\" Trump had previously announced.",
+      "Trump told Newsmax he finds Zelensky \"more difficult to deal with than Putin,\" while the Ukrainian leader met NATO Secretary General Mark Rutte in Brussels to rally European support.",
+      "Rejecting one-sided restrictions, Zelensky told The Financial Times the pause in refinery strikes was \"done\" because Moscow failed to honor the energy infrastructure truce.",
+      "Energy analysts suggest the global price surge stems largely from the war involving the United States, Israel, and Iran, which disrupted oil shipments through the Strait of Hormuz."
+    ],
+    "title": "Ukraine's resumption of strikes on Russian refineries is 'disgrace', Trump says",
+    "topic": "Ukraine War",
+    "topic_full": "Ukraine War · Ukraine"
+  },
+  {
+    "article_path": "/article/cnn-axios-and-other-publishers-join-googles-ai-news-program",
+    "article_url": "https://ground.news/article/cnn-axios-and-other-publishers-join-googles-ai-news-program",
+    "bias": [
+      "Left-Leaning coverage frames the deal as an economic adaptation to “declining search traffic,” emphasizing compensation and AI’s potential to “drive engaged audiences.” Right-leaning coverage shifts toward skepticism, stressing “expanded rights,” undisclosed financial terms, and whether CNN content might be used for AI training—turning a partnership into a question of scope and control.",
+      "Center coverage situates it within Google’s broader pilot and Skydance’s “ technology -driven business” strategy.",
+      "The pivotal divide is whether the agreement represents innovation and needed publisher revenue or an opaque transfer of journalism rights.",
+      "All perspectives acknowledge the multi-year deal, experimental AI features, and compensation, reflecting wider tensions over media economics, technology, and corporate power."
     ],
     "bias_bar_text": null,
     "center_pct": 60.0,
     "error": null,
-    "left_pct": 29.0,
+    "left_pct": 20.0,
     "location": "United States",
-    "right_pct": 11.0,
+    "right_pct": 20.0,
     "status": "ok",
     "summary": [
-      "On Tuesday, Citizens for Responsibility and Ethics in Washington filed a lawsuit in the U.S. District Court for the District of Columbia seeking to block Jared Kushner from serving as a special envoy without Senate confirmation.",
-      "The complaint argues Kushner wields government power while running Affinity Partners, an investment firm with over $6 billion in assets, mostly from sovereign wealth funds of Saudi Arabia, Qatar, and the United Arab Emirates.",
-      "Negotiations involving Israel, Hamas, Ukraine, Russia, and Iran are conducted by Kushner, while Affinity collects roughly $60 million per year in management fees from clients linked to those regions.",
-      "Attorney Chad Mizelle called the suit \"without merit,\" stating Kushner's volunteer service complies with ethics requirements; White House spokesperson Anna Kelly dismissed CREW as \"Trump-deranged.\"",
-      "CREW argues Kushner violates the Constitution's Appointments Clause and Ethics Act by evading financial disclosures, noting fellow envoy Steve Witkoff filed his disclosures despite also serving without salary."
+      "On Thursday, Skydance's CNN announced a multiyear partnership with Google to explore how generative AI can drive audience engagement across the network. The agreement grants Google enhanced content rights for experimental features, though financial terms remain undisclosed.",
+      "Amid declining referral traffic from search engines, publishers seek compensation for AI content use. Chartbeat data previously reported by TheWrap shows Google Search pageviews to publishers fell 34% year over year.",
+      "Sam Felix, CNN's senior vice president of strategic partnerships and business development, said \"Google's innovation with generative AI has changed how people discover information.\" The network aims to pursue commercial AI partnerships while safeguarding its intellectual property.",
+      "Google has partnered with more than 3,000 publications across more than 50 countries, including deals covering expanded display rights. The company previously launched a News AI pilot in December 2025, testing article summaries and audio briefings in Google News.",
+      "On October 1, a federal judge dismissed a Penske Media lawsuit challenging Google's use of articles in AI-generated search summaries, though the decision allows the publisher to refile. Publishers continue facing legal challenges regarding AI content use."
     ],
-    "title": "Watchdog group seeks to block Jared Kushner from serving in his volunteer envoy role",
+    "title": "CNN, Axios and other publishers join Google's AI news program",
+    "topic": "Artificial Intelligence",
+    "topic_full": "Artificial Intelligence · United States"
+  },
+  {
+    "article_path": "/article/g7-to-launch-exercises-to-guard-against-ai-cyber-attacks",
+    "article_url": "https://ground.news/article/g7-to-launch-exercises-to-guard-against-ai-cyber-attacks",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 50.0,
+    "error": null,
+    "left_pct": null,
+    "location": "Thailand",
+    "right_pct": 50.0,
+    "status": "no_change",
+    "summary": [
+      "On Thursday in Bangkok, G-7 finance leaders agreed to conduct tabletop exercises to guard against AI cyberattacks , Japanese Finance Minister Satsuki Katayama announced at the International Monetary Fund's annual gathering.",
+      "The agreement follows warnings from the IMF that AI-enabled cyberattacks on critical financial services could undermine global market confidence, prompting policymakers to coordinate responses to growing cyber security risks.",
+      "G-7 finance authorities developed simulations to test responses to AI-driven cyber threats. These exercises may eventually include private financial institutions depending on the nature of the simulations.",
+      "Results will test the effectiveness of existing protocols, with officials planning to use findings to revise manuals for better handling of potential AI-driven incidents.",
+      "Separately, the Bank of England is collaborating with banks on deep cyber-recovery options, noting on Thursday that institutions can no longer assume defenses are immune to AI-enabled threats."
+    ],
+    "title": "G7 to launch exercises to guard against AI cyber attacks",
+    "topic": "Artificial Intelligence",
+    "topic_full": "Artificial Intelligence · Thailand"
+  },
+  {
+    "article_path": "/article/order-to-limit-starshield-for-ukraine-came-from-inside-white-house-report",
+    "article_url": "https://ground.news/article/order-to-limit-starshield-for-ukraine-came-from-inside-white-house-report",
+    "bias": [
+      "Left-Leaning coverage frames the reported Starshield slowdown as “sabotage” and “Madness,” stressing disrupted Ukrainian defenses and alleged Trump-Musk alignment with “Daddy Putin.” Right-leaning accounts foreground the denial that Trump personally ordered it, soften the action as “slow down” or a “speed limit,” and interpret it as pressure on Kyiv over Russian-refinery strikes, sometimes invoking “blackmail.” Center coverage emphasizes the unresolved split between White House responsibility and presidential responsibility, plus technical effects on drones.",
+      "The pivotal divide is motive—harm to Ukraine versus diplomatic leverage—while all perspectives highlight Ukraine’s reliance on Starshield, reported service problems, and worsening Washington-Kyiv tensions."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 37.0,
+    "error": null,
+    "left_pct": 32.0,
+    "location": "Ukraine",
+    "right_pct": 31.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, Ukrainian officials reported that the White House restricted SpaceX Starshield access, imposing speed limits on military-grade receptors mounted on fast-moving drones and complicating strike missions against Russian forces.",
+      "President Donald Trump has pressured Kyiv to cease attacks on Russian refineries, blaming these strikes for rising energy prices that threaten Republican Party prospects in November's midterm elections.",
+      "SpaceX CEO Elon Musk confirmed Wednesday that the U.S. government controls Starshield usage, while a Ukrainian Defence Ministry official said receptors now operate at speeds up to 100 miles per hour.",
+      "Senior Ukrainian officials sought answers on Tuesday and Wednesday from the White House, State Department, and Pentagon, though a senior U.S. official denied the president requested the limit.",
+      "Tensions stem from a controversial deal where Russia supplies more than 2.25 million barrels of diesel to global markets, which lawmakers argue provides Moscow with war funding and complicates pressure on Russian President Vladimir Putin."
+    ],
+    "title": "Order to limit Starshield for Ukraine came from inside White House: Report",
+    "topic": "Ukraine War",
+    "topic_full": "Ukraine War · Ukraine"
+  },
+  {
+    "article_path": "/article/tesla-launches-flying-roadster-sports-ev-as-elon-musk-hails-the-future_788af7",
+    "article_url": "https://ground.news/article/tesla-launches-flying-roadster-sports-ev-as-elon-musk-hails-the-future_788af7",
+    "bias": [
+      "Left-Leaning coverage frames the Roadster as a publicity “weapon” in “talent wars,” stressing years of delays, Tesla ’s weaker sales, uncertain 2028 production, and a “gloriously absurd” spectacle that may be impractical or unsafe.",
+      "Right-Leaning coverage celebrates Musk’s apparent promise-keeping through “jaw-dropping,” “absolutely insane” stunts, presenting thrusters, sub-one-second acceleration, and “defies gravity” capability as a breakthrough that could revive Tesla.",
+      "The pivotal divide is whether brief hovering and flipping constitute a “flying car” or merely a staged maneuver lacking legal, safety, and production proof.",
+      "Both sides acknowledge the Texas demonstration, SpaceX technology, delays, and extraordinary claims, reflecting broader tensions over skepticism toward corporate spectacle versus faith in entrepreneurial innovation."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 38.0,
+    "error": null,
+    "left_pct": 27.0,
+    "location": "United States",
+    "right_pct": 35.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, Tesla CEO Elon Musk demonstrated the new Roadster at SpaceX's McGregor, Texas facility, using high-powered fans and thrusters to drive the electric supercar upside down and perform mid-air barrel rolls.",
+      "Originally unveiled in 2017, the Roadster project suffered nearly nine years of delays while Tesla prioritized mass-market vehicles like the Model Y and Cybertruck, pushing production timelines repeatedly.",
+      "The \"Thrust\" package adds cold-gas thrusters and suction systems, enabling 0-60 mph acceleration in under 0.9 seconds; customers can reserve a base Roadster for $5,000 upfront, with $45,000 due within 10 days.",
+      "Production is slated for 2028, though Musk acknowledged \"success is not guaranteed.\" Tesla vehicle engineering head Lars Moravy noted thrusters enable \"micro adjustments within a fraction of a second,\" even as Musk warned the vehicle is \"not necessarily a safety-optimized car.\"",
+      "Analysts suggest the event aims to link Tesla and SpaceX operations, though Musk dismissed the project as a \"small potato situation\" financially; competitors like Rimac and BYD have already released high-performance EVs, leaving Tesla playing catch-up."
+    ],
+    "title": "Tesla launches ‘flying’ Roadster sports EV as Elon Musk hails ‘the future’",
+    "topic": "Tesla",
+    "topic_full": "Tesla · United States"
+  },
+  {
+    "article_path": "/article/feds-warsh-says-ai-path-will-be-very-bumpy-but-ultimately-very-good-for-wealth_ff70ab",
+    "article_url": "https://ground.news/article/feds-warsh-says-ai-path-will-be-very-bumpy-but-ultimately-very-good-for-wealth_ff70ab",
+    "bias": [
+      "Left-Leaning coverage foregrounds rising prices, a potentially earlier rate hike, and coordinated tightening, using terms like “withholds,” “bumpy,” and “no free riders” to stress monetary discipline.",
+      "Right-Leaning coverage frames AI as a “positive supply shock” and historic growth engine while spotlighting employment uncertainty, financial risks, and Warsh’s refusal to signal the next decision, invoking a “turbulent period.” Center coverage bridges these views by emphasizing “colossal investments,” short-term inflation, and AI’s potential to transform monetary-policy analysis.",
+      "The pivotal divide is whether AI is primarily an opportunity for productivity or a disruption requiring caution; all acknowledge its “most consequential” impact, long-term promise, and difficult transition."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 25.0,
+    "error": null,
+    "left_pct": 18.0,
+    "location": "United States",
+    "right_pct": 57.0,
+    "status": "ok",
+    "summary": [
+      "Federal Reserve Chairman Kevin Warsh spoke in Bangkok on Friday, calling AI the \"most consequential change\" to the global economy while warning the path forward will be \"bumpy.\"",
+      "Persistent inflation pressure stems from AI and the Iran war; diesel prices remain above $6 per gallon, threatening to fuel overall inflation for months to come.",
+      "Policymakers enter a \"blackout\" period on Saturday ahead of the October 27 Fed meeting. Bank of America analysts wrote that recent core inflation \"strengthens the case for an October hike.\"",
+      "Warsh reiterated that AI will \"make economies and countries that put it to good use more productive.\" Data center companies plan to raise $570 billion from debt markets this year.",
+      "President Donald Trump criticized the Fed board as \"very hostile,\" telling reporters \"I'm relying on Kevin.\" Voters remain dissatisfied with his economic handling as midterm elections approach."
+    ],
+    "title": "Fed’s Warsh says AI path will be ‘very bumpy’ but ultimately ‘very good’ for wealth",
+    "topic": "Kevin Warsh",
+    "topic_full": "Kevin Warsh · United States"
+  },
+  {
+    "article_path": "/article/trump-says-he-is-talking-to-russia-and-china-about-denuclearization_4c4c49",
+    "article_url": "https://ground.news/article/trump-says-he-is-talking-to-russia-and-china-about-denuclearization_4c4c49",
+    "bias": [
+      "Left-Leaning coverage frames denuclearization through arsenal structure, distinguishing Russia’s stored warheads from America’s operational posture, while right-leaning coverage emphasizes strategic rivalry—especially China’s projected ability to “catch up” within five years—and the uncertainty surrounding New START.",
+      "Center coverage keeps distance with “Trump says” and “if possible,” presenting aspiration rather than confirmed negotiations.",
+      "The pivotal divide is whether the announcement signals hopeful arms reduction or a response to shifting power balances and treaty limits.",
+      "All perspectives acknowledge talks with Russia and China, their status as nuclear powers, and the shared goal of reducing weapons, reflecting broader tensions between disarmament ideals and geopolitical caution."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 43.0,
+    "error": null,
+    "left_pct": 7.0,
+    "location": "United States",
+    "right_pct": 50.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, President Donald Trump announced the United States is holding talks with Russia and China regarding denuclearization. \"I'd love to denuclearize if possible,\" Trump said, citing ongoing discussions with both nations.",
+      "The Strategic Arms Reduction Treaty expired earlier this year, ending the framework that previously allowed extensions agreed upon by President Joe Biden and Russian President Vladimir Putin for five years beginning in 2010.",
+      "According to the Stockholm International Peace Research Institute, Russia holds the largest stockpile of stored nuclear warheads, while the United States outpaces Russia on deployed warheads.",
+      "During an interview with Newsmax, Trump stated he expects China to \"catch up\" with the United States within the next five years, noting he had spoken with the Chinese President about denuclearization.",
+      "Any new extension would require an executive decision to voluntarily extend treaty limits, presenting a significant hurdle for Trump's diplomatic efforts with China and Russia."
+    ],
+    "title": "Trump says he is talking to Russia and China about denuclearization",
+    "topic": "Donald Trump",
+    "topic_full": "Donald Trump · United States"
+  },
+  {
+    "article_path": "/article/kristi-noem-no-longer-serving-as-trump-envoy-to-shield-of-the-americas",
+    "article_url": "https://ground.news/article/kristi-noem-no-longer-serving-as-trump-envoy-to-shield-of-the-americas",
+    "bias": [
+      "Left-Leaning coverage frames Kristi Noem ’s departure as a potentially concealed “quietly removed” episode amid “admin reshuffling,” inviting skepticism about Trump-era disorder; center coverage instead emphasizes that her appointment “expired” and that she may remain involved in hemispheric security efforts.",
+      "Right-Leaning coverage de-emphasizes the circumstances and continuing duties, presenting the narrower development that she is “no longer” the “Shield” envoy, language resonating with sovereignty and defense themes without alleging turmoil.",
+      "The pivotal divide is dismissal versus routine expiration—and whether the change signals instability or simply a completed assignment.",
+      "All perspectives agree she left the envoy role, reflecting broader disputes over transparency, administrative competence, and national-security framing."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 50.0,
+    "error": null,
+    "left_pct": 17.0,
+    "location": "United States",
+    "right_pct": 33.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, the State Department confirmed that former Homeland Security Secretary Kristi Noem is no longer serving as special envoy for the Shield of the Americas initiative.",
+      "President Donald Trump appointed Noem to the diplomatic role in March following her removal as Homeland Security secretary amid scrutiny regarding her management and adviser Corey Lewandowski.",
+      "Noem's envoy status expired last month, but a State Department official stated, \"She is now a senior advisor to Deputy Secretary Landau and continues to work on the Shield of the Americas portfolio.\"",
+      "The former secretary remains involved in the coalition of the United States, Caribbean, and Latin American countries, which focuses on economic and anti-cartel enforcement cooperation.",
+      "Amid departures like former ambassador to Greece Kimberly Guilfoyle, Trump praised Noem for doing \"a really terrific job\" at a coalition gathering."
+    ],
+    "title": "Noem out of Shield of America’s role, State Department confirms",
     "topic": "US Politics",
     "topic_full": "US Politics · United States"
   },
   {
-    "article_path": "/article/israel-blocks-trumps-gaza-plan",
-    "article_url": "https://ground.news/article/israel-blocks-trumps-gaza-plan",
+    "article_path": "/article/inside-elon-musks-massive-texas-rescue-mission",
+    "article_url": "https://ground.news/article/inside-elon-musks-massive-texas-rescue-mission",
     "bias": [
-      "Left-Leaning coverage frames Israel as “blocking,” “obstructing,” or imposing a “blockade” on a peace-related Gaza project, stressing stalled reconstruction, international stabilization forces, a roughly 150-troop base, and possible post–October 27 election approval.",
-      "Right-Leaning coverage also says “blocking,” but portrays the facility as a “military outpost” tied to Trump’s “ Board of Peace ,” emphasizing security, the contractor Arkel International, and delayed troop deployment.",
-      "Center coverage de-emphasizes motives, narrowing the issue to border access and trucks.",
-      "All agree construction is stalled, revealing a wider divide over Israeli responsibility, Trump diplomacy, security, and humanitarian consequences."
+      "Left-Leaning coverage portrays Musk’s roughly $158 million contribution as an emergency “rescue” of a “train wreck,” emphasizing Republican mismanagement, warnings that the race could be lost within weeks, and the broader $273 million fundraising haul as evidence of outsized donor influence.",
+      "Center coverage similarly stresses a “massive” rescue operation but foregrounds the late-August alarm and spending intervention.",
+      "Right-Leaning coverage instead frames the money as “major contributions” that “reinforce” Republican support for Ken Paxton against James Talarico, de-emphasizing crisis language while highlighting routine electoral strategy and financial-disclosure details.",
+      "All perspectives underscore the donation’s scale and Paxton’s contest, reflecting wider divides over campaign vulnerability, billionaire influence, and partisan power."
     ],
-    "bias_bar_text": "Left 44% 12% Right 44%",
-    "center_pct": 12.0,
+    "bias_bar_text": null,
+    "center_pct": 50.0,
     "error": null,
-    "left_pct": 44.0,
-    "location": null,
-    "right_pct": 44.0,
+    "left_pct": 35.0,
+    "location": "Texas",
+    "right_pct": 15.0,
     "status": "ok",
     "summary": [
-      "Israel has yet to authorize construction of a military outpost in the Gaza Strip, stalling a key initiative under President Donald Trump's Board of Peace , The Guardian reported on Wednesday.",
-      "According to The Guardian, the project was awarded to Louisiana-based Arkel International in August, but Israel refuses to open the border for contractors and equipment to enter Gaza.",
-      "Forming the International Stabilization Force, the proposed 100-meter-by-100-meter compound would accommodate approximately 150 troops drawn from a 500-soldier contingent supplied by Morocco and Kosovo.",
-      "Without this base, the broader reconstruction pilot in Rafah cannot proceed, as the stabilization force is required to provide security for construction crews installing utilities and infrastructure.",
-      "Officials associated with the Board of Peace anticipate Prime Minister Benjamin Netanyahu's government may permit construction after Israeli elections on October 27, though the report did not confirm electoral considerations as the reason for the delay."
+      "Federal Election Commission filings revealed Thursday that billionaire Elon Musk donated $158 million to the Senate Leadership Fund in September, which subsequently transferred identical amounts to Texas PAC supporting Republican Ken Paxton's Senate campaign.",
+      "Musk's team contacted Republicans in late August about what Axios called \"a train wreck they all saw coming,\" warning the GOP must inject funds into Texas immediately or risk losing the Senate seat within weeks.",
+      "Musk provided $10 million to the Lone Star Liberty PAC, matched by funds from SLF and the group itself, enabling Republicans to spend over $217 million on advertising in the Texas Senate race by month's end.",
+      "Paxton faces Democratic Texas state Rep. James Talarico, who raised a record $64 million in the third quarter; while Republicans spent $122 million in September alone supporting Paxton, recent polls show Talarico with a lead within the margin of error.",
+      "The influx provides Republicans a financial cushion as they fight to preserve their 53-seat Senate majority, with GOP leaders working to retain control of the chamber this November amid increasingly defensive national races."
     ],
-    "title": "Israel yet to Allow Board of Peace First Construction Contract in Gaza",
+    "title": "Musk bankrolls PAC spending big on Paxton in Texas",
+    "topic": "Texas Politics",
+    "topic_full": "Texas Politics · Texas"
+  },
+  {
+    "article_path": "/article/idf-releases-never-before-seen-footage-marking-two-years-since-hamass-yahya-sinwars-death_6aefb5",
+    "article_url": "https://ground.news/article/idf-releases-never-before-seen-footage-marking-two-years-since-hamass-yahya-sinwars-death_6aefb5",
+    "bias": null,
+    "bias_bar_text": "Center 33% Right 67%",
+    "center_pct": 33.0,
+    "error": "Message: \n",
+    "left_pct": null,
+    "location": null,
+    "right_pct": 67.0,
+    "status": "fail",
+    "summary": null,
+    "title": "IDF releases never-before-seen footage, marking two years since Hamas's Yahya Sinwar's death",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/kamala-harris-admits-biden-administrations-mistake-we-should-have-acted-earlier-and-more-decisively-against-israel-face-the-only-indepe",
-    "article_url": "https://ground.news/article/kamala-harris-admits-biden-administrations-mistake-we-should-have-acted-earlier-and-more-decisively-against-israel-face-the-only-indepe",
+    "article_path": "/article/israel-took-the-land-from-palestinians-has-ceded-moral-ground-obama-tells-belfast-crowd",
+    "article_url": "https://ground.news/article/israel-took-the-land-from-palestinians-has-ceded-moral-ground-obama-tells-belfast-crowd",
     "bias": [
-      "Left-Leaning coverage foregrounds Gaza ’s civilian toll, portraying Israel’s “horrific” or “appalling conduct” as demanding that Biden “should’ve acted” sooner and more forcefully; right-leaning coverage reframes the same remarks as Harris “takes aim” at Biden, stressing alleged inconsistency with her earlier stance and portraying her as attacking a U.S. ally.",
-      "A key dividing line is Harris’s criticism of Trump’s “blank check” for Netanyahu—prominent on the right but de-emphasized on the left—alongside the right’s inclusion of a dismissive “unsurprising” partisan reaction.",
-      "Both sides emphasize Harris’s condemnation and inadequate U.S. pressure, reflecting broader divides over Israel, presidential accountability, and partisan credibility."
+      "Left-Leaning coverage foregrounds Palestinian dispossession and Israeli policy, using phrases such as “took the land,” “crossed the line,” and “abandoned morality,” while portraying military power as incapable of delivering lasting security.",
+      "Right-Leaning coverage pivots to Obama’s alleged offense, using “anti-Semitic,” “under fire,” and “backlash” to frame his remarks as attacks on Jews and the 3,000-year Jewish connection to the land, while emphasizing persecution and Israeli security concerns.",
+      "Center coverage largely attributes the criticism and notes “ceded moral ground,” with limited context and attention to post–October 7 violence.",
+      "All acknowledge Obama’s Belfast remarks, controversy, and the conflict’s enduring security and moral stakes."
     ],
     "bias_bar_text": null,
     "center_pct": null,
@@ -782,24 +641,23 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
-      "Speaking at the Asan Institute for Policy Studies in Seoul, South Korea on Wednesday, Former Vice President Kamala Harris criticized President Biden and President Donald Trump for failing to use leverage to curb Israel's military campaign in Gaza.",
-      "Harris accused the current administration of offering Israeli Prime Minister Benjamin Netanyahu a \"blank check,\" while noting the Biden administration—where she served four years—failed to take sufficiently aggressive action as detailed in her memoir, 107 Days.",
-      "Describing the Israel Defense Forces' military campaign as \"horrific conduct,\" Harris argued Washington must uphold its \"moral obligation to human rights and international law\" in dealing with Gaza.",
-      "The Republican Jewish Coalition called the remarks \"unsurprising,\" citing her opposition to legislation targeting the Israel Boycott, Divestment and Sanctions movement and her previous calls to halt operations in Rafah, where the Israel Defense Forces rescued hostages.",
-      "Attorney and author Warren Kinsella, who worked on her 2024 campaign, wrote he is \"ashamed to have worked with her\" following the speech, as Harris considers another White House campaign in 2028."
+      "On Tuesday, former President Barack Obama spoke at the O2 arena in Belfast, Northern Ireland, arguing that Israel's founding involved \"injustice\" against Palestinians and criticizing the government's reliance on military force.",
+      "Speaking with journalist Susan McKay, Obama acknowledged Jewish persecution in Europe while asserting that Israel's establishment involved taking land and being \"excessive.\"",
+      "Critics accused the former president of distorting history, arguing he overlooked more than 3,000 years of Jewish ties to the Land of Israel and minimized continuous Jewish presence in the region.",
+      "Obama warned that Israel has \"ceded moral ground\" by prioritizing military solutions, arguing the citizenry must \"rethink, reimagine\" how to coexist with Palestinians rather than relying on walls and force.",
+      "Regarding the path forward, Obama stated Palestinians must abandon expectations of military victory and pursue \"nonviolent strategies,\" acknowledging that lasting peace requires significant diplomatic effort and creative engagement."
     ],
-    "title": "Kamala Harris Criticizes Biden Administration's Failure to Curb Israel's Conduct During Gaza War",
+    "title": "Israel 'Took the Land' From Palestinians, Has 'Ceded Moral Ground,' Obama Tells Belfast Crowd",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/nls-offshore-oil-could-help-bankroll-a-company-linked-to-israels-illegal-occupation-of-palestine-the-independent",
-    "article_url": "https://ground.news/article/nls-offshore-oil-could-help-bankroll-a-company-linked-to-israels-illegal-occupation-of-palestine-the-independent",
+    "article_path": "/article/prison-service-fired-rubber-bullets-at-security-prisoners-it-ended-in-surgeries-and-testicle-removal",
+    "article_url": "https://ground.news/article/prison-service-fired-rubber-bullets-at-security-prisoners-it-ended-in-surgeries-and-testicle-removal",
     "bias": [
-      "The left-leaning framing casts the proposed transfer of Suncor stakes in three Newfoundland and Labrador projects to Ithaca Energy as ethically charged, using phrases like “help bankroll” and “illegal occupation” to connect oil revenue with Israel, Palestinian territories, a UN blacklist, and a prime-ministerial pledge on settlement trade .",
-      "No right-leaning coverage is provided, so a job-creation or transaction-positive counterframe cannot be assessed.",
-      "The center-listed headline repeats the same charged wording, though its limited discussion emphasizes Ithaca’s majority ownership by Delek Group and the deal mechanics.",
-      "Both perspectives connect the transaction to Ithaca and Delek, revealing a geopolitical fault line."
+      "Left-Leaning coverage frames the allegations as an escalating human-rights crisis, emphasizing a “surge,” “severely injuring,” 21 documented cases, and the Prison Service’s dismissal as a “smear campaign.” Center coverage retains attribution through “report,” but broadens the issue into “harsh treatment” and de-emphasizes case-specific evidence.",
+      "Right-Leaning coverage avoids “surge” and instead foregrounds graphic consequences—surgery, a fractured shin, and testicle removal—while portraying prisoners as “severely injured.” The pivotal divide is whether to stress systemic escalation, historical conditions, or individual harm, alongside whether official denial merits attention.",
+      "All perspectives nevertheless highlight close-range rubber-bullet shootings, serious injuries, and rights-group allegations, reflecting the conflict’s broader ideological divide over Israeli security and Palestinian rights."
     ],
     "bias_bar_text": null,
     "center_pct": null,
@@ -809,41 +667,194 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
-      "This month, Suncor announced a 'definitive agreement' to sell its offshore oil assets in Newfoundland and Labrador to UK-headquartered Ithaca Energy for CAD $1.2 billion, including stakes in Terra Nova, White Rose, and West White Rose projects.",
-      "Ithaca is majority-owned by the Israeli Delek Group, which appears on a United Nations database for 'activities that raised particular human rights concerns' in the occupied Palestinian territories and is accused of providing services supporting illegal settlements.",
-      "Citing Prime Minister Mark Carney's September 8 commitment to ban trade with illegal settlements, NDP Foreign Affairs Critic Heather McPherson argues the government should stop this acquisition, claiming it contradicts that pledge.",
-      "International investors have previously distanced themselves from Delek; Norway's KLP pension fund and sovereign wealth fund divested from the company in recent years, while a similar controversy is unfolding in the United Kingdom regarding Ithaca's stake in the Rosebank oil field.",
-      "Energy Minister Lloyd Parrott did not answer questions regarding the takeover, while Global Affairs Minister Anita Anand did not respond to requests for comment, leaving critics to question whether the trade ban includes services and investments beyond goods."
+      "Israeli human rights groups have documented 22 cases of inmates shot with rubber bullets, reporting a surge in the practice that has become routine violence in prisons. One of the 22 detainees is Israeli; the rest are Palestinian.",
+      "Conditions in Israeli prisons deteriorated dramatically since the war in Gaza began more than three years ago. Following the October 7, 2023, Hamas-led attacks, authorities rounded up thousands of Palestinians, doubling the prison population to more than 9,000, according to Hamoked.",
+      "Medical records from Soroka document a 45-year-old inmate whose testicle was \"completely crushed\" by a rubber bullet, requiring surgical removal. Other detainees report being shot at point-blank range in cells, with several stating they received no medical treatment for resulting injuries.",
+      "Under Israel's prison regulations, guards may only use weapons when facing imminent risk, said Sari Bashi, executive director of the Public Committee Against Torture in Israel. However, the prison service's legal adviser defended the use of rubber bullets as \"measured\" and \"appropriate.\"",
+      "Muhannad Abu Ghosh, director of the prisoners and detainees division at Physicians for Human Rights Israel, warned the practice is \"becoming another routine form of violence.\" Rights groups urge the prison service to end behavior they call widespread and unlawful."
     ],
-    "title": "Ithaca to Buy Suncor N.L. Assets for $1.2B; Critics Cite UN-Listed Delek Link",
+    "title": "Israeli rights groups report a surge of Palestinian inmates being shot with rubber bullets",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/former-white-house-press-secretary-karoline-leavitt-shares-advice-for-age-gap-romances-amid-her-own_832570",
-    "article_url": "https://ground.news/article/former-white-house-press-secretary-karoline-leavitt-shares-advice-for-age-gap-romances-amid-her-own_832570",
-    "bias": [
-      "Coverage divides over what Leavitt’s Instagram Q&A signifies: the left-leaning item spotlights her 32-year age-gap marriage, using “fiercely defended” and “forget the haters” to foreground criticism and defiance, while de-emphasizing Instagram, Trump, and her children.",
-      "Right-Leaning coverage presents a “surprise” disclosure, highlights a “hidden Trump trait,” calls him her “best boss,” and links her departure as former press secretary to grueling “60+ hour work weeks” and more time with her children; repeated syndicated versions reinforce that favorable portrait.",
-      "Center coverage bridges these angles, emphasizing her role departure and relationship advice.",
-      "All highlight the marriage, but diverge over scrutiny, family, career, and Trump."
-    ],
-    "bias_bar_text": "8% Center 30% Right 62%",
-    "center_pct": 30.0,
+    "article_path": "/article/president-trump-ramps-up-campaign-efforts-with-18-days-left-until-the-midterms",
+    "article_url": "https://ground.news/article/president-trump-ramps-up-campaign-efforts-with-18-days-left-until-the-midterms",
+    "bias": null,
+    "bias_bar_text": "Center 100%",
+    "center_pct": 100.0,
     "error": null,
-    "left_pct": 8.0,
+    "left_pct": null,
     "location": null,
-    "right_pct": 62.0,
-    "status": "ok",
+    "right_pct": null,
+    "status": "no_change",
     "summary": [
-      "On Wednesday, October 14, former White House Press Secretary Karoline Leavitt shared relationship advice via Instagram Stories, telling fans to \"forget the haters\" when dating someone with a significant age difference.",
-      "The New Hampshire native is married to Nicholas Riccio, who is 32 years her senior; the couple met in 2022 and married in January 2025, navigating public attention regarding their age gap.",
-      "Protecting the innocence of her two young children—Nico, 2, and Viviana, 5 months—Leavitt noted on Wednesday that she conceals their faces on social media to avoid threats and negativity.",
-      "Starting November 1, Leavitt will work as an on-air contributor at MAGA-friendly Fox News, marking her professional transition after departing the White House in August.",
-      "Describing her tenure as \"the honor and adventure of a lifetime,\" she explained on X that leaving the White House allowed her to better focus on her family and young children."
+      "With 18 days until the midterm elections, President Donald Trump is ramping up his campaign efforts through a 32-day blitz to bolster GOP candidates across key states.",
+      "On Saturday, Trump will attend a rally in northern Kentucky supporting Republican Senate candidate Andy Barr, who seeks to replace the retiring Sen. Mitch McConnell.",
+      "Trump will continue his campaign in Wichita, Kansas, on Monday and Greenville, North Carolina, on Tuesday, addressing the open Senate seat left by Republican Thom Tillis.",
+      "A new Fox News poll reveals that 70% of Americans disapprove of Trump's handling of the economy, while 77% disapprove of his approach to inflation.",
+      "Political analyst Todd Belt said midterm elections are \"always a referendum on the president's handling of his job,\" while Trump floated returning to Texas before Nov. 3."
     ],
-    "title": "Former White House Press Secretary Karoline Leavitt Shares Advice for Age Gap Romances Amid Her Own",
+    "title": "President Trump ramps up campaign efforts with 18 days left until the midterms",
     "topic": null,
     "topic_full": null
+  },
+  {
+    "article_path": "/article/google-warns-suspected-china-linked-hackers-could-exploit-beyondtrust-flaw",
+    "article_url": "https://ground.news/article/google-warns-suspected-china-linked-hackers-could-exploit-beyondtrust-flaw",
+    "bias": [
+      "Left-Leaning coverage is de-emphasized in the supplied material, while right-leaning framing foregrounds China, “pirates,” “capture remote support servers,” and “great concern,” portraying the BeyondTrust flaw as an urgent national-security threat.",
+      "Center coverage stresses attributional caution—“suspected China-linked hackers”—and details exploitation since late August and potential, not confirmed, “widespread exploitation.” The pivotal divide is whether to emphasize timeline and uncertainty or alleged Chinese responsibility, Armory Castle, and privileged access.",
+      "Both perspectives stress zero-day exploitation, patching, and Google ’s warning, reflecting a broader divide between measured cybersecurity reporting and more alarm-oriented geopolitical threat framing."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "BeyondTrust patched CVE-2026-102764 on October 8, a critical authentication bypass vulnerability that the China-linked hacking group Armory Castle exploited since August to compromise Remote Support appliances.",
+      "Successful exploitation allows unprivileged remote attackers to perform file operations and escalate to root-level control of the appliance host, granting access to every credential the appliance stored or brokered.",
+      "Google warned on Thursday that organizations should prepare for \"potential widespread exploitation\" after the vulnerability's disclosure, urging swift action to patch or mitigate the flaw before attackers exploit it widely.",
+      "Attackers deployed Sawfly web shell and Bareclaw tunneler malware to evade detection, according to Mandiant; BeyondTrust noted self-hosted Remote Support installations require manual patching if automatic updates are not enabled.",
+      "CVE-2026-102764 continues a string of BeyondTrust flaws exploited by state-backed actors; Silk Typhoon previously compromised 17 Remote Support SaaS instances to access sensitive Treasury Department data."
+    ],
+    "title": "Google warns suspected China-linked hackers could exploit BeyondTrust flaw",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/white-house-press-secretary-katie-zacharia-was-an-affiliate-marketer-for-a-fitness-mlm",
+    "article_url": "https://ground.news/article/white-house-press-secretary-katie-zacharia-was-an-affiliate-marketer-for-a-fitness-mlm",
+    "bias": [
+      "Left-Leaning coverage portrays Katie Zacharia ’s past as “murkier by the day,” using “sheepishly” and “sort of a pyramid scheme” to cast her résumé gap and fitness-MLM work as embarrassing and troubling, while adding deleted profiles and contextual detail.",
+      "Right-Leaning coverage de-emphasizes those details, foregrounding that she worked for an MLM, though “pyramid scheme” and comparisons implying she “may not have passed the bar” still invite skepticism.",
+      "Center coverage compresses the issue into the unqualified “marketed a pyramid scheme.” The pivotal divide is whether Zacharia’s qualified description warrants a categorical label; all perspectives emphasize her role and controversial business association, reflecting broader disputes over political accountability and partisan scrutiny."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "On Thursday, White House press secretary Katie Zacharia told Wired she was an affiliate marketer for Beachbody, not an employee, and admitted she never passed the California state bar exam.",
+      "After returning from China in 2013, Zacharia joined Beachbody's multilevel marketing operation, which she describes as \"sort of a pyramid scheme\" before the company rebranded to BODi in 2023.",
+      "In 2017, Beachbody settled a $3.6 million consumer protection lawsuit with Santa Monica prosecutors, who alleged the company made health claims about Shakeology that were \"false, misleading, and not backed by scientific evidence.\"",
+      "BODi confirmed Zacharia was among 300,000 independent distributors in 2013, stating it would be \"misrepresentation\" to compare her tenure with the company's current direct-to-consumer business model.",
+      "Zacharia's history aligns with other Trumpworld personnel who have supplement-related business ties, including surgeon general nominee Nicole Saphier, who reported nearly $300,000 in income from her supplement company."
+    ],
+    "title": "White House Press Secretary Katie Zacharia Used to Work for a 'Pyramid Scheme'",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/prime-minister-mark-carney-says-us-is-trying-to-break-canada-as-alberta-votes-on-separation-path_25835f",
+    "article_url": "https://ground.news/article/prime-minister-mark-carney-says-us-is-trying-to-break-canada-as-alberta-votes-on-separation-path_25835f",
+    "bias": [
+      "Left-Leaning coverage frames Carney’s Calgary appeal as a national-unity campaign, stressing “Vote like Canada depends on it,” “deep division,” and “great uncertainty,” while portraying U.S. pressure through the charged phrase “trying to break Canada.” Right-leaning coverage de-emphasizes those consequences and foregrounds Alberta ’s “separation path,” federal opposition, and the characterization of Alberta as “oil-rich,” emphasizing sovereignty and resource stakes.",
+      "Center coverage supplies more procedural context, clarifying that Monday’s vote begins a possible future process rather than deciding independence immediately.",
+      "The pivotal divide is whether the story is chiefly about preserving unity or resisting federal and foreign pressure; all perspectives still emphasize Carney’s warning, the vote’s significance, and Alberta’s potential constitutional crossroads."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 18.0,
+    "error": null,
+    "left_pct": 71.0,
+    "location": "Alberta",
+    "right_pct": 11.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, Prime Minister Mark Carney urged Albertans to vote to remain in Canada during a Forever Canadian rally in Calgary, warning that separation would cause \"years of deep division and great uncertainty.\"",
+      "Amid U.S. President Donald Trump's trade war with Canada and repeated threats to make Canada the 51st state, Carney argued the nation needs to become more economically resilient and less dependent on the United States.",
+      "More than 5,000 attendees gathered at the BMO Centre, where former CFL player Jon Cornish and Calgary Chamber of Commerce director Deborah Yedlin advocated for unity and national preservation.",
+      "Advance voting saw 174,532 Albertans cast ballots through Saturday, while Alberta Premier Danielle Smith voted Wednesday to remain in Canada yet continued pushing for a 'yes' to nine provincial autonomy questions.",
+      "Carney is scheduled to attend a second Forever Canadian rally in Edmonton on Friday, while analysts note a \"Trump effect\" has paradoxically rallied Canadians around the Prime Minister even in traditionally separatist-leaning Alberta."
+    ],
+    "title": "Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path",
+    "topic": "Alberta Politics",
+    "topic_full": "Alberta Politics · Alberta"
+  },
+  {
+    "article_path": "/article/trump-says-if-ken-paxton-loses-texas-senate-race-blame-cornyn-and-karl-rove",
+    "article_url": "https://ground.news/article/trump-says-if-ken-paxton-loses-texas-senate-race-blame-cornyn-and-karl-rove",
+    "bias": [
+      "Left-Leaning coverage frames Trump’s intervention as a “blame game” or “angry tirade,” stressing Paxton’s “scandal-plagued” record, impeachment, polling disadvantage against James Talarico , and Cornyn’s stronger general-election profile.",
+      "Right-Leaning coverage instead portrays Cornyn and Karl Rove as “sabotaging” the nominee—“toxic RINOs” or “political hacks”—and urges Republican unity, even mocking Talarico as “TalaFREAKO.” The pivotal divide is whether withheld support reflects justified concern about Paxton or establishment disloyalty threatening the party.",
+      "Center coverage largely confines itself to Trump’s claim that they are “hurting Texas.” All perspectives emphasize Trump’s endorsement, accusations, and the stakes of a potential Republican loss, reflecting wider battles over party loyalty, electability, and populist versus establishment conservatism."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 39.0,
+    "error": null,
+    "left_pct": 39.0,
+    "location": "Texas",
+    "right_pct": 22.0,
+    "status": "ok",
+    "summary": [
+      "President Donald Trump on Thursday blamed Senator John Cornyn and Karl Rove if Republican Ken Paxton loses his Texas Senate race against Democrat James Talarico.",
+      "Paxton's campaign faces challenges amid reports of past corruption scandals, with polls showing him trailing Talarico in a race Republicans have dominated for three decades.",
+      "Trump raged on Truth Social that Cornyn and Rove are \"doing everything possible to make it hard\" for Paxton to win, boasting he won 96% of Texas counties.",
+      "Rove argued the race \"would be over\" if Cornyn had defeated Paxton in the primary, citing allegations from Paxton's 2023 impeachment trial that ended in acquittal by the Texas Senate.",
+      "With early voting beginning Oct. 19, the election remains tight as Democrats hope to break three decades of Republican dominance in the Lone Star State."
+    ],
+    "title": "Trump berates Cornyn, Rove for not backing Paxton: ‘They are hurting Texas’",
+    "topic": "Donald Trump",
+    "topic_full": "Donald Trump · Texas"
+  },
+  {
+    "article_path": "/article/trump-musk-has-a-little-problem",
+    "article_url": "https://ground.news/article/trump-musk-has-a-little-problem",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 43.0,
+    "error": "Message: \n",
+    "left_pct": 43.0,
+    "location": "United States",
+    "right_pct": 14.0,
+    "status": "fail",
+    "summary": null,
+    "title": "Trump: Musk has ‘a little problem’",
+    "topic": "Donald Trump",
+    "topic_full": "Donald Trump · United States"
+  },
+  {
+    "article_path": "/article/fda-issues-final-rule-on-salt-substitutes-in-standardized-foods",
+    "article_url": "https://ground.news/article/fda-issues-final-rule-on-salt-substitutes-in-standardized-foods",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 91.0,
+    "error": null,
+    "left_pct": 9.0,
+    "location": "United States",
+    "right_pct": null,
+    "status": "no_change",
+    "summary": [
+      "The FDA finalized a rule allowing manufacturers to use salt substitutes in 139 standardized foods, providing flexibility to reduce sodium in products like bread, canned tuna, and sour cream.",
+      "Roughly 90% of Americans exceed recommended sodium intake, with more than 70% of that sodium coming from processed foods manufactured commercially. The agency aims to reduce average daily consumption from about 3,400 milligrams toward the 2,300-milligram limit.",
+      "Manufacturers can now replace salt with \"safe and suitable\" substitutes in 80 standards of identity, provided substitutes preserve the food's \"essential characteristics.\" These ingredients must be listed on labels, though no special front-of-package disclosure is required.",
+      "The International Dairy Foods Association, led by President and CEO Michael Dykes, welcomed the rule, though commenters raised safety concerns regarding potassium-based substitutes. Excessive potassium can pose risks for individuals with kidney disease or taking specific medications.",
+      "Most amendments take effect December 14, allowing companies to voluntarily reformulate products to meet sodium reduction goals. This aligns with the Make America Healthy Again initiative aimed at lowering chronic disease rates."
+    ],
+    "title": "Many popular foods may now use salt substitutes, says FDA",
+    "topic": "Health",
+    "topic_full": "Health · United States"
+  },
+  {
+    "article_path": "/article/fairfax-arlington-counties-can-defend-transgender-student-policies-in-court-judges-rule",
+    "article_url": "https://ground.news/article/fairfax-arlington-counties-can-defend-transgender-student-policies-in-court-judges-rule",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 34.0,
+    "error": "Message: \n",
+    "left_pct": 33.0,
+    "location": "Virginia",
+    "right_pct": 33.0,
+    "status": "fail",
+    "summary": null,
+    "title": "Appeals court revives Virginia school boards’ suits against Trump administration over transgender policy threats",
+    "topic": "Virginia Politics",
+    "topic_full": "Virginia Politics · Virginia"
   }
 ]
