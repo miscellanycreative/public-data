@@ -1,11 +1,12 @@
 [
   {
-    "article_path": "/article/trump-waives-new-russia-sanctions-passed-by-congress-citing-national-interests_1f4df0",
-    "article_url": "https://ground.news/article/trump-waives-new-russia-sanctions-passed-by-congress-citing-national-interests_1f4df0",
+    "article_path": "/article/us-resumes-intelligence-sharing-with-ukraine-after-pause-zelenskyy-says",
+    "article_url": "https://ground.news/article/us-resumes-intelligence-sharing-with-ukraine-after-pause-zelenskyy-says",
     "bias": [
-      "Left-Leaning coverage frames Trump’s waiver as an “economic lifeline” and “rewarding Putin,” stressing that he reversed bipartisan pressure on Moscow, weakened Ukraine’s position, and contradicted legislation he had signed; right-leaning coverage instead portrays it as “relief” for India and China and a “pragmatic” defense of U.S. energy interests, emphasizing diesel prices, presidential discretion, and the option to reinstate sanctions .",
-      "The pivotal divide is whether the action represents abandonment of Ukraine or temporary economic statecraft, with Zelenskyy’s criticism amplified on the left and de-emphasized on the right.",
-      "All sides acknowledge the suspension, its “national interest” rationale, looming tariffs, and Russian approval, reflecting wider tensions over Ukraine, energy, and views of Trump’s Russia policy."
+      "Left-Leaning coverage frames the resumption as “critical” support and portrays Washington’s “blocked” intelligence as leaving Ukraine vulnerable to Russian missiles, emphasizing solidarity and humanitarian stakes.",
+      "Right-Leaning coverage likewise calls it “good news” but stresses strategic dysfunction, disputes over Ukrainian attacks on Russian energy facilities, satellite restrictions, and possible U.S. accommodation of Russia; “Kiev regime,” “blackout,” and “historic mistake” sharpen its confrontational tone.",
+      "Center coverage, using restrained attribution, highlights Zelensky’s claim that warnings were absent for roughly three days and the possibility of peace talks.",
+      "All agree sharing resumed and aided missile defense, while diverging over accountability, diplomacy, and U.S.-Ukraine tensions."
     ],
     "bias_bar_text": null,
     "center_pct": null,
@@ -15,30 +16,106 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
-      "President Donald Trump signed an executive order creating new tariffs and sanctions against Russia but immediately waived them, citing U.S. national interests.",
-      "The order established a 500% tariff on Russian goods and a possible 100% tariff on major buyers of Russian oil and gas.",
-      "Trump said he submitted a certification to Congress stating that issuing the waiver was in the United States’ national interests.",
-      "The order implements the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, which Trump signed into law on September 18."
+      "On Sunday, Oct. 18, President Volodymyr Zelenskyy announced that the United States has resumed sharing military and security intelligence with Ukraine after suspending data exchanges for \"some period of time.\"",
+      "Sharp disagreements between Washington and Kyiv over battlefield targeting rules prompted the suspension, as Washington warned it would halt intelligence if Ukraine continued strikes against Russian energy infrastructure.",
+      "Prior to the restoration, Ukrainian defense forces received no advance warnings from Western partners regarding Russian ballistic missile launches, resulting in damage to critical energy installations in Kyiv.",
+      "On Friday, Oct. 16, Defense Council Secretary Rustem Umerov held consultations with US special envoy Jared Kushner to discuss a timetable and format for upcoming in-person meetings.",
+      "President Volodymyr Zelenskyy affirmed that Kyiv remains prepared for discussions with White House representatives to explore verifiable mechanisms for a reciprocal \"energy ceasefire\" to protect civilian utility networks."
     ],
     "title": "Source Icon",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/teen-shooter-who-killed-4-at-oregon-elementary-school-was-a-former-student-police-say_d86d5d",
-    "article_url": "https://ground.news/article/teen-shooter-who-killed-4-at-oregon-elementary-school-was-a-former-student-police-say_d86d5d",
+    "article_path": "/article/trump-endorses-netanyahu-for-reelection-ahead-of-israel-vote_991130",
+    "article_url": "https://ground.news/article/trump-endorses-netanyahu-for-reelection-ahead-of-israel-vote_991130",
     "bias": [
-      "Left-Leaning coverage foregrounds the four victims, the special-needs classroom, and the teacher’s intervention, presenting both teacher and parent as “heroes,” while right-leaning coverage centers the “armed hero” father, “took down” language, and the claim that armed civilians can halt tragedy.",
-      "The pivotal divide is whether the shooting signifies school vulnerability and broader gun violence or validates armed self-defense; right-leaning rhetoric also uses “maniac gunman” and “horrific,” whereas left coverage is more restrained and contextual.",
-      "Center coverage emphasizes access, investigation, mourning, and uncertain motive.",
-      "All perspectives agree on the 16-year-old former student, four victims, teacher’s confrontation, armed parent’s intervention, and unresolved motive, reflecting wider cultural divides over guns, responsibility, and public safety."
+      "Left-Leaning coverage frames Trump’s endorsement, issued nine days before Israel’s election, as a “stunning intervention” aiding an “embattled” or “far-right” Netanyahu, while stressing Gaza, West Bank settler violence, and risks of tying U.S. war policy to his reelection.",
+      "Right-Leaning accounts portray Netanyahu as a “strong, brave, brilliant” “partner for peace” against Iran, warning the United States may have to “finish the job” alone and reassuring that he “will never let you down.” Center coverage emphasizes a “tight race,” timing, and uncertain electoral impact.",
+      "All agree Trump endorsed Netanyahu and invoked Iran, revealing broader divides over sovereignty, security, and nationalism."
     ],
-    "bias_bar_text": null,
-    "center_pct": 53.0,
+    "bias_bar_text": "Left 30% Center 38% Right 32%",
+    "center_pct": 38.0,
     "error": null,
     "left_pct": 30.0,
     "location": null,
-    "right_pct": 17.0,
+    "right_pct": 32.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, President Donald Trump endorsed Prime Minister Benjamin Netanyahu in his race for reelection, aiming to boost the long-time Israeli leader ahead of next week's parliamentary election.",
+      "Trump's public endorsement followed his interview with Newsmax on Thursday, where he declined to back the campaign despite saying \"they\" wanted him involved in the upcoming Knesset elections.",
+      "During the interview, Trump acknowledged the success of the US-Israel military partnership, praising Netanyahu as a \"great warrior prime minister\" who joined the United States in launching strikes on Iran.",
+      "Netanyahu thanked Trump for the endorsement in a video posted to X/Twitter, stating, \"Together we will never let Iran's regime get nuclear weapons.\"",
+      "Addressing the Israeli public, Trump warned that if Israel chooses a different leader, \"America will have to do this work ourselves, and I am not inclined to do so."
+    ],
+    "title": "Trump Endorses Netanyahu for Reelection Ahead of Israel Vote",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/at-least-2-dead-after-vehicle-drives-through-soccer-game-in-wichita-kansas-police_1afb1e",
+    "article_url": "https://ground.news/article/at-least-2-dead-after-vehicle-drives-through-soccer-game-in-wichita-kansas-police_1afb1e",
+    "bias": [
+      "Left-Leaning coverage foregrounds a family tragedy, children, witness panic, and phrases like “pure panic,” “rammed,” or “rampage,” while right-leaning coverage stresses public-safety danger, “innocent people,” “horror,” and “plowed,” sometimes highlighting the driver as a woman or mother and noting two juveniles in the vehicle.",
+      "Center coverage more often uses “drove onto,” “mass casualty incident,” and “what we know,” emphasizing uncertainty about intent and no continuing threat.",
+      "The pivotal divide is whether forceful wording implies an attack despite unclear motive.",
+      "All perspectives agree that two people died, many were injured, and the driver was detained, reflecting broader tensions over sensationalism, threat perception, and accountability."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 54.0,
+    "error": null,
+    "left_pct": 23.0,
+    "location": "Wichita",
+    "right_pct": 23.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday, a 34-year-old woman drove a pickup truck onto a youth soccer field at Wichita's Stryker Sports Complex, killing a 6-year-old boy and a 35-year-old man while injuring 11 others.",
+      "Wichita Police Captain Aaron Moses confirmed the driver, a Garden City resident, remains in custody as investigators examine how the vehicle breached the fenced field with two juveniles inside the truck.",
+      "Police Chief Joe Sullivan reported that bystanders \"sprang into action\" to provide life-saving aid to injured victims before first responders arrived, though authorities have not yet determined if the incident was intentional.",
+      "The Stryker Sports Complex canceled all events until further notice, while the Kansas State High School Activities Association suspended flag football championships and Mayor Lily Wu stated, \"Today is a heartbreaking day for Wichita.\"",
+      "Investigators continue interviewing over 30 witnesses and seeking video footage to determine why the vehicle entered the field, as community support services prepare to assist those affected by the tragedy."
+    ],
+    "title": "Wichita Stryker Sports Complex: What we know about the incident that left multiple people injured",
+    "topic": "Police",
+    "topic_full": "Police · Wichita"
+  },
+  {
+    "article_path": "/article/159b2d4a-cac6-430f-9d4d-f1c3f416711d",
+    "article_url": "https://ground.news/article/159b2d4a-cac6-430f-9d4d-f1c3f416711d",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 37.0,
+    "error": null,
+    "left_pct": 33.0,
+    "location": "United States",
+    "right_pct": 30.0,
+    "status": "no_change",
+    "summary": [
+      "President Donald Trump signed an executive order creating new tariffs and sanctions against Russia but immediately waived them, citing U.S. national interests.",
+      "The order established a 500% tariff on Russian goods and a possible 100% tariff on major buyers of Russian oil and gas.",
+      "Trump said he submitted a certification to Congress stating that issuing the waiver was in the United States’ national interests.",
+      "The order implements the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, which Trump signed into law on September 18."
+    ],
+    "title": "Trump waives new Russia sanctions passed by Congress, citing ‘national interests’",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/teen-shooter-who-killed-4-at-oregon-elementary-school-was-a-former-student-police-say_19f779",
+    "article_url": "https://ground.news/article/teen-shooter-who-killed-4-at-oregon-elementary-school-was-a-former-student-police-say_19f779",
+    "bias": [
+      "Left-Leaning coverage foregrounds victims, grief, and the “special-needs” classroom, portraying the former student’s connection to the school as significant and framing the shooting as a “tragedy” exposing gun violence.",
+      "Right-Leaning coverage emphasizes the armed father, using “hero dad,” “heroic,” “horrific,” and even “maniac” to cast civilian self-defense and individual culpability as central, while challenging gun-control implications.",
+      "Center coverage comparatively stresses uncertainty—motive, forced entry, and whether policy change will follow—alongside community trauma.",
+      "The pivotal divide is whether the intervention supports armed-citizen arguments or highlights prevention and access.",
+      "All perspectives agree on the deaths, teacher’s courage, suspect’s identity, and unresolved motive."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 52.0,
+    "error": null,
+    "left_pct": 30.0,
+    "location": "Oregon",
+    "right_pct": 18.0,
     "status": "ok",
     "summary": [
       "On Thursday, October 15, 2026, 16-year-old John Griffin Jr. III attacked Silver Rail Elementary School in Bend, Oregon, killing three children aged 5, 8, and 11 and one teacher before an armed bystander fatally shot him.",
@@ -48,8 +125,8 @@
       "Police Chief Mike Krantz said the investigation into the motive and the shooter's access to the weapon will take time. Authorities have not announced charges against family members and maintain a heavy police presence at the school."
     ],
     "title": "Teen shooter who killed 4 at Oregon elementary school was a former student, police say",
-    "topic": null,
-    "topic_full": null
+    "topic": "US Crime",
+    "topic_full": "US Crime · Oregon"
   },
   {
     "article_path": "/article/katie-zacharia-is-out-as-white-house-press-secretary-after-just-5-days-on-the-job_37f511",
@@ -64,7 +141,7 @@
     "center_pct": 38.0,
     "error": null,
     "left_pct": 33.0,
-    "location": null,
+    "location": "United States",
     "right_pct": 29.0,
     "status": "ok",
     "summary": [
@@ -75,828 +152,749 @@
       "As November midterm elections draw closer, Democrats are seizing on the departure to criticize Republican White House staffing. Zacharia praised President Donald Trump as \"kind, wonderful, gracious, thoughtful, enthusiastic, and the most hardworking man,\" writing it was an honour to work for him."
     ],
     "title": "Katie Zacharia is out as White House press secretary after just 5 days on the job",
-    "topic": null,
-    "topic_full": null
+    "topic": "Katie Zacharia",
+    "topic_full": "Katie Zacharia · United States"
   },
   {
-    "article_path": "/article/4-killed-including-3-children-in-oregon-elementary-school-shooting-suspect-also-dead_a0b109",
-    "article_url": "https://ground.news/article/4-killed-including-3-children-in-oregon-elementary-school-shooting-suspect-also-dead_a0b109",
+    "article_path": "/article/tensions-soar-as-iran-says-ready-for-another-round-of-war-with-us",
+    "article_url": "https://ground.news/article/tensions-soar-as-iran-says-ready-for-another-round-of-war-with-us",
     "bias": [
-      "Left-Leaning coverage centers a “devastating day,” children, grief, and “mass shooting,” framing the event within broader gun-violence concerns; right-leaning coverage foregrounds the armed bystander as a “hero,” “Good Samaritan,” or figure who prevented a “massacre,” while portraying the suspect as a “crazed teen gunman” and spotlighting gun rights, school firearm restrictions, and weapon access.",
-      "The pivotal divide is whether civilian intervention represents heroic self-defense or a secondary detail beside systemic violence.",
-      "Center coverage more cautiously tracks changing casualty figures and calls the intervention “heroic” mainly through official attribution.",
-      "All perspectives emphasize the school, child victims, police response, suspect’s death, and evolving information, but their framing reflects wider disputes over gun policy, individual responsibility, and public safety."
+      "Left-Leaning coverage frames Iran’s statements through escalating danger—“Threatens,” “counting the minutes,” and “tensions soar”—while emphasizing preparation for another war , Israel’s involvement, and a personal jab at Trump’s age.",
+      "Right-Leaning coverage likewise stresses renewed conflict but casts Iran as the aggressor, repeatedly using “threatened,” while portraying possible U.S. escalation through “finish the job” and the “mother of all bombs.” Center coverage narrows the episode to a diplomatic warning and “unfinished business.” The pivotal divide is whether Iran’s rhetoric signals aggression or deterrence amid anticipated U.S. action; all perspectives highlight retaliation, unresolved conflict, and deepening geopolitical tension."
     ],
-    "bias_bar_text": null,
-    "center_pct": 51.0,
+    "bias_bar_text": "L 18% C 18% Right 64%",
+    "center_pct": 18.0,
     "error": null,
-    "left_pct": 24.0,
+    "left_pct": 18.0,
     "location": null,
-    "right_pct": 25.0,
+    "right_pct": 64.0,
     "status": "ok",
     "summary": [
-      "On Thursday, a 16-year-old gunman forced entry into Silver Rail Elementary School in Bend, Oregon, killing three children ages 5, 8, and 11, plus one teacher, before dying inside, Bend Police Chief Mike Krantz said.",
-      "Officers arrived at the campus at 1:02 p.m., minutes after dispatchers received reports of a shooter firing into a car outside the school. An armed community member who witnessed the suspect enter pursued him inside and shot him, authorities said.",
-      "Two additional victims—a seven-year-old student and a 54-year-old teacher—remain hospitalized with critical injuries. The attack triggered an immediate facility-wide lockdown, with adjacent campuses also placed under precautionary lockdown.",
-      "Bend-La Pine Schools Superintendent Steven Cook canceled classes districtwide Friday, while police directed families to Journey Church at 61303 S Highway 97 for reunification with students evacuated by bus.",
-      "Oregon Governor Tina Kotek praised the community member's intervention, saying the bystander's actions carry \"a heavy emotional burden.\" The shooting marks the 28th mass killing in the U.S. this year, according to a database maintained by The Associated Press and USA Today."
+      "Iranian Foreign Minister Abbas Araghchi warned the United States against military confrontation with Iran and said Tehran had “unfinished jobs” of its own.",
+      "U.S. President Donald Trump warned that Washington would “finish the job” unless Iran rapidly changed course.",
+      "Araghchi accused Israeli Prime Minister Benjamin Netanyahu of pushing the United States toward war to avoid legal consequences in Israel.",
+      "Trump endorsed Netanyahu and said the United States might act alone if Israel had a different leader."
     ],
-    "title": "4 Killed, Including 3 Children, in Oregon Elementary School Shooting; Suspect Also Dead",
+    "title": "Iran warns US against renewed attack, says it has ‘unfinished jobs’ too",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/trump-after-bipartisan-backlash-says-pentagon-wont-livestream-execution-of-fort-hood-shooter",
-    "article_url": "https://ground.news/article/trump-after-bipartisan-backlash-says-pentagon-wont-livestream-execution-of-fort-hood-shooter",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 47.0,
+    "article_path": "/article/meet-the-researchers-leaving-the-us-because-of-trumps-funding-cuts-and-politicization-of-science-wtop-news",
+    "article_url": "https://ground.news/article/meet-the-researchers-leaving-the-us-because-of-trumps-funding-cuts-and-politicization-of-science-wtop-news",
+    "bias": [
+      "Left-Leaning framing presents Trump’s “funding cuts” and “politicization of science ” as drivers of researchers’ departures, stressing delayed grants, fears about future funding, academic freedom, and Halley Froehlich’s move to Finland while continuing climate research.",
+      "The item labeled right-leaning is not clearly supportive of Trump: its language about “seismic changes” and hundreds of canceled actions emphasizes scale, but de-emphasizes personal consequences and research context.",
+      "Center coverage stays closer to funding uncertainty and foreign universities’ “stable funding.” The dividing line is whether policy change is portrayed as institutional harm or sweeping government action; all note scientists leaving and overseas recruitment."
+    ],
+    "bias_bar_text": "Left 50% Center 39% 11%",
+    "center_pct": 39.0,
     "error": null,
-    "left_pct": 31.0,
+    "left_pct": 50.0,
     "location": null,
-    "right_pct": 22.0,
-    "status": "no_change",
-    "summary": [
-      "President Donald Trump announced Thursday that the Pentagon will not livestream the firing-squad execution of Fort Hood shooter Nidal Malik Hasan, reversing Defense Secretary Pete Hegseth's plan to broadcast the event online.",
-      "Growing public opposition prompted the reversal, as Hegseth had originally proposed streaming the December 3 execution by firing squad to demonstrate America's response to terrorism.",
-      "Hasan, a former Army Major, killed 13 people and injured 32 in a 2009 shooting spree at Fort Hood, Texas; the execution remains scheduled to proceed by firing squad.",
-      "Immediate families of victims may still witness the execution in person, while President Trump wrote on Truth Social Thursday that many \"well meaning people would rather not watch him die\" through streaming.",
-      "In his Truth Social post, Trump cited FBI communications between Hasan and Yemeni-American cleric Anwar al-Awlaki during President Barack Obama administration, though investigators previously concluded those emails posed no threat."
-    ],
-    "title": "Trump, after bipartisan backlash, says Pentagon won't livestream execution of Fort Hood shooter",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/at-least-2-dead-after-vehicle-drives-through-soccer-game-in-wichita-kansas-police_2bb184",
-    "article_url": "https://ground.news/article/at-least-2-dead-after-vehicle-drives-through-soccer-game-in-wichita-kansas-police_2bb184",
-    "bias": [
-      "Left-Leaning coverage foregrounds the human tragedy—especially the child victim, detailed injury counts, and witness “pure panic”—using terms such as “tragedy,” “rammed,” and “plowed.” Right-leaning coverage stresses crime and accountability, portraying the driver as a “suspect” whose vehicle “invades” the field while highlighting arrest and motive.",
-      "The pivotal divide is intent: left and center accounts retain police uncertainty, whereas forceful right-leaning phrasing can imply deliberate action despite no established motive.",
-      "Center coverage favors “mass casualty incident,” “no ongoing threat,” and provisional figures.",
-      "All perspectives agree on two deaths, injuries, custody, and the need for investigation, reflecting shared concern shaped by differing emotional and public-safety priorities."
-    ],
-    "bias_bar_text": "Left 26% Center 49% Right 25%",
-    "center_pct": 49.0,
-    "error": null,
-    "left_pct": 26.0,
-    "location": null,
-    "right_pct": 25.0,
-    "status": "ok",
-    "summary": [
-      "A vehicle drove onto a youth soccer field at Stryker Sports Complex in Wichita, Kansas on Saturday, killing one child and one adult; Wichita Police are investigating the incident as a mass casualty event.",
-      "Officers responded to 2999 North Greenwich Road after KWCH reported that dozens of emergency vehicles arrived following a pickup truck allegedly driving onto the field, resulting in multiple injuries.",
-      "Police have not yet specified the number of people injured or the severity of their injuries, nor have authorities released identities or ages of those affected. Authorities confirmed there is no further ongoing threat.",
-      "Drivers are asked to stay away from the area of 29th and Greenwich Road while the investigation continues. Wichita Police indicated further updates will be released when additional information becomes available.",
-      "As this remains a developing story, officials continue gathering evidence to determine how the incident occurred. Newsweek has reached out to Wichita Police for additional details regarding the crash."
-    ],
-    "title": "At least 2 dead after vehicle drives through soccer game in Wichita, Kansas: Police",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/democrats-hope-a-rematch-can-dislodge-trump-loyalist-perry-in-pennsylvania",
-    "article_url": "https://ground.news/article/democrats-hope-a-rematch-can-dislodge-trump-loyalist-perry-in-pennsylvania",
-    "bias": [
-      "Left-Leaning coverage frames Scott Perry’s Trump connection as electoral baggage, suggesting Democrats could “dislodge” a “Trump loyalist” in a competitive Pennsylvania rematch.",
-      "Right-Leaning coverage foregrounds the same loyalty as political identity, while adding his support for Trump’s tax cuts, defense of the “war with Iran,” and 2020 election actions—details that contextualize rather than merely condemn his alignment.",
-      "Center coverage bridges these approaches, portraying him as unusually “closely linked” to Trump and leaving open whether that bond helps or hurts.",
-      "The pivotal divide is whether loyalty signals accountability or solidarity; all perspectives emphasize Perry’s Republican identity, Trump ties, and Democratic hopes of defeating him."
-    ],
-    "bias_bar_text": "L 20% Center 65% R 15%",
-    "center_pct": 65.0,
-    "error": null,
-    "left_pct": 20.0,
-    "location": null,
-    "right_pct": 15.0,
-    "status": "ok",
-    "summary": [
-      "Incumbent Republican Representative Scott Perry trails Democratic challenger Janelle Stelson by three percentage points in Pennsylvania 's 10th Congressional District, according to a Susquehanna Polling and Research survey.",
-      "The poll shows Stelson leading Perry 49% to 46% among likely voters in south-central Pennsylvania, placing the margin of lead within the survey's 5.6 percentage point margin of error.",
-      "The findings highlight a highly competitive rematch between the candidates, following Perry's narrow victory over Stelson by approximately one percentage point in the previous election cycle.",
-      "Campaign strategists note that shifting suburban demographics around Harrisburg and York continue to turn the traditionally conservative-leaning district into a critical battleground.",
-      "Polling analysts emphasize that high turnout and independent voters in Cumberland and Dauphin counties will be key factors in deciding the final outcome."
-    ],
-    "title": "Democrats hope a rematch can dislodge Trump loyalist Perry in Pennsylvania",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/firefighters-gain-ground-on-southern-california-blaze-allowing-thousands-to-return-home",
-    "article_url": "https://ground.news/article/firefighters-gain-ground-on-southern-california-blaze-allowing-thousands-to-return-home",
-    "bias": [
-      "Left-Leaning coverage foregrounds human disruption—“fast-moving” fires, “ravaged” communities, “luxury properties,” evacuations , smoke, and outages—while right-leaning coverage heightens menace with “devil winds,” “voracious” flames, blackouts, and a “political reckoning,” asking whether officials have “learned anything.” The pivotal divide is interpretation: a weather-driven emergency versus evidence of institutional failure and voter accountability.",
-      "Both cite Santa Ana winds, Red Flag warnings, burned homes, and roughly 16,000 evacuees, though acreage estimates range from 250 to 570.",
-      "Center coverage more often tracks warnings, containment, and lifted orders.",
-      "Shared emphasis on danger reflects broader disputes over government competence and crisis framing."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 53.0,
-    "error": null,
-    "left_pct": 27.0,
-    "location": "California",
-    "right_pct": 20.0,
-    "status": "ok",
-    "summary": [
-      "The Norte Fire rapidly expanded across nearly 500 acres on Friday, destroying multiple structures in Southern California's San Juan Capistrano and San Clemente coastal communities.",
-      "Intense Santa Ana winds and high temperatures drove the blaze, with forecasters reporting gusts of 50 to 70 mph that created a \"high risk for large fires and rapid fire growth.\"",
-      "By Friday night, Fire Chief TJ McGovern of the Orange County Fire Authority ordered 16,000 residents to evacuate, while two firefighters were hospitalized with heat-related injuries.",
-      "Authorities shut down power lines to prevent sparks, leaving more than 118,000 customers without electricity, while a separate Henderson fire burned at least 2,070 acres at the Marine Corps base Camp Pendleton.",
-      "The National Weather Service expects dangerous fire conditions to persist through Saturday night, maintaining a heat advisory until 8pm Saturday for the Orange County and San Diego County coast."
-    ],
-    "title": "Firefighters gain ground on Southern California blaze, allowing thousands to return home",
-    "topic": "Wildfires",
-    "topic_full": "Wildfires · California"
-  },
-  {
-    "article_path": "/article/huckabee-condemns-israeli-settlers-attack-on-washington-post-photojournalist",
-    "article_url": "https://ground.news/article/huckabee-condemns-israeli-settlers-attack-on-washington-post-photojournalist",
-    "bias": [
-      "Left-Leaning coverage foregrounds “beaten up,” “settler violence,” and a “smear campaign,” portraying the assault as evidence of Israeli accountability failures and Netanyahu’s deflection; it also contrasts Huckabee’s forceful condemnation with an initially cautious U.S. response.",
-      "Right-Leaning accounts intensify the law-and-order frame through “despicable act of terror,” “settler terrorism ,” “punish,” and “masked cowards,” while stressing that an unarmed American journalist was targeted despite Huckabee’s pro-Israel stance.",
-      "Center coverage de-emphasizes partisan rhetoric, highlighting fractures, possible surgery, investigation, and broader patterns.",
-      "All agree on the attack, settler attribution, official condemnation, and need for prosecution, revealing disputes over context, certainty, and Israel’s conduct."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 37.0,
-    "error": null,
-    "left_pct": 26.0,
-    "location": "United States",
-    "right_pct": 37.0,
-    "status": "ok",
-    "summary": [
-      "Incumbent Republican Representative Scott Perry trails Democratic challenger Janelle Stelson by three percentage points in Pennsylvania's 10th Congressional District, according to a Susquehanna Polling and Research survey.",
-      "The poll shows Stelson leading Perry 49% to 46% among likely voters in south-central Pennsylvania, placing the margin of lead within the survey's 5.6 percentage point margin of error.",
-      "The findings highlight a highly competitive rematch between the candidates, following Perry's narrow victory over Stelson by approximately one percentage point in the previous election cycle.",
-      "Campaign strategists note that shifting suburban demographics around Harrisburg and York continue to turn the traditionally conservative-leaning district into a critical battleground.",
-      "Polling analysts emphasize that high turnout and independent voters in Cumberland and Dauphin counties will be key factors in deciding the final outcome."
-    ],
-    "title": "Huckabee condemns Israeli settlers’ attack on Washington Post photojournalist",
-    "topic": "Mike Huckabee",
-    "topic_full": "Mike Huckabee · United States"
-  },
-  {
-    "article_path": "/article/cdc-sends-a-disease-detective-to-pennsylvania-amid-measles-outbreak",
-    "article_url": "https://ground.news/article/cdc-sends-a-disease-detective-to-pennsylvania-amid-measles-outbreak",
-    "bias": [
-      "Left-Leaning coverage frames the CDC deployment as a belated intervention—“CDC finally acts”—and stresses a “deadly” or “major” outbreak, political friction involving Robert F.",
-      "Kennedy Jr. and Josh Shapiro, and a later total of 1,260 cases across 43 counties.",
-      "Right-Leaning coverage instead spotlights Pennsylvania as a “hotspot,” five deaths, hospitalizations, and the national total of 4,410, using crisis-oriented language such as “climb” and “emergency” while treating federal involvement as added support.",
-      "Center coverage de-emphasizes partisan conflict, emphasizing the formal Epi-Aid request and measured figures.",
-      "All perspectives underscore an outbreak exceeding 1,200 cases and CDC assistance, reflecting broader divides over government competence, public-health urgency, and political accountability."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 50.0,
-    "error": null,
-    "left_pct": 39.0,
-    "location": "Pennsylvania",
     "right_pct": 11.0,
     "status": "ok",
     "summary": [
-      "The Centers for Disease Control and Prevention deployed an Epidemic Intelligence Service officer to Pennsylvania to assist local epidemiologists in tracing transmission chains and containing the state's worst measles outbreak in 35 years.",
-      "Federal public health authorities additionally allocated nearly $4 million in emergency funding to strengthen contact tracing, community outreach, and vaccination access across affected counties.",
-      "Official health data indicates Pennsylvania has recorded over 1,200 confirmed cases and at least six deaths related to measles complications, rendering the state the primary epicenter of a broader national resurgence.",
-      "CDC surveillance data shows that approximately 96% of total cases nationwide involve individuals who are unvaccinated or lack documented immunization status against the virus.",
-      "The federal intervention follows weeks of public friction between state officials and federal health leadership over resource allocation and public messaging regarding MMR vaccine efficacy."
+      "American scientists are increasingly relocating abroad, driven by delayed federal grants and political interference. The Trump administration has cut or frozen up to $174 billion in federal science funding since the president's second term began.",
+      "The administration's overhaul includes dismantling federal grant processes and proposing Office of Management and Budget rules to increase political control over project funding. Congress has delayed a final decision on these rules until December.",
+      "Major research institutions accepted 15% fewer doctoral applicants for fall 2026 compared to last year, signaling declining domestic enrollment. Nobel laureate Omar Yaghi left Berkeley this year to direct an artificial intelligence lab at Tsinghua University.",
+      "Halley Froehlich, who relocated to Finland, secured five years of guaranteed funding totaling about $3 million for her research. Experts warn that lost mentorship and graduate programs could take a decade or longer for the U.S. scientific enterprise to feel.",
+      "White House spokesperson Liz Huston stated Trump is \"ending waste\" and \"committed to keeping America the world leader,\" yet scientists argue the reputational damage is significant. Many fear the U.S. is losing its status as the global destination for scientific innovation."
     ],
-    "title": "CDC sends a ‘disease detective’ to Pennsylvania amid measles outbreak",
-    "topic": "CDC",
-    "topic_full": "CDC · Pennsylvania"
+    "title": "U.S. Scientists Move Abroad as Federal Grants Stall and Funding Tightens",
+    "topic": null,
+    "topic_full": null
   },
   {
-    "article_path": "/article/shapiro-launches-super-pac-as-presidential-speculation-mounts",
-    "article_url": "https://ground.news/article/shapiro-launches-super-pac-as-presidential-speculation-mounts",
+    "article_path": "/article/newsom-campaigns-with-new-hampshire-democrats-ahead-of-midterms_2e2969",
+    "article_url": "https://ground.news/article/newsom-campaigns-with-new-hampshire-democrats-ahead-of-midterms_2e2969",
     "bias": [
-      "Left-Leaning coverage portrays New Path PAC as the “strongest signal yet” of Shapiro’s 2028 ambitions, amplifying his message about “chaos, cruelty and corruption” and presenting him as a serious Democratic contender.",
-      "Center coverage emphasizes mechanics—fundraising, supporting candidates, and possibly flipping Pennsylvania House seats—while treating the White House connection as growing “speculation.” Right-leaning accounts adopt a more skeptical, conflict-driven tone, calling it a “tentative step” and stressing liabilities: mansion-renovation allegations involving roughly $30 million, a “whistleblower,” and Shapiro’s refusal to commit to serving through 2030.",
-      "All agree he launched the PAC and has not declared a campaign, reflecting broader divides over Democratic strategy, Trump opposition, and political ambition."
+      "Left-Leaning coverage frames Newsom through concentrated wealth and social danger, asking whether he is repeating a “billionaire mistake” that is “tearing France apart,” while also portraying New Hampshire as a profile-building test for 2028.",
+      "Right-Leaning coverage instead uses “parachute back” to imply opportunistic political maneuvering and emphasizes securing “key primary support.” Center coverage de-emphasizes those judgments, presenting a “reconnaissance tour” supporting named Democratic candidates and noting Schwarzenegger’s environmental praise.",
+      "The pivotal divide is whether the trip represents immediate midterm organizing, elite-driven political risk, or presidential positioning.",
+      "All perspectives agree Newsom campaigned in New Hampshire and may be eyeing 2028, reflecting broader conflicts over wealth, ambition, and party power."
     ],
     "bias_bar_text": null,
-    "center_pct": 34.0,
+    "center_pct": 69.0,
     "error": null,
-    "left_pct": 33.0,
-    "location": "Pennsylvania",
-    "right_pct": 33.0,
+    "left_pct": 23.0,
+    "location": "United States",
+    "right_pct": 8.0,
     "status": "ok",
     "summary": [
-      "On Friday, Pennsylvania Gov. Josh Shapiro launched New Path PAC, a federal political action committee designed to support four Democratic candidates in Pennsylvania's 1st, 7th, 8th, and 10th Congressional Districts.",
-      "Federal campaign finance laws prevent Shapiro from transferring his $60 million state-level war chest to federal races, making the new PAC necessary to directly support Democratic congressional candidates.",
-      "Political observers view the launch as Shapiro's \"strongest signal yet\" of a 2028 presidential run, mirroring recent federal PAC creations by Michigan Gov. Gretchen Whitmer and other prospective Democratic candidates.",
-      "During a debate last week, Shapiro declined to pledge a full four-year term as governor, insisting his \"lone focus\" remains flipping the House while attacking Donald Trump's \"chaos, cruelty, and corruption.\"",
-      "Marshall Cohen, the PAC's executive director, stated the committee aims to help elect leaders who will \"place a check on Donald Trump\" and secure a Congressional majority this November."
+      "On Saturday, October 17, California Governor Gavin Newsom travels to New Hampshire to rally for Democratic nominees for governor, U.S. Senate, Congress, and the state legislature.",
+      "Newsom's team reports he has raised more than $526,000 for New Hampshire Democrats this election cycle, bolstering competitive races in 2026.",
+      "During his trip, the governor will headline events in Nashua, Concord, Exeter, and Manchester, including a voter canvass at a Democratic field office his political organization helped pay for.",
+      "Newsom recently stated that if Vice President Kamala Harris enters the race, he will abstain, describing potential competition as \"mutually-assured destruction.\"",
+      "Other potential 2028 candidates, including Kentucky Gov. Andy Beshear and Illinois Gov. JB Pritzker, are executing similar shadow campaigns by raising funds for swing-state Democrats."
     ],
-    "title": "Shapiro launches super PAC as presidential speculation mounts",
-    "topic": "US Politics",
-    "topic_full": "US Politics · Pennsylvania"
+    "title": "Newsom campaigns with New Hampshire Democrats ahead of midterms",
+    "topic": "Gavin Newsom",
+    "topic_full": "Gavin Newsom · United States"
   },
   {
-    "article_path": "/article/rubio-heads-to-central-asia-while-other-us-officials-hit-foreign-policy-hot-spots_9667f0",
-    "article_url": "https://ground.news/article/rubio-heads-to-central-asia-while-other-us-officials-hit-foreign-policy-hot-spots_9667f0",
+    "article_path": "/article/senator-urges-fcc-to-reject-conservative-groups-bid-to-use-political-ai-generated-robocalls_651308",
+    "article_url": "https://ground.news/article/senator-urges-fcc-to-reject-conservative-groups-bid-to-use-political-ai-generated-robocalls_651308",
     "bias": [
-      "Left-Leaning coverage portrays Rubio’s Uzbekistan and India trip as potentially “politically safe,” asking whether he is “keeping the most pressing matters at a distance” from Iran, Ukraine, and Gaza, while “on the offensive” can signal aggressive intervention.",
-      "Right-Leaning coverage instead celebrates “dealmaking time,” more than 100 American companies, trade, energy, and efforts to “counter China,” framing the visit as practical strategic competition.",
-      "The pivotal divide is avoidance versus influence-building.",
-      "Center coverage adds institutional context—C5+1, critical minerals, and delegated crises—while all perspectives acknowledge the trip’s diplomatic, commercial, and geopolitical stakes amid U.S.-China-Russia rivalry."
+      "Left-Leaning coverage foregrounds Schumer’s call to “reject” AI-generated robocalls and the FCC comment deadline, stressing possible agency action before November 3. Center coverage names Club for Growth and adds Schumer’s warning that campaigns could deploy opponents’ voices in “disingenuous” or “blatantly misleading” messages, giving the controversy a deceptive-communications frame.",
+      "The supplied right-leaning account largely repeats this opposition rather than mounting a distinct defense, retaining terms such as “conservative” and “reject.” Across perspectives, the shared focus is Schumer’s FCC appeal, Club for Growth’s proposal, and political AI voices; the main divide is whether timing, regulation, or deceptive messaging receives emphasis."
     ],
     "bias_bar_text": null,
-    "center_pct": 47.0,
+    "center_pct": 62.0,
+    "error": null,
+    "left_pct": 13.0,
+    "location": "United States",
+    "right_pct": 25.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, Senate Minority Leader Chuck Schumer urged the Federal Communications Commission to reject a petition from conservative group Club for Growth seeking to use AI-generated robocalls in upcoming elections without prior consent.",
+      "The Club for Growth, planning to spend $175 million in the midterm congressional elections, asked the Commission to treat political speech like standard wireless calls regarding banking or delivery appointments.",
+      "Schumer warned, \"There is absolutely no excuse to relax these standards and allow special interests to flood our cellphone lines with deepfakes or dark-money-funded AI voices.\" He cited a 2024 FCC proposal to fine a consultant $6 million over fake robocalls.",
+      "The public comment period expires on Monday, allowing the FCC to take action this week ahead of the Nov. 3 election. Democratic FCC Commissioner Anna Gomez and public interest groups have urged the Commission to deny the petition.",
+      "Describing the system's operation, the FCC noted it uses a \"perfunctory human being for the sole purpose of clicking on a 'send' button to transmit thousands of text messages per hour.\" FCC Chair Brendan Carr's office declined immediate comment."
+    ],
+    "title": "Senator urges FCC to reject conservative group's bid to use political AI-generated robocalls",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/he-has-time-to-tweet-hegseth-skewered-in-court-as-fed-up-judge-refuses-to-back-down",
+    "article_url": "https://ground.news/article/he-has-time-to-tweet-hegseth-skewered-in-court-as-fed-up-judge-refuses-to-back-down",
+    "bias": [
+      "Left-Leaning coverage frames the ruling as a judge resisting executive pressure, portraying Hegseth as someone who has time to “tweet” and describing Reyes as “fed-up” while Trump “rages” and uses “crazed lunatic”; right-leaning coverage instead foregrounds alleged judicial hostility, saying she “yelled at DOJ lawyers” and “won’t give up” the case.",
+      "The pivotal divide is whether the recusal bid represents intimidation of a judge or a legitimate impartiality concern.",
+      "Both acknowledge Reyes denied removal in the golf-course lawsuit and said she could be “fair,” but their emphasis reflects broader tensions over Trump, judicial independence, and institutional authority."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 40.0,
     "error": null,
     "left_pct": 20.0,
     "location": "United States",
-    "right_pct": 33.0,
+    "right_pct": 40.0,
     "status": "ok",
     "summary": [
-      "On Sunday, Secretary of State Marco Rubio travels to Uzbekistan to meet leaders from the C5+1 grouping connecting the United States with Kazakhstan, Kyrgyzstan, Tajikistan and Turkmenistan.",
-      "Trump hosted these regional leaders at the White House last November, when Kazakhstan agreed to join the Abraham Accords, solidifying prior engagement with the region.",
-      "More than 200 business executives will accompany Rubio to Uzbekistan, the State Department said. After Uzbekistan, he will visit Mumbai and Jamnagar, India, to meet Reliance Industries Chairman Mukesh Ambani.",
-      "The trip occurs as the Iran war smolders, Saudi Arabia fights the Houthis, and a new rift opens in US-Ukraine relations. Rubio has not visited Kyiv or Moscow since becoming secretary of state.",
-      "While Rubio focuses on Central Asia and India, other officials manage different foreign policy hotspots. Vance represented the United States in Pakistan during peace talks with Iran in April."
+      "On Sunday, U.S. District Judge Ana Reyes denied the Trump administration's motion to recuse her from overseeing litigation over tree-clearing at the East Potomac Golf Course.",
+      "The Department of the Interior sought her removal after she blocked tree removal at the park last week, accusing Reyes of 'histrionics' and bias against the administration.",
+      "Administration lawyers cited her remarks regarding Defense Secretary Pete Hegseth's schedule and her questioning of government attorneys' intelligence as evidence of judicial bias.",
+      "Reyes dismissed the motion as 'baseless,' noting she had denied plaintiffs' requests for relief nearly a dozen times before intervening in the case.",
+      "Following his Sunday announcement to redevelop the course for major tournaments, Trump attacked Reyes on Truth Social without using her name, escalating the conflict."
     ],
-    "title": "Rubio heads to Central Asia while other US officials hit foreign policy hot spots",
-    "topic": "US Foreign Policy",
-    "topic_full": "US Foreign Policy · United States"
+    "title": "Judge refuses DOJ’s demand to step aside from golf course hearing",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
   },
   {
-    "article_path": "/article/us-tells-election-officials-to-be-on-guard-against-ai-powered-tricks-ahead-of-midterms_567663",
-    "article_url": "https://ground.news/article/us-tells-election-officials-to-be-on-guard-against-ai-powered-tricks-ahead-of-midterms_567663",
-    "bias": null,
-    "bias_bar_text": "Center 67% Right 33%",
-    "center_pct": 67.0,
-    "error": null,
-    "left_pct": null,
-    "location": null,
-    "right_pct": 33.0,
-    "status": "no_change",
-    "summary": [
-      "On Friday, the FBI and CISA warned the American public to remain vigilant against AI-powered tricks ahead of next month's midterm elections, highlighting sophisticated tactics employed by malicious cyber criminals.",
-      "The alert noted that \"super intelligence,\" a Trump-approved term for AI, is allowing hackers to sharpen rogue emails and text messages, making them appear more convincing to potential victims.",
-      "Fraudsters are deploying various schemes including fake PACs that collect donations, merchandise scams, and investment pools, often mimicking Campaign entity names and slogans to deceive supporters, the FBI reports.",
-      "Scammers are using phishing campaigns, sending text messages claiming recipients are not registered to vote to solicit personal data; the FBI advises verifying all political organizations via official government Elections websites.",
-      "While Texas Secretary of State Alicia Pierce confirmed a registration application backlog is cleared, Scammers may still leverage the incident to create urgency in deceptive phishing communications targeting Texans."
-    ],
-    "title": "US tells election officials to be on guard against AI-powered tricks ahead of midterms",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/unidentified-white-powder-found-in-suspicious-letter-sent-to-minnesota-secretary-of-state",
-    "article_url": "https://ground.news/article/unidentified-white-powder-found-in-suspicious-letter-sent-to-minnesota-secretary-of-state",
+    "article_path": "/article/uzbekistan-and-the-united-states-held-the-first-meeting-of-the-enhanced-strategic-partnership-dialogue",
+    "article_url": "https://ground.news/article/uzbekistan-and-the-united-states-held-the-first-meeting-of-the-enhanced-strategic-partnership-dialogue",
     "bias": [
-      "The available left-leaning coverage frames the mailings as intimidation, using charged phrases such as “terror,” “defiant,” and “brave election workers,” while stressing a wider pattern involving Louisiana and three other states and workers remaining at their posts.",
-      "Center coverage adopts a narrower, more investigative tone, emphasizing the intercepted Minnesota package, “suspicious” or “unidentified” powder, its timing during ballot casting, and a mailing linked to Senator Amy Klobuchar’s office; it leaves any connection among incidents unresolved.",
-      "No right-leaning coverage was provided, so a right-side narrative or reaction cannot be assessed.",
-      "Both perspectives note FBI and Postal Inspection Service involvement and the broader election-related targets."
-    ],
-    "bias_bar_text": "Left 58% Center 42%",
-    "center_pct": 42.0,
-    "error": null,
-    "left_pct": 58.0,
-    "location": null,
-    "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "The FBI and U.S. Postal Inspection Service are investigating suspicious letters containing unidentified white powder sent to election offices nationwide, including Minnesota Secretary of State Steve Simon's office.",
-      "These incidents are part of an ongoing series of mailings targeting election officials and congressional offices across the United States, though federal authorities have not yet confirmed if the letters are connected.",
-      "Intercepted Friday before delivery, the Minnesota letter is undergoing testing by the U.S. Postal Inspection Service. Similar mailings triggered evacuations in Louisiana, Oklahoma, Arizona, and Wisconsin.",
-      "Senator Amy Klobuchar confirmed her office received a similar letter Friday, with no one in immediate danger. Election officials declared \"Threats against election workers are unacceptable\" and vowed not to be deterred.",
-      "With the general election less than three weeks away on Nov. 3, election officials are operating with a \"war room mentality,\" coordinating security measures across all counties to protect voting integrity."
-    ],
-    "title": "Letters with unidentified substance sent to Sen. Klobuchar, Rep. Morrison and Minnesota secretary of state",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/rubio-says-trump-to-take-up-to-60-days-to-weigh-russia-sanctions",
-    "article_url": "https://ground.news/article/rubio-says-trump-to-take-up-to-60-days-to-weigh-russia-sanctions",
-    "bias": [
-      "Left-Leaning coverage frames the 60-day measure as Russia being “exempt” or sanctions being “relativized,” stressing possible concessions and criticism from Ukraine and Republican allies; right-leaning coverage portrays it as pragmatic “easing,” emphasizing India as an “important ally,” global energy disruptions, and the need to assess economic consequences, including cited 500% and 100% tariff proposals.",
-      "Their tones diverge between suspicion and alarm versus strategic reassurance, while “backlash” and “downplays” reveal tensions within the right.",
-      "Center coverage foregrounds a procedural pause to “analyze” impacts.",
-      "All agree the decision is temporary, economically consequential, and unresolved—reflecting broader divides over Russia, alliances, energy, and pressure versus pragmatism."
+      "Left-Leaning coverage frames Rubio’s Uzbekistan trip as a possibly “politically safer” diversion from “pressing matters,” questioning its priority and broader relevance while de-emphasizing security.",
+      "Right-Leaning coverage portrays renewed U.S. engagement with a region “strategically placed” between Russia and China, celebrating “more jobs, more prosperity, greater security,” trade, and regional influence; “pushes” conveys assertive action.",
+      "Center coverage bridges both, noting proposed commercial agreements and critical-minerals cooperation while asking whether urgent issues are neglected.",
+      "Across perspectives, Rubio’s meeting with Central Asian foreign ministers in Samarkand, trade-focused outreach, and planned India visit anchor a wider debate over economic opportunity versus geopolitical urgency."
     ],
     "bias_bar_text": null,
-    "center_pct": 30.0,
+    "center_pct": 26.0,
     "error": null,
-    "left_pct": 22.0,
+    "left_pct": 30.0,
     "location": "United States",
-    "right_pct": 48.0,
+    "right_pct": 44.0,
     "status": "ok",
     "summary": [
-      "On Friday, October 16, 2026, President Donald Trump signed an executive order waiving key provisions of the Graham Act, which authorizes punitive tariffs on countries purchasing Russian oil.",
-      "Strained by the ongoing Ukraine-Russia war and conflict in the Middle East, global energy supplies prompted the administration to implement these waivers to ease economic pressure.",
-      "Secretary of State Marco Rubio said the President plans a 60-day period to analyze economic impacts, while confirming a separate agreement for Russia to supply more than 300,000 tons of diesel.",
-      "While the waiver offers relief to India, Ukrainian President Volodymyr Zelenskiy warned it could embolden Russian President Vladimir Putin, and Senator Darline Graham stated, \"Personally, I would choose to keep the pressure on Russia.\"",
-      "Secretary of State Marco Rubio is scheduled to be in India on Monday, October 19, 2026, as the administration weighs geopolitical consequences regarding pressure on Moscow."
+      "On Monday, Oct. 19, 2026, U.S. Secretary of State Marco Rubio arrived in Samarkand, Uzbekistan, to lead the C5+1 diplomatic forum focused on security, trade, and regional cooperation among five Central Asian nations.",
+      "Central Asia has lacked attention from U.S. policymakers over the last 20 years, prompting Rubio to declare, \"The United States wants to be a strong partner in Central Asia.\"",
+      "Rubio brought an \"incredible delegation\" representing almost 300 American businesses to Samarkand, identifying critical minerals as a priority area for diversifying global supply chains.",
+      "Clarifying U.S. strategy, Rubio said, \"This is not about coming here to say, stop talking to somebody else,\" while indicating concrete deals would be announced following the forum.",
+      "Building on last year's more than $25 billion in commercial commitments, the administration continues pursuing regional economic ties and encouraging interest in the Abraham Accords."
     ],
-    "title": "Rubio says Trump to take up to 60 days to weigh Russia sanctions",
+    "title": "Rubio Is in Uzbekistan to Promote US Ties and Trade with Central Asia",
     "topic": "Marco Rubio",
     "topic_full": "Marco Rubio · United States"
   },
   {
-    "article_path": "/article/trump-says-saudi-arabia-may-accept-israeli-help-against-houthis-revive-abraham-accords_c76bc1",
-    "article_url": "https://ground.news/article/trump-says-saudi-arabia-may-accept-israeli-help-against-houthis-revive-abraham-accords_c76bc1",
+    "article_path": "/article/musk-to-give-a-spacex-share-to-every-child-in-us-in-2027",
+    "article_url": "https://ground.news/article/musk-to-give-a-spacex-share-to-every-child-in-us-in-2027",
     "bias": [
-      "Left-Leaning coverage treats Trump’s optimism about Israeli-Saudi cooperation with caution, emphasizing Saudi distrust of Netanyahu, public-opinion constraints, Palestinian statehood demands, and uncertainty over whether Israel openly intervened in Yemen.",
-      "Center coverage presents growing security ties and a possible “historic” diplomatic opening, while right-leaning accounts celebrate Israel as “very helpful,” depict the Houthis as “terrorists” or an Iranian proxy, and portray normalization as “closer than ever.” The pivotal divide is whether Trump’s claims signal momentum or overstatement.",
-      "All perspectives highlight the Houthis, Israeli assistance, and the Abraham Accords, reflecting wider disputes over Iran, Israel, Palestinian diplomacy, and Trump’s foreign-policy legacy."
+      "Left-Leaning coverage foregrounds the proposed giveaway’s estimated $10.5 billion value and stresses unresolved legal and practical arrangements, while right-leaning coverage uses the restrained “pledges” and concentrates on eligibility, funding, distribution, and timing—shifting attention from expansive reach to feasibility.",
+      "The clearest dividing line is whether to emphasize scale or uncertainty .",
+      "Center-Leaning reports add a more generous “gift” frame, describe the plan as the “first of many,” and compare it with Anthropic’s reported initiative.",
+      "Across perspectives, coverage presents Musk’s announcement as a proposed 2027-or-later distribution, while differing over its scale, context, and implementation."
     ],
     "bias_bar_text": null,
-    "center_pct": 10.0,
-    "error": null,
-    "left_pct": 10.0,
-    "location": "United States",
-    "right_pct": 80.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, President Donald Trump said normalization between Israel and Saudi Arabia is \"back on the table,\" noting Riyadh is \"very happy\" with Israeli and American support against Iran-backed Houthi rebels.",
-      "This security cooperation gained urgency after a missile strike on King Khalid International Airport last Saturday killed at least 12 people and wounded more than 300, forcing the kingdom to seek regional aid.",
-      "Earlier this week, American officials explored with IDF Chief of Staff Lt. Gen. Eyal Zamir whether Israel could carry out direct strikes against the Houthis, though Zamir warned of potential regional escalation.",
-      "Saudi Arabia maintains that establishing diplomatic relations requires a credible path toward a sovereign Palestinian state, a condition that complicates the Abraham Accords' expansion despite current security alignment.",
-      "While Prime Minister Benjamin Netanyahu remains in office, progress remains difficult, as sources report Saudi Crown Prince Mohammed does not trust the Israeli leader, despite Trump's optimism about the Abraham Accords."
-    ],
-    "title": "Trump says Saudi Arabia may accept Israeli help against Houthis, revive Abraham Accords",
-    "topic": "US Foreign Policy",
-    "topic_full": "US Foreign Policy · United States"
-  },
-  {
-    "article_path": "/article/judge-loses-patience-and-threatens-sanctions-as-trump-crosses-the-line-in-bbc-lawsuit",
-    "article_url": "https://ground.news/article/judge-loses-patience-and-threatens-sanctions-as-trump-crosses-the-line-in-bbc-lawsuit",
-    "bias": [
-      "Coverage converges on a judge warning Donald Trump of sanctions in his $10 billion BBC defamation suit over a required deposition, but diverges sharply in framing: left-leaning accounts stress alleged resistance to discovery and repeated noncompliance, using charged phrases such as “loses patience,” “crosses the line,” and “bailing,” while right-leaning coverage de-emphasizes deposition details and presents the matter as a procedural dispute, with “threatens” potentially casting the judge as the aggressor.",
-      "Center coverage stays narrower, emphasizing the “mandatory deposition” and legal consequence.",
-      "The pivotal divide is whether Trump’s conduct signals defiance or merely a court dispute; all sides highlight the sanctions warning and lawsuit, reflecting broader divisions over Trump’s legal accountability."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 20.0,
-    "error": null,
-    "left_pct": 70.0,
-    "location": "United States",
-    "right_pct": 10.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, U.S. Magistrate Judge Enjolique Lett warned President Donald Trump that failing to appear for his scheduled deposition could result in sanctions, including default judgment in the $10 billion BBC defamation suit.",
-      "Trump sued the BBC for $10 billion, alleging a 'false, defamatory, deceptive, disparaging, inflammatory, and malicious depiction' of his January 6, 2021 speech; the BBC apologized for the edit but denies defaming the president.",
-      "Despite agreeing to an October 16 deposition, Trump's lawyers cancelled the session late last month, citing 'matters of national importance,' leaving the BBC unable to depose the 'most central figure' in the case.",
-      "Ordering a response by October 22, Magistrate Judge Lett warned that lawyers 'are not permitted to disregard the Court's orders and procedures,' with failure potentially resulting in sanctions.",
-      "Discovery concludes December 18, and Trump's team proposed pushing his testimony to January 2027, while the court expects 'strict compliance' to avoid sanctions before the deadline passes."
-    ],
-    "title": "Judge Threatens to Sanction Trump Over Skipped Deposition in $10 Billion BBC Suit",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/five-noncitizens-arrested-for-voter-fraud-in-northern-new-york",
-    "article_url": "https://ground.news/article/five-noncitizens-arrested-for-voter-fraud-in-northern-new-york",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 29.0,
-    "error": "Message: \n",
-    "left_pct": null,
-    "location": "New York",
-    "right_pct": 71.0,
-    "status": "fail",
-    "summary": null,
-    "title": "Five noncitizens arrested for voter fraud in Northern New York",
-    "topic": "New York State Politics",
-    "topic_full": "New York State Politics · New York"
-  },
-  {
-    "article_path": "/article/immigrant-ice-searched-for-in-texas-when-agent-hit-man-with-car-has-been-dead-for-years-report",
-    "article_url": "https://ground.news/article/immigrant-ice-searched-for-in-texas-when-agent-hit-man-with-car-has-been-dead-for-years-report",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 50.0,
-    "error": null,
-    "left_pct": 50.0,
-    "location": "Texas",
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "On October 10, ICE agents in Texas struck pedestrian Miguel Parra Hernandez with an SUV while attempting to arrest Jose Mendoza-Cervantes, who has been dead since 2017.",
-      "ICE issued a \"wanted\" poster for Mendoza-Cervantes after the collision, but the man's daughter identified the photo as her father, Hector Jimenez Mendoza, who died in 2017.",
-      "Harris County District Attorney Sean Teare, a Democrat, said it is \"pretty obvious\" from videos that ICE intentionally struck and ran over Parra, while ICE stated allegations are \"RECKLESS and FALSE.\"",
-      "A senior Department of Homeland Security official told NBC News on Thursday that the officer driving the vehicle has been placed on administrative leave, as Teare considers a grand jury referral next week.",
-      "Cesar Espinosa, leader of FIEL Houston, called on ICE \"to tell the truth\" and release body camera footage, describing the deceased man's image use as \"beyond mind-blowing."
-    ],
-    "title": "Immigrant ICE searched for in Texas when agent hit man with car has been dead for years: Report",
-    "topic": "Immigration and Customs Enforcement",
-    "topic_full": "Immigration and Customs Enforcement · Texas"
-  },
-  {
-    "article_path": "/article/thousands-of-no-kings-protests-held-for-nationwide-early-voting-day-of-action_690dc9",
-    "article_url": "https://ground.news/article/thousands-of-no-kings-protests-held-for-nationwide-early-voting-day-of-action_690dc9",
-    "bias": [
-      "Left-Leaning coverage frames the rallies as “people power,” a broad democratic mobilization converting protest into “historic voter turnout,” while stressing immigration and threats to democracy; right-leaning coverage portrays them as “partisans” rallying Democratic voters under an ostensibly “nonpartisan” label, foregrounding election “irregularities,” federal scrutiny, and election integrity.",
-      "The pivotal divide is whether “ No Kings ” signifies grassroots resistance or partisan opposition to Trump, with “mobilize” sounding empowering on the left but strategic on the right.",
-      "Center coverage notes a shift from marches to turnout efforts, some “subdued” events, absent Democratic candidates, and millions already voting.",
-      "All agree the nationwide gatherings urged early voting and opposed Trump, reflecting deeper conflicts over democratic norms, election legitimacy, and governing power."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 46.0,
-    "error": null,
-    "left_pct": 33.0,
-    "location": "United States",
-    "right_pct": 21.0,
-    "status": "ok",
-    "summary": [
-      "On Saturday, grassroots groups across the United States will host over 3,000 \" No Kings : Vote Early\" marches and events to promote midterm early voting and help voters overcome barriers to casting ballots.",
-      "Ezra Levin, co-founder of Indivisible, stated the coalition has shifted from protesting the second Trump administration to facilitating early voting, marking a strategic pivot for the coalition of about 200 partner organizations.",
-      "In Frisco, Texas, Indivisible Frisco co-leader Cammy Dunford plans a \"voting is your superpower\" gathering where volunteers trained by Common Cause will distribute 500 goodie bags with voting resources and serve as poll monitors.",
-      "Organizers cite concerns about the failed SAVE America Act and potential federal immigration officers at polling places as threats to election integrity, motivating groups to train poll watchers to protect voters during midterm elections.",
-      "Referencing the founding rejection of King George III, the coalition aims to facilitate the largest midterm early voting turnout in history through nonpartisan efforts to protect elections and restore democratic participation."
-    ],
-    "title": "Thousands of No Kings protests held for nationwide early voting ‘day of action’",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/final-plans-for-trumps-arch-appear-to-abandon-his-military-complex-idea",
-    "article_url": "https://ground.news/article/final-plans-for-trumps-arch-appear-to-abandon-his-military-complex-idea",
-    "bias": [
-      "Left-Leaning coverage frames the 250-foot arch’s missing drones , snipers, and ammunition storage as Trump “abandoning” a “military complex,” “torpedoing” his “top grade” sales pitch, and building an “arch of ego,” while linking it to military sacrifice and political vanity.",
-      "Right-Leaning coverage uses “enormous,” “Arc de Trump,” and sarcastic references to “drones and snipers” to question both scale and purpose, while foregrounding the White House dispute that the concept changed.",
-      "Center coverage stays closer to the documents, describing omitted “military features” without settling the dispute.",
-      "All emphasize the blueprint omissions, revealing divides over symbolism, credibility, presidential grandeur, and security."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 67.0,
+    "center_pct": 43.0,
     "error": null,
     "left_pct": 22.0,
-    "location": "Arlington",
-    "right_pct": 11.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, the Interior Department released final plans for the proposed 250-foot arch near Arlington National Cemetery, omitting military features President Donald Trump previously promised and describing it instead as a 'ceremonial gateway'.",
-      "President Donald Trump announced in September the structure would become a 'top grade' military complex with drone facilities and sniper positions, prompting alarm from aviation safety experts concerned about nearby airspace risks.",
-      "Interior Department spokesperson Katie Martin stated the arch design 'is capable of accommodating the national security functions' Trump highlighted, though the White House declined to release security details at this review stage.",
-      "Preservation League Executive Director Rebecca Miller warned that adding military components would require 'a new or supplemental review,' arguing it would violate federal obligations and disrupt Arlington's solemnity.",
-      "The National Capital Planning Commission will review the proposal at a Nov. 5 hearing, though experts note any future military components would require a separate regulatory process distinct from current approval track."
-    ],
-    "title": "Final Trump arch plans submitted to city omit proposed military complex",
-    "topic": "Donald Trump",
-    "topic_full": "Donald Trump · Arlington"
-  },
-  {
-    "article_path": "/article/man-killed-in-shooting-at-midtown-manhattan-subway-station-nypd_c3a8df",
-    "article_url": "https://ground.news/article/man-killed-in-shooting-at-midtown-manhattan-subway-station-nypd_c3a8df",
-    "bias": [
-      "Left-Leaning coverage frames the event as a police-confirmed “fatal shooting” during a “dispute,” emphasizing attribution and restraint while de-emphasizing scene, medical, and transit details.",
-      "Right-Leaning coverage heightens public-safety anxiety, portraying an argument as escalating into a “crime” or even “murder” at a “busy” Midtown station, with “no arrests made” and a suspect who “fled” spotlighting disorder and enforcement concerns.",
-      "Center coverage adds sequence and context—“critically injured,” Bellevue Hospital, and service disruption—without comparable alarm.",
-      "The pivotal divide is whether the incident signifies an unresolved investigation or broader urban danger; all perspectives agree on the death, dispute, police search, and lack of arrest."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 35.0,
-    "error": null,
-    "left_pct": 24.0,
-    "location": "New York",
-    "right_pct": 41.0,
-    "status": "ok",
-    "summary": [
-      "A man was fatally shot Saturday afternoon at the Seventh Avenue subway station near 53rd Street in Midtown Manhattan and pronounced dead at Bellevue Hospital.",
-      "Police reported the shooting followed a dispute between two men that escalated from the platform onto a train and back, with investigators stating the incident was not a random act.",
-      "The NYPD released surveillance photos of a suspect who fled north on Seventh Avenue, last seen wearing red pants, a black vest, and a black face mask.",
-      "Service disruptions affected subway lines as the station remained closed; MTA Chief Security Officer Michael Kemper said the perpetrator \"should face maximum consequences from the justice system.\"",
-      "Authorities continue to investigate the shooting as they search for the suspect; anyone with information is urged to call the NYPD Crime Stoppers Hotline at 1-800-577-TIPS ."
-    ],
-    "title": "Man killed in shooting at Midtown Manhattan subway station: NYPD",
-    "topic": "NYPD",
-    "topic_full": "NYPD · New York"
-  },
-  {
-    "article_path": "/article/rep-ilhan-omars-lawyers-say-authorities-ignored-judges-restrictions-on-home-search",
-    "article_url": "https://ground.news/article/rep-ilhan-omars-lawyers-say-authorities-ignored-judges-restrictions-on-home-search",
-    "bias": [
-      "The left-leaning narrative portrays the home search as government overreach, foregrounding lawyers’ “demand” to return “seized” property and describing it as a “raid,” a “politically motivated attack,” and “neither justified nor lawful.” Center-leaning coverage narrows the dispute to alleged DOJ “violat” of judicial protocols and adds the request to preserve recordings.",
-      "No right-leaning framing is provided, so its likely emphasis cannot be inferred without speculation.",
-      "The pivotal divide is whether the episode signifies political persecution or a procedural rights dispute; both perspectives nonetheless stress the seized property, alleged disregard of judicial safeguards, and the investigation into Omar’s citizenship or immigration history."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 35.0,
-    "error": null,
-    "left_pct": 47.0,
-    "location": "Minnesota",
-    "right_pct": 18.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, October 12, Homeland Security officers searched the Washington residence of Democratic United States Representative Ilhan Omar , seizing her phone and passport during an investigation into alleged immigration fraud.",
-      "Days before the search, Trump attacked Omar at a Tennessee rally, describing her home country of Somalia as a place of \"crime and squalor\" and suggesting Vice President Vance was investigating her.",
-      "Lawyers Amy Jeffress and Joshua Matz claim federal agents disregarded a magistrate judge's instructions and failed to contact the House of Representatives' Office of General Counsel, threatening the separation of powers.",
-      "Justice Department spokesperson Emily Covington rejected the accusations as \"riddled with false allegations and inaccuracies,\" asserting that attorneys and law enforcement partners complied with all court orders and legal obligations.",
-      "Omar's legal team demanded the return of seized property, arguing there is \"no legitimate basis for any suggestion that she has violated any law concerning her citizenship status."
-    ],
-    "title": "Rep. Ilhan Omar’s lawyers say authorities ignored judge’s restrictions on home search",
-    "topic": "Ilhan Omar",
-    "topic_full": "Ilhan Omar · Minnesota"
-  },
-  {
-    "article_path": "/article/michigan-senate-race-tests-jewish-and-arab-american-voters",
-    "article_url": "https://ground.news/article/michigan-senate-race-tests-jewish-and-arab-american-voters",
-    "bias": [
-      "Left-Leaning coverage foregrounds Jewish and Muslim voters’ vulnerability, using “bitter,” “rattles,” and “on edge” to stress Gaza’s humanitarian, identity, and social consequences; right-leaning framing pivots toward whether Jewish Democrats can support Abdul El-Sayed, the potential first Muslim senator, and his gun-control campaign message, de-emphasizing Muslim voters in Dearborn.",
-      "Center coverage similarly calls the stakes “deeply personal” while avoiding overt partisan judgment.",
-      "The pivotal divide is whether Gaza and faith identity or candidate ideology and gun policy define the contest.",
-      "All perspectives portray a close race shaped by Gaza, religious concerns, and El-Sayed’s historic candidacy, reflecting wider cultural and geopolitical polarization."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 48.0,
-    "error": null,
-    "left_pct": 30.0,
-    "location": "Michigan",
-    "right_pct": 22.0,
-    "status": "ok",
-    "summary": [
-      "The Senate race between Republican Mike Rogers and Democrat Abdul El-Sayed is testing Jewish and Arab American voters in Michigan amid deep divisions over the war in Gaza.",
-      "Tensions have escalated in the Detroit suburbs as voters confront personal questions about faith and identity, with communities shaken by Israel's war in Gaza and the March attack on Temple Israel in West Bloomfield.",
-      "To win over Jewish voters in Oakland County, Rogers has portrayed El-Sayed as an extremist, with allies repeatedly invoking claims he cannot condemn terrorism due to alleged ties to the Muslim Brotherhood.",
-      "Arab American leaders who previously supported President Donald Trump are distancing themselves from Republican rhetoric, while Dearborn Mayor Abdullah Hammoud called such attacks on Muslim politicians 'very problematic.'",
-      "The rhetoric complicates efforts to unite Michigan voters, as Jewish Democratic activist Lori Goldman described the current climate as 'a fear campaign. It's spreading and it's not spreading slowly."
-    ],
-    "title": "Michigan Senate Race Tests Jewish and Arab American Voters",
-    "topic": "Michigan Politics",
-    "topic_full": "Michigan Politics · Michigan"
-  },
-  {
-    "article_path": "/article/israel-lebanon-agreement-shines-light-on-long-lost-jewish-community",
-    "article_url": "https://ground.news/article/israel-lebanon-agreement-shines-light-on-long-lost-jewish-community",
-    "bias": [
-      "Left-Leaning coverage frames the agreement as “shining light” on a “long-lost” community, stressing recognition, marginalization, and Abadie’s Lebanese roots as an “integral part” of his identity; right-leaning coverage instead emphasizes cultural persistence, portraying his Arabic, French, music, and cuisine ties as evidence that Lebanese Jewish identity endures despite decline and absence, with only limited grounds to associate the headline with Israel’s legitimacy.",
-      "Center coverage adds intimate details—3,000 Arabic songs and his wife learning Lebanese cooking—without the left-right historical emphasis.",
-      "Across perspectives, the agreement itself is de-emphasized, while shared language and attention to heritage reveal a broader divide between restoration and continuity."
-    ],
-    "bias_bar_text": "Left 57% Center 33% 10%",
-    "center_pct": 33.0,
-    "error": null,
-    "left_pct": 57.0,
-    "location": null,
-    "right_pct": 10.0,
-    "status": "ok",
-    "summary": [
-      "Last month, Israel agreed to release five civilians detained in southern Lebanon in exchange for Lebanon's help searching for remains of Jewish leaders abducted during the 15-year civil war.",
-      "At least seven Jews are among the 17,000 missing Lebanese people since the conflict ended, including former community president Isac Sasson, doctor Elie Hallak, and secretary general Salim Jamous.",
-      "Though about 4,000 Jews remain on voting lists in Beirut and 1,000 in Sidon, attorney Bassem El Hout estimates only about 20 Jews are scattered across the country today.",
-      "Doron Spielman, spokesperson for Prime Minister Benjamin Netanyahu, said Israel \"has a profound and enduring responsibility to Jews throughout the world\" which extends beyond Israel's borders.",
-      "Lebanese officials have not announced any breakthroughs in the search, and it remains unclear what will be done with any recovered remains if discovered."
-    ],
-    "title": "Israel-Lebanon agreement shines light on long-lost Jewish community",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/lebanon-to-take-part-in-us-backed-trilateral-talks-with-israel-on-oct-20-president-says",
-    "article_url": "https://ground.news/article/lebanon-to-take-part-in-us-backed-trilateral-talks-with-israel-on-oct-20-president-says",
-    "bias": [
-      "Left-Leaning coverage frames the Tampa talks chiefly as Beirut’s effort to halt “Israeli attacks,” invoking a “new war” involving Hezbollah and emphasizing a continued international security presence in southern Lebanon .",
-      "Right-Leaning coverage foregrounds “US-backed” diplomacy, a “framework agreement,” and alleged violations that obstruct Lebanese state-force deployment, portraying the issue through institutional and security obligations.",
-      "The center presents a more procedural middle ground, describing a scheduled meeting while retaining “attacks” or “escalation” through attribution.",
-      "The sharpest divide is whether the story centers Israeli responsibility and regional conflict or agreement enforcement and state authority.",
-      "All perspectives emphasize the October 20 trilateral talks, Aoun’s announcement, and persistent hostilities, reflecting broader geopolitical and sovereignty divides."
-    ],
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": null,
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "Lebanese President Joseph Aoun said Lebanon and Israel will join U.S.-backed trilateral talks in Tampa, Florida, on October 20.",
-      "A Lebanese military delegation will present Beirut’s demands and seek an end to Israeli attacks, according to the Lebanese presidency.",
-      "Aoun reaffirmed support for extending the United Nations Interim Force in Lebanon’s mandate and warned against a security vacuum in southern Lebanon.",
-      "The talks follow a U.S.-brokered framework involving Hezbollah’s disarmament and the gradual withdrawal of Israeli forces, while both sides remain at odds."
-    ],
-    "title": "Lebanon says military delegation will press for halt to Israeli attacks at US talks",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/prison-service-fired-rubber-bullets-at-security-prisoners-it-ended-in-surgeries-and-testicle-removal",
-    "article_url": "https://ground.news/article/prison-service-fired-rubber-bullets-at-security-prisoners-it-ended-in-surgeries-and-testicle-removal",
-    "bias": [
-      "Left-Leaning coverage frames the allegations as an escalating human-rights crisis, emphasizing a “surge,” “severely injuring,” 21 documented cases, and the Prison Service’s dismissal as a “smear campaign.” Center coverage retains attribution through “report,” but broadens the issue into “harsh treatment” and de-emphasizes case-specific evidence.",
-      "Right-Leaning coverage avoids “surge” and instead foregrounds graphic consequences—surgery, a fractured shin, and testicle removal—while portraying prisoners as “severely injured.” The pivotal divide is whether to stress systemic escalation, historical conditions, or individual harm, alongside whether official denial merits attention.",
-      "All perspectives nevertheless highlight close-range rubber-bullet shootings, serious injuries, and rights-group allegations, reflecting the conflict’s broader ideological divide over Israeli security and Palestinian rights."
-    ],
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": null,
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "Israeli human rights groups have documented 22 cases of inmates shot with rubber bullets, reporting a surge in the practice that has become routine violence in prisons. One of the 22 detainees is Israeli; the rest are Palestinian.",
-      "Conditions in Israeli prisons deteriorated dramatically since the war in Gaza began more than three years ago. Following the October 7, 2023, Hamas-led attacks, authorities rounded up thousands of Palestinians, doubling the prison population to more than 9,000, according to Hamoked.",
-      "Medical records from Soroka document a 45-year-old inmate whose testicle was \"completely crushed\" by a rubber bullet, requiring surgical removal. Other detainees report being shot at point-blank range in cells, with several stating they received no medical treatment for resulting injuries.",
-      "Under Israel's prison regulations, guards may only use weapons when facing imminent risk, said Sari Bashi, executive director of the Public Committee Against Torture in Israel. However, the prison service's legal adviser defended the use of rubber bullets as \"measured\" and \"appropriate.\"",
-      "Muhannad Abu Ghosh, director of the prisoners and detainees division at Physicians for Human Rights Israel, warned the practice is \"becoming another routine form of violence.\" Rights groups urge the prison service to end behavior they call widespread and unlawful."
-    ],
-    "title": "Israeli rights groups report a surge of Palestinian inmates being shot with rubber bullets",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/mexico-arrests-state-official-accused-of-allowing-unauthorized-cia-role-in-drug-raid",
-    "article_url": "https://ground.news/article/mexico-arrests-state-official-accused-of-allowing-unauthorized-cia-role-in-drug-raid",
-    "bias": [
-      "Left-Leaning coverage frames César Jáuregui’s arrest as a politically charged “ CIA agents’ controversy,” foregrounding tensions with Governor Maru Campos and terms like “narcolaboratory,” while de-emphasizing sovereignty and the deaths of two Americans.",
-      "Center and right perspectives stress alleged official misconduct and unauthorized foreign involvement, with “treason,” “US spies,” and “unauthorized CIA role” conveying secrecy, betrayal, and national-security anxiety; the right additionally notes that U.S. authorities did not confirm the CIA link.",
-      "Center coverage qualifies allegations with “accused,” but still highlights legal uncertainty.",
-      "All portray an arrest tied to a deadly anti-drug operation, reflecting broader divides over domestic politics, foreign intervention, and security."
-    ],
-    "bias_bar_text": "L 14% Center 63% R 23%",
-    "center_pct": 63.0,
-    "error": null,
-    "left_pct": 14.0,
-    "location": null,
-    "right_pct": 23.0,
-    "status": "ok",
-    "summary": [
-      "On Saturday, Mexican authorities arrested former Chihuahua Attorney General Cesar Jauregui on suspicion of treason, Attorney General Ernestina Godoy announced.",
-      "Prosecutors allege Jauregui allowed foreign agents to participate in an 'irregular' raid on a suspected drug laboratory in Chihuahua this April without required authorization under Mexican law.",
-      "The U.S. acknowledged in April that two employees of its embassy in Mexico City had died; sources identified them as CIA officers involved in anti-narcotics efforts, rekindling sensitivities around foreign involvement in Mexican security operations.",
-      "President Claudia Sheinbaum sought to de-escalate tensions, reiterating that Mexico welcomes intelligence sharing but does not permit foreign agents to participate directly in operations on Mexican territory.",
-      "Godoy stated a federal judge signed the arrest warrant following months of investigation; Jauregui could not immediately be reached for comment, and sources declined to comment on the case."
-    ],
-    "title": "Ex-Chihuahua attorney general accused of treason for allowing US participation in drug raid",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/iran-backed-militias-sending-money-back-to-cash-starved-irgc-us-says",
-    "article_url": "https://ground.news/article/iran-backed-militias-sending-money-back-to-cash-starved-irgc-us-says",
-    "bias": [
-      "All perspectives accept the reported transfers to the IRGC, but left-leaning coverage frames “cash-starved” Iran within a wider confrontation involving “immense pressure,” a naval blockade, and possible renewed combat, while right-leaning coverage treats the episode as proof of policy success, invoking “Iran broke?” alongside alleged $25 billion oil losses and $350 million in frozen cryptocurrency.",
-      "Center coverage emphasizes an “extraordinary reversal,” including militias allegedly withholding fighters’ salaries, while terms like “terror proxies,” “proxy forces,” and “terror network” sharpen negative portrayals across center and right.",
-      "The shared focus on financial strain and militia funding reflects broader divides over coercion, escalation, and Iran’s regional role."
-    ],
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": null,
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "On Friday, CENTCOM Commander Adm. Brad Cooper revealed that Iran-backed groups including Hezbollah, Hamas , and Shia militias in Iraq are sending money back to the Islamic Revolutionary Guard Corps to relieve economic pressure after nine months of war.",
-      "United States initiatives have severely strained Iran's economy; the naval blockade cost Iran $25 billion in oil revenue while the Treasury Department froze around $350 million in cryptocurrency assets to hinder weapons production.",
-      "Cooper attributed increased ship attacks in the Strait of Hormuz to \"desperation\" within the IRGC, though the waterway remains open with 400 ships and 100 million barrels of oil transiting last week.",
-      "President Donald Trump stated on Thursday he would possibly use the \"Mother of All Bombs,\" or MOAB, in future strikes against Iran, despite earlier indicating he would delay military action until after the November midterms.",
-      "While the White House and Qatari mediators await Iran's response to a United States counterproposal, Iranian President Masoud Pezeshkian claimed on Friday that the Islamic Republic \"will not bow to coercion\" amid the ongoing conflict."
-    ],
-    "title": "Iran-Backed Groups Sending Money to IRGC Amid Economic Pressure, US Says",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/a-texas-republican-wants-a-billboard-featuring-trumps-endorsement-to-come-down",
-    "article_url": "https://ground.news/article/a-texas-republican-wants-a-billboard-featuring-trumps-endorsement-to-come-down",
-    "bias": [
-      "Left-Leaning coverage frames Eric Flores’s removal campaign as Republican discomfort with Trump, stressing voter confusion and legal escalation through phrases like “irked,” “sics lawyers,” and “boasting.” Center coverage instead portrays a Democratic-funded billboard as “fake” yet “free advertising,” emphasizing unauthorized imagery and strategic advantage.",
-      "Right-Leaning coverage is de-emphasized in the available analyses, so a direct contrast is limited.",
-      "The pivotal divide is whether Flores is distancing himself from Trump or resisting misleading campaign-like branding; left coverage also highlights ICE messaging, while center coverage foregrounds funding.",
-      "Across perspectives, the shared focus is the Brownsville billboard, its Trump association, and Flores’s demand for removal."
-    ],
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": null,
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "On October 12, Republican congressional candidate Eric Flores demanded Lamar Advertising remove a digital billboard in Brownsville, Texas, arguing it mimics his campaign materials \"to cause voter confusion.\"",
-      "The digital display prominently features a photo of Flores with President Donald Trump and his support for ICE; Democrats accuse Flores of hiding his Trump ties, though his campaign maintains the objection is solely about design.",
-      "Records identify Democratic Rep. Vicente Gonzalez and the Northern Cameron County Democrats as sponsors, while The Texas Observer reported this month that Flores' signs have de-emphasized the Trump endorsement, part of a broader Republican trend.",
-      "As of Friday, the billboard remained standing despite the demand for removal; Gonzalez's campaign claimed Flores is \"ashamed\" of the president and the ICE raids, while BOLD PAC stated Flores is \"paying lawyers to hide it.\"",
-      "Texas' 34th Congressional District remains a toss-up according to the Cook Political Report, though Trump would have carried it by about 10 points under new lines after Texas Republicans' mid-decade gerrymander."
-    ],
-    "title": "Texas Republican Fights Billboard Touting Trump Ties",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/zacharia-makes-first-statement-since-leaving-job-as-white-house-press-secretary",
-    "article_url": "https://ground.news/article/zacharia-makes-first-statement-since-leaving-job-as-white-house-press-secretary",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 98.0,
-    "error": null,
-    "left_pct": 2.0,
-    "location": "Washington",
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "On Friday, The White House announced that Press Secretary Katie Zacharia is \"transitioning out\" after just five days, marking the shortest tenure in the position's history.",
-      "Scrutiny intensified following a 14-minute press conference Tuesday where Zacharia took only three questions, while the Campaign for Accountability filed a complaint with the State Bar of California regarding her lawyer claims.",
-      "The Wall Street Journal reported that Zacharia failed the bar exam; in an interview with Real America Voice, Zacharia claimed she \"misheard\" the question and deemed results \"inconsequential\" due to her work in China.",
-      "President Donald Trump advised Zacharia to \"reconsider\" the position, claiming the press treated her \"unfairly\" and \"nastily,\" telling her, \"Welcome to the world of Trump,\" two minutes before the announcement.",
-      "Zacharia praised Trump in a social media post, writing, \"It was an honor to work for him,\" while Anthony Scaramucci, who served as White House communications director for 11 days, remarked that \"records are made to be broken."
-    ],
-    "title": "Zacharia speaks out after White House press secretary exit: ‘It was an honor’",
-    "topic": "Katie Zacharia",
-    "topic_full": "Katie Zacharia · Washington"
-  },
-  {
-    "article_path": "/article/federal-agents-searched-omars-trash-for-dna-before-raid-sources_fb7202",
-    "article_url": "https://ground.news/article/federal-agents-searched-omars-trash-for-dna-before-raid-sources_fb7202",
-    "bias": [
-      "Coverage is primarily center-versus-right rather than left-versus-right: centrist framing emphasizes reported DNA collection, “sources,” legal context, and the potentially intrusive tactic of “dumpster diving,” while right-leaning accounts portray it as a widening criminal case tied to “immigration fraud,” “bombshell” evidence, and “likely coming indictments.” The center uses qualifiers such as “allegedly” and “potential,” whereas the right adopts urgency and suspicion through “stunning,” “raid,” and “far beyond.” The pivotal divide is whether discarded-trash DNA signals routine investigative procedure or escalating jeopardy.",
-      "Both emphasize the alleged search, DNA objective, raid, and broader probe, reflecting tensions over privacy, immigration, and partisan distrust."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 31.0,
-    "error": null,
-    "left_pct": null,
     "location": "United States",
-    "right_pct": 69.0,
+    "right_pct": 35.0,
     "status": "ok",
     "summary": [
-      "Federal agents reportedly searched discarded trash for DNA from Representative Ilhan Omar and her family before raiding Omar’s Washington, D.C., home, according to sources cited by NewsNation.",
-      "Homeland Security Investigations searched Omar’s residence on October 12, seized electronic devices, and conducted more than a dozen related searches, according to the reports.",
-      "The investigation includes some of Omar’s relatives, who reportedly received grand jury subpoenas as investigators reviewed immigration records for possible fraud or false statements.",
-      "Potential indictments could involve matters beyond publicly known allegations, with evidence expected to go before a grand jury."
+      "On Monday, SpaceX CEO Elon Musk announced plans to give one SpaceX share to every child in the United States in 2027, describing the proposal as \"the first of many.\"",
+      "The initiative would reach 72 million children under 18 in the United States as of July 1, 2025, representing about $10.5 billion in value based on the $146 share price.",
+      "Musk has not defined eligibility criteria, specified whether shares will be held in trust or transferred directly, or explained how SpaceX will verify recipients for this distribution.",
+      "A recent demonstration of the Tesla Roadster at a SpaceX facility in Texas occurred days before this announcement, though Musk has not linked the share giveaway to other company projects.",
+      "With a 48.4% beneficial stake in SpaceX, Musk is the company's largest shareholder and the world's richest person positioning himself as a major benefactor through this initiative."
     ],
-    "title": "Federal agents searched Omar’s trash for DNA before raid: Sources",
-    "topic": "Ilhan Omar",
-    "topic_full": "Ilhan Omar · United States"
+    "title": "Elon Musk says he’ll give a SpaceX share to every child in America next year",
+    "topic": "Elon Musk",
+    "topic_full": "Elon Musk · United States"
   },
   {
-    "article_path": "/article/online-forum-controlled-by-nevada-gop-house-candidate-contains-slurs-and-nazi-talk-ap-review-finds",
-    "article_url": "https://ground.news/article/online-forum-controlled-by-nevada-gop-house-candidate-contains-slurs-and-nazi-talk-ap-review-finds",
+    "article_path": "/article/national-guardsman-shot-in-washington-dc-on-capitol-hill-police-launch-investigation",
+    "article_url": "https://ground.news/article/national-guardsman-shot-in-washington-dc-on-capitol-hill-police-launch-investigation",
     "bias": [
-      "Left-Leaning coverage frames Marty O’Donnell’s forum as evidence of “white nationalist conspiracy theories,” racial hostility, and Nazi minimization, with terms like “slurs,” “Nazi talk,” and sometimes “rife with” heightening alarm.",
-      "Right-Leaning coverage offers little counter-narrative, largely repeating the same allegations rather than defending him, while center coverage adds electoral context—his challenge to Susie Lee—without resolving responsibility for members’ posts.",
-      "The pivotal divide is whether control of the forum implies political accountability, especially since authorship, moderation, O’Donnell’s response, and prevalence remain de-emphasized.",
-      "All perspectives emphasize his candidacy, forum control, and the AP’s review, reflecting broader disputes over extremism and accountability."
+      "Left-Leaning coverage foregrounds the Guardsman as “attempting to break up” a “street fight,” emphasizing injury and intervention while de-emphasizing the shooting’s full sequence.",
+      "Right-Leaning coverage uses “trying to stop” a “brawl” and “allegedly opened fire,” stressing a suspect-initiated attack and the pivotal detail that three Guardsmen returned fire—an implicit law-and-order frame.",
+      "Center coverage focuses on the “suspected shooter” being in custody and the police investigation, adding timing and injury specifics.",
+      "Across perspectives, all highlight the Guardsman’s wounding near Eastern Market, the altercation, a second wounded person, and law enforcement involvement, reflecting shared concern over urban violence and public order."
     ],
     "bias_bar_text": null,
-    "center_pct": 41.0,
+    "center_pct": 70.0,
     "error": null,
-    "left_pct": 44.0,
-    "location": "Nevada",
+    "left_pct": 15.0,
+    "location": "Washington",
     "right_pct": 15.0,
     "status": "ok",
     "summary": [
-      "An Associated Press review of thousands of posts on Nevada Republican congressional candidate Marty O'Donnell's online forum uncovered racial slurs, minimizations of Nazi Germany, and defenses of white nationalist conspiracy theories.",
-      "Long before his congressional run, O'Donnell gained fame as an award-winning 'Halo' video game composer whose fan forum he transformed into a campaign tool, referring to himself as its 'benevolent dictator.'",
-      "Extremist rhetoric permeated the site, with users asking 'Was Hitler really an evil guy?' and posting 'Heil Hitler,' which American University journalism professor Wendy Melillo identified as 'coded antisemitic hate speech.'",
-      "Campaign spokesman Keith Schipper stated O'Donnell 'has zero tolerance for hate' and the campaign 'dedicated a staffer to monitor' and remove individuals spewing vitriol, with nearly 200 users banned.",
-      "O'Donnell recently told a conservative outlet he was unaware of antisemitism 's resurgence, though he faced scrutiny earlier this year after hosting a far-right influencer with Nazi sympathies on his podcast."
+      "A National Guard member was shot in the leg late Sunday near Eastern Market in the 400 block of 8th Street South East, with the suspected gunman also wounded during the altercation, according to the Metropolitan Police Department.",
+      "Interim Police Chief Jeffery Carroll explained that seven or eight Guardsmen in a van attempted to intervene in a fight outside an \"establishment\" at about 11 p.m. One participant drew a weapon and fired, prompting three Guardsmen to return fire.",
+      "Both injured parties were hospitalized with injuries Chief Carroll described as \"non-life threatening,\" and he expects them to survive. The suspected gunman is in custody with no further public threat.",
+      "The MPD's Internal Affairs and Criminal Investigations divisions are leading the investigation into the shooting. Anyone with information is asked to contact the Police Department at 727-9099.",
+      "This incident occurs almost one year after the November 26, 2025, shooting of Specialist Sarah Beckstrom and Staff Sergeant Andrew Wolfe near Farragut West, which prompted President Donald Trump to summon 500 additional Guardsmen to Washington."
     ],
-    "title": "Online forum controlled by Nevada GOP House candidate contains slurs and Nazi talk, AP review finds",
-    "topic": "Nevada Politics",
-    "topic_full": "Nevada Politics · Nevada"
+    "title": "National Guard member shot in DC, police chief says",
+    "topic": "National Guard",
+    "topic_full": "National Guard · Washington"
   },
   {
-    "article_path": "/article/speaker-johnson-im-telling-you-the-polling-is-wrong",
-    "article_url": "https://ground.news/article/speaker-johnson-im-telling-you-the-polling-is-wrong",
+    "article_path": "/article/aircraft-leaves-the-runway-and-crashes-into-a-fence-at-harry-reid-airport-in-las-vegas",
+    "article_url": "https://ground.news/article/aircraft-leaves-the-runway-and-crashes-into-a-fence-at-harry-reid-airport-in-las-vegas",
     "bias": [
-      "Left-Leaning coverage portrays Johnson’s polling dispute as “freaks out,” “frantic,” and “panicked,” framing optimism as defensiveness amid Democratic momentum and possible Republican losses.",
-      "Right-Leaning coverage recasts the same claims as confident resistance to “doom talk,” emphasizing a “hidden voter surge,” under-sampled Republicans, campaign crowds, and the prospect of “shock the pollsters,” while dismissing a “blue wave.” Center coverage presents an “optimist” confronting a potential “bloodbath,” balancing his faith and enthusiasm against unfavorable surveys.",
-      "All perspectives agree Johnson predicts retaining the House and disputes polling, but their divide reflects broader tensions over institutional credibility, populist skepticism, and electoral momentum."
+      "Left-Leaning coverage frames the event as a contained aviation “mishap,” emphasizing the fence impact, planned takeoff, and no injuries while de-emphasizing delays and broader airport disruption.",
+      "Right-Leaning coverage foregrounds consequences—FAA “ground stop” and delays—but adds sharper judgment through phrases like “botched” and “aborted takeoff,” implying pilot or operational failure despite the undisclosed cause.",
+      "Center coverage bridges the two, stressing runway inspections, closures, and official uncertainty.",
+      "All perspectives agree that a private aircraft left the runway and struck a fence without injuries; the dividing line is whether to portray it chiefly as a safety incident, an operational disruption, or implied incompetence."
     ],
     "bias_bar_text": null,
-    "center_pct": 35.0,
+    "center_pct": 50.0,
     "error": null,
-    "left_pct": 36.0,
-    "location": "Bangor",
-    "right_pct": 29.0,
+    "left_pct": 30.0,
+    "location": "Las Vegas",
+    "right_pct": 20.0,
     "status": "ok",
     "summary": [
-      "Speaker Mike Johnson said Republicans will retain their U.S. House majority in the 2026 midterm elections despite Democratic momentum.",
-      "Johnson called predictions of a Democratic wave a “false narrative.”",
-      "Johnson and other Republican leaders questioned surveys showing Democrats could gain control of the House and possibly the Senate.",
-      "At a Texas rally, Johnson said he sees Republican support growing in swing districts that will decide the majority."
+      "Around 11 a.m. Sunday, a Dassault Falcon carrying eight people skidded off runway 1L at Harry Reid Airport and struck a perimeter fence. Airport spokesperson Monika Bertaki confirmed no injuries occurred.",
+      "The private aircraft was attempting departure for Toronto Pearson Airport in Canada when the pilot aborted takeoff, causing the plane to veer off the runway. Officials have not yet determined the specific cause.",
+      "Following the collision, the Federal Aviation Administration and airport authorities closed runways 1R and 1L for safety inspection. Travelers should check with their airlines regarding flight status at LAS.",
+      "According to FlightAware, approximately 330 flights are experiencing delays while the FAA maintains a temporary ground stop. Departure traffic is averaging 70 minutes of delays.",
+      "The Federal Aviation Administration has launched an investigation into the aborted takeoff incident. The airport handled over 370,000 operations and more than 34 million passengers through August 2026."
     ],
-    "title": "House Speaker Mike Johnson Draws on Faith as He Fights to Hold the Republican Majority",
-    "topic": "Mike Johnson",
-    "topic_full": "Mike Johnson · Bangor"
+    "title": "Private Jet Skids Off Runway, Hits Fence at Las Vegas Airport",
+    "topic": "Aviation Accidents",
+    "topic_full": "Aviation Accidents · Las Vegas"
   },
   {
-    "article_path": "/article/americas-politically-divided-jewish-community-braces-for-israels-elections_b52646",
-    "article_url": "https://ground.news/article/americas-politically-divided-jewish-community-braces-for-israels-elections_b52646",
+    "article_path": "/article/cows-loose-roads-closed-after-crash-near-downtown-kansas-city-missouri",
+    "article_url": "https://ground.news/article/cows-loose-roads-closed-after-crash-near-downtown-kansas-city-missouri",
     "bias": [
-      "The clearest contrast is tonal rather than ideological: left-associated framing uses “life and death,” “at stake,” and “most consequential” to stress historic consequences for diaspora communities, while right-associated coverage likewise highlights Jewish Americans’ substantial interest and “politically divided” response without clearly endorsing a distinct alternative or minimizing those stakes.",
-      "Center coverage adds sharper detail, describing political, religious, and generational divisions and presenting the vote partly as a referendum on Benjamin Netanyahu .",
-      "Across perspectives, “braces,” “contentious,” and “sharply divided” convey tension after three years of conflict, but headline evidence offers only weak support for firm left-right bias and no policy, polling, or candidate analysis."
+      "The left- and right-leaning accounts largely converge on the same accident , but differ in emphasis: left coverage foregrounds animal suffering with “killing,” “traumatized,” and “roam,” while right coverage uses a briefer, less elaborated account centered on escaped cattle and road closures.",
+      "The pivotal divide is therefore tonal rather than ideological—emotional attention to surviving animals versus concise incident reporting.",
+      "Center coverage adds scale and public-safety context, noting more than 120 cattle, widespread sightings, driver warnings, and regional disruption.",
+      "All perspectives highlight the overturned truck, deaths, escape, and roundup, reflecting shared concern with consequences rather than partisan blame or policy."
     ],
     "bias_bar_text": null,
-    "center_pct": 53.0,
+    "center_pct": 66.0,
     "error": null,
-    "left_pct": 36.0,
+    "left_pct": 26.0,
+    "location": "Kansas City",
+    "right_pct": 8.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, October 18, 2026, an overturned semi-truck hauling more than 120 cattle closed part of the downtown loop in Kansas City, Missouri, after crashing near I-70 and Admiral Boulevard around 3 a.m.",
+      "The tractor-trailer plunged from the westbound I-70 curve over SB I-35, landing on another vehicle and spilling diesel fuel. One person from each vehicle was transported to a hospital with injuries.",
+      "Sergeant Phil DiMartino with the Kansas City Police Department reported that between 45 and 60 cattle died in the crash, while many others scattered across a three-mile area from Crown Center to Kansas City, Kansas.",
+      "Authorities deployed drones and thermal imaging technology to locate the animals , while private contractors arrived on horseback to assist firefighters and police in wrangling the remaining cattle throughout the afternoon.",
+      "By Sunday afternoon, DiMartino confirmed all cows were accounted for, though drivers were urged to use caution downtown due to anticipated traffic from the National Football League game."
+    ],
+    "title": "Truck Overturns in Kansas City, Killing Dozens of Cows and Causing Dozens More to Roam Streets",
+    "topic": "Accident",
+    "topic_full": "Accident · Kansas City"
+  },
+  {
+    "article_path": "/article/transcript-rep-mike-turner-on-face-the-nation-with-margaret-brennan-oct-18-2026_4f306d",
+    "article_url": "https://ground.news/article/transcript-rep-mike-turner-on-face-the-nation-with-margaret-brennan-oct-18-2026_4f306d",
+    "bias": [
+      "The contrast is between center-style contextualization and right-leaning urgency: center coverage presents Turner’s call for an investigation alongside his Delphi pension efforts and political positioning, mildly “touting” his economic record, while right coverage foregrounds Republican accountability, describing a Starlink “slowdown” or “speed limits” and demanding Congress “find out who” was responsible.",
+      "The pivotal divide is whether the episode is framed as routine oversight or a potentially dangerous, intentional restriction; right coverage adds that lives were “at risk” and Rubio’s explanation was “not good enough,” details de-emphasized by center reporting.",
+      "Both emphasize Ukraine ’s military communications and Turner’s investigation request, reflecting broader disputes over national security and governmental accountability."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 45.0,
+    "error": null,
+    "left_pct": null,
     "location": "United States",
-    "right_pct": 11.0,
+    "right_pct": 55.0,
     "status": "ok",
     "summary": [
-      "As the October 27 Israeli election nears, American Jews remain deeply divided along political and generational lines regarding Prime Minister Benjamin Netanyahu 's leadership.",
-      "Leading the Likud party, Netanyahu has served as prime minister for nearly 20 non-consecutive years, though his administration faces criticism for policies regarding the West Bank, Gaza, and expanding occupation.",
-      "Rabbi Dan Levin of Temple Beth El in Florida notes congregants are torn, while Orthodox congregant Stanley Weinstein believes Netanyahu has done \"a terrific job,\" yet many share concerns regarding national unity.",
-      "Jason Isaacson, chief policy officer for the American Jewish Committee, notes substantial support for Israel remains in the United States despite controversy; many communities fear the election outcome could exacerbate domestic antisemitism.",
-      "The U.S. midterm elections scheduled for November 3 follow the Israeli vote by one week, with support for Palestinians and withdrawal of U.S. aid to Israel becoming rising issues among Democratic voters."
+      "On Sunday, Representative Mike Turner called for a congressional investigation into the Starlink service interruption in Ukraine , claiming that \"unnamed people\" may have disrupted weapon systems and intelligence sharing.",
+      "Ukraine relies on Starlink for communication and drone control. Secretary Rubio denied the White House ordered speed reductions, though service interruptions raised concerns about system reliability.",
+      "President Zelenskyy requested 300 kilometers of targeting capability to hit Russian launch facilities and sought authority to co-produce Patriot missile interceptors to defend against faster drones.",
+      "Senator Kevin Cramer argued that enforcing the Lindsey Graham sanctions bill is critical, stating that targeting Russian energy funding is more effective than striking individual launchers.",
+      "Turner insisted the investigation must identify officials responsible for unexplained breaks in intelligence and weapon systems sent to Ukraine, stating that such disruptions put lives at risk."
     ],
-    "title": "American Jewish Community Split Over Netanyahu as Israel Election Nears",
-    "topic": "US Foreign Policy",
-    "topic_full": "US Foreign Policy · United States"
+    "title": "Mike Turner calls for investigation into Ukraine’s loss of Starlink access",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/trump-defends-waiving-russia-sanctions-says-it-keeps-moscow-at-negotiating-table_5e7068",
+    "article_url": "https://ground.news/article/trump-defends-waiving-russia-sanctions-says-it-keeps-moscow-at-negotiating-table_5e7068",
+    "bias": [
+      "Left-Leaning coverage portrays sanctions relief as a turn toward Moscow, using terms like “delusional,” “disgraceful,” and “capitulation” to cast Trump’s posture as morally reckless and threatening Ukraine.",
+      "Right-Leaning coverage frames the same move as pragmatic diplomacy, emphasizing a “peace deal” being close, “progress,” and keeping Russia at the “bargaining table,” while labeling Zelenskyy an “autocrat” and praising Trump’s “full wolverine position.” Center coverage more cautiously attributes these claims and notes a possible 60-day economic review and broader U.S.-European initiative.",
+      "The pivotal divide is whether refinery strikes and sanctions relief protect peace or reward Moscow, though all emphasize negotiations, fuel-market concerns, and Republican unease—reflecting wider disputes over sovereignty, alliance commitments, and U.S. leadership."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 40.0,
+    "error": null,
+    "left_pct": 24.0,
+    "location": "United States",
+    "right_pct": 36.0,
+    "status": "ok",
+    "summary": [
+      "President Donald Trump defended his decision to waive key sanctions and tariffs targeting Russia, despite Republicans accusing him of \"capitulating\" to Russian President Vladimir Putin and undermining support for Ukraine.",
+      "The Lindsey Graham Sanctioning Russia and Iran Act was designed to increase economic pressure on Moscow over Russia's war against Ukraine, but Trump signed an order waiving the measures on Friday.",
+      "Sen. Thom Tillis called the move \"beyond irresponsible,\" while Rep. Michael McCaul, R-Texas, urged Trump to \"reverse course\" and return to \"time-tested\" strength, marking sharp backlash from Trump's own party.",
+      "Trump accused Ukrainian President Volodymyr Zelensky of hurting United States interests by targeting Russian diesel refineries, while Zelensky warned the waiver signals further concessions, saying \"it definitely helps only the Russians.\"",
+      "Secretary of State Marco Rubio said Trump wants up to 60 days to assess economic impacts of the sanctions waiver, while Russian Foreign Minister Sergey Lavrov announced plans to visit Tehran on October 19."
+    ],
+    "title": "Trump defends waiving Russia sanctions, says it keeps Moscow at negotiating table",
+    "topic": "Donald Trump",
+    "topic_full": "Donald Trump · United States"
+  },
+  {
+    "article_path": "/article/trump-touts-his-power-at-kentucky-rally-to-energize-voters-ahead-of-midterm-elections_f4378a",
+    "article_url": "https://ground.news/article/trump-touts-his-power-at-kentucky-rally-to-energize-voters-ahead-of-midterm-elections_f4378a",
+    "bias": [
+      "Left-Leaning coverage frames Trump’s rally as a display of personal “power,” using terms like “bragged,” “touts,” and “humiliated” to stress self-aggrandizement and empty seats, while questioning the $100 million Kentucky drug-plant proposal as a partisan inducement conditioned on Republican victory.",
+      "Center coverage similarly flags a “tough condition” and adds the $5,000 dividend promise, but keeps greater focus on implementation.",
+      "Right-Leaning coverage de-emphasizes controversy, presenting Trump as “teases” a prospective investment while he “presses for” a midterm win.",
+      "The sharpest divide concerns whether the proposal is economic development or electoral leverage; all perspectives nonetheless emphasize the $100 million figure, its conditionality, and Trump’s campaign setting, reflecting broader disputes over executive power, political norms, and economic promises."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 29.0,
+    "error": null,
+    "left_pct": 64.0,
+    "location": "United States",
+    "right_pct": 7.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday, President Donald Trump rallied in Highland Heights, Kentucky, to bolster Republican turnout, claiming, \"I can do stuff that is unbelievable.\" He touted his expanded power in his second term, referencing his ability to rename geographic landmarks like Lake Ontario.",
+      "Trump targeted former Rep. Thomas Massie at the rally, calling him a \"jerk\" and \"loser\" for opposing the Iran war. He trumpeted Ed Gallrein as a more loyal replacement, though the crowd's response was tepid.",
+      "Alleging the Democratic Party platform includes abolishing the Senate and Supreme Court, Trump claimed that if his opponents win, the U.S. will \"have a depression.\" These claims do not appear on the party's platform.",
+      "Trump reiterated a promise that every American would receive $5,000 if Republicans win, a proposal costing more than $1 trillion and worsening the nearly $1.8 trillion annual budget deficit. He also pledged Department of Defense investment in a Kentucky drug manufacturing facility.",
+      "With control of Congress on the line, Trump urged voters to \"pretend that I\" am on the ballot to prevent Democratic-led investigations. The rally emphasized the high stakes for his administration in the upcoming midterm elections."
+    ],
+    "title": "Trump touts his power at Kentucky rally to energize voters ahead of midterm elections",
+    "topic": "Donald Trump",
+    "topic_full": "Donald Trump · United States"
+  },
+  {
+    "article_path": "/article/putin-proposes-summit-with-trump-and-xi-to-discuss-ukraine-deal-wsj-says",
+    "article_url": "https://ground.news/article/putin-proposes-summit-with-trump-and-xi-to-discuss-ukraine-deal-wsj-says",
+    "bias": [
+      "Left-Leaning coverage casts the proposed Trump–Putin–Xi meeting as a perilous, disloyal arrangement, using phrases like “treason summit,” “Axis of Evil,” and “Ukraine’s fate” to stress sovereignty and democratic exclusion; right-leaning coverage similarly highlights Zelensky’s absence but frames it through power politics , “Russia’s favour,” “Putin’s plan,” and efforts to “divide the world into areas of influence.” Center coverage more often stresses uncertainty—no finalized agenda or agreement—while still noting terms favorable to Moscow.",
+      "The pivotal divide is whether excluding Kyiv signals betrayal or strategic negotiation; across perspectives, all emphasize a possible Moscow-friendly peace, warming U.S.-Russian ties, and great-power decisions over Ukraine."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 30.0,
+    "error": null,
+    "left_pct": 28.0,
+    "location": "Russia",
+    "right_pct": 42.0,
+    "status": "ok",
+    "summary": [
+      "Russian President Vladimir Putin proposed a three-day summit next month with US President Donald Trump and China's Xi Jinping to negotiate an end to the four-year Ukraine conflict.",
+      "This proposal emerged during an October 9 telephone call between Putin and Trump, which also yielded a deal for the US to procure Russian diesel and facilitate its global sale.",
+      "Kremlin spokesperson Dmitry Peskov told the Wall Street Journal that \"there is no clear understanding yet regarding the meeting itself or its potential agenda, although all three parties acknowledge the hypothetical possibility of such a meeting taking place.\"",
+      "On Sunday, the Republican leader claimed negotiations were making \"great progress,\" while targeting Ukrainian President Volodymyr Zelenskyy over attacks on Russian refineries that he said impact global crude rates.",
+      "Ukrainian President Volodymyr Zelenskyy accused Trump of pressuring Kyiv into surrendering to Russia, as relations between the two leaders continue to deteriorate despite Trump's ongoing defense of his peace efforts."
+    ],
+    "title": "Putin proposes summit with Trump and Xi to discuss Ukraine deal, WSJ says",
+    "topic": "Russia-Ukraine War",
+    "topic_full": "Russia-Ukraine War · Russia"
+  },
+  {
+    "article_path": "/article/retired-pilot-helps-historical-society-buy-neil-armstrongs-boyhood-home-for-tours",
+    "article_url": "https://ground.news/article/retired-pilot-helps-historical-society-buy-neil-armstrongs-boyhood-home-for-tours",
+    "bias": [
+      "Rather than contrasting ideological narratives, the excerpts largely share a nostalgic, human-interest frame: retired pilot Ken Schreiber helps preserve Neil Armstrong ’s Ohio boyhood home for tours, after learning it was for sale; Schreiber was nine during Armstrong’s 1969 moon landing and later became a military fighter pilot.",
+      "Left and center versions add that he read about the property in August, identify the historical society, and use phrases such as “first steps on the moon” and “moment he would never forget.” The right excerpt is briefer, de-emphasizing those contextual details, with no partisan language or major interpretive divide evident."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 34.0,
+    "error": null,
+    "left_pct": 58.0,
+    "location": "Wapakoneta",
+    "right_pct": 8.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, Ken Schreiber finalized a $400,000 donation to The Auglaize County Historical Society, enabling the organization to acquire Neil Armstrong 's boyhood home in Wapakoneta.",
+      "Schreiber, a pilot who grew up 96 kilometers south of Wapakoneta, pursued the property after it listed in August for the first time in nearly 40 years.",
+      "Current owner Karen Mikesell, 82, purchased the home in 1988 and hosted astronauts including Buzz Aldrin, aiming to \"keep it like the Armstrongs had.\"",
+      "The historical society intends to restore the residence to its 1940s appearance, with President Gerald Siesel targeting 2030 for the home's first public tours.",
+      "Organizers are researching the home's 1940s configuration and fundraising for maintenance, solidifying its status as a landmark near the Armstrong Air and Space Museum."
+    ],
+    "title": "Retired pilot helps historical society buy Neil Armstrong's boyhood home for tours",
+    "topic": "Neil Armstrong",
+    "topic_full": "Neil Armstrong · Wapakoneta"
+  },
+  {
+    "article_path": "/article/democrats-gain-ground-with-aapi-adults-as-trust-in-republicans-fades-ap-norc-aapi-data-poll-finds",
+    "article_url": "https://ground.news/article/democrats-gain-ground-with-aapi-adults-as-trust-in-republicans-fades-ap-norc-aapi-data-poll-finds",
+    "bias": [
+      "Left-Leaning coverage frames the poll as Democratic momentum, using phrases such as “gain ground,” “substantial edge,” and “trust... fades,” while describing AAPI adults as “disillusioned” with Trump and Republicans.",
+      "The center account adds issue detail, emphasizing Democratic advantages on the economy and health care and noting Trump’s slipping economic approval.",
+      "The right excerpt largely repeats the same findings— including “trust... fades”—without developing an independent counterargument, so its distinction is limited.",
+      "Across perspectives, the shared emphasis is a reported shift in AAPI attitudes and Democratic strength on major issues, though methodological details and subgroup differences remain de-emphasized."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 36.0,
+    "error": null,
+    "left_pct": 48.0,
+    "location": "Washington",
+    "right_pct": 16.0,
+    "status": "ok",
+    "summary": [
+      "According to a new AP-NORC poll, AAPI adults have become increasingly disillusioned with President Donald Trump and Republicans as the November 3 midterm elections approach, with Democrats gaining substantial advantage on major issues.",
+      "Democrats now hold a roughly 20-percentage-point advantage on handling the economy and immigration, as Trump's economic approval among AAPI adults dropped about 10 percentage points over the course of the year.",
+      "Reflecting deep pessimism regarding the current economic state, about 9 in 10 AAPI adults rank the economy as a top issue for the election, while about 7 in 10 identify healthcare as critical.",
+      "Many AAPI adults are worried about misinformation and potential election manipulation, with about half expressing concern over fake information about candidates and about two-thirds seeing foreign government influence as a major problem.",
+      "Despite increased trust in Democrats on specific issues, AAPI adults remain ambivalent about the party as a whole, with 48% holding an unfavorable impression and 44% holding a favorable one."
+    ],
+    "title": "Democrats gain ground with AAPI adults as trust in Republicans fades, AP-NORC/AAPI Data poll finds",
+    "topic": "2026 Midterm Elections",
+    "topic_full": "2026 Midterm Elections · Washington"
+  },
+  {
+    "article_path": "/article/jeffries-likes-democrats-chances-in-race-for-the-house-as-he-cam",
+    "article_url": "https://ground.news/article/jeffries-likes-democrats-chances-in-race-for-the-house-as-he-cam",
+    "bias": [
+      "Left-Leaning coverage foregrounds Jeffries’ upbeat assessment—“likes Democrats’ chances,” “holding firm”—and frames Toledo’s contest as “crucial” to reclaiming the House, giving the campaign strategic momentum.",
+      "Right-Leaning coverage is markedly shorter and more restrained, reporting his Ohio activity and confidence without independent skepticism or comparable campaign-setting detail.",
+      "Center coverage preserves attribution while adding a sharper political fault line: Jeffries “slapped back” at Trump’s “abrupt” Russia-sanctions waiver and could become speaker if Democrats prevail.",
+      "Across perspectives, Jeffries’ Kaptur campaign and the district’s importance recur, while the depth of electoral and foreign-policy framing diverges."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 54.0,
+    "error": null,
+    "left_pct": 29.0,
+    "location": "Ohio",
+    "right_pct": 17.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, House Democratic Leader Hakeem Jeffries campaigned for Rep. Marcy Kaptur in Toledo, Ohio, a district crucial for Democratic control of the House in midterm elections.",
+      "Kaptur, the longest-serving woman in the House, faces a repeat challenge from GOP candidate Derek Merrin after defeating him two years ago; Trump carried the district, and Republicans are actively seeking to flip it.",
+      "President Donald Trump's late Friday decision to waive Russia sanctions has roiled the campaign, affecting the district's large Ukrainian American population where Kaptur serves as co-chair of the Congressional Ukraine Caucus.",
+      "Kaptur called the move \"un-American,\" while Jeffries vowed a bipartisan House effort to pass a new sanctions package the president cannot waive, joining members of Congress expressing outrage over the weekend.",
+      "Jeffries dismissed Speaker Mike Johnson's suggestion the election will mirror the 2024 Republican sweep, labeling such views \"divorced from reality\" while arguing Democrats are fighting to make the country affordable."
+    ],
+    "title": "Jeffries Likes Democrats' Chances in Race for the House as He Campaigns in Ohio",
+    "topic": "US Politics",
+    "topic_full": "US Politics · Ohio"
+  },
+  {
+    "article_path": "/article/lt-gov-candidate-shawn-oliver-arrested-on-oui-charge",
+    "article_url": "https://ground.news/article/lt-gov-candidate-shawn-oliver-arrested-on-oui-charge",
+    "bias": [
+      "Left-Leaning coverage foregrounds the “GOP” label alongside a “rollover crash,” damaged parked cars, and additional traffic charges, portraying the incident as serious while retaining qualifiers such as “ police say.” Right-leaning coverage compresses the account into “drunk driving charges” and “allegedly crashing,” emphasizing the approaching election and campaign consequences, with sharper colloquial framing.",
+      "Center coverage sticks to “OUI charges,” official confirmation, and a call to suspend the campaign, adding personal disapproval such as “extremely disappointed.” The dividing lines are crash severity, legal caution, and electoral timing, though all perspectives agree on Oliver’s arrest, party status, and underlying incident."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 43.0,
+    "error": null,
+    "left_pct": 30.0,
+    "location": "New Bedford",
+    "right_pct": 27.0,
+    "status": "ok",
+    "summary": [
+      "Police arrested Republican lieutenant governor candidate Shawn Oliver on OUI charges Saturday night following a multi-vehicle crash in New Bedford.",
+      "New Bedford Police reported Oliver's vehicle overturned on Dartmouth Street around 11:40 p.m. after striking five parked cars, with two sustaining extensive damage.",
+      "Gubernatorial candidate Mike Minogue called on Oliver to suspend his campaign immediately, stating, \"Shawn is lucky to be alive and lucky that no one innocent was hurt.\"",
+      "Oliver was released from Ash Street Jail on Sunday morning, remaining on the ballot for the November 3 general election just 17 days away.",
+      "Massachusetts Republican Party Chairwoman Amy Carnevale stated the party just learned of the accident and is awaiting additional information before commenting further."
+    ],
+    "title": "Massachusetts GOP lieutenant governor candidate suspends campaign after arrest in car crash",
+    "topic": "US Politics",
+    "topic_full": "US Politics · New Bedford"
+  },
+  {
+    "article_path": "/article/driver-released-after-pickup-truck-kills-2-injures-10-at-kansas-youth-soccer-game",
+    "article_url": "https://ground.news/article/driver-released-after-pickup-truck-kills-2-injures-10-at-kansas-youth-soccer-game",
+    "bias": [
+      "Coverage centers on the same tragedy but diverges in framing: left-leaning accounts foreground victims and accountability, using charged terms such as “plowed” and “evades charges,” while right-leaning coverage largely sticks to “kills,” “injures,” and the procedural fact of release, avoiding a distinct ideological interpretation.",
+      "The pivotal divide is whether release signals avoided responsibility or an investigation still in progress; left coverage adds police consultation with prosecutors and reports 11 injured, while right coverage de-emphasizes the injury count.",
+      "Center coverage bridges these views with “allegedly,” “deadly,” and precise location details.",
+      "All emphasize the two deaths, ongoing investigation, and release without charges, reflecting broader tensions over legal accountability versus due process."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 59.0,
+    "error": null,
+    "left_pct": 23.0,
+    "location": "Kansas",
+    "right_pct": 18.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday, a Chevrolet truck drove onto a youth soccer field at Stryker Sports Complex in Wichita, Kansas, killing 6-year-old Cole Adrian and 35-year-old Nicholas Schafer while injuring 11 others.",
+      "The 34-year-old driver remained at the scene with two of her children inside the truck, while a third child played on a different field at the complex during the incident.",
+      "Following the crash, ten people ages 5 to 68 were taken to hospitals with noncritical injuries, and a 61-year-old woman received treatment for an unknown medical condition.",
+      "After interviewing more than 30 witnesses, The Wichita Police Department released the driver without charges on Sunday, pending toxicology and mechanical test results.",
+      "Wichita Police Chief Joe Sullivan said the department will present an initial case review to the Sedgwick County district attorney early this week as the investigation continues."
+    ],
+    "title": "Driver released after pickup truck kills 2, injures 10 at Kansas youth soccer game",
+    "topic": "US Crime",
+    "topic_full": "US Crime · Kansas"
+  },
+  {
+    "article_path": "/article/michigan-sen-elissa-slotkin-calls-for-prosecutions-of-trump-officials-to-deter-future-government-workers_cb9d2d",
+    "article_url": "https://ground.news/article/michigan-sen-elissa-slotkin-calls-for-prosecutions-of-trump-officials-to-deter-future-government-workers_cb9d2d",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 7.0,
+    "error": null,
+    "left_pct": 4.0,
+    "location": "Michigan",
+    "right_pct": 89.0,
+    "status": "no_change",
+    "summary": [
+      "Michigan Senator Elissa Slotkin said Democrats should pursue “signature cases” against Trump administration officials if they regain congressional control.",
+      "Slotkin said prosecutions should create a deterrence message that discourages young people from taking jobs in a future Trump administration.",
+      "At an event, Slotkin said Democrats should target people who enabled Trump, not only the president.",
+      "Office of Personnel Management Director Scott Kupor criticized Slotkin’s remarks as disappointing and unprofessional."
+    ],
+    "title": "Michigan Sen. Elissa Slotkin Calls for Prosecutions of Trump Officials to Deter Future Government Workers",
+    "topic": "US Politics",
+    "topic_full": "US Politics · Michigan"
+  },
+  {
+    "article_path": "/article/vance-says-he-could-run-for-president-in-2028",
+    "article_url": "https://ground.news/article/vance-says-he-could-run-for-president-in-2028",
+    "bias": [
+      "Left-Leaning coverage frames Vance’s remarks as uncertainty—“leaves door open” and “despite” Trump’s backing—while emphasizing that the leading “successor” might not run.",
+      "Right-Leaning coverage instead treats the moment as an active strategic choice, stressing “decision” after the midterms and portraying his answer as “jaw-dropping” or something “no one saw…coming.” The pivotal divide is whether “Of course there’s a chance” signals hesitation within Trump’s movement or simply a timetable for a likely contender.",
+      "Center coverage de-emphasizes succession and drama, presenting only an unresolved decision.",
+      "All perspectives agree Vance has not committed, reflecting broader tensions over Trump-era succession and Republican strategy."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 22.0,
+    "error": null,
+    "left_pct": 4.0,
+    "location": "United States",
+    "right_pct": 74.0,
+    "status": "ok",
+    "summary": [
+      "During a CBS News town hall in Michigan with Tony Dokoupil released Saturday night, Vice President Vance acknowledged he might not seek the Republican presidential nomination in 2028, replying: \"Of course there's a chance.\"",
+      "Vance described himself as a procrastinator regarding major life decisions, citing his four young children and his wife, Usha Vance, who \"has never loved politics \" but \"loves public service.\"",
+      "Defending the Iran strategy, Vance argued they had \"in some ways... won decisively,\" though Washington seeks a \"final firm commitment from the Iranians that they're not going to rebuild their nuclear program.\"",
+      "President Donald Trump has named Vance his \"most likely\" Republican successor, while Vance rejected corruption allegations, saying he had not seen \"a single shred of evidence that participates or sanctions in that corruption.\"",
+      "Addressing elevated fuel costs, Vance said: \"I recognise that gas prices are too high right now,\" adding: \"When this conflict is over, we are going to see gas prices come down."
+    ],
+    "title": "JD Vance Says He Has Not Decided on 2028 Presidential Run",
+    "topic": "JD Vance",
+    "topic_full": "JD Vance · United States"
+  },
+  {
+    "article_path": "/article/novak-diesel-fuel-shipments-to-the-us-will-take-place-15-20-days-after-the-contract-is-signed",
+    "article_url": "https://ground.news/article/novak-diesel-fuel-shipments-to-the-us-will-take-place-15-20-days-after-the-contract-is-signed",
+    "bias": [
+      "Left-Leaning coverage presents the Moscow-Washington arrangement as a straightforward timetable—15–20 days—de-emphasizing unresolved contracts and making it appear more settled.",
+      "Right-Leaning framing personalizes it as “Trump’s” response to a “fuel crisis,” citing $6.28-per-gallon diesel, Alexander Novak’s ongoing negotiations, and calling the proposal a “temporary fix” or “controversial agreement,” while sarcastically depicting Zelensky’s “daily” interviews.",
+      "Center coverage attributes the estimate to Russia , stresses conditional implementation, and widens the lens to Ukraine, Iran, and a geopolitical “paradox.” All highlight the shipping estimate, but only center and right foreground contract uncertainty, revealing competing logistical, partisan-economic, and geopolitical priorities."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 34.0,
+    "error": null,
+    "left_pct": 8.0,
+    "location": "United States",
+    "right_pct": 58.0,
+    "status": "ok",
+    "summary": [
+      "Russia’s Deputy Prime Minister Alexander Novak said Russian diesel could reach U.S. markets 15 to 20 days after contracts are signed, though no signing date has been set.",
+      "The reported agreement initially covers about 2.22 million barrels of diesel, while the United States consumes about 3.9 million barrels daily.",
+      "President Donald Trump announced the deal as an effort to reduce fuel prices before the November 3 midterm elections.",
+      "The deal’s effect may be limited because the supply would cover less than a day of U.S. diesel consumption."
+    ],
+    "title": "Russia-US diesel deal delivery to take 15-20 days: Russia",
+    "topic": "Oil and Gas Sector",
+    "topic_full": "Oil and Gas Sector · United States"
+  },
+  {
+    "article_path": "/article/the-first-new-sunscreen-type-in-25-years-has-arrived-on-us-store-shelves",
+    "article_url": "https://ground.news/article/the-first-new-sunscreen-type-in-25-years-has-arrived-on-us-store-shelves",
+    "bias": [
+      "The left-leaning framing presents BEMT as a “skin-protecting chemical” and European “go-to option,” emphasizing FDA approval, expanded consumer choice, and the 25-year innovation gap, while even invoking Australian testing concerns.",
+      "The right-leaning account de-emphasizes that regulatory and international context, concentrating on dual-UV protection and avoiding “chalky residue,” using practical, consumer-oriented language rather than partisan cues.",
+      "Center coverage bridges them, calling access “finally” available and saying BEMT “fills a market gap,” with dermatologists’ support and fewer “cosmetic downsides.” All perspectives highlight BEMT’s arrival and protective potential, revealing more divergent editorial priorities than ideological conflict."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 69.0,
+    "error": null,
+    "left_pct": 25.0,
+    "location": "United States",
+    "right_pct": 6.0,
+    "status": "ok",
+    "summary": [
+      "For the first time in over 25 years, the Food and Drug Administration approved bemotrizinol, or BEMT, a new chemical sunscreen now reaching store shelves from manufacturers like Neutrogena.",
+      "Dermatologists say BEMT fills a market gap by providing broad-spectrum protection without white streaking common in mineral sunscreens, while resisting the breakdown issues plaguing older chemicals like avobenzone.",
+      "The FDA reviewed safety studies in more than 500 patients conducted by Dutch manufacturer DSM Nutritional Products, designating BEMT as \"generally recognized as safe and effective\" due to minimal skin penetration.",
+      "Last month, the FDA revoked approval of oxybenzone after finding it absorbed into the bloodstream—a problem BEMT avoids. European regulators cite \"limited evidence of environmental toxicity,\" though longer-term research continues.",
+      "Dr. Jennifer Stein of NYU Langone Health emphasizes sunscreen is one part of a protection plan, recommending frequent reapplication and noting BEMT offers a \"nice option\" for those disliking traditional textures."
+    ],
+    "title": "First New Sunscreen Type in 25 Years Has Arrived on US Store Shelves",
+    "topic": "Sports",
+    "topic_full": "Sports · United States"
+  },
+  {
+    "article_path": "/article/idf-hamas-planned-explosions-near-refugee-camps-in-gaza-to-cover-for-militia-retreats",
+    "article_url": "https://ground.news/article/idf-hamas-planned-explosions-near-refugee-camps-in-gaza-to-cover-for-militia-retreats",
+    "bias": null,
+    "bias_bar_text": "Left 33% Center 34% Right 33%",
+    "center_pct": 34.0,
+    "error": "Message: \n",
+    "left_pct": 33.0,
+    "location": null,
+    "right_pct": 33.0,
+    "status": "fail",
+    "summary": null,
+    "title": "Hamas Planned to Detonate Bombs at Gaza Refugee Camps to Cover Terrorists' Escape, IDF Reveals",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/stun-grenades-water-cannon-deployed-to-disperse-haredi-protesters-blocking-highway-4-near-yavne",
+    "article_url": "https://ground.news/article/stun-grenades-water-cannon-deployed-to-disperse-haredi-protesters-blocking-highway-4-near-yavne",
+    "bias": [
+      "Coverage divides over whether Route 4 was primarily a disruptive street confrontation or an expression of the Haredi draft dispute.",
+      "The left-leaning account, whose headline is largely event-focused rather than overtly ideological, foregrounds “clashes” with drivers and heavy traffic, de-emphasizing arrests and police tactics.",
+      "Center coverage emphasizes arrests of alleged “draft evaders,” stun grenades, water cannon, and reopening after roughly two hours.",
+      "Right-Leaning reports sharpen the rhetoric with “extremist” and “without prior warning,” identify specific Haredi factions, and connect the protest to the unresolved enlistment law.",
+      "Across perspectives, the blockade and traffic disruption remain central, while arrests and police dispersal are chiefly emphasized by center and right coverage—reflecting wider tensions between public order and religious-political resistance."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "On Sunday, October 18, 2026, Haredi protesters from the Jerusalem Faction blocked Highway 4 in both directions near Yavne Interchange during an anti-draft demonstration.",
+      "The demonstration followed Thursday's detention of yeshiva students Yedidya Mizrahi and Yonatan Mostakis, who were transferred to Military Police after being stopped at a Rishon LeZion beach.",
+      "Separately, police arrested two additional yeshiva students in Eilat over the weekend for traffic violations, transferring them to military authorities as alleged draft evaders.",
+      "Police Commissioner Danny Levy ordered a firm response to the disruptions, with officers deploying water cannons and stun grenades to disperse the demonstrators and clear the highway.",
+      "Prime Minister Benjamin Netanyahu reiterated his goal to draft 23,000 Haredi men into the IDF over three and a half years, an issue central to 2026 Knesset election campaigns."
+    ],
+    "title": "Israeli Police Deploy Stun Grenades and Water Cannon as Haredi Anti-Draft Protesters Block Highway 4, Officials Say",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/nl-faces-serious-liability-questions-over-ithaca-energys-entry-into-provinces-oil-sector-legal-expert-warns-the-independent",
+    "article_url": "https://ground.news/article/nl-faces-serious-liability-questions-over-ithaca-energys-entry-into-provinces-oil-sector-legal-expert-warns-the-independent",
+    "bias": [
+      "Left-Leaning coverage frames Ithaca Energy’s entry into Newfoundland and Labrador as a public-liability and moral crisis, using phrases like “serious liability questions,” “warns,” and “illegal occupation” while spotlighting Premier Tony Wakeham’s refusal to address the “political things” and the province’s decision not to block the company.",
+      "Center-Leaning coverage narrows the focus to corporate structure, identifying majority owner Delek Group and describing it as “blacklisted” over “alleged human rights concerns,” with more qualified language.",
+      "The pivotal divide is whether scrutiny centers on provincial accountability and Israel-Palestine ties or institutional ownership and UN designation.",
+      "Both emphasize legal risk and Israel-related controversy, reflecting wider tensions over corporate responsibility, government discretion, and geopolitical accountability."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, Premier Tony Wakeham endorsed Ithaca Energy's acquisition of Suncor's stakes in Newfoundland and Labrador's offshore oil projects, dismissing concerns about the company's ties as \"political things.\"",
+      "Ithaca is majority-owned by the Delek Group, an Israeli conglomerate blacklisted by the United Nations for allegedly providing services supporting illegal settlements in the Occupied Palestinian Territory.",
+      "Assistant Professor of Law Heidi Matthews warns Ithaca's entry raises \"serious liability questions\" for the provincial government, as international law holds subnational jurisdictions accountable for assisting illegal occupations.",
+      "Michael Bueckert, vice president of Canadians for Justice and Peace in the Middle East , calls the acquisition \"unacceptable\" and urges political leaders to impose sanctions.",
+      "Although Prime Minister Mark Carney committed to banning trade with illegal settlements in September, federal officials have yet to announce specific sanctions, leaving the policy's scope unclear."
+    ],
+    "title": "N.L. Faces ‘Serious Liability Questions’ over Ithaca Energy’s Entry Into Province’s Oil Sector, Legal Expert Warns",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/democrats-republicans-seek-trifectas-in-the-2026-midterms_b6e7f0",
+    "article_url": "https://ground.news/article/democrats-republicans-seek-trifectas-in-the-2026-midterms_b6e7f0",
+    "bias": null,
+    "bias_bar_text": "Center 100%",
+    "center_pct": 100.0,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "no_change",
+    "summary": [
+      "Both parties are targeting \"trifectas\"—control of the governor's mansion and both chambers of the state legislature—in pivotal states this November, with the balance of power in state governments on the ballot.",
+      "Pennsylvania remains a central battleground, where Democrats control the House while the GOP holds the Senate , with Democrats hoping to net three seats to flip the chamber.",
+      "\"It's a great environment for Democrats this year and the opportunity in state legislatures is huge,\" Democratic Legislative Campaign Committee official Will Rusche told ABC News, highlighting party confidence in down-ballot races.",
+      "Democrats aim to flip the governorship held by Republican Governor Joe Lombardo in Nevada, while Arizona Republicans work to defend GOP-controlled statehouse chambers against Democratic efforts.",
+      "Republican State Leadership Committee President Edith Jorge-Tuñán told ABC News the party is making \"strategic investments\" to overcome historical headwinds, though operatives caution that gubernatorial races could impact down-ballot contests."
+    ],
+    "title": "Democrats, Republicans seek 'trifectas' in the 2026 midterms",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/idf-eliminates-three-hamas-terrorists-in-gaza-strikes",
+    "article_url": "https://ground.news/article/idf-eliminates-three-hamas-terrorists-in-gaza-strikes",
+    "bias": [
+      "The coverage diverges more in emphasis and tone than in reported events: the first account uses security-centered terms such as “weapons maker,” “cell commander,” and “ceasefire violation,” without clearly signaling a left-leaning stance; the center framing narrows attention to alleged attacks on Israeli troops and civilians; and right-leaning versions intensify the rhetoric with “eliminates,” “slays,” and “dismantled,” portraying decisive military success.",
+      "All report the Israeli military’s claim that three Hamas members, including a commander, were killed, but none independently verifies the allegations or includes Hamas, Palestinian, civilian, or humanitarian perspectives—revealing a broader geopolitical divide over security, legitimacy, and military power."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "On Saturday, The IDF killed three Hamas operatives in targeted strikes across the Gaza Strip, the military announced Monday. Operations eliminated a Hamas commander and two others involved in coordinating attacks against Israeli troops.",
+      "The military stated these individuals recently worked to restore Hamas's military capabilities, actions constituting a systematic violation of the ceasefire that prompted the targeted response by Israeli security forces.",
+      "Strikes in Tuffah killed Mohammed Khamis Jaber, a weapons producer for Hamas, while a Jabalya strike killed engineering battalion member Amer Bashir Mohammed Khourani. Forces also eliminated cell commander Majed Ahmed Mustafa Sabbagh in the same area.",
+      "The IDF confirmed Friday that Thursday strikes killed Mohammed Mohammed Abd al-Khalek Hala, a Hamas weapons production commander who infiltrated Israeli territory on October 7. Khan Yunis strike also killed PIJ commander Ahmad Jabrin Tawqif Dalhan.",
+      "These operations follow a pattern of targeted strikes, including an Israeli attack in the Rimal neighbourhood of Gaza City on May 15, 2026. The military continues precision operations against Hamas and PIJ leadership throughout the Gaza Strip."
+    ],
+    "title": "Hamas weapons maker, cell commander among 3 killed in IDF Gaza strikes",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/snl-uk-donald-trump-features-in-cold-open-with-burnham-zelenskyy",
+    "article_url": "https://ground.news/article/snl-uk-donald-trump-features-in-cold-open-with-burnham-zelenskyy",
+    "bias": [
+      "The supplied material contrasts left-leaning framing with center-oriented coverage, while providing no right-leaning headlines to assess.",
+      "Left-Leaning descriptions use “invades,” “restless, malign spirit,” “haunt,” and “goes off the rails” to portray Trump’s impersonation as intrusive and chaotic, foregrounding Ukraine, Russia, British support, Starlink, and drone strikes.",
+      "Center coverage emphasizes a positively received U.S.-U.K. “crossover,” fan enthusiasm, satire of Trump, Burnham, and Zelenskyy, major British stories, and possible future collaborations.",
+      "Both identify the cold-open impersonations and meeting/job-swap premise, revealing differing priorities: political consequence versus entertainment and audience appeal."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "On Saturday, Saturday Night Live cast member James Austin Johnson made his debut as Donald Trump on Saturday Night Live UK, marking the first crossover between the American and British sketch show casts.",
+      "Parodying a meeting between the leaders, the sketch featured Prime Minister Andy Burnham and Ukrainian President Volodymyr Zelenskyy at 10 Downing Street discussing the ongoing war.",
+      "Proposing a \"job swap,\" Trump offered to take over the UK while mocking local headlines including Manchester City's financial case and a fatal tiger attack at Yorkshire Wildlife Park.",
+      "Burnham rejected the proposal, telling Trump \"I've barely even started,\" before the trio delivered the show's iconic introduction: \"Live from London, it's Saturday Night!\"",
+      "The crossover fulfills a \"wish list\" of in-season events between NBC and Sky productions, with the second series continuing next week featuring host Cynthia Erivo."
+    ],
+    "title": "‘SNL UK’ Features Donald Trump for the First Time in Satirical Sketch With Andy Burnham and Zelenskyy",
+    "topic": null,
+    "topic_full": null
   }
 ]
