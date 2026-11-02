@@ -1,12 +1,10 @@
 [
   {
-    "article_path": "/article/judge-blocks-doj-and-dhs-actions-targeting-election-officials_a0e88c",
-    "article_url": "https://ground.news/article/judge-blocks-doj-and-dhs-actions-targeting-election-officials_a0e88c",
+    "article_path": "/article/jet-from-texas-carrying-9-people-crashes-near-homes-in-palm-beach-florida-faa-says_9c12db",
+    "article_url": "https://ground.news/article/jet-from-texas-carrying-9-people-crashes-near-homes-in-palm-beach-florida-faa-says_9c12db",
     "bias": [
-      "Left-Leaning coverage frames the ruling as protection against a “sweeping” DOJ “pressure campaign,” emphasizing “threatening,” “intimidating,” and possible sidelining of registered voters’ ballots, while right-leaning coverage foregrounds alleged noncitizen voting, ballot processing, and the order’s temporary, procedural character.",
-      "The pivotal divide is whether federal demands to segregate ballots represent coercive election interference or a limited response to suspected ineligible voting.",
-      "Center coverage bridges the two, retaining terms like “pressure campaign” while noting the administration’s stated rationale and the judge’s concern about harmful effects.",
-      "All perspectives emphasize the emergency judicial intervention before midterms, reflecting broader conflicts over election integrity, federal power, and voting access."
+      "Coverage largely agrees that a Learjet 60 carrying nine people crashed near Palm Beach County, killing everyone aboard, but diverges in framing: left-leaning reports emphasize the “cataclysmic” disaster, “chilling” cockpit audio, and the “massive fireball,” while right-leaning coverage foregrounds its proximity to Mar-a-Lago , the aircraft’s $2 million value, a mobile-home park, and comparisons “like a missile.” Center coverage more often preserves uncertainty about ground casualties and whether icing or turbulence caused the crash.",
+      "The pivotal divide is spectacle and political geography versus investigative caution; all sides nonetheless stress the fire, emergency response, official death count, and FAA/NTSB inquiry, reflecting shared concern filtered through differing cultural and partisan priorities."
     ],
     "bias_bar_text": null,
     "center_pct": null,
@@ -16,123 +14,221 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
-      "District Judge Trina Thompson issued a temporary restraining order Friday blocking the Justice Department and Homeland Security from actions that \"threaten, intimidate or coerce\" election officials over voter eligibility claims.",
-      "Although Defendants claim their actions halt unlawful voting by noncitizens, Thompson wrote that the tactics likely interfere with election administration and disenfranchise lawful voters.",
-      "Thompson prohibited the administration from demanding officials segregate ballots, purge voter rolls, or halt processing, and requires notification of all issued search warrants or subpoenas related to voter eligibility lists.",
-      "The DOJ must inform state and local officials that previous threats of prosecution are now enjoined, allowing workers to distribute and process ballots \"in accordance with the law\" without federal criminal liability.",
-      "Initiated by the Service Employees International Union, the temporary restraining order remains in effect through November 16, with Thompson finding public interest in election procedures weighs in Plaintiffs' favor."
+      "On Sunday, Nov. 1, 2026, a Learjet 60 carrying nine people crashed in a residential area of Palm Beach County, Florida, erupting into a massive fireball.",
+      "The Bahamas-bound jet departed from Austin-Bergstrom International Airport in Texas and was headed to North Eleuthera Airport, the Federal Aviation Administration said.",
+      "First responders, including Greenacres Fire Rescue, were dispatched near Cresthaven, Military Trail, and 10th Avenue North, while The Palm Beach County Sheriff closed all lanes in the area.",
+      "Video of the crash showed the aircraft nose-diving from the sky before erupting into flames, as authorities continue updating details from the developing scene."
     ],
     "title": "Source Icon",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/criminal-investigation-of-alaska-senate-race-is-ongoing-us-attorney-says_aabb01",
-    "article_url": "https://ground.news/article/criminal-investigation-of-alaska-senate-race-is-ongoing-us-attorney-says_aabb01",
+    "article_path": "/article/us-judge-tosses-case-against-ex-fbi-officials-accused-of-lying-about-hunter-biden-probes",
+    "article_url": "https://ground.news/article/us-judge-tosses-case-against-ex-fbi-officials-accused-of-lying-about-hunter-biden-probes",
     "bias": [
-      "Left-Leaning coverage emphasizes a “criminal investigation” and “potential voter confusion,” stressing that officials have not identified crimes or targets and that ballot segregation is investigative, not proof of invalidity.",
-      "Center coverage adds “segregate,” “ballot-stacking allegations,” and the stakes for Senate control, presenting the measure as electoral protection amid uncertainty.",
-      "Right-Leaning accounts intensify the frame with “election fraud,” “voter deception plot,” “namesake,” “spoiler,” and “halt,” portraying Democrats as orchestrating a scheme warranting prosecution or certification intervention.",
-      "All agree on the investigation, shared-name candidate, and isolated ballots; the divide is caution versus partisan culpability and institutional threat."
+      "Left-Leaning coverage emphasizes the dismissed complaint while foregrounding accusations that former FBI officials were “lying to Congress,” and characterizes prosecutors’ conduct as “unorthodox maneuvers” during a “dramatic hearing.” Center-leaning coverage gives greater weight to the judge’s description of a “political prosecution,” election timing, and “excoriating” criticism of the Justice Department, while using the more informal “tossed out.” The dividing line is whether the episode signifies institutional misconduct or politically motivated prosecution.",
+      "Both perspectives highlight the dismissal, alleged misstatements about Hunter Biden ’s laptop investigations, and judicial criticism, reflecting broader disputes over accountability, politicization, and election-era trust."
+    ],
+    "bias_bar_text": "Left 27% Center 66% 7%",
+    "center_pct": 66.0,
+    "error": null,
+    "left_pct": 27.0,
+    "location": null,
+    "right_pct": 7.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, Magistrate Judge Zia Faruqui dismissed a criminal complaint against former FBI officials Nikki Floris and Bradley Benavides, who faced accusations of misleading Congress regarding Hunter Biden 's laptop.",
+      "Testimony from an FBI agent revealed the investigation was mandated by FBI Director Kash Patel and began shortly after President Donald Trump delivered an election security speech last July.",
+      "During a hearing last week, Faruqui criticized The Justice Department for \"unorthodox maneuvers,\" including filing an amended complaint directly to the docket without court clearance—something he said he had never seen before.",
+      "The ruling represents a setback for The Justice Department, which may still pursue a grand jury indictment against Floris and Benavides despite the dismissal.",
+      "Republican Sens. Chuck Grassley of Iowa and Ron Johnson of Wisconsin claimed a 2020 \"defensive briefing\" regarding Hunter Biden was used to undermine their investigation into Russian disinformation."
+    ],
+    "title": "Judge dismisses complaint against 2 ex-FBI officials accused of lying to Congress about Hunter Biden",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/alphabet-launches-second-euro-bond-sale-of-2026-to-fund-ai-push-goog-nasdaq",
+    "article_url": "https://ground.news/article/alphabet-launches-second-euro-bond-sale-of-2026-to-fund-ai-push-goog-nasdaq",
+    "bias": [
+      "The coverage is less a clear left-right split than a difference in emphasis: the relatively neutral left framing warns of the “limits” of investors’ debt absorption and casts the offering as “testing AI debt markets,” while the relatively neutral right framing presents it as funding Alphabet’s “AI push,” de-emphasizing skepticism.",
+      "Center coverage supplies the €6 billion, seven-tranche structure and links the sale to “faith,” “appetite,” disappointing earnings, and a technology selloff.",
+      "Across perspectives, the shared ground is Alphabet’s euro-denominated offering—its second of the year in center and right accounts—and its connection to technology or AI-related debt."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 72.0,
+    "error": null,
+    "left_pct": 14.0,
+    "location": "Brussels",
+    "right_pct": 14.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, Alphabet GOOGL-Q launched its second euro-denominated bond sale, testing investor appetite as confidence in the AI trade wobbles following recent tech stock and bond selloffs.",
+      "Morgan Stanley reported that AI-related borrowing ballooned to almost $500 billion through September, up from $100 billion during the same period last year, signaling investor appetite limits.",
+      "Alphabet shares fell nearly 19 per cent in October, while the tech-heavy Nasdaq dropped 5 per cent, fueled by disappointing quarterly results from Alphabet and Amazon AMZN-Q.",
+      "The new bonds, expected to be priced later on Monday, have maturities ranging from 2 to 19 years, marking Alphabet's latest return to European debt markets.",
+      "Analysts expect major tech companies to continue tapping European debt markets for infrastructure investment, despite rising rates exemplified by SpaceX paying 8.75% on recent loans."
+    ],
+    "title": "Alphabet kicks off €6 billion bond sale, tests appetite for tech debt",
+    "topic": "Google",
+    "topic_full": "Google · Brussels"
+  },
+  {
+    "article_path": "/article/trump-says-he-would-offer-pardons-to-musk-aides-if-necessary",
+    "article_url": "https://ground.news/article/trump-says-he-would-offer-pardons-to-musk-aides-if-necessary",
+    "bias": [
+      "Left-Leaning coverage frames Trump’s proposal as “preemptive” shielding of Musk and allies from accountability, stressing Democratic subpoena power, possible investigations into deportation, war, and trade, and a “combative” final term, while “midterm blowout” and “insurrectionists” add alarm.",
+      "Right-Leaning coverage instead emphasizes “protect,” portraying pardons as defense against threatening Democratic “prosecutions,” even for junior staff, and warns pressure could scare young conservatives from government.",
+      "Center coverage mostly attributes the proposal and notes Biden’s pardons, with “sweeping” signaling scope.",
+      "All agree Trump contemplated broad, conditional pardons if Democrats gained power, reflecting deeper divides over oversight, executive authority, and partisan persecution."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 12.0,
+    "error": null,
+    "left_pct": 42.0,
+    "location": "United States",
+    "right_pct": 46.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, President Donald Trump vowed to issue preemptive pardons for his staffers and Tesla CEO Elon Musk should Democrats seize control of Congress in Tuesday's midterms, Axios reported.",
+      "Democrats have signaled plans to wield subpoena power launching investigations into Trump family and corporate corruption if they win, prompting the president's protective warning.",
+      "Musk has donated over $445 million during this election cycle to support Republicans, including at least $71 million for Senate races and $33.1 million in Texas contests.",
+      "Representative Greg Casar, a Texas Democrat on the House Oversight Committee, said last month committees must investigate \"ultra-rich people who have tried to corrupt our government.\"",
+      "Polls favor Democrats to flip the House, meaning Election Day results will determine whether investigative agendas and potential pardon battles proceed following Tuesday's voting."
+    ],
+    "title": "Trump Says He Would Offer Pardons to Musk, Aides If Necessary",
+    "topic": "Donald Trump",
+    "topic_full": "Donald Trump · United States"
+  },
+  {
+    "article_path": "/article/4-struck-by-lightning-at-el-mirage-elementary-school",
+    "article_url": "https://ground.news/article/4-struck-by-lightning-at-el-mirage-elementary-school",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 85.0,
+    "error": null,
+    "left_pct": 15.0,
+    "location": "El Mirage",
+    "right_pct": null,
+    "status": "no_change",
+    "summary": [
+      "Four adults were struck by lightning on Friday, Oct. 30, 2026, at an El Mirage Elementary School bus drop-off near Thunderbird Road and El Mirage Road. El Mirage Police Department officials responded around 8:40 a.m.",
+      "Fast-Moving storms traversing the West Valley caused the incident, with viewers reporting hail and heavy rain in Peoria, Sun City, and Buckeye. Officials issued First Alert Weather Days through Sunday due to high chances of thunderstorms.",
+      "Carrie Thorpe, a librarian at El Mirage Library across the street, told Phoenix ABC News affiliate KNXV, \"the thunder was so loud, it felt like the building shook.\" El Mirage Fire Captain Joseph Rivera reported one woman holding an umbrella felt electricity.",
+      "All four adults remained conscious during transport to a hospital for treatment. According to FOX 10 KSAZ, no children were injured at the school bus drop-off location.",
+      "Fire officials warned that additional severe weather is expected through early evening, with damaging winds and hail as main threats. Residents are advised to stay indoors during periods of high storm activity."
+    ],
+    "title": "4 Struck by Lightning Outside Arizona Elementary School",
+    "topic": "El Mirage",
+    "topic_full": "El Mirage · El Mirage"
+  },
+  {
+    "article_path": "/article/lori-vallow-daybell-was-convicted-in-2023-of-murdering-her-two-children-she-now-awaits-an-idaho-supreme-court-ruling-on-her-appeal-of-multiple",
+    "article_url": "https://ground.news/article/lori-vallow-daybell-was-convicted-in-2023-of-murdering-her-two-children-she-now-awaits-an-idaho-supreme-court-ruling-on-her-appeal-of-multiple",
+    "bias": [
+      "Left- and right-leaning coverage largely converge rather than offer sharply opposing narratives: both frame Lori Vallow Daybell’s appeal around convictions involving two children and a “romantic rival,” using emotionally charged terms such as “killings” while avoiding explicit law-and-order or ideological rhetoric.",
+      "The left emphasizes the victims as her “two youngest children,” heightening familial pathos; the right stresses the legal proceeding and conspiracy, giving slightly greater procedural distance.",
+      "Center coverage adds specificity by naming Joshua “JJ” Vallow and Tylee Ryan and explaining that Daybell seeks to reverse her convictions.",
+      "Their shared focus on alleged violence and appellate review reflects common legal and moral concerns, not partisan division."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 63.0,
+    "error": null,
+    "left_pct": 30.0,
+    "location": "Idaho",
+    "right_pct": 7.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, The Idaho Supreme Court is scheduled to hear Lori Vallow Daybell's appeal of her convictions for killing her two youngest children and conspiring to murder a romantic rival.",
+      "Vallow Daybell is asking the court to reverse her convictions in the deaths of Joshua, Tylee Ryan, and Tammy Daybell, whose husband Chad Daybell married Vallow Daybell weeks after the children went missing in 2019.",
+      "The defense argues that a lower court denied a speedy trial and prohibited her from keeping her chosen attorney due to a conflict of interest, while challenging the admission of evidence regarding shootings in Arizona.",
+      "In a separate matter, Vallow Daybell received two life sentences for conspiring to murder her estranged husband Charles Vallow and her niece's ex-husband Brandon Boudreaux in Arizona; she has appealed those convictions as well.",
+      "Prosecutors allege Vallow Daybell conspired with her brother Alex Cox to kill Charles Vallow for insurance money, while the children's bodies were discovered buried on property owned by Chad Daybell."
+    ],
+    "title": "Court Hears Lori Vallow Daybell's Appeal in Idaho Killings of 2 of Her Children, Romantic Rival",
+    "topic": "Idaho",
+    "topic_full": "Idaho · Idaho"
+  },
+  {
+    "article_path": "/article/judge-throws-out-doj-attempt-to-delay-certification-of-alaska-senate-race",
+    "article_url": "https://ground.news/article/judge-throws-out-doj-attempt-to-delay-certification-of-alaska-senate-race",
+    "bias": [
+      "Left-Leaning coverage frames the suit as an “extraordinary” attempt to “interfere” or “meddle” with certification, emphasizing ballot secrecy and the judge’s finding that segregating votes was unworkable; right-leaning coverage portrays dismissal as blocking scrutiny of a possible “spoiler candidate,” using phrases like “Decoy Dan,” “dirty Dem scheme,” and “Obama-appointed judge.” The pivotal divide is whether two Dan Sullivans represent federal overreach or voter confusion and alleged Democratic manipulation.",
+      "Center coverage treats it as a procedural “controversy,” stressing standing and jurisdiction.",
+      "All perspectives highlight the dismissal, possible Senate-control consequences, and the DOJ appeal, reflecting broader disputes over election legitimacy and federal authority."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 50.0,
+    "error": null,
+    "left_pct": 31.0,
+    "location": "Alaska",
+    "right_pct": 19.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, District Court Judge Sharon Gleason dismissed a Justice Department lawsuit seeking to block certification of Alaska's Senate race if Republican incumbent Dan Sullivan loses, a suit President Donald Trump had ordered.",
+      "Allegations emerged that Democratic former Rep Mary Peltola's campaign recruited a retired teacher also named Dan J. Sullivan to confuse voters; a New York Times report last week confirmed an operative paid by a group backing Peltola coordinated the effort.",
+      "District Court Judge Sharon Gleason wrote in her order that the relief sought is \"infeasible\" because many voters have already cast ballots, and commingled ballots make it impossible to segregate votes for the decoy candidate while preserving voter secrecy.",
+      "President Trump called for Peltola to be prosecuted, and the State suggested it may not certify a potential Peltola victory; Peltola insisted she had \"no idea\" her aides were involved, calling the issue a \"distraction.\"",
+      "Rep Jamie Raskin, D-Md, called the strategy \"stupid politics ,\" while South Carolina Sen Tim Scott suggested criminal charges might be appropriate; the Vermont independent termed the Democratic involvement in Alaska \"pretty dumb\" on CBS."
+    ],
+    "title": "Judge dismisses lawsuit seeking to block certification of Alaska Senate race if GOP incumbent loses",
+    "topic": "2026 Midterm Elections",
+    "topic_full": "2026 Midterm Elections · Alaska"
+  },
+  {
+    "article_path": "/article/democrat-haley-stevens-endorses-michigan-gop-senate-candidate-mike-rogers-amid-rift-with-abdul-el-sayed_83c08e",
+    "article_url": "https://ground.news/article/democrat-haley-stevens-endorses-michigan-gop-senate-candidate-mike-rogers-amid-rift-with-abdul-el-sayed_83c08e",
+    "bias": [
+      "Left-Leaning coverage frames Haley Stevens’s late endorsement of Mike Rogers as “betrayal” or even “traitor”-level disloyalty, emphasizing staff resignations, Democratic backlash, and fears of aiding Republicans; right-leaning accounts portray the same move as “bravery,” a rejection of a “radical” or allegedly antisemitic Abdul El-Sayed , and a “political earthquake” benefiting Rogers.",
+      "The pivotal divide is whether disputes over Israel, Gaza, AIPAC, and antisemitism represent principled concerns or partisan weaponization.",
+      "Center coverage de-emphasizes moral verdicts, stressing timing and uncertain Senate implications.",
+      "All perspectives highlight the primary feud, church appearance, Trump’s praise, and potential effects on Senate control, reflecting wider divides over party loyalty, Israel, and ideological boundaries."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 34.0,
+    "error": null,
+    "left_pct": 35.0,
+    "location": "Michigan",
+    "right_pct": 31.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, Representative Haley Stevens, D-Mich., endorsed Republican Senate candidate Mike Rogers, a stunning break with her party just days before Election Day in a race that could determine Senate control.",
+      "A public feud with Democratic nominee Abdul El-Sayed prompted the split after he asked Stevens to stay away from campaign events; the two clashed over his rhetoric regarding Israel and an outside ad she called antisemitic.",
+      "Stevens appeared alongside Rogers at Detroit's Perfecting Church on Sunday, praising his support for Black-owned businesses after El-Sayed said she was \"no longer welcome in his campaign.\" The church event was arranged at the last minute.",
+      "Democrats face a critical test in reuniting their coalition, as the endorsement threatens party support among Black and Jewish voters in the final days before Election Day.",
+      "Voters choose between Rogers and El-Sayed on Tuesday in a tight Michigan race that could determine which party controls the United States Senate."
+    ],
+    "title": "Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers amid rift with Abdul El-Sayed",
+    "topic": "2026 Midterm Elections",
+    "topic_full": "2026 Midterm Elections · Michigan"
+  },
+  {
+    "article_path": "/article/senator-hospitalized-with-stroke-after-arm-went-numb-at-sons-hockey-game",
+    "article_url": "https://ground.news/article/senator-hospitalized-with-stroke-after-arm-went-numb-at-sons-hockey-game",
+    "bias": [
+      "Left-Leaning coverage frames Chris Murphy’s stroke as a straightforward medical incident, emphasizing arm numbness at his son’s hockey game and official confirmation while de-emphasizing political identity and condition updates.",
+      "Center coverage adds medical context—“awake and alert” and monitoring at Johns Hopkins—balancing seriousness with reassurance.",
+      "Right-Leaning framing foregrounds Murphy as an “outspoken Dem,” uses the more emotive “suffers stroke,” and portrays the event as occurring “in front of” his son, heightening drama and partisan salience.",
+      "The pivotal divide is whether the episode is primarily health news or an occasion to spotlight Murphy’s political persona; all perspectives nonetheless agree on the stroke, hospitalization, symptoms, and official account."
     ],
     "bias_bar_text": null,
     "center_pct": 55.0,
     "error": null,
-    "left_pct": 34.0,
-    "location": null,
-    "right_pct": 11.0,
+    "left_pct": 22.0,
+    "location": "Connecticut",
+    "right_pct": 23.0,
     "status": "ok",
     "summary": [
-      "On Friday, Judge Sharon Gleason kept a fast track for a DOJ lawsuit seeking to delay Alaska's Senate election certification due to potential voter confusion over two Dan Sullivans on the ballot.",
-      "The legal challenge stems from concerns that voter confusion between Republican Sen. Dan Sullivan and another candidate with his name could influence the race against Democrat Mary Peltola.",
-      "Alaska election officials and the Peltola campaign asked Gleason to dismiss the case, arguing the DOJ lacks legal authority to block certification based on shared candidate names.",
-      "Judge Gleason ordered the DOJ to respond by 1 p.m. Alaska Time Friday to dismissal motions, with a final ruling possible before Election Day on Tuesday.",
-      "The winner of this Alaska Senate race could determine which party holds a majority in the Senate, where Republicans currently control 53 seats in the 100-member chamber."
+      "Senator Chris Murphy suffered a stroke on Saturday while attending his son's hockey game and was transferred to Johns Hopkins Hospital for further monitoring.",
+      "Allison Herwitt, Murphy's chief of staff, said Sunday that the senator is \"awake and alert\" and responding well to treatment at the hospital.",
+      "Doctors are encouraged by his progress, and his office remains \"optimistic he will make a full recovery,\" according to Herwitt's statement released Sunday.",
+      "Murphy is not on Tuesday's ballot but has been considered a potential 2028 White House contender after campaigning for Democratic candidates in recent weeks.",
+      "The senator was scheduled to campaign Sunday in New Hampshire with U.S. Representative Chris Pappas, who is running for the Senate, before the medical emergency."
     ],
-    "title": "Criminal investigation of Alaska Senate race is ‘ongoing,’ U.S. Attorney says",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/polish-president-turns-back-from-senegal-trip-as-top-court-chief-suspended_bed9f3",
-    "article_url": "https://ground.news/article/polish-president-turns-back-from-senegal-trip-as-top-court-chief-suspended_bed9f3",
-    "bias": [
-      "Left-Leaning coverage frames Poland’s confrontation as a “constitutional crisis,” stressing the Tribunal’s politicization and Tusk’s effort to “restore the rule of law,” while describing “coup” as an opposition allegation.",
-      "Right-Leaning coverage portrays police as having “seized” the court in a “judicial coup,” depicts Nawrocki as defending sovereignty, and casts supporters as “patriots” against “globalists.” Center coverage emphasizes a “power struggle,” legal uncertainty, and contradictory claims over police entry and suspensions.",
-      "All highlight Nawrocki’s return from Senegal, police deployment, protests, and suspended officials, but their divergent language reflects wider battles over judicial independence, nationalism, and democratic legitimacy."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 28.0,
-    "error": null,
-    "left_pct": 31.0,
-    "location": null,
-    "right_pct": 41.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, Polish President Karol Nawrocki cut short a flight to Senegal and returned to Warsaw after a government-backed judge suspended Constitutional Tribunal President Bogdan Zwięczkowski. Police secured the court grounds as the standoff escalated.",
-      "Prime Minister Donald Tusk's government defends the suspension as necessary to \"restore the rule of law\" after years of what Tusk termed \"lawlessness\" under the previous Law and Justice administration. The move follows months of judicial deadlock.",
-      "Riot police blocked access to the Constitutional Tribunal as protesters chanting \"Tusk traitor\" attempted to breach security fences. Police detained three people after demonstrators launched \"dangerous projectiles\" at officers during Friday evening's confrontation.",
-      "Following his return, Nawrocki entered the Constitutional Tribunal to meet senior judges, while opposition leaders and court officials denounced the government's actions as an unlawful \"coup d'etat.\" Poland's ambassadors to China and Romania submitted resignations amid the confrontation.",
-      "Disagreements over the legal basis for suspension—which cited \"overriding constitutional necessity\"—underscore the deepening paralysis of the Constitutional Tribunal. This standoff raises urgent questions about Poland's constitutional stability as political tensions reach a critical breaking point."
-    ],
-    "title": "Polish president turns back from Senegal trip as top court chief suspended",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/appeals-court-rejects-justice-department-request-for-california-to-set-aside-disputed-ballots_b4760e",
-    "article_url": "https://ground.news/article/appeals-court-rejects-justice-department-request-for-california-to-set-aside-disputed-ballots_b4760e",
-    "bias": [
-      "Left-Leaning coverage frames the episode as an escalating federal “pressure campaign,” using terms like “intimidate,” “purported,” “purging,” and “despite” to stress unproven claims, disenfranchisement risks, and federal intrusion into state elections.",
-      "Right-Leaning coverage instead casts the same subpoenas and effort involving roughly 20,000 ballots as an “election integrity” investigation, invoking “suspected illegal voting,” “turns up the heat,” and “showdown,” while portraying California officials as resisting verification.",
-      "The pivotal divide is whether intervention protects eligible voters or safeguards ballot legitimacy; center coverage de-emphasizes that ideological framing, describing a 2-1 appellate “setback” in procedural terms.",
-      "All emphasize the court’s rejection, the citizenship dispute, and the broader clash over federal power, voting access, and election trust."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 53.0,
-    "error": null,
-    "left_pct": 33.0,
-    "location": null,
-    "right_pct": 14.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, the 9th U.S. Circuit Court of Appeals rejected the Justice Department's emergency request to block California from counting mail-in ballots from about 20,000 registered voters the administration claims are noncitizens.",
-      "The Justice Department demanded in mid-October that California election officials sequester ballots, alleging the voters were likely noncitizens. State officials questioned the list's accuracy, warning it likely includes many U.S. citizens.",
-      "In a 2-1 decision, the court found no feasible way to segregate ballots without risking disenfranchisement of eligible voters. Judges Mark Bennett and Gabriel Sanchez wrote the request would 'override the plain and manifest dictates of the Constitution itself.'",
-      "Federal prosecutors issued grand jury subpoenas to Los Angeles County election officials regarding ballot handling. Registrar Dean Logan called the legal pressure an \"intimidation\" tactic, citing a \"confrontational, adversarial approach\" by federal officials.",
-      "With the November 3 midterm elections approaching, the Trump administration could appeal the 9th Circuit's decision to the Supreme Court. The ruling marks the third federal court loss in one week for the administration's election interference efforts."
-    ],
-    "title": "Appeals court rejects Justice Department request for California to set aside disputed ballots",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/christa-pike-says-there-is-pain-in-my-mind-and-in-my-soul-one-month-after-failed-execution_662e84",
-    "article_url": "https://ground.news/article/christa-pike-says-there-is-pain-in-my-mind-and-in-my-soul-one-month-after-failed-execution_662e84",
-    "bias": [
-      "Left-Leaning coverage foregrounds Pike’s suffering and capital-punishment risks, using phrases like “botched,” “pain in my mind and in my soul,” and “incompetence” to frame institutional failure and support possible commutation.",
-      "Right-Leaning coverage emphasizes her conviction with “killer,” treats the episode as an operational “fiasco” rather than evidence against executions, and stresses that her death sentence may remain.",
-      "Center coverage sits between them, highlighting pain, isolation, investigation, and legal status.",
-      "The pivotal divide is whether two pentobarbital doses signify systemic flaws or a failed procedure.",
-      "All perspectives acknowledge her survival, continuing pain, and unresolved sentence, reflecting broader punishment-versus-reform tensions."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 54.0,
-    "error": null,
-    "left_pct": 28.0,
-    "location": null,
-    "right_pct": 18.0,
-    "status": "ok",
-    "summary": [
-      "One month after surviving a botched lethal injection on September 30, death row inmate Christa Pike released a statement describing constant physical and mental pain while remaining largely isolated in the prison medical ward.",
-      "Procedural failures characterized the September 30 execution attempt at Riverbend Maximum Security Prison, where an IV team required seven needles to set lines and a miscommunicated 911 call triggered a 26-minute delay in emergency response.",
-      "Gov. Bill Lee paused all executions and ordered an independent review, while Correction Commissioner Frank Strada announced his resignation; Lee stated \"I suspect her sentence will be the same as before,\" unless courts intervene.",
-      "A judge this month ordered the state to preserve all evidence related to the attempted execution, including syringes and personnel logs, as attorneys for Pike expect a \"long legal battle\" regarding future attempts.",
-      "Pike was convicted in 1996 for the 'Jobs Corps Murder' of 19-year-old Colleen Slemmer; although Pike stated she continues to think about the victim's family, May Martinez insisted Tennessee should not remove Pike from death row."
-    ],
-    "title": "Christa Pike says there is ‘pain in my mind and in my soul’ one month after failed execution",
-    "topic": null,
-    "topic_full": null
+    "title": "Democratic Senator Murphy hospitalized after stroke, chief of staff says",
+    "topic": "Connecticut Politics",
+    "topic_full": "Connecticut Politics · Connecticut"
   },
   {
     "article_path": "/article/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice",
@@ -143,12 +239,12 @@
       "The pivotal divide is whether the ruling signals broader media-accountability and Trump controversy or merely a pleading failure.",
       "Both emphasize the final dismissal, Epstein-linked allegations, and the court’s legal conclusion."
     ],
-    "bias_bar_text": "Left 40% Center 42% R 18%",
+    "bias_bar_text": null,
     "center_pct": 42.0,
     "error": null,
-    "left_pct": 40.0,
-    "location": null,
-    "right_pct": 18.0,
+    "left_pct": 38.0,
+    "location": "United States",
+    "right_pct": 20.0,
     "status": "ok",
     "summary": [
       "On Saturday, District Judge Darrin Gayles dismissed President Donald Trump 's lawsuit against The Wall Street Journal with prejudice, permanently barring the president from refiling claims over reporting on an alleged birthday letter to Jeffrey Epstein.",
@@ -158,516 +254,521 @@
       "Dismissal with prejudice prevents President Trump from pursuing further legal action against The Wall Street Journal, News Corp, or media mogul Rupert Murdoch regarding the Epstein story."
     ],
     "title": "Trump lawsuit against Wall Street Journal over Epstein birthday letter is dismissed with prejudice",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/mom-of-slain-bronx-student-javits-frimpong-to-be-granted-visa-mamdani-says",
-    "article_url": "https://ground.news/article/mom-of-slain-bronx-student-javits-frimpong-to-be-granted-visa-mamdani-says",
-    "bias": [
-      "Left-Leaning coverage foregrounds a Ghanaian immigrant family’s grief, the teen’s “killed” and “shooting” circumstances, and Mamdani’s appeal, while right-leaning accounts frame Trump as the compassionate actor who “steps in,” “grants” the visa, and enables the mother to “say goodbye.” The pivotal divide is attribution and certainty: left and center perspectives retain that Mamdani reported the decision and that White House confirmation was pending, whereas the right presents it more definitively and adds “bullied,” “justice,” and possible suspects.",
-      "Center coverage remains narrower and more qualified.",
-      "All emphasize the tragic shooting and urgent reunion, reflecting broader divides over immigration, presidential credit, and public safety."
-    ],
-    "bias_bar_text": "Left 41% Center 40% R 19%",
-    "center_pct": 40.0,
-    "error": null,
-    "left_pct": 41.0,
-    "location": null,
-    "right_pct": 19.0,
-    "status": "ok",
-    "summary": [
-      "On Saturday, President Donald Trump agreed to grant an immediate visa to the mother of 15-year-old Javits Frimpong, who was killed in the Bronx last week, New York City Mayor Zohran Mamdani announced.",
-      "Javits, a Ghanaian immigrant, was fatally shot in the abdomen Thursday morning while walking to school in the Claremont neighborhood, according to the New York Police Department.",
-      "Thomas Frimpong, the teenager's father, believes the shooting may be connected to bullying at DreamYard Preparatory School, where the principal recently suspended two students following complaints involving his son.",
-      "Religious leaders and community members gathered Friday for a vigil near the shooting site, where Leandra Feliz, whose son Lesandro \"Junior\" Guzman-Feliz was killed in 2018, offered support to the grieving family.",
-      "Ghanaian Foreign Minister Sam Okudzeto Ablakwa is coordinating with U.S. authorities to ensure justice, though the White House has not independently confirmed the visa issuance as the NYPD continues searching for suspects."
-    ],
-    "title": "Mamdani says Trump agrees to grant visa to mother of Ghanian teen killed in Bronx shooting",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/rep-beatty-moves-to-block-renewed-kennedy-center-closure-effort-alleging-concealed-evidence",
-    "article_url": "https://ground.news/article/rep-beatty-moves-to-block-renewed-kennedy-center-closure-effort-alleging-concealed-evidence",
-    "bias": [
-      "The supplied analyses show a forceful left-leaning narrative but no right-leaning coverage, so a direct left-right comparison is unavailable.",
-      "Left framing portrays Trump’s takeover as causing the center to “go ‘broke,’” with “inflated” renovation costs and claims “debunked,” emphasizing financial mismanagement over physical deterioration.",
-      "Center coverage is more procedural, foregrounding Beatty’s motion, alleged “concealed evidence,” and lawyers’ claim that closure could “mask the center’s decline,” while preserving attribution.",
-      "The pivotal divide is whether closure reflected genuine building needs or concealed fiscal failure; both perspectives agree the court filing, finances, renovations, and Trump-era leadership are central, reflecting broader disputes over institutional stewardship and political motive."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 81.0,
-    "error": null,
-    "left_pct": 19.0,
-    "location": "Washington",
-    "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "On Friday, Congresswoman Joyce Beatty filed court documents challenging President Donald Trump 's administration over plans to shutter the Kennedy Center for two years, arguing officials concealed evidence contradicting claims the facility is \"dangerously dilapidated and decrepit.\"",
-      "Beatty's attorneys allege management misled trustees by claiming phased renovations would cost more than $300 million extra, while a hidden contractor estimate put the actual increase closer to $41 million.",
-      "The filing further asserts officials falsely claimed $257 million in congressional appropriations required spending by 2029, when the actual deadline is 2034, according to Beatty's attorneys.",
-      "A federal judge will hear arguments on Tuesday, November 3, while a temporary restraining order currently compels the Kennedy Center to remain open and operating within its REACH annex.",
-      "The dispute stems from efforts to add Trump's name to the building, a move twice blocked by courts, which prompted the board's September vote to close the facility."
-    ],
-    "title": "Top Kennedy Center official urged closure due to financial problems, not poor conditions, lawyers argue",
     "topic": "US Politics",
-    "topic_full": "US Politics · Washington"
+    "topic_full": "US Politics · United States"
   },
   {
-    "article_path": "/article/professor-78-arrested-after-standing-in-the-way-of-a-robot-i-have-to-stop-this-i-have-the-right-to-protest",
-    "article_url": "https://ground.news/article/professor-78-arrested-after-standing-in-the-way-of-a-robot-i-have-to-stop-this-i-have-the-right-to-protest",
+    "article_path": "/article/oracle-plans-to-raise-20-billion-through-bonds-and-stock-sales_8297c5",
+    "article_url": "https://ground.news/article/oracle-plans-to-raise-20-billion-through-bonds-and-stock-sales_8297c5",
     "bias": [
-      "Left-Leaning coverage foregrounds Carolyn Marvin’s age, academic background, and “in protest ” rationale, framing the arrest as civil disobedience and emphasizing her view that humans had “more rights than the robot.” Right-leaning coverage stresses “blocking,” arrest, and that she “would do it again,” portraying defiance and entitlement while de-emphasizing free-speech context.",
-      "Center coverage bridges both, attributing her “free speech” claim and adding recurring encounters, while colorful phrases like “wheeled little food vessels” and “unleashed” make the technology novel yet potentially uncontrolled.",
-      "All perspectives highlight the 78-year-old’s arrest and opposition to robots, revealing broader tensions over protest, property, technology, and public control."
+      "No left-leaning headlines are provided, so a left-right contrast cannot be established; the available center-right comparison is narrower.",
+      "Both frame Oracle ’s $20 billion fundraising as financing AI and cloud “expansion,” while “costly” signals caution.",
+      "Center coverage adds the sharper “spending spree,” the roughly $10 billion bond component, a $20 billion funding limit through fiscal 2030, and a 3.5%–4% premarket share decline; right coverage “taps investors” and de-emphasizes those risks, presenting a concise expansion story.",
+      "Both emphasize scale and infrastructure, reflecting the broader tension between technological ambition and financial restraint."
     ],
     "bias_bar_text": null,
-    "center_pct": 80.0,
+    "center_pct": 64.0,
     "error": null,
-    "left_pct": 10.0,
-    "location": "Philadelphia",
-    "right_pct": 10.0,
-    "status": "ok",
-    "summary": [
-      "Earlier this month, Carolyn Marvin, a 78-year-old retired University of Pennsylvania communications professor, was arrested for blocking an Uber Eats delivery robot near the 1200 block of Filbert Street in Philadelphia.",
-      "Marvin has spent months deliberately obstructing delivery robots as a symbolic protest against technology infiltrating public space, targeting privacy concerns and the displacement of low-income delivery workers.",
-      "Pennsylvania law classifies autonomous delivery robots as \"personal delivery devices\"—pedestrians, not vehicles. Marvin argued she holds a First Amendment right to protest corporate abuses in the same public spaces the machines occupy.",
-      "Philadelphia Police Department officers issued a disorderly conduct citation after Marvin allegedly refused repeated commands to move, leading to her handcuffing and brief detention in a squad car.",
-      "Despite the citation, Marvin intends to continue her protest campaign against delivery robots, though she noted she will keep an eye out for police moving forward."
-    ],
-    "title": "78-year-old former college professor arrested for blocking delivery robot in protest",
-    "topic": "US Crime",
-    "topic_full": "US Crime · Philadelphia"
-  },
-  {
-    "article_path": "/article/india-turkey-proposing-ideas-for-passage-of-grain-shipments-in-black-sea-marco-rubio",
-    "article_url": "https://ground.news/article/india-turkey-proposing-ideas-for-passage-of-grain-shipments-in-black-sea-marco-rubio",
-    "bias": [
-      "Left-Leaning coverage frames the Black Sea initiative as diplomatic momentum, emphasizing a “limited ceasefire ,” “unfettered” grain and energy shipments, and the danger of “threatening the world” through food insecurity; right-leaning coverage stresses “crisis,” maritime trade, and “normalizing the security situation,” portraying dialogue as part of a broader Russia-Ukraine settlement.",
-      "Center coverage is more restrained, highlighting navigation, attacks on civilian ships, and accountability by both Moscow and Kyiv.",
-      "The key divide is whether the proposals signal humanitarian de-escalation, strategic maritime stabilization, or responsibility for wartime disruption.",
-      "All perspectives acknowledge Rubio’s review of Turkish and Indian ideas and the shared stakes for grain movement, security, and global stability."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 25.0,
-    "error": null,
-    "left_pct": 25.0,
-    "location": "Ukraine",
-    "right_pct": 50.0,
-    "status": "ok",
-    "summary": [
-      "U.S. Secretary of State Marco Rubio confirmed growing international momentum for a targeted maritime ceasefire in the Black Sea to secure commercial trade corridors for grain and energy exports.",
-      "Western officials, alongside delegates at a Group of 20 foreign ministers' meeting in Atlanta, discussed diplomatic proposals advanced by Turkey and India to establish safe navigation protocols for merchant shipping.",
-      "Canadian and European representatives expressed skepticism regarding Moscow's adherence to maritime agreements while voicing concerns over the participation of Russian Foreign Minister Sergei Lavrov at the summit.",
-      "U.S. diplomats defended multi-channel engagement, emphasizing that diplomatic dialogue with Russian leadership remains essential to stabilizing global commodity markets and establishing durable ceasefires.",
-      "Humanitarian and maritime organizations stressed that restoring secure transit across Black Sea maritime lanes remains vital to reducing global agricultural price volatility and mitigating supply chain disruptions."
-    ],
-    "title": "US, Canada see growing interest in limited ceasefire in Black Sea",
-    "topic": "Ukraine War",
-    "topic_full": "Ukraine War · Ukraine"
-  },
-  {
-    "article_path": "/article/the-fbi-has-released-hundreds-of-addresses-used-in-the-binance-attack",
-    "article_url": "https://ground.news/article/the-fbi-has-released-hundreds-of-addresses-used-in-the-binance-attack",
-    "bias": [
-      "Left-Leaning coverage narrowly emphasizes the FBI’s attribution and roughly $6.3 billion loss, using restrained language such as “reports” and “involvement.” Right-leaning framing foregrounds culpability, with terms like “officially accused” and “stealing,” while stressing Binance ’s move toward reimbursing customers—a law-and-order and consumer-protection lens.",
-      "Center coverage heightens drama through “giant,” “largest-ever,” and “massive,” adds TraderTraitor, notes the attack unfolded in about 20 minutes, and details efforts to trace, block, or convert the stolen assets.",
-      "Across perspectives, the central dividing line is attribution versus operational accountability, though all identify North Korea and the enormous loss, reflecting shared concern over cybercrime and geopolitical responsibility."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 35.0,
-    "error": null,
-    "left_pct": 34.0,
+    "left_pct": 9.0,
     "location": "United States",
-    "right_pct": 31.0,
+    "right_pct": 27.0,
     "status": "ok",
     "summary": [
-      "The FBI attributed the theft of more than $6 billion in cryptocurrency to North Korea in a brazen hacking attack on Binance , marking the largest cyber incident in cryptocurrency history.",
-      "TraderTraitor, an elite North Korean hacking unit, previously carried out the $1.5 billion Bybit attack in 2025 and a $620 million theft in 2022, establishing a pattern of major crypto heists.",
-      "The FBI, USSS, and IRS-CI observed actors converting the stolen assets primarily into Ethereum, according to a statement released on Oct 31.",
-      "Binance has covered about 90% of the $6.3 billion stolen and plans to restore withdrawals by Nov 1, fulfilling a pledge to fully reimburse customers.",
-      "President Donald Trump recently floated new outreach to North Korea and potential meetings with leader Kim Jong in 2026, though he downplayed expectations by saying he was \"not sure that anybody\" is asking for a meeting."
+      "On Monday, Oracle filed regulatory documents to raise $20 billion through new stock and debt sales for artificial intelligence and cloud infrastructure expansion.",
+      "Rising capital spending, expected to peak in fiscal 2027 and 2028, prompted the fundraising as Oracle aims to scale cloud-computing capacity for long-term growth.",
+      "The $20 billion plan splits evenly between $10 billion in new equity and $10 billion in senior notes, with Oracle opening the investment-grade debt offering Monday per SEC filings.",
+      "Shares fell 1% in premarket trading on Monday, extending a roughly 33% decline this year as investors weigh the debt burden required for infrastructure investments.",
+      "Oracle reaffirmed its fiscal 2030 revenue target exceeding $225 billion while committing to cap total capital markets financing for AI at $20 billion through 2030."
     ],
-    "title": "FBI says North Korea behind $6 billion crypto theft from Binance",
-    "topic": "Binance",
-    "topic_full": "Binance · United States"
+    "title": "Oracle plans to raise $20 billion through bonds and stock sales",
+    "topic": "Oracle",
+    "topic_full": "Oracle · United States"
   },
   {
-    "article_path": "/article/birmingham-police-multiple-shot-investigation-underway-magic-city-classic-tailgating-suspended",
-    "article_url": "https://ground.news/article/birmingham-police-multiple-shot-investigation-underway-magic-city-classic-tailgating-suspended",
+    "article_path": "/article/voters-fear-the-america-theyve-known-is-slipping-away-on-that-the-left-and-right-agree",
+    "article_url": "https://ground.news/article/voters-fear-the-america-theyve-known-is-slipping-away-on-that-the-left-and-right-agree",
     "bias": [
-      "Coverage largely converges on a post–Magic City Classic shooting near Legion Field, but framing differs: left-leaning reports foreground human impact, emergency treatment, and initially unknown victim conditions, while right-leaning accounts stress the HBCU “rivalry” setting, use sharper terms such as “attack” and “wounded,” and highlight claims of eight injured people and a detained suspect.",
-      "Center coverage de-emphasizes those contrasts, emphasizing four injured people, the ongoing investigation, and suspended tailgating.",
-      "Reported casualty totals vary across perspectives, but all emphasize gunfire, police response, and disruption surrounding the football event rather than advancing a broader partisan interpretation."
+      "Left-Leaning coverage emphasizes the election’s institutional stakes—control of Congress, governorships, and legislatures—and portrays political leaders as stirring “anger and hate” that turn neighbors against one another.",
+      "Right-Leaning coverage de-emphasizes that blame, instead stressing shared anxiety that America is “slipping away,” while highlighting Shane Dunn’s first-ever vote and Democratic choice as evidence of civic urgency.",
+      "Center-Leaning framing foregrounds bipartisan “angst” and “high stakes” without assigning responsibility.",
+      "The dividing line is whether polarization reflects inflammatory political actors or broader national decline; all perspectives agree voters fear profound change and view participation as a defense of their place in an increasingly divided America."
     ],
     "bias_bar_text": null,
-    "center_pct": 51.0,
+    "center_pct": 58.0,
     "error": null,
-    "left_pct": 20.0,
-    "location": "Birmingham",
-    "right_pct": 29.0,
-    "status": "ok",
-    "summary": [
-      "One person died and eight others sustained injuries after gunfire broke out near Legion Field in Birmingham, Alabama , following the annual Magic City Classic football game between Alabama A&M University and Alabama State University.",
-      "Officers with the Birmingham Police Department responded to reports of multiple gunshots around 7:50 p.m. in the 400 block of Graymont Avenue West, discovering nine total gunshot victims at the scene.",
-      "Medical responders pronounced one individual dead at the location, while emergency crews transported the remaining victims to local hospitals, leaving one in critical condition and seven in stable condition.",
-      "Law enforcement personnel recovered multiple firearms from the area and detained at least one individual for questioning, though authorities have not formally named a primary suspect or announced charges.",
-      "Municipal authorities immediately canceled all scheduled post-game tailgating activities around the venue as homicide detectives launched an active investigation into the incident."
-    ],
-    "title": "1 dead, 8 injured in Alabama shooting after football game, police say",
-    "topic": "Gun Violence",
-    "topic_full": "Gun Violence · Birmingham"
-  },
-  {
-    "article_path": "/article/russian-strikes-cut-power-to-thousands-in-ukraine-as-drones-damage-russian-facility_87d953",
-    "article_url": "https://ground.news/article/russian-strikes-cut-power-to-thousands-in-ukraine-as-drones-damage-russian-facility_87d953",
-    "bias": [
-      "Left-Leaning coverage foregrounds Russia’s responsibility and civilian hardship—“hundreds of thousands of families” without power—while linking the strikes to Trump’s ceasefire “push,” implying limited effectiveness rather than proving failure.",
-      "Right-Leaning coverage counters with Ukrainian attacks, “panic” in Russia, fuel queues, and possible damage to a facility allegedly associated with missile production, using charged phrases like “high-intensity” and “constant attacks.” Center coverage frames reciprocal escalation, calling Russia’s repeated targeting a “campaign” against Ukraine ’s energy grid and specifying outages across 650-plus Zhytomyr localities.",
-      "Across perspectives, officials’ claims and damage reports remain only partly independently verified, while all emphasize infrastructure damage and cross-border escalation."
-    ],
-    "bias_bar_text": "L 17% Center 28% Right 55%",
-    "center_pct": 28.0,
-    "error": null,
-    "left_pct": 17.0,
-    "location": null,
-    "right_pct": 55.0,
-    "status": "ok",
-    "summary": [
-      "On Sunday, Nov. 1, Russia launched overnight strikes against Ukraine's energy infrastructure, leaving hundreds of thousands of households without power across four regions, President Volodymyr Zelensky confirmed on Telegram.",
-      "Russia continued its campaign targeting the power grid ahead of winter, seeking to exploit a deficit of ballistic missile interceptors, Zelensky stated, \"Russia is destroying our infrastructure and killing our people right now.\"",
-      "Air Force data shows Ukrainian forces downed 371 out of 433 drones launched by Russia overnight, including jet-powered Shahed attack drones, while strikes hit 16 locations with debris falling in 14 areas.",
-      "Regional authorities reported one death and at least 47 injuries across Ukraine, while DTEK introduced emergency power outages in Kyiv and stated, \"Energy workers are working to restore damaged equipment.\"",
-      "Meanwhile, Russia opened a criminal case on terrorism charges regarding a separate industrial facility attack in Nizhny Novgorod, while strikes were also reported in Cherkasy, Lviv, and other oblasts with no confirmed casualties."
-    ],
-    "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/environmentalists-stage-halloween-demonstration-over-scary-fossil-fuels",
-    "article_url": "https://ground.news/article/environmentalists-stage-halloween-demonstration-over-scary-fossil-fuels",
-    "bias": null,
-    "bias_bar_text": "Left 67% Center 33%",
-    "center_pct": 33.0,
-    "error": null,
-    "left_pct": 67.0,
-    "location": null,
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "On Saturday, climate activists gathered outside Bute House in Edinburgh to protest the Scottish Government's approval of a new gas-fired power station in Peterhead.",
-      "The Halloween-themed demonstration also opposed the approval of the Jackdaw gas field near Aberdeen, with protesters carrying signs warning that \"this decision will haunt you.\"",
-      "Kate Whitaker, head of movement building for Friends of the Earth Scotland, labeled the approval a \"catastrophic failure,\" arguing that fossil fuels harm \"millions of people.\"",
-      "A spokesperson maintained their commitment to achieving net zero by 2045, stating that the decision letter outlines the grounds for the recent power plant approval.",
-      "Activists warned there were \"no treats for John Swinney,\" the First Minister, while urging politicians to focus on climate solutions like \"warmer homes\" and \"reliable bus services."
-    ],
-    "title": "Bute House protested by environmental campaigners",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/trump-backs-nvidia-ceo-over-china-spy-report",
-    "article_url": "https://ground.news/article/trump-backs-nvidia-ceo-over-china-spy-report",
-    "bias": [
-      "Center-Leaning coverage frames the episode cautiously as a reported allegation, stressing that the United States is looking “closely” and that it could “embarrass the White House” because Jensen Huang advises Trump.",
-      "Right-Leaning coverage foregrounds national-security danger, using phrases such as “Chinese spy,” “spy plot,” and “backs” to portray Trump as a defender of a “brilliant” American technology leader, while highlighting Huang’s advisory role and Beijing trip.",
-      "The pivotal divide is whether the story is chiefly political liability or Chinese espionage threat; the right also includes China’s denial.",
-      "Both emphasize Trump’s support, the investigation, and technology’s geopolitical stakes."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 54.0,
-    "error": null,
-    "left_pct": null,
+    "left_pct": 29.0,
     "location": "United States",
-    "right_pct": 46.0,
+    "right_pct": 13.0,
     "status": "ok",
     "summary": [
-      "On Saturday, President Donald Trump voiced support for Nvidia CEO Jensen Huang at his Florida residence, calling him a \"brilliant\" executive after reports emerged of a Chinese spy plot targeting him.",
-      "The New York Times reported Thursday that U.S. intelligence concluded a Chinese executive linked to a Singapore-based data center company funneled information to Beijing after interacting with Huang.",
-      "Trump stated the United States is looking \"very closely\" at the issue, telling reporters \"We're going to check it out very closely\" while emphasizing the need to protect \"brilliant people.\"",
-      "On retaining Huang as an advisor, Trump said he would like to keep him \"unless we find out something to the contrary,\" adding he has \"always found Jensen Huang to be very above board.\"",
-      "China has dismissed the espionage allegations as \"groundless speculation,\" while Beijing accelerates semiconductor development in a sector where Huang has previously advocated for Nvidia's chips."
+      "Voters across the United States are casting ballots in the 2026 midterm elections to determine control of the Senate and House, amid widespread anxiety that the nation's bedrock is at risk.",
+      "Many voters describe a pervasive sense of division, citing political hate and corruption as evidence that the America they have known is slipping away from them.",
+      "Arthur Horner, 59, voted to \"put the brakes on just the madness,\" while Democrat Linda Markle, 72, said \"I am so afraid for this country\" and called the division \"horrible.\"",
+      "Cattle rancher Elizabeth Marlett, 61, cited \"society's leftward lurch\" as a concern, while Republican Chris Smith, 27, sympathized with critics of Trump but backed his manufacturing and tariff goals.",
+      "High stakes prompted first-time voter Shane Dunn, 65, to participate, while Lynn Henderson, 68, voted with his grandsons hoping for Democratic victories to \"make a difference."
     ],
-    "title": "Trump says US looking 'closely' at report Nvidia CEO target of China spy plot",
-    "topic": "Jensen Huang",
-    "topic_full": "Jensen Huang · United States"
-  },
-  {
-    "article_path": "/article/us-campaign-enters-final-weekend-as-alaska-california-ballot-fights-heat-up_83544f",
-    "article_url": "https://ground.news/article/us-campaign-enters-final-weekend-as-alaska-california-ballot-fights-heat-up_83544f",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 83.0,
-    "error": null,
-    "left_pct": null,
-    "location": "United States",
-    "right_pct": 17.0,
-    "status": "no_change",
-    "summary": [
-      "On Saturday, President Donald Trump 's administration pressed a criminal investigation into Alaska's pivotal Senate race and announced it would likely take its fight over California mail-in ballots to the Supreme Court as the midterm campaign entered its final weekend.",
-      "Federal prosecutors are investigating whether aides to Democratic challenger Mary Peltola helped recruit Daniel J. Sullivan Jr. to run in Alaska because he shares a name with Republican incumbent Senator Dan S. Sullivan.",
-      "U.S. Attorney Michael Heyman said at a Friday press conference that a recent New York Times report drove a \"surge\" of FBI resources onto the case, calling Sullivan Jr. a \"sham candidate.\"",
-      "California Governor Gavin Newsom warned federal judges on Friday that the Justice Department may seek warrants to seize ballots, citing grave concerns about interference in the \"lawful counting of ballots and certifying the results of the election.\"",
-      "These closely contested races are crucial to Democrats' hopes of taking the Senate in Tuesday's vote, as 35 Senate races and all 435 House seats will decide whether Republicans keep control of Congress for the final two years."
-    ],
-    "title": "US midterm campaign enters final weekend as Alaska, California ballot fights heat up",
+    "title": "Voters Across Political Spectrum Voice Anxiety in 2026 Midterm Voting",
     "topic": "2026 Midterm Elections",
     "topic_full": "2026 Midterm Elections · United States"
   },
   {
-    "article_path": "/article/trump-says-us-still-has-to-take-care-of-one-or-two-targets-in-iran_302b6b",
-    "article_url": "https://ground.news/article/trump-says-us-still-has-to-take-care-of-one-or-two-targets-in-iran_302b6b",
+    "article_path": "/article/amateur-historians-look-into-murderous-pirate-finds-new-york-beach-namesake-may-have-helped",
+    "article_url": "https://ground.news/article/amateur-historians-look-into-murderous-pirate-finds-new-york-beach-namesake-may-have-helped",
     "bias": [
-      "Left-Leaning coverage frames Trump’s remarks as escalation, using “threatens,” “war,” “far-right president,” and “decimated” to stress aggression, uncertainty, and U.S.-Israeli responsibility for the conflict.",
-      "Right-Leaning coverage highlights claimed military success—capabilities “neutralized,” “military might,” and only “one or two” targets destroyable in “ten minutes”—while portraying Iran ’s “unrestricted response” as dangerous and Trump’s distrust of negotiations as justified.",
-      "Center coverage more often supplies chronology and warns that “World War III looms,” while retaining diplomatic ambiguity.",
-      "All emphasize the possible Pickaxe Mountain target, continuing talks, rapid strikes, and Iranian retaliation, reflecting wider divides over intervention, deterrence, and credibility."
+      "The coverage differs more in tone than ideology: the left-associated framing uses vivid phrases such as “murderous pirate,” “infamous pirate heist,” and “key role,” making the possible connection feel especially dramatic, while right-associated wording favors “implicating” and “possible clue,” stressing that Thomas Jones ’s involvement remains unproven.",
+      "Center coverage adds colonial-era documents and the qualifier “may have helped,” balancing intrigue with uncertainty.",
+      "All perspectives portray James Bailey’s research as a provocative lead linking the Jones Beach namesake to a Red Sea raid, but none supplies independent expert verification or presents a clearly partisan interpretation."
     ],
     "bias_bar_text": null,
-    "center_pct": 27.0,
+    "center_pct": 53.0,
     "error": null,
-    "left_pct": 24.0,
-    "location": "United States",
-    "right_pct": 49.0,
+    "left_pct": 36.0,
+    "location": "New York",
+    "right_pct": 11.0,
     "status": "ok",
     "summary": [
-      "On Saturday, President Donald Trump told reporters at his Palm Beach residence that the United States has \"knocked out\" much of Iran's military but still must \"take care of\" one or two targets, including the suspected nuclear site Pickaxe Mountain.",
-      "Trump said negotiations to end the war, which began in February, are \"going fine,\" though he cautioned the Islamic Republic remains \"not very reliable.\" He added the United States is not in a hurry to strike, having already decimated Iran's military and nuclear program.",
-      "Western intelligence has flagged Pickaxe Mountain as a location likely used to store nuclear material, though the Iranian government formally denies any nuclear work occurs there. This discrepancy underscores the intelligence gap complicating potential military action.",
-      "Secretary of State Marco Rubio said earlier Saturday that Trump has not made a decision about fresh strikes on Iran, noting the United States remains open to a diplomatic solution. His comments signal ongoing internal debate.",
-      "Iran's supreme leader warned the United States and Israel against launching new attacks, while Trump indicated he is weighing potential military action after the United States midterms. He said remaining targets could be addressed \"in 10 minutes."
+      "Amateur historian James Bailey suggests Thomas Jones, the namesake of Jones Beach, assisted pirate Henry Every after the 1695 Ganj-i-Sawai raid. Documents indicate Jones served as a \"wheelman\" helping the crew evade authorities.",
+      "After serving as a British military major and privateer, Jones transitioned to colonial life in New York. In 1696, his father-in-law Thomas Townsend gifted him significant Long Island land, enabling a fresh start.",
+      "Colonial governor Richard Coote investigated Jones in 1698 after witness depositions reported a \"barrel of money\" reaching his home. Jones, described as \"formerly a pirate,\" testified he knew nothing about the funds.",
+      "Maritime history professor Richard Blakemore cautions findings are \"compelling but shouldn't be considered conclusive.\" Kevin McDonald notes such ties illustrate how piracy provided \"foundational and multi-generational wealth\" for Northeast families.",
+      "A 1906 family history by descendant Thomas Floyd-Jones dismissed pirate tales as \"slander\" and \"improbable fictions.\" Recent research reveals early British colonies were deeply connected to piracy both socially and economically."
     ],
-    "title": "Trump Says US Still Has to 'Take Care' of One or Two Targets in Iran",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
+    "title": "Iconic New York figure was likely \"major player\" in murderous pirate's 1695 heist, historian says",
+    "topic": "History",
+    "topic_full": "History · New York"
   },
   {
-    "article_path": "/article/trump-says-flavio-bolsonaro-can-stay-in-us-as-long-as-he-wants_cecfe3",
-    "article_url": "https://ground.news/article/trump-says-flavio-bolsonaro-can-stay-in-us-as-long-as-he-wants_cecfe3",
+    "article_path": "/article/4-americans-and-1-canadian-among-the-69-dead-in-spains-train-collision_d8ba9f",
+    "article_url": "https://ground.news/article/4-americans-and-1-canadian-among-the-69-dead-in-spains-train-collision_d8ba9f",
     "bias": [
-      "Left-Leaning coverage foregrounds Bolsonaro’s electoral defeat, legal investigations, and possible flight, using “fled” and warning Trump’s expansive welcome could strain U.S.- Brazil relations.",
-      "Right-Leaning coverage recasts the same gesture as a “major green light,” stresses Bolsonaro’s conservative identity, calls Lula “leftist,” and highlights Rubio’s denial of direct U.S. involvement; “treated very badly” and “disgrace” intensify partisan grievance.",
-      "Center coverage de-emphasizes ideological and legal context, focusing on the offer, Bolsonaro’s defeat, diplomatic tensions, and Trump’s lack of plans to meet him.",
-      "Across perspectives, all emphasize the unrestricted stay, revealing disputes over legitimacy, accountability, and conservative solidarity."
+      "Left-Leaning coverage foregrounds Mexico’s unresolved missing-person case and its foreign ministry’s consular search, while right-leaning coverage intensifies the same focus with phrases such as “still looking,” “agonising wait,” and “deadliest rail accidents this century,” stressing family anguish and historical scale.",
+      "Neither uses overt partisan labels, but their priorities differ: ongoing nationality-specific uncertainty versus emotional and geopolitical significance.",
+      "Center coverage de-emphasizes Mexico’s case, instead framing identification as an international process involving mostly Spanish victims, a likely Japanese victim, and an Italo-Venezuelan resident.",
+      "All report the collision, 69 deaths, and four Americans and one Canadian among them, while differing in national and humanitarian emphasis."
     ],
     "bias_bar_text": null,
-    "center_pct": 18.0,
+    "center_pct": 63.0,
     "error": null,
-    "left_pct": 38.0,
+    "left_pct": 31.0,
+    "location": "United States",
+    "right_pct": 6.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, October 28, 2026, a high-speed train collision in Urda, Spain, killed 69 people, including four Americans and one Canadian, leaving more than 100 injured.",
+      "This tragedy marks the second fatal accident this year on the Madrid-Seville line, following a January collision near Adamuz that killed 46 people, with 50 hospitalized and 15 in critical care.",
+      "Authorities confirmed 66 of the 69 victims have been identified, including 54 Spaniards and citizens from France and Portugal. Spokesperson Thida Ith told the Toronto Sun on Wednesday that Canadian officials are providing consular assistance.",
+      "Spanish Prime Minister Pedro Sanchez said on Friday that trust in the transit system had been \"broken\" after the two crashes, pledging an investigation and improvements to restore the system that carried 45 million travelers last year.",
+      "Prime Minister Mark Carney told reporters on Wednesday that Canada is ready to provide \"any assistance\" required, while Sanchez faces political pressure ahead of the November 29 election seeking to extend his premiership."
+    ],
+    "title": "4 Americans and 1 Canadian among the 69 dead in Spain's train collision",
+    "topic": "Trains",
+    "topic_full": "Trains · United States"
+  },
+  {
+    "article_path": "/article/the-trial-of-class-and-ortiz-of-course-rigged-in-the-major-leagues-arrives",
+    "article_url": "https://ground.news/article/the-trial-of-class-and-ortiz-of-course-rigged-in-the-major-leagues-arrives",
+    "bias": [
+      "The left and right narratives show little ideological divergence, both framing Emmanuel Clase and Luis Ortiz’s alleged pitch-fixing as a serious criminal case, using terms like “colluded,” “fraud charges,” and “at stake.” The left more strongly emphasizes alleged “bribes” and the hundreds of thousands reportedly won by gamblers, while the right de-emphasizes that figure and foregrounds the possible loss of careers and freedom.",
+      "Both retain the promotional label “star reliever,” creating tension between athletic stature and alleged misconduct.",
+      "Center coverage adds procedural context—federal court in Brooklyn and an expected monthlong trial—and stresses sports -betting integrity.",
+      "Across perspectives, the dividing line is consequence versus scale, within a shared concern over corruption, accountability, and baseball’s credibility."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 53.0,
+    "error": null,
+    "left_pct": 35.0,
+    "location": "New York",
+    "right_pct": 12.0,
+    "status": "ok",
+    "summary": [
+      "Former Cleveland Guardians pitchers Emmanuel Clase and Luis Ortiz began their bribery trial in Brooklyn federal court on Monday, facing conspiracy charges related to alleged collusion with gamblers.",
+      "Prosecutors allege Clase and Ortiz accepted payoffs to help gamblers from their native Dominican Republic win at least $460,000 on in-game prop bets, with Clase allegedly recruiting Ortiz into the scheme in 2025.",
+      "Defense lawyers are expected to argue the pitchers varied pitch placement strategically to fool batters, while Judge Kiyo ruled Friday that prosecutors cannot show the jury evidence that Clase owed $500,000 in taxes.",
+      "Clase, a three-time All-Star under a $20 million, five-year contract, and Ortiz, who earned $782,600 in 2025, remain on nondisciplinary leave without pay while their careers face jeopardy.",
+      "The trial is expected to unfold over the next month in Brooklyn federal court, with several professional baseball players and team executives expected to testify regarding the alleged scheme."
+    ],
+    "title": "Ex-Cleveland Guardians Pitchers, Including Star Reliever, Go to Trial in New York on Fraud Charges",
+    "topic": "Sports",
+    "topic_full": "Sports · New York"
+  },
+  {
+    "article_path": "/article/marvell-to-buy-lumentum-in-115-billion-deal-in-ai-data-center-bet",
+    "article_url": "https://ground.news/article/marvell-to-buy-lumentum-in-115-billion-deal-in-ai-data-center-bet",
+    "bias": [
+      "Left-Leaning coverage spotlights spectacle, calling the $115 billion transaction “blockbuster” and “largest merger ever,” while right-leaning coverage de-emphasizes historical scale and frames it as a practical expansion of Marvell’s AI data-center connectivity business and effort to “compete with” Broadcom.",
+      "Center coverage bridges the two, describing an AI “bet,” a “race to capitalize,” and possible “category leader,” while detailing the all-stock structure and debt.",
+      "The pivotal divide is whether the deal signifies unprecedented magnitude or strategic execution; all perspectives emphasize its $115 billion value and major technology implications, reflecting broader tensions between promotional scale narratives and cautious market-oriented interpretation."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 44.0,
+    "error": null,
+    "left_pct": 12.0,
     "location": "United States",
     "right_pct": 44.0,
     "status": "ok",
     "summary": [
-      "On Saturday, October 31, 2026, US President Donald Trump stated at his Mar-a-Lago club that Brazilian Senator Flávio Bolsonaro may remain in the United States \"as long as he wants,\" though Trump has no plans to meet him.",
-      "Bolsonaro traveled to the United States after losing the October 25, 2026, presidential runoff to President Luiz Inácio Lula da Silva, who secured 51.79% of the vote compared to Bolsonaro's 48.21%.",
-      "A Federal Police investigation into the senator involves allegations of corruption, money laundering, and tax evasion tied to a sports-betting company and banker Daniel Vorcaro. Bolsonaro denies wrongdoing, and an investigation is not a conviction.",
-      "Bolsonaro arrived at Miami-Opa Locka Executive Airport on Wednesday, October 28, 2026, with his family. Trump approved visas for the senator and his family during the week following the October 25 runoff.",
-      "Trump and Bolsonaro previously met in the Oval Office on May 26, 2026, yet markets remain skeptical of another encounter. Prediction platform Polymarket priced a 2026 meeting at 22.5% as of October 31, 2026."
+      "On Monday, Marvell Technology announced it is buying optical components maker Lumentum in a $115 billion all-stock deal, aiming to challenge rival Broadcom and capitalize on the AI spending boom.",
+      "\"Infrastructure is undergoing a fundamental architectural shift toward optical connectivity,\" said Marvell CEO Matt Murphy, who will remain chairman and CEO of the combined company. The deal expands the company's total addressable market to $550 billion.",
+      "Big Tech's AI spending boom drives demand for optical components used to move data at high speeds. Reflecting this confidence, AI chip giant Nvidia invested $2 billion each in Marvell and Lumentum earlier this year.",
+      "To challenge Broadcom, the deal integrates Lumentum into Marvell's portfolio. Since talks were reported late last month, Lumentum's shares have fallen about 8% and Marvell about 22%, as a broad-based chip selloff accelerated following Intel's weak forecast.",
+      "Marvell expects the interconnect market to grow 65% a year to $65 billion by 2030, fueling long-term demand. The transaction, unanimously approved by both boards, is expected to close in the first half of calendar 2028."
     ],
-    "title": "Trump says Flavio Bolsonaro can stay in US 'as long as he wants'",
-    "topic": "Donald Trump",
-    "topic_full": "Donald Trump · United States"
+    "title": "Marvell to buy Lumentum in $115 billion deal in AI data-center bet",
+    "topic": "Business",
+    "topic_full": "Business · United States"
   },
   {
-    "article_path": "/article/trump-discusses-iran-with-netanyahu-as-us-weighs-fresh-strikes-report",
-    "article_url": "https://ground.news/article/trump-discusses-iran-with-netanyahu-as-us-weighs-fresh-strikes-report",
-    "bias": [
-      "Left-Leaning coverage frames the episode around Trump’s “no hurry” posture, diplomacy, and Iran’s threat of retaliation “without geographical limits,” casting escalation as a danger to avoid.",
-      "Right-Leaning coverage foregrounds “renewed military action,” “fresh strikes,” and possible “major combat operations,” while adding senior military consultations, Iranian regional threats, and Qatari mediation—presenting force and bargaining as parallel tools.",
-      "Center coverage bridges these narratives, stressing that Washington is balancing talks with military planning and has made no final decision.",
-      "The pivotal divide is whether the call signals caution or preparation for escalation; all perspectives nevertheless emphasize Trump-Netanyahu discussions, Rubio’s openness to diplomacy, and Iran’s warnings, reflecting broader tensions between restraint, deterrence, and regional security."
-    ],
+    "article_path": "/article/oil-prices-fall-more-than-4-as-iran-peace-talks-ease-supply-fears_da4bfa",
+    "article_url": "https://ground.news/article/oil-prices-fall-more-than-4-as-iran-peace-talks-ease-supply-fears_da4bfa",
+    "bias": null,
     "bias_bar_text": null,
-    "center_pct": 24.0,
+    "center_pct": 41.0,
     "error": null,
-    "left_pct": 24.0,
+    "left_pct": 19.0,
     "location": "United States",
-    "right_pct": 52.0,
-    "status": "ok",
+    "right_pct": 40.0,
+    "status": "no_change",
     "summary": [
-      "On Saturday, President Donald Trump spoke with Israeli Prime Minister Benjamin Netanyahu by telephone regarding Iran as Washington evaluated potential renewed military action, according to The Wall Street Journal.",
-      "Vice President JD Vance dispatched a letter proposing a \"framework for negotiations\" to Mohsen Rezaei, secretary of Iran's Supreme National Security Council, delivered through Qatari mediators on Sunday.",
-      "Secretary of State Marco Rubio stated at the G20 meeting in Atlanta on Saturday that \"talks have actually never stopped,\" confirming the administration remains open to diplomatic solutions.",
-      "While Iranian Foreign Minister Abbas Araghchi called the diplomatic overture a \"positive step,\" Supreme Leader Mojtaba Khamenei warned that new attacks would trigger a \"geographically unrestricted\" military response.",
-      "President Trump has not set a timetable for military action as US Central Command forces continue protecting commercial shipping in the Strait of Hormuz, maintaining strategic flexibility amid ongoing diplomatic efforts."
+      "On Monday, Brent crude fell 4.2% to $108.68 per barrel while US West Texas Intermediate dropped 4.2% to $99.74, as talks between Iran and Qatar raised hopes of easing Middle East supply disruptions.",
+      "Iranian Foreign Minister Abbas Araqchi stated on Sunday that Tehran is prepared for \"both defence and diplomacy\" regarding negotiations in Qatar to reopen the Strait of Hormuz, aiming to prevent all-out war.",
+      "Tim Waterer, chief market analyst at KCM Trade, said diplomatic progress and absent military escalation over the weekend \"have taken some of the immediate heat out of prices for now.\" The price decline reflects easing tension.",
+      "US futures are rebounding from last week's sell-off, though oil prices remain elevated compared to roughly $65 per barrel last year, keeping investors sensitive to further supply disruptions.",
+      "Goldman Sachs warned Brent could jump to $140 in 2027 if Gulf oil output remains 3.5 million barrels per day below 2025 averages, while Wall Street awaits tomorrow's midterm election results."
     ],
-    "title": "Trump discusses Iran with Netanyahu as US weighs fresh strikes: Report",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
+    "title": "Oil Prices Fall More Than 4% as Iran Peace Talks Ease Supply Fears",
+    "topic": "Oil and Gas Sector",
+    "topic_full": "Oil and Gas Sector · United States"
   },
   {
-    "article_path": "/article/legaleagle-trump-pardoned-a-billionaire-alina-habba-got-50m",
-    "article_url": "https://ground.news/article/legaleagle-trump-pardoned-a-billionaire-alina-habba-got-50m",
+    "article_path": "/article/staff-members-of-michigan-rep-stevens-resign-after-her-endorsement-of-gop-senate-hopeful-rogers_1c98e4",
+    "article_url": "https://ground.news/article/staff-members-of-michigan-rep-stevens-resign-after-her-endorsement-of-gop-senate-hopeful-rogers_1c98e4",
     "bias": [
-      "The left-leaning narrative turns the reported $50-million contract into a possible corruption scandal, using terms such as “erupted,” “pardon-for-pay,” “bribe,” and “demanded a cut,” while linking it to billionaire Julio Herrera Velutini’s reported January pardon.",
-      "Center-Leaning coverage stays narrower, describing Trump as “upset” and emphasizing that he reportedly wanted money directed to a future library or another group, not necessarily himself.",
-      "Right-Leaning coverage is not represented, so its framing cannot be assessed.",
-      "Both acknowledge Trump’s anger, Habba Mildon’s former-lawyer role, and the contract’s size, reflecting broader divides over presidential clemency, influence, and corruption."
+      "Left-Leaning coverage frames Haley Stevens’s endorsement of Mike Rogers as a “betrayal,” linking it to “MAGA” and emphasizing “petty, selfish, unhinged” staff reactions, mass resignations, and even write-in alternatives such as Emma Lazarus.",
+      "Right-Leaning coverage instead portrays the endorsement as “stunning” or “shocking,” uses “left-wing” to characterize El-Sayed’s allies, and highlights damaging internal dissent, including the departure of a long-serving chief of staff and possible party distancing.",
+      "Center coverage narrows the episode to a “bombshell,” institutional concerns, and “evil” rhetoric from critics.",
+      "All emphasize the endorsement, resignations, and Democratic fracture, reflecting wider conflicts over party loyalty, Trump-era politics , and ideological boundaries."
     ],
     "bias_bar_text": null,
     "center_pct": 20.0,
     "error": null,
-    "left_pct": 80.0,
-    "location": "United States",
-    "right_pct": null,
+    "left_pct": 40.0,
+    "location": "Michigan",
+    "right_pct": 40.0,
     "status": "ok",
     "summary": [
-      "President Donald Trump \"erupted\" last week upon learning that former personal attorney Alina Habba Mildon secured a contract worth more than $50 million with a billionaire Venezuelan family.",
-      "Habba was hired by the Herrera family while advising the Justice Department, just as Julio Herrera Velutini sought a presidential pardon; Trump later granted it within weeks.",
-      "Under the four-year contract, Habba receives $10 million annually, prompting Trump to tell aides and allies she should donate a portion to his planned presidential library.",
-      "Trump reportedly told the Herrera family to stop paying Habba and directed White House Counsel Will Scharf to investigate her involvement in an alleged pay-for-influence scandal.",
-      "Habba denies wrongdoing, stating her employment was \"vetted and disclosed to the D.O.J.\" as clemency lobbying reportedly emerged as lucrative during Trump's second term."
+      "On Sunday, Michigan Rep. Haley Stevens endorsed Republican Mike Rogers for the U.S. Senate, drawing immediate condemnation from key Jewish Democratic figures who characterized the move as a betrayal.",
+      "Democratic nominee Abdul El-Sayed 's rhetoric on Israel and antisemitism has troubled a sizable contingent of Michigan's Jewish voters, leaving them increasingly divided over the race's final days.",
+      "Michigan congressional candidate Jeremy Moss and former congressman Andy Levin appeared at a Detroit rally to reject Stevens' endorsement, urging voters to support El-Sayed and maintain Democratic unity.",
+      "Rep. Hillary Scholten met with Jewish voters concerned about El-Sayed, while leaders of the Nonnegotiable movement urged supporters to write in Emma Lazarus, the 19th-century Jewish poet, on their ballots.",
+      "These competing strategies highlight the dilemma facing Michigan's Jewish voters in the campaign's final days as they navigate conflicting concerns about party loyalty and political representation."
     ],
-    "title": "Trump Blasted Former Personal Lawyer Alina Habba Over Her $50Million Deal With Billionaire He Later Pardoned",
-    "topic": "Donald Trump",
-    "topic_full": "Donald Trump · United States"
+    "title": "Stevens staff resign over Rogers endorsement",
+    "topic": "2026 Midterm Elections",
+    "topic_full": "2026 Midterm Elections · Michigan"
   },
   {
-    "article_path": "/article/california-governor-asks-us-judges-to-resist-trump-attempts-to-seize-ballots_4aa940",
-    "article_url": "https://ground.news/article/california-governor-asks-us-judges-to-resist-trump-attempts-to-seize-ballots_4aa940",
+    "article_path": "/article/oil-rises-after-trump-rejects-iran-plan-to-reopen-strait-of-hormuz",
+    "article_url": "https://ground.news/article/oil-rises-after-trump-rejects-iran-plan-to-reopen-strait-of-hormuz",
     "bias": [
-      "Left-Leaning coverage frames Newsom as defending democracy, using terms like “resist,” “seize,” “disenfranchised voters,” and “laying the groundwork for a fraud claim” to portray Trump’s possible ballot or voting-machine seizure as strategic intimidation.",
-      "Right-Leaning coverage largely presents the warning as a Democratic governor’s allegation, de-emphasizing motive, evidence, and criticism of Trump while avoiding “resist” and “fraud.” Center coverage depicts an impending legal “fight,” stressing judicial scrutiny of warrants.",
-      "The pivotal divide is whether a plausible threat signals authoritarian manipulation or merely an unverified warning.",
-      "All acknowledge Newsom’s alert, federal courts, ballots, and the 2026 election, reflecting broader partisan distrust over election power."
+      "Center-Leaning coverage frames Iran’s two-day reopening proposal as a test of Washington, stressing that “the ball is in the US field,” sanctions and blockade relief, while pairing diplomacy with Trump’s “no hurry” stance and threat to strike nuclear sites “in 10 minutes.” Right-leaning coverage instead portrays the timetable as “good faith,” embeds it in Qatari mediation and a draft agreement, and highlights restoring “security” along a “strategic waterway,” though “absolute conditions” signals Iranian leverage.",
+      "Both emphasize the conditional two-day plan, ongoing mediated messages, and Hormuz’s stakes, reflecting wider divides over US pressure, Iranian intent, and escalation versus negotiation."
     ],
     "bias_bar_text": null,
-    "center_pct": 54.0,
+    "center_pct": 39.0,
     "error": null,
     "left_pct": 33.0,
-    "location": "California",
-    "right_pct": 13.0,
+    "location": "Iran",
+    "right_pct": 28.0,
     "status": "ok",
     "summary": [
-      "On Saturday, California Governor Gavin Newsom warned federal judges to prepare for potential attempts by President Donald Trump's administration to seize ballots during the upcoming midterm elections.",
-      "The administration claims more than 20,000 noncitizens are registered to vote in California, though state officials argue the Justice Department relies on \"suspect data\" and risks disenfranchising eligible voters.",
-      "A federal judge ordered the Justice Department on Friday to stop threatening to prosecute local election officials, following an appeals court ruling that rejected the administration's bid.",
-      "In a letter to federal judges, Newsom expressed grave concern that federal agents will seek search warrants to seize ballots before election certification, potentially interfering with vote counting.",
-      "Separately, Trump and first lady Melania Trump voted in person in Palm Beach County, Florida, on Saturday as the broader legal fight continues over state election records."
+      "On Sunday, Iran awaited a U.S. response to its proposal to reopen the Strait of Hormuz within two days, a day after President Donald Trump told reporters negotiations were \"going fine\" but that Iran was \"not very reliable.\"",
+      "The blockade has severely restricted traffic through the waterway, with the U.K. Maritime Trade Operations center logging over 30 reported attacks in October, the highest of any month in the war, leaving the strait carrying only a fraction of prewar volume.",
+      "Iranian state media displayed missiles and drones on November 1, signaling an \"immediate, effective response, without geographical limitations,\" while President Trump claimed American forces could handle \"one or two sites\" in Iran's nuclear program in 10 minutes.",
+      "Despite diplomatic signaling, violence persisted on the water over the weekend, as the Revolutionary Guard continued to enforce its own rules and at least four tankers were identified as struck on Friday and Saturday.",
+      "President Trump has set the U.S. midterm elections as the boundary for any resumption of strikes, with U.S. officials indicating strike options will be presented to him after the vote, establishing a critical deadline for negotiations."
     ],
-    "title": "California governor asks US judges to resist Trump attempts to seize ballots",
-    "topic": "California Politics",
-    "topic_full": "California Politics · California"
+    "title": "Iran Has a 2-Day Plan to Reopen Strait, Resume Nuclear Talks with US, and Other Mideast News",
+    "topic": "Donald Trump",
+    "topic_full": "Donald Trump · Iran"
   },
   {
-    "article_path": "/article/rubio-says-the-us-government-did-not-facilitate-bolsonaros-flight-to-the-us",
-    "article_url": "https://ground.news/article/rubio-says-the-us-government-did-not-facilitate-bolsonaros-flight-to-the-us",
+    "article_path": "/article/justice-department-urges-sanctions-for-database-analysis-critical-of-i",
+    "article_url": "https://ground.news/article/justice-department-urges-sanctions-for-database-analysis-critical-of-i",
     "bias": [
-      "Left-Leaning coverage casts Bolsonaro’s Miami departure as an “escape” by an “ultra-right” figure, spotlighting alleged White House coordination, international pressure, and the reported “Operation Alba.” Right-leaning coverage foregrounds his existing “visa,” Trump’s “authorization,” Rubio’s denial of assistance, and Bolsonaro’s claims of “persecution” and continuing “leader” status, framing the U.S. role as lawful entry rather than an arranged flight.",
-      "Center coverage keeps the dispute narrower: whether admission differed from help organizing departure.",
-      "All report Bolsonaro’s election defeat, Rubio’s denial, and the competing White House-official account, but the pivotal divide remains how much that authorization implies beyond entry."
+      "Left-Leaning coverage foregrounds the database analysis finding that over 40% of more than 20,000 listed people did not appear in California’s voter file, portraying the Justice Department’s push for “ sanctions ” against “critical” analysis as pressure on scrutiny and casting its voting “claims” as doubtful.",
+      "Right-Leaning coverage emphasizes contempt proceedings and “suspected noncitizens,” de-emphasizing the reliability challenge and broader legal context.",
+      "Center coverage presents a procedural dispute, including allegations that data was used to “target voters.” All perspectives emphasize the department’s request, the dataset, and the court fight, reflecting divides over election integrity, immigration, and government power."
     ],
     "bias_bar_text": null,
-    "center_pct": 43.0,
+    "center_pct": 39.0,
     "error": null,
-    "left_pct": 32.0,
-    "location": "Brazil",
-    "right_pct": 25.0,
+    "left_pct": 34.0,
+    "location": "United States",
+    "right_pct": 27.0,
     "status": "ok",
     "summary": [
-      "On Saturday, Secretary of State Marco Rubio denied that Washington helped Flávio Bolsonaro leave Brazil, while confirming President Donald Trump personally authorized his entry into the United States.",
-      "Following a Brazilian Supreme Court order to surrender his passports amid financial investigations, the 45-year-old Bolsonaro arrived in Florida after losing his election.",
-      "Rubio denied any government involvement in the departure, stating, \"We didn't facilitate anything.\" Bolsonaro already held a valid visa, and the president authorized his parole at the port of entry.",
-      "During the G20 gathering in Atlanta, Brazilian Foreign Minister Mauro Vieira met with Rubio and agreed to further discussions before the next summit. A Brazilian official stated the country was \"not seeking to politicise the dispute.\"",
-      "Bolsonaro remains in Florida, adding complications to bilateral relations as legal questions concerning his departure and potential private travel assistance persist after he declared himself \"leader\" of Brazil."
+      "The Justice Department on Sunday asked District Court Chief Judge James Boasberg to consider contempt charges against an immigrant rights group after they published an analysis of a list containing more than 20,000 alleged noncitizen voters in California.",
+      "On Friday, Boasberg allowed the Coalition for Humane Immigrant Rights access to federal government data to argue their legal standing, ordering the group not to disclose names and use the information only for court arguments.",
+      "Attorneys for the Coalition filed papers Saturday revealing their analysis found more than 40% of the people on the list do not appear in California's voter file, while identifying 22 people likely to be naturalized citizens.",
+      "Alberto Lammers, a spokesman for the Voting Rights Project, stated that counsel and experts \"fully complied with the Court's orders,\" while the Justice Department argued the analysis was \"political grandstanding\" irrelevant to the group's legal standing.",
+      "Separately, the Justice Department appealed a ruling by District Court Judge Trina Thompson that barred the government from demanding election offices separate ballots or threaten legal action, with a hearing scheduled for Monday."
     ],
-    "title": "Rubio says the US government did not facilitate Bolsonaro’s flight to the US",
-    "topic": "Marco Rubio",
-    "topic_full": "Marco Rubio · Brazil"
+    "title": "Justice Department Urges Sanctions for Database Analysis Critical of Its Noncitizen Voting Claims",
+    "topic": "Department of Justice",
+    "topic_full": "Department of Justice · United States"
   },
   {
-    "article_path": "/article/ice-agent-charged-with-assault-for-hitting-a-fleeing-man-with-his-car-will-turn-himself-in-on-monday",
-    "article_url": "https://ground.news/article/ice-agent-charged-with-assault-for-hitting-a-fleeing-man-with-his-car-will-turn-himself-in-on-monday",
+    "article_path": "/article/whats-next-for-lindsay-and-patrick-clancy-it-is-not-just-a-question-of-whether-there-will-be-a-retrial-for-the-murder-of-three-children",
+    "article_url": "https://ground.news/article/whats-next-for-lindsay-and-patrick-clancy-it-is-not-just-a-question-of-whether-there-will-be-a-retrial-for-the-murder-of-three-children",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 82.0,
+    "error": "Message: \n",
+    "left_pct": null,
+    "location": "Massachusetts",
+    "right_pct": 18.0,
+    "status": "fail",
+    "summary": null,
+    "title": "Lindsay Clancy’s Defense Continues Fight to Have Child-Murder Charges Dropped",
+    "topic": "Massachusetts",
+    "topic_full": "Massachusetts · Massachusetts"
+  },
+  {
+    "article_path": "/article/crew-from-nasas-simulated-mars-mission-emerges-after-378-days-in-isolation",
+    "article_url": "https://ground.news/article/crew-from-nasas-simulated-mars-mission-emerges-after-378-days-in-isolation",
     "bias": [
-      "The left-leaning framing foregrounds alleged misconduct, using “assault,” “hitting,” and especially “fleeing man,” while also identifying the man as Mexican; the center wording retains the legal qualifier “charged” but intensifies the vehicle description with “ran over.” The right-leaning presentation de-emphasizes nationality and flight, instead spotlighting surveillance footage through “Caught on Camera” and the dramatic phrase “Runs Man Down”—language that portrays the officer aggressively rather than clearly advancing a conventional right-leaning frame.",
-      "Across perspectives, the shared emphasis is an aggravated-assault charge, a vehicle striking a man in Houston, and a Monday surrender, with disagreement centered on flight, nationality, and video evidence."
+      "Left-Leaning coverage casts the 378-day Mars simulation as confinement, using phrases such as “extreme experiment,” “captivity of your own will,” and “prisoners” to foreground emotional strain, sunlight, rain, and family reunion.",
+      "Right-Leaning coverage presents a “successful end,” stresses astronaut health and prospective lunar and Mars missions in the 2030s, and treats “inevitable” human arrival as confidence, though “locked up” adds a stark note.",
+      "Center coverage frames the project as a scientific experiment, highlighting blood draws, crops, coping, and delayed communication.",
+      "Across perspectives, four volunteers, a 3D-printed habitat, and 378 days are shared; the divide concerns exploration’s promise versus confinement’s human cost."
     ],
     "bias_bar_text": null,
-    "center_pct": 55.0,
+    "center_pct": 27.0,
     "error": null,
-    "left_pct": 28.0,
+    "left_pct": 43.0,
     "location": "Houston",
-    "right_pct": 17.0,
+    "right_pct": 30.0,
     "status": "ok",
     "summary": [
-      "A grand jury indicted ICE agent Mario Alberto Morales on Friday for aggravated assault with a deadly weapon after he struck a man with his unmarked SUV; Morales will turn himself in on Monday, according to his attorney, David Lindenmuth.",
-      "On October 10, Morales struck 48-year-old construction worker Miguel Parra Hernandez with an unmarked SUV while chasing him through a Houston parking lot; Parra Hernandez told deputies Morales intentionally 'threw the car' at him.",
-      "Surveillance and bodycam footage played by Harris County District Attorney Sean Teare on Friday show Morales driving over a median to strike the fleeing man; Morales told deputies he did not brake, though he denied intentionally hitting him.",
-      "ICE officials stated the operation targeted Jose Mendoza-Cervantes, though his daughter told immigrants' rights group FIEL that her father died nearly a decade ago; Parra Hernandez remains in federal custody while recovering from his injuries.",
-      "Morales, who unsuccessfully ran for Texas 34th Congressional District this year as 'Bam Morales,' is among a small number of federal agents criminally charged during the Trump administration's immigration crackdown; Lindenmuth previously dismissed the incident as 'clearly just an accident."
+      "On Saturday, the Crew Health and Performance Exploration Analog mission 2 crew—Ross Elder, Ellen Ellis, Matthew Montgomery, and James Spicer—will emerge from their 378-day simulation at Johnson Space Center in Houston, Texas.",
+      "Since October 2025, the crew lived within a 158-square-metre habitat to study how isolation, distance, and 'Mars-like' communication delays affect humans preparing for deep space missions to the Red Planet.",
+      "Crew members performed routine medical tasks including self-blood draws and heavy exercise throughout the mission. Volunteer Montgomery noted, \"You can kind of see the finish line coming,\" as the assignment neared completion.",
+      "Following the mission, the crew will undergo two weeks of post-mission evaluations while reuniting with families they contacted only via email during the year-long assignment. Ellis expressed anticipation, saying, \"Seeing my husband smile at me when the egress door opens.\"",
+      "Data from this mission will inform NASA 's Human Research Program on requirements for future long-duration moon base and Mars voyages, according to chief scientist Michael Stenger. NASA is currently accepting applications for the next simulation."
     ],
-    "title": "ICE agent charged with assault for hitting a fleeing man with his car will turn himself in on Monday",
-    "topic": "Texas Politics",
-    "topic_full": "Texas Politics · Houston"
+    "title": "Crew from NASA's simulated Mars mission emerges after 378 days in isolation",
+    "topic": "NASA",
+    "topic_full": "NASA · Houston"
   },
   {
-    "article_path": "/article/paxton-and-talarico-tussle-for-texas-senate-seat-trump-to-campaign-virtually-instead-of-in-person-wtop-news",
-    "article_url": "https://ground.news/article/paxton-and-talarico-tussle-for-texas-senate-seat-trump-to-campaign-virtually-instead-of-in-person-wtop-news",
+    "article_path": "/article/michael-mann-accidentally-shoots-himself-in-leg-at-los-angeles-gun-range",
+    "article_url": "https://ground.news/article/michael-mann-accidentally-shoots-himself-in-leg-at-los-angeles-gun-range",
     "bias": [
-      "Left-Leaning coverage frames the Texas Senate race as a measure of voter “frustration” with Trump and Republican loyalists, portraying Republicans as “on defense,” while right-leaning coverage emphasizes Trump’s “big test,” uncertainty that “anything can happen,” and even the upbeat metaphor “Trump’s graduation.” Both use “tussle” and focus on Trump’s shift to virtual or telephone campaigning, but the left treats that absence as potentially diminishing, whereas the right folds it into a suspenseful campaign narrative.",
-      "The pivotal divide is whether Paxton–Talarico signals backlash against Trump or resilience amid uncertainty; all perspectives agree it is a competitive race with national implications."
+      "Left-Leaning coverage frames the incident as a limited mishap, emphasizing a “superficial” injury, stable condition, expected release, and the weapon discharging while holstered, while also using identifiers like “iconic” and “Heat director.” Right-leaning coverage foregrounds celebrity status and urgency, repeatedly describing Mann as “rushed” to hospital and using vivid phrases like “shoots himself,” while de-emphasizing medical reassurance and the discharge mechanism.",
+      "Center coverage is more cautious, stressing “reportedly” and sparse attribution.",
+      "All perspectives agree it was accidental, involved Mann’s leg at a Los Angeles-area range, and required treatment, reflecting shared reliance on developing reports rather than partisan interpretation."
     ],
     "bias_bar_text": null,
-    "center_pct": 56.0,
+    "center_pct": 48.0,
     "error": null,
-    "left_pct": 32.0,
-    "location": "Texas",
-    "right_pct": 12.0,
+    "left_pct": 29.0,
+    "location": "Los Angeles",
+    "right_pct": 23.0,
     "status": "ok",
     "summary": [
-      "On Saturday, Republican Ken Paxton and Democrat James Talarico made final campaign pushes in Texas while President Donald Trump shifted from in-person rallies to six tele-rallies from West Palm Beach, Florida.",
-      "Early balloting totals reached nearly 50 million heading into the weekend as Democrats target at least 60 seats across the House battleground map, making Texas a key measure of voter frustration with Trump's leadership.",
-      "Paxton warned supporters in Fort Worth that losing Texas means \"we lose America,\" while House Minority Leader Hakeem Jeffries campaigned in Virginia's 2nd Congressional District pledging to reverse Republican healthcare cuts and limit Trump's military actions on Iran.",
-      "Jeffries previewed aggressive oversight of the Trump administration, promising to remove Pentagon chief Pete Hegseth if Democrats win the majority while hammering Republicans for filling a \"graveyard of broken promises\" during his 11-minute speech.",
-      "Turmoil persists in the Michigan Democratic Senate race as candidate Abdul El-Sayed split from Haley Stevens over internal criticism, while Trump plans to hold rescheduled rallies in Iowa and Kansas on Sunday."
+      "On Saturday, Director Michael Mann was hospitalized after accidentally shooting himself in the leg at The Range, a Los Angeles shooting facility. The 83-year-old filmmaker was reportedly attempting to holster his firearm when the weapon discharged.",
+      "Police classified the incident as a \"training accident ,\" confirming that Mann did not purposely shoot himself. Authorities stated he was \"injured during a training accident when he accidentally discharged a firearm into his own leg.\"",
+      "The incident occurred at The Range, a members-only club in Los Angeles with annual memberships ranging from around $3,000 to $20,000. Both LAPD and Los Angeles Fire Department personnel responded to the scene.",
+      "Mann is currently working on a long-awaited prequel to Heat with an all-star cast. Variety reported last month that Leonardo DiCaprio, Christian Bale, Adam Driver, Jason Clarke, and Odessa Young have joined the production.",
+      "The filmmaker has directed major titles since the 1980s, including Manhunter and the 2023 release Ferrari. Mann also published the #1 New York Times best-seller Heat."
     ],
-    "title": "Paxton, Talarico Campaign in Texas as Trump Shifts to Tele-Rallies",
-    "topic": "Texas Politics",
-    "topic_full": "Texas Politics · Texas"
+    "title": "Director Michael Mann Hospitalized After Shooting Himself at L.A. Gun Range: Reports",
+    "topic": "Celebrity",
+    "topic_full": "Celebrity · Los Angeles"
   },
   {
-    "article_path": "/article/israeli-strike-kills-boy-in-gaza-as-qataris-say-vessel-struck-in-gulf-and-other-mideast-news-wtop-news_5a0bab",
-    "article_url": "https://ground.news/article/israeli-strike-kills-boy-in-gaza-as-qataris-say-vessel-struck-in-gulf-and-other-mideast-news-wtop-news_5a0bab",
-    "bias": [
-      "Left-Leaning coverage frames the deaths as part of a continuing “Israeli raid” and “death for the Palestinian population,” foregrounding a child, broader claims of more than 1,500 Palestinian deaths, and ceasefire violations while de-emphasizing the reported “military objectives.” Right-leaning coverage is narrower, using “Israeli attacks” but stressing that five victims were “police officers,” leaving wider humanitarian context de-emphasized.",
-      "Center coverage adds attribution to “Hamas-controlled” or “Hamas-run” institutions and emphasizes uncertainty.",
-      "All perspectives report at least eight deaths, including a child, reflecting shared reliance on Gaza-based sources amid the broader divide over civilian suffering, security, and responsibility."
-    ],
-    "bias_bar_text": "Left 45% Center 38% R 17%",
-    "center_pct": 38.0,
+    "article_path": "/article/5f17493c-69a7-4efd-aeb4-120363947b9b",
+    "article_url": "https://ground.news/article/5f17493c-69a7-4efd-aeb4-120363947b9b",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 41.0,
     "error": null,
-    "left_pct": 45.0,
-    "location": null,
-    "right_pct": 17.0,
+    "left_pct": 15.0,
+    "location": "United States",
+    "right_pct": 44.0,
+    "status": "no_change",
+    "summary": [
+      "On Monday, Anthropic filed to sell up to $3.5 billion worth of shares in Japan as part of its IPO, according to a regulatory filing.",
+      "The share sale targets a Japanese market that hit a 14-year low for first-time offerings, with proceeds funding working capital and operating expenses.",
+      "Mizuho Financial Group will manage the Japanese portion, while Goldman Sachs Group, Mitsubishi UFJ Morgan Stanley Securities, and Morgan Stanley MUFG Securities handle investor orders.",
+      "Investors in Australia, Canada, and parts of Europe, apart from Japan, will also access the initial share sale of the Claude chatbot maker.",
+      "Anthropic's IPO will test investor appetite alongside equity financing from Alphabet and Meta Platforms, as some investors have discussed a valuation of about $1.5 trillion for the company."
+    ],
+    "title": "Anthropic releases amended IPO prospectus with third-quarter financials",
+    "topic": "Anthropic",
+    "topic_full": "Anthropic · United States"
+  },
+  {
+    "article_path": "/article/nancy-guthrie-update-scanner-reports-indicate-police-activity-near-kidnapping-site",
+    "article_url": "https://ground.news/article/nancy-guthrie-update-scanner-reports-indicate-police-activity-near-kidnapping-site",
+    "bias": [
+      "Left- and right-leaning coverage largely converge on Savannah Guthrie’s grief and urgency, using emotionally charged terms such as “heartbroken,” “desperately searching,” “impassioned plea,” and “begging,” while framing the nine-month disappearance as a continuing kidnapping crisis requiring public help.",
+      "The left emphasizes family closure, an FBI reward, and a daughter’s drawing; the right stresses desperation and immediate action.",
+      "Center coverage instead foregrounds scanner-reported police activity, a possible “major break,” and investigators who “face criticism,” shifting attention from victim emotion to institutional performance.",
+      "All perspectives emphasize Nancy’s disappearance, Guthrie’s appeal, and the need for answers, reflecting tensions between human-interest sympathy and accountability-focused scrutiny."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 47.0,
+    "error": null,
+    "left_pct": 32.0,
+    "location": "Tucson",
+    "right_pct": 21.0,
     "status": "ok",
     "summary": [
-      "On Friday, Israeli strikes in the Bureij refugee camp killed eight people, including a 4-year-old boy, continuing fighting despite a ceasefire in place since October 2025.",
-      "Strikes in the southern city of Khan Younis killed five people according to Nasser Hospital, while an additional attack in Gaza City killed three, including the boy, per Shifa Hospital.",
-      "More than 1,570 Palestinians have been killed since the truce began, according to Gaza's Health Ministry, bringing the overall death toll from the war to more than 74,500.",
-      "Regional instability extended Sunday as Qatar Gas Transport Co. reported its vessel Mayeda was struck by \"unidentified objects\" in the Persian Gulf, though no crew members were injured.",
-      "Iran designated Britain's Royal Navy and Royal Air Force as \"terrorist organizations\" Sunday, while State Department official Donald Blome warned at the Manama Dialogue that all options regarding Iran remain on the table."
+      "On Sunday, November 1, Today show co-host Savannah Guthrie renewed her plea for information regarding her 84-year-old mother, Nancy Guthrie , who disappeared from her Catalina Foothills home in Tucson, Arizona, nine months ago.",
+      "The Pima County Sheriff's Department and FBI confirmed on Friday, October 30, that no suspects have been named, despite investigators recently traveling to Florida to consult lab scientists regarding DNA analysis.",
+      "Investigators continue to chase leads, including security footage of a masked man and several ransom notes, while the family maintains a $1 million reward for information leading to Nancy's discovery.",
+      "Savannah shared a drawing by her daughter on Instagram, writing the family \"cannot move forward\" until they discover what happened to Nancy, noting the disappearance has changed them forever.",
+      "Authorities urge the public to share information, emphasizing that \"no tip is too small\" to resolve the unsolved case, while the FBI maintains a separate $100K reward for relevant details."
     ],
-    "title": "Israeli Strike Kills Boy in Gaza as Qataris Say Vessel Struck in Gulf, and Other Mideast News",
+    "title": "‘Please help us’: Savannah Guthrie issues new plea for help in mother’s kidnapping",
+    "topic": "Nancy Guthrie",
+    "topic_full": "Nancy Guthrie · Tucson"
+  },
+  {
+    "article_path": "/article/bernie-sanders-says-alleged-democratic-ballot-stacking-in-alaska-was-pretty-dumb",
+    "article_url": "https://ground.news/article/bernie-sanders-says-alleged-democratic-ballot-stacking-in-alaska-was-pretty-dumb",
+    "bias": [
+      "Coverage divides over whether Sanders’s criticism reflects strategic foolishness or Democratic misconduct: center-oriented framing presents the Alaska tactics as “pretty dumb” but “not illegal,” while right-leaning portrayals intensify the episode with “ADMITS IT,” “ballot-stacking,” “scheme,” and “confuse voters,” implying deception and an effort to split the Republican vote.",
+      "The center account broadens attention to Ohio Super PAC spending, whereas the right de-emphasizes it and foregrounds federal intervention in state elections.",
+      "Both emphasize Sanders’s condemnation and the legality distinction, but their tones diverge—measured attribution versus ridicule and partisan suspicion—mirroring broader disputes over election tactics, federalism, and Democratic credibility."
+    ],
+    "bias_bar_text": "Center 25% Right 75%",
+    "center_pct": 25.0,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": 75.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, Nov. 1, 2026, Senator Bernie Sanders appeared on Face the Nation to denounce President Donald Trump as an \"authoritarian\" who does not believe in the Constitution or the rule of law.",
+      "Two days before the midterm election, Sanders argued voters must reject Trump's platform, which he claimed would provide massive tax breaks to billionaires and strip health care from 15 million people.",
+      "Regarding the economy, Senator Bernie Sanders noted that Elon Musk alone holds more wealth than the bottom 53% of American households, while many people struggle to afford basic necessities.",
+      "Meanwhile, Republican Senator Tim Sheehy of Montana alleged \"fraud perpetrated against the people of Alaska,\" warning that Mary Peltola should not be seated if she wins fraudulently.",
+      "Regarding foreign policy, Senator Bernie Sanders criticized the government led by Netanyahu in Israel, arguing that opposing actions against the Palestinian people is not anti-Semitism but criticism of a right-wing government."
+    ],
+    "title": "Transcript: Sen. Bernie Sanders on \"Face the Nation with Margaret Brennan,\" Nov. 1, 2026",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/nancy-pelosi-criticizes-mamdani-and-el-sayed-over-their-positions-on-israel",
-    "article_url": "https://ground.news/article/nancy-pelosi-criticizes-mamdani-and-el-sayed-over-their-positions-on-israel",
+    "article_path": "/article/social-security-flourishes-under-trump",
+    "article_url": "https://ground.news/article/social-security-flourishes-under-trump",
+    "bias": null,
+    "bias_bar_text": "Left 67% Center 33%",
+    "center_pct": 33.0,
+    "error": "Message: \n",
+    "left_pct": 67.0,
+    "location": null,
+    "right_pct": null,
+    "status": "fail",
+    "summary": null,
+    "title": "Social Security Email Praising Trump May Violate Hatch Act",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/meghan-markles-father-moves-to-dementia-care-home",
+    "article_url": "https://ground.news/article/meghan-markles-father-moves-to-dementia-care-home",
     "bias": [
-      "Left-Leaning coverage foregrounds a “concerning trend” of antisemitism in the Democratic Party, portraying Pelosi as having “downplayed accusations” and as targeting El-Sayed before an election; right-leaning coverage instead spotlights her “wrong” and “concerning” judgments, frames Mamdani and El-Sayed as “progressive” figures with “radical views,” and stresses that they do not represent congressional Democrats or may face electoral consequences in Michigan.",
-      "Center coverage more narrowly presents Pelosi’s “rebuke” while noting El-Sayed’s opposition to antisemitism.",
-      "All perspectives recognize the Israel dispute and party tensions, reflecting wider divides over progressive politics , antisemitism, and Democratic boundaries."
+      "Left-Leaning coverage frames the dementia-care transfer through investigative scrutiny and media ethics, using phrases such as “fears,” “probe setback,” and “unethical, symbiotic relationship,” while generally avoiding labeling Markle a suspect.",
+      "Right-Leaning coverage casts it as a health crisis potentially “scuppering” the FBI probe, foregrounding “paedophile suspect,” “may never be quizzed,” Samantha’s claims, and his denials.",
+      "Center coverage is more restrained, calling it a “major twist” while emphasizing investigative complications.",
+      "The pivotal divide is whether the move signifies institutional accountability, sensational family conflict, or uncertain medical logistics; all emphasize the allegations, health concerns, and possible difficulty questioning him."
     ],
+    "bias_bar_text": "L 24% Center 28% Right 48%",
+    "center_pct": 28.0,
+    "error": null,
+    "left_pct": 24.0,
+    "location": null,
+    "right_pct": 48.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, Thomas Markle Sr, 82, transferred to a Florida facility specializing in \"memory care\" amid an ongoing FBI investigation into alleged child abuse material.",
+      "Federal investigators launched a probe after reports identified a storage unit in Rosarito, Mexico, allegedly containing child abuse images linked to Markle, with convictions potentially carrying 12 years in jail.",
+      "Characterizing the claims as \"sick lies,\" Markle rejected the report on Saturday, telling The Mail, \"I had no storage units in Rosarito.\"",
+      "Spencer Kuvin, a Florida-based lawyer, warned that Markle's \"cognitive issues\" could prevent police from conducting formal interviews at the new facility.",
+      "Meghan Markle described herself as \"deeply distressed\" by the allegations, while The Independent Office for Police Conduct investigates why British officers failed to escalate a 2019 letter regarding her father."
+    ],
+    "title": "Meghan Markle's Father Moves to Dementia Care Home",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/el-sayed-campaign-says-it-raised-record-24-million-in-one-day-after-stevens-gop-endorsement",
+    "article_url": "https://ground.news/article/el-sayed-campaign-says-it-raised-record-24-million-in-one-day-after-stevens-gop-endorsement",
+    "bias": [
+      "Left-Leaning coverage frames Stevens’s endorsement of Rogers as “betrayal,” a “meltdown,” and a “shocking decision” that deepens Democratic divisions, while highlighting El-Sayed’s $1.2 million in hours or $2.4 million in a day as backlash.",
+      "Right-Leaning coverage calls it an “endorsement stunt” that “backfires,” emphasizes more than 65,000 donors averaging $36.74, and questions whether funds can be deployed before election day.",
+      "Center coverage de-emphasizes partisan drama, presenting the campaign-reported “record” $2.4 million and “reversal” with mild distance.",
+      "All emphasize the fundraising surge after Stevens’s move, reflecting broader divides over loyalty, strategy, and electoral meaning."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 28.0,
+    "error": null,
+    "left_pct": 36.0,
+    "location": "Michigan",
+    "right_pct": 36.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, November 1, Democrat Abdul El-Sayed raised more than $2.4 million, his campaign's largest fundraising day, following Congresswoman Haley Stevens' endorsement of Republican Mike Rogers.",
+      "Congresswoman Haley Stevens' decision to endorse Rogers sparked significant backlash among Democrats, failing to attract new support for Rogers while unifying voters behind El-Sayed.",
+      "ActBlue rankings show El-Sayed moved to second place on the platform, outperforming established fundraising juggernauts Texas Senate candidate James Talarico and Georgia Sen. Jon Ossoff.",
+      "Senator Elissa Slotkin and Governor Gretchen Whitmer signaled disapproval of the endorsement on social media, emphasizing that voters remain focused on economic concerns rather than political drama.",
+      "With Election Day approaching on Tuesday, November 3, the Michigan Senate race remains defined by voter frustration over economic issues as residents prepare to decide the state's representation."
+    ],
+    "title": "El-Sayed Campaign Says It Raised Record $2.4 Million In One Day After Stevens GOP Endorsement",
+    "topic": "Abdul El-Sayed",
+    "topic_full": "Abdul El-Sayed · Michigan"
+  },
+  {
+    "article_path": "/article/israeli-troops-withdraw-from-hebron-after-10-day-siege-governor-says",
+    "article_url": "https://ground.news/article/israeli-troops-withdraw-from-hebron-after-10-day-siege-governor-says",
+    "bias": [
+      "Left-Leaning coverage frames the Hebron withdrawal as “aggression,” “occupation,” and a “siege,” foregrounding more than 3,000 displaced Palestinians, damaged homes, and residents’ return; one account questions effectiveness by noting only four weapons seized.",
+      "Right-Leaning coverage instead emphasizes the attack killing two Israeli soldiers, labels assailants “terrorists,” and presents the campaign as an “anti-terror operation” involving arrests and weapons seizures, with withdrawal signaling mission completion.",
+      "Center coverage moderates both, pairing “controversial” and “displaces thousands” with attributed military claims.",
+      "All perspectives acknowledge the 10-day operation, withdrawal, displacement, and continuing security activity, reflecting the broader conflict over occupation versus counterterrorism."
+    ],
+    "bias_bar_text": "Left 40% C 20% Right 40%",
+    "center_pct": 20.0,
+    "error": null,
+    "left_pct": 40.0,
+    "location": null,
+    "right_pct": 40.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, Israeli forces withdrew from Hebron in the West Bank after a 10-day siege, allowing displaced families to return to their homes.",
+      "The siege began October 23 following a shooting attack that killed two Israeli soldiers and wounded three others; Israeli forces later killed the two attackers.",
+      "More than 3,300 Palestinians were displaced or otherwise affected, particularly in Al-Jalda and Ein Deir Baha, while the Hebron Governorate reported 15 homes and other structures were demolished.",
+      "Palestinian security forces have taken full control of the area, and Governor Khaled Dudin announced authorities are working to provide conditions for residents to return safely.",
+      "The Hebron Governorate stated the operation disrupted education and caused extensive damage to infrastructure and the local economy, compounding the humanitarian toll."
+    ],
+    "title": "Israeli troops withdraw from Hebron after 10-day siege, governor says",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/nancy-pelosi-criticizes-mamdani-and-el-sayed-over-their-positions-on-israel_ea22c0",
+    "article_url": "https://ground.news/article/nancy-pelosi-criticizes-mamdani-and-el-sayed-over-their-positions-on-israel_ea22c0",
+    "bias": null,
     "bias_bar_text": null,
     "center_pct": null,
     "error": null,
     "left_pct": null,
     "location": null,
     "right_pct": null,
-    "status": "ok",
+    "status": "no_change",
     "summary": [
       "On Thursday, Former House Speaker Nancy Pelosi , D-Calif., criticized New York City Mayor Zohran Mamdani and Michigan Democratic Senate candidate Abdul El-Sayed over their views on Israel, calling their positions \"wrong.\"",
       "The exchange occurs amid ongoing debates within the Democratic Party regarding Israel, particularly following the October 7, 2023, Hamas attacks and the subsequent war in Gaza.",
@@ -702,37 +803,36 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/federal-judge-ordered-into-psychiatric-testing-after-accusing-lawyer-of-being-white",
-    "article_url": "https://ground.news/article/federal-judge-ordered-into-psychiatric-testing-after-accusing-lawyer-of-being-white",
-    "bias": [
-      "Center-Leaning coverage frames the episode as alleged “bullying” of a Latino lawyer and a “woke tirade,” emphasizing misconduct and anti-racist ideology; right-leaning coverage foregrounds “anti-white racist rant,” “bizarre,” and “unhinged,” portraying the remarks as evidence of racial hypocrisy and possible mental instability.",
-      "The pivotal divide is interpretation of “Black excellence,” “White mediocrity,” and “white savior”: one side stresses courtroom intimidation, the other alleged anti-white bias, psychiatric evaluation, and docket removal.",
-      "Both emphasize the misconduct investigation, Brown’s missed hearing, and scrutiny of her judicial fitness, reflecting broader disputes over identity politics , institutional authority, and racial double standards."
-    ],
-    "bias_bar_text": "11% Right 89%",
-    "center_pct": 11.0,
+    "article_path": "/article/what-does-the-surge-in-early-voting-mean-for-this-midterm-election",
+    "article_url": "https://ground.news/article/what-does-the-surge-in-early-voting-mean-for-this-midterm-election",
+    "bias": null,
+    "bias_bar_text": "Center 100%",
+    "center_pct": 100.0,
     "error": null,
     "left_pct": null,
     "location": null,
-    "right_pct": 89.0,
-    "status": "ok",
+    "right_pct": null,
+    "status": "no_change",
     "summary": [
-      "On Friday, U.S. District Judge Ada Brown failed to appear for a mandatory hearing before a special three-judge committee investigating allegations she abandoned her office and may have a mental condition affecting her judicial duties.",
-      "The misconduct complaint against Brown stemmed from an April 24, 2026, hearing where she repeatedly directed racial insults at attorney Ezra Young, accusing him of \"racial bullying\" and having \"White mediocrity.\"",
-      "During the hearing, Brown called Young a \"Chad\"—the male version of a \"Karen\"—and a \"White savior,\" while telling him he was \"intimidated by Black excellence\" and allegedly providing a 1920 article describing a lynching.",
-      "The Fifth Circuit Judicial Council removed Brown from her docket last month and ordered a psychiatric exam within 30 days, after finding she had left 78 motions undecided since August 10 in protest of a recusal letter.",
-      "Citing interference with a parallel investigation, Brown previously refused to participate. Committee members, including Chief U.S. District Judge Alia Moses, warned that skipping Friday's hearing could expand the investigation and produce a final report without her input."
+      "President Donald Trump returned to the campaign trail on Sunday and is scheduled to deliver a closing pitch at the Lincoln Memorial Reflecting Pool in Washington, less than 24 hours before polls open.",
+      "Early voting has shattered records this year, with the University of Florida Election Lab reporting more than 54 million ballots cast, nearly 9 million more than in the previous midterms.",
+      "Nationally, 43% of early votes came from registered Democrats and 32% from Republicans. Brookings Institution senior fellow Darrell West explained, \"Typically, people vote when they think their vote matters.\"",
+      "Trump visited Kansas and Iowa, where the Cook Political Report considers Senate races \"toss-ups.\" Historically, midterms challenge the president's party, and Republicans face difficulties maintaining control of both chambers.",
+      "Voters will decide all 435 House seats and 35 Senate seats in the election. The Cook Political Report predicts Senate races in Ohio, Alaska, and Maine could go either way."
     ],
-    "title": "Federal Judge Ordered Into Psychiatric Testing After Accusing Lawyer of Being White",
+    "title": "What does the surge in early voting mean for this midterm election?",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/veteran-dem-operative-says-subpar-gop-candidates-poised-to-hand-over-senate-majority",
-    "article_url": "https://ground.news/article/veteran-dem-operative-says-subpar-gop-candidates-poised-to-hand-over-senate-majority",
+    "article_path": "/article/irgc-explosions-on-two-oil-tankers-in-the-strait-of-hormuz",
+    "article_url": "https://ground.news/article/irgc-explosions-on-two-oil-tankers-in-the-strait-of-hormuz",
     "bias": [
-      "The center and right perspectives both frame Dan Turrentine’s warning as evidence that “subpar” or “weak GOP candidates” could cost Republicans the Senate , but they differ in rhetorical intensity: center coverage presents a strategist’s caution about candidate quality and campaign performance, while right-leaning repetition sharpens it into an “ADMITS” narrative that Republicans might “hand Dems the Senate.” The pivotal divide is whether a possible Democratic majority reflects Republican mismanagement or a partisan operative’s self-interested assessment; right coverage broadens the stakes by naming Texas, Ohio, North Carolina, Mississippi, and Kansas, while center de-emphasizes that detail.",
-      "Both emphasize candidate weakness and Senate control, reflecting broader partisan conflict over electoral competence and party power."
+      "Left-Leaning coverage largely relays the IRGC account, using “violating” and “unauthorized route” while emphasizing attribution rather than verification.",
+      "Center-Leaning treatments retain quotation marks around “exploded” and foreground the burning supertanker, signaling caution.",
+      "Right-Leaning coverage intensifies the security narrative with “non-compliant,” “secretly,” “detonate,” and allegations of disabled identifiers or U.S. military support, portraying evasion and geopolitical confrontation.",
+      "The dividing line is whether the event is mainly a reported maritime incident or evidence of hostile misconduct.",
+      "All perspectives repeat the mine-strike claim and Iranian sourcing, reflecting wider disputes over Iran ’s credibility, maritime sovereignty, and regional security."
     ],
     "bias_bar_text": null,
     "center_pct": null,
@@ -742,173 +842,30 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
-      "Democratic operative Dan Turrentine warned that weak Republican candidates and campaigns could help Democrats regain control of the Senate .",
-      "Turrentine said races in North Carolina, Ohio, Michigan, Texas, Kansas and Missouri could affect Senate control.",
-      "Turrentine cautioned that polling could miss late shifts in the election.",
-      "Turrentine said a Democratic Senate majority could face tensions between moderate lawmakers and the party’s progressive base."
+      "Two oil tankers struck naval mines while traveling an \"unauthorized route\" in the Strait of Hormuz on Sunday, the Islamic Revolutionary Guard Corps Navy reported, causing explosions that immobilized both vessels and ignited one.",
+      "Iran has enforced strict transit restrictions in the Strait of Hormuz since the conflict began in February, attacking vessels it claims violate navigation regulations to assert control over the strategic waterway.",
+      "The United Kingdom Maritime Trade Operations issued a security alert after a merchant vessel reported being struck by an \"unknown projectile,\" though it remains unclear whether this incident links to the IRGC Navy report.",
+      "Following the explosions, both vessels remain immobilized, while the IRGC Navy warned that any \"provocative action\" in surveillance areas will be met with a \"decisive and proportionate response.\"",
+      "The IRGC accused the two tankers of disabling navigation systems to transit clandestinely with alleged U.S. military support, part of a broader pattern of maritime incidents since the conflict began."
     ],
-    "title": "Subpar GOP Candidate Selection Poised to Hand Democrats Senate Majority, Top Operative Warns",
+    "title": "Iran’s IRGC Navy Says Two Tankers ‘Exploded’ After Hitting Mines in Hormuz",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/white-house-halloween-post-draws-criticism-over-sombrero-pumpkin-image",
-    "article_url": "https://ground.news/article/white-house-halloween-post-draws-criticism-over-sombrero-pumpkin-image",
-    "bias": [
-      "Left-Leaning coverage frames the sombrero pumpkin as an “insanely racist” Mexican “stereotype,” portraying the “spooky szn” post and related immigration and food-assistance imagery as deliberate trolling before elections.",
-      "Right-Leaning coverage instead presents the image as benign Halloween content and casts opponents’ response as a “meltdown” or “overreaction,” with scare quotes around “racist” signaling skepticism.",
-      "Center coverage uses “inflammatory” while attributing the judgment to critics and emphasizing election timing.",
-      "The pivotal divide is whether ethnic symbolism reflects provocation or political opportunism.",
-      "All perspectives acknowledge the post, its timing, and ensuing criticism, revealing broader disputes over racial representation, immigration, and partisan intent."
-    ],
+    "article_path": "/article/donald-trump-will-blame-canada-if-he-loses-bigly-in-tuesdays-midterm-elections",
+    "article_url": "https://ground.news/article/donald-trump-will-blame-canada-if-he-loses-bigly-in-tuesdays-midterm-elections",
+    "bias": null,
     "bias_bar_text": null,
     "center_pct": null,
-    "error": null,
+    "error": "Message: \n",
     "left_pct": null,
     "location": null,
     "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "On Oct 28, the White House posted an image of a pumpkin with a carved sombrero captioned \"Spooky szn is here.\" Social media users quickly condemned the potentially AI-generated graphic as racist.",
-      "Critics linked the image to previous AI-generated videos from the Trump administration depicting Democrats in Mexican-themed attire to mock immigration policies. Many viewed the post as a continuation of Republican efforts to target Latinos.",
-      "Digital analysis using OpenAI tools confirmed the image was AI-generated, fueling public outcry. Many users commented on the official account, questioning the judgment of using such imagery on a government platform.",
-      "Ongoing political tension surrounding immigration provides context, with deportations rising to an estimated 660,000 over the past year, while the Trump administration has set a target of 1 million deportations annually.",
-      "The White House did not immediately respond to inquiries regarding the image's intent. Meanwhile, critics used AI-generated tools to create counter-images of Trump with Jeffrey Epstein, late convicted sex offender."
-    ],
-    "title": "White House Halloween Post Draws Criticism Over Sombrero Pumpkin Image",
+    "status": "fail",
+    "summary": null,
+    "title": "If Trump Blames Canada for Republican Election Losses, What Would He Do?",
     "topic": null,
     "topic_full": null
-  },
-  {
-    "article_path": "/article/federal-officials-investigate-fire-at-beleaguered-police-department-in-mississippi",
-    "article_url": "https://ground.news/article/federal-officials-investigate-fire-at-beleaguered-police-department-in-mississippi",
-    "bias": [
-      "Left-Leaning coverage frames the fire as another episode in a “beleaguered” department’s institutional troubles, emphasizing community “outrage,” federal scrutiny, and uncertainty over whether it was intentional.",
-      "Right-Leaning framing instead calls the department “embattled,” uses the vivid “guts,” and foregrounds its connection to the officer who “fatally shot” a 1-year-old, encouraging suspicion without establishing a link.",
-      "Center coverage mostly stresses the local response—crews quickly controlling and ventilating the blaze—while retaining cautious context about recent incidents.",
-      "The pivotal divide is whether the fire signifies systemic controversy or a developing emergency; all perspectives nonetheless emphasize the fire, investigation, damage, and child’s death, reflecting broader disputes over accountability and public institutions."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 53.0,
-    "error": null,
-    "left_pct": 37.0,
-    "location": "Mississippi",
-    "right_pct": 10.0,
-    "status": "ok",
-    "summary": [
-      "Early today, the Bureau of Alcohol, Tobacco, Firearms and Explosives and local agencies began investigating a fire at the Senatobia Police Department headquarters in Mississippi. The Senatobia Fire Department quickly extinguished the flames.",
-      "Located 65 kilometers south of Memphis, the department serves a community of 8,000 that has faced significant outrage in recent months. The tension stems from an officer's shooting incident that drew widespread community anger.",
-      "In recent months, an officer fired into a vehicle and killed 1-year-old Kohen Wiley while responding to a shoplifting call at a Walmart. The two women in the vehicle denied stealing anything, and no charges were filed.",
-      "Earlier this year, the police chief was fired for alleged racist slurs revealed by investigative reporting. The officer involved in Wiley's shooting resigned after the Mississippi Attorney General cleared him of criminal wrongdoing.",
-      "Investigators have not yet determined the cause of the fire or whether it was intentionally set. The Bureau of Alcohol, Tobacco, Firearms and Explosives continues reviewing the incident with no immediate details on structural damage."
-    ],
-    "title": "Federal officials investigate fire at beleaguered police department in Mississippi",
-    "topic": "Mississippi Politics",
-    "topic_full": "Mississippi Politics · Mississippi"
-  },
-  {
-    "article_path": "/article/obamacare-dealt-yet-another-blow-as-premiums-rise",
-    "article_url": "https://ground.news/article/obamacare-dealt-yet-another-blow-as-premiums-rise",
-    "bias": [
-      "Left-Leaning coverage frames the projected 13% premium increase as a politically inflicted burden, using “spike,” “senseless cuts,” and “HOUSE REPUBLICANS DID THAT” to connect ACA costs with Medicaid, rural-hospital, and tax-credit reductions.",
-      "Right-Leaning coverage stresses marketplace deterioration—enrollment falling to 19.2 million, insurers exiting, and subsidies lapsing—using “jump,” “squeezes shoppers,” and “unpleasant news” to portray economic and political damage to the White House.",
-      "Center coverage foregrounds personal hardship and calls it “another blow” or a “financial toll.” All emphasize unaffordability and declining enrollment, reflecting broader disputes over government responsibility, subsidy policy, and healthcare-market consequences."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 54.0,
-    "error": null,
-    "left_pct": 13.0,
-    "location": "United States",
-    "right_pct": 33.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, the Trump administration published new 2027 prices for 30 states, revealing that ACA premiums will rise by 13% ahead of open enrollment beginning Sunday.",
-      "Rising hospital prices, artificial intelligence use in doctors' offices, and expensive specialty prescriptions like GLP-1 medicines are driving the premium increases across healthcare sectors.",
-      "Kate Dwyer, a resident of rural Oregon, faces her least expensive plan costs rising by more than $500 monthly to nearly $3,000, saying \"It's either $3,000 or nothing.\"",
-      "Healthcare affordability ranks as a top voter concern ahead of Tuesday's midterm elections; the Trump administration sent one-time $500 checks to nearly 1 million Americans to offset costs.",
-      "House Minority Leader Hakeem Jeffries has pledged a vote to restore extra subsidies if Democrats win, while enrollment fell by nearly 5 million people as of June."
-    ],
-    "title": "Health insurance plan costs on Healthcare.gov to rise by double digits in 2027",
-    "topic": "Obamacare",
-    "topic_full": "Obamacare · United States"
-  },
-  {
-    "article_path": "/article/us-fda-proposes-new-nutrient-limits-labeling-rules-for-infant-formula",
-    "article_url": "https://ground.news/article/us-fda-proposes-new-nutrient-limits-labeling-rules-for-infant-formula",
-    "bias": [
-      "Left- and right-leaning coverage largely converges, using procedural phrases such as “plans,” “proposes,” and “update” to present the FDA ’s infant-formula rule without emotionally charged terms like “crisis,” “woke,” or “slammed.” The left emphasizes the basic regulatory announcement, while the right similarly frames it as appropriate federal action and adds HHS oversight.",
-      "Center coverage supplies the key dividing context: “new nutrient limits,” labeling rules, and the “first nutrition review in nearly 30 years,” while linking the proposal to Operation Stork Speed.",
-      "All perspectives agree on the FDA action, revealing more shared public-health emphasis than overt partisan conflict."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 67.0,
-    "error": null,
-    "left_pct": 21.0,
-    "location": "United States",
-    "right_pct": 12.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, the FDA proposed new nutrient limits and labeling rules for infant formula, marking the first nutrition review for the product in nearly 30 years.",
-      "This update is part of the Trump administration's 'Operation Stork Speed' initiative, which began last year to increase testing for heavy metals and contaminants in infant formula.",
-      "The proposal triples the required iodine to 15 micrograms and reduces the minimum manganese to 1 microgram per 100 calories, establishing new upper limits for both nutrients.",
-      "Secretary Kennedy stated \"Parents deserve confidence in every bottle they feed their baby,\" as the agency estimates changes will cost manufacturers between $8.4 million and $31.7 million annually.",
-      "Kyle Diamantas, the FDA's acting director, noted the agency plans to propose rules for remaining nutrients, while confirming that latest contaminant test results \"continue to be reassuring."
-    ],
-    "title": "FDA unveils proposals to update infant formula nutrient requirements",
-    "topic": "FDA",
-    "topic_full": "FDA · United States"
-  },
-  {
-    "article_path": "/article/us-oil-industry-earned-over-130-billion-in-profit-during-iran-war-report_964213",
-    "article_url": "https://ground.news/article/us-oil-industry-earned-over-130-billion-in-profit-during-iran-war-report_964213",
-    "bias": [
-      "Left-Leaning coverage frames the conflict as an “illegal & senseless war ” that enriched “Trump’s buddies in Big Oil,” stressing alleged profiteering as holdings rose toward $81.6 million while households faced higher fuel costs.",
-      "Right-Leaning coverage foregrounds “Iranian attacks,” maritime insecurity, and a “chain of pressure” involving inflation, debt, and imports, while portraying $130 billion in oil profits as a domestic-industrial gain, even a “fantastic” one.",
-      "Center coverage emphasizes quantified costs and “conflict of interest concerns.” The pivotal divide is whether Trump’s gains signify exploitation or economic resilience; all agree profits, consumer burdens, investment increases, and Hormuz disruptions mattered."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 32.0,
-    "error": null,
-    "left_pct": 34.0,
-    "location": "United States",
-    "right_pct": 34.0,
-    "status": "ok",
-    "summary": [
-      "More than 50 large U.S. oil companies earned over $130 billion from April through September 2026, roughly 2.8 times more than the same period in 2025, as the Iran conflict disrupted global energy supplies.",
-      "Hostilities in the Middle East and Russia damaged fuel-making plants, reducing global refining capacity; Exxon CEO Darren Woods said roughly half of Russia's refining capacity has been taken offline.",
-      "On Friday, Exxon Mobil and Chevron reported third-quarter results buoyed by refining operations, with Exxon earning $15.4 billion and Chevron reporting $9.9 billion, nearly tripling prior-year profit.",
-      "Senator Chris Van Hollen claimed Friday that President Donald Trump 's 'buddies' in oil are profiting from the war, as Americans paid over $1,100 in extra fuel costs since the conflict began.",
-      "Valero Energy Chief Financial Officer Homer Bhullar told analysts last week that the company will direct excess cash toward owners through dividends or buybacks rather than expanding production capacity."
-    ],
-    "title": "US oil industry earned over $130 billion in profit during Iran war: Report",
-    "topic": "Oil and Gas Sector",
-    "topic_full": "Oil and Gas Sector · United States"
-  },
-  {
-    "article_path": "/article/alabama-republicans-thought-they-had-drawn-a-safe-us-house-seat-a-black-congressman-had-other-ideas",
-    "article_url": "https://ground.news/article/alabama-republicans-thought-they-had-drawn-a-safe-us-house-seat-a-black-congressman-had-other-ideas",
-    "bias": [
-      "Left-Leaning coverage frames Alabama ’s redistricting as a broader threat to Black representation, describing the Supreme Court ruling as having “gutted the Voting Rights Act” and portraying Shomari Figures as giving Republicans a “fight” against a supposedly “safe” seat.",
-      "Right-Leaning coverage de-emphasizes that broader pattern, presenting the race as a “high-stakes contest” or “test” of Republican House control and Figures’s ability to retain office.",
-      "Center coverage bridges both, stressing the Legislature’s effort to make the district GOP-friendly while acknowledging competitiveness.",
-      "All perspectives emphasize the redrawn district, Figures’s candidacy, and the race’s implications for congressional power, reflecting wider disputes over voting rights and representation."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 57.0,
-    "error": null,
-    "left_pct": 36.0,
-    "location": "Alabama",
-    "right_pct": 7.0,
-    "status": "ok",
-    "summary": [
-      "Rep. Shomari Figures, D-Ala., faces a difficult re-election fight after Alabama 's Republican-controlled Legislature redrew the 2nd Congressional District, reducing the Black voting-age population from 48% to 40%.",
-      "Following a Supreme Court decision that gutted the Voting Rights Act this year, the GOP-led Legislature redrew the district, which President Donald Trump carried by 14 percentage points two years ago.",
-      "Pushing advertising spending to nearly $10 million, Democratic groups outspent Republicans as Figures campaigns on affordability, citing rising food and fuel costs for constituents.",
-      "House Majority Leader Steve Scalise identified this as one of three dozen critical swing seats, while challenger Rhett Marques, endorsed by Trump, frames the race as a choice between conservative policies and Democratic leadership.",
-      "Advocates like Sheyann Webb-Christburg emphasize the historic importance of turnout as voters head to the polls on Tuesday to determine the district's future."
-    ],
-    "title": "Alabama Redistricting Fight Puts Shomari Figures’ House Seat at Risk",
-    "topic": "Alabama Politics",
-    "topic_full": "Alabama Politics · Alabama"
   }
 ]
