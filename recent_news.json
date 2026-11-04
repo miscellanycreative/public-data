@@ -1,636 +1,802 @@
 [
   {
-    "article_path": "/article/americans-vote-in-midterms-as-trump-faces-congressional-test_ed5740",
-    "article_url": "https://ground.news/article/americans-vote-in-midterms-as-trump-faces-congressional-test_ed5740",
-    "bias": null,
+    "article_path": "/article/democrat-abdul-el-sayed-wins-michigan-senate-race-makes-history-as-first-muslim-senator_c76af9",
+    "article_url": "https://ground.news/article/democrat-abdul-el-sayed-wins-michigan-senate-race-makes-history-as-first-muslim-senator_c76af9",
+    "bias": [
+      "Left-Leaning coverage frames Abdul El-Sayed ’s roughly 51–52% victory as “history made,” a “victory against hate,” and a “progressive wave,” emphasizing his status as the first Muslim senator, grassroots activism, LGBTQ rights, and alleged Islamophobia.",
+      "Right-Leaning coverage calls him “far-left,” “radical,” “anti-Israel,” or even “jihadist,” portraying criticism of his faith as national-security scrutiny and focusing on Israel, Gaza, and alleged extremist associations.",
+      "Center coverage stresses the projected margin, open seat, Senate control, and “high-stakes” uncertainty.",
+      "All perspectives agree El-Sayed defeated Mike Rogers and made history, but diverge over whether the result signals representation or Democratic ideological radicalization."
+    ],
     "bias_bar_text": null,
     "center_pct": null,
     "error": null,
     "left_pct": null,
     "location": null,
     "right_pct": null,
-    "status": "no_change",
+    "status": "ok",
     "summary": [
-      "Americans vote today, November 3, 2026, in midterm elections serving as a referendum on President Donald Trump 's second term, with Democrats seeking to wrest control of the House of Representatives from Republicans.",
-      "Widespread voter frustration over inflation and rising fuel costs has fueled Democratic momentum, as midterm elections historically favor the opposition party when approval ratings plummet; Trump's approval stands at 36%, a second-term low.",
-      "Record-Breaking early participation saw over 57 million ballots cast before Election Day, while the Supreme Court rejected an administration bid on Monday to block 20,000 California mail-in ballots the Trump administration alleged were cast by noncitizens.",
-      "Should Democrats secure the House, they would gain investigative authority over Trump's administration; a Senate majority would allow them to block his judicial appointments, including potential Supreme Court vacancies.",
-      "Both parties view these results as a rehearsal for the 2028 presidential race, where they will settle on nominees as Republicans navigate a post-Trump political landscape following this referendum."
+      "On Wednesday, November 4, 2026, Democrat Abdul El-Sayed defeated Republican Mike Rogers in Michigan's Senate race, becoming the first Muslim elected to the U.S. Senate and preserving a crucial Democratic seat.",
+      "El-Sayed, a 42-year-old epidemiologist, campaigned on universal healthcare and campaign finance reform after narrowly defeating Congresswoman Haley Stevens in a bruising primary that drew nearly $60 million in outside spending.",
+      "Throughout the campaign, President Donald Trump repeatedly labeled El-Sayed a \"jihadist\" and alleged Muslim Brotherhood ties, while AIPAC spent more than $30 million opposing him, the organization's largest investment in a single race.",
+      "Just two days before the election, Stevens endorsed Rogers, citing concerns about El-Sayed's Israel criticism, yet El-Sayed secured 1,897,833 votes to Rogers' 1,758,007 according to Decision Desk HQ.",
+      "El-Sayed's victory preserves the seat held by retiring Senator Gary Peters and bolsters progressives ahead of the 2028 presidential election, offering evidence that their agenda can win in competitive battleground states."
     ],
     "title": "Source Icon",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/us-has-conducted-defensive-strikes-on-some-iranian-targets-in-the-strait-of-hormuz-us-official-says_eeb478",
-    "article_url": "https://ground.news/article/us-has-conducted-defensive-strikes-on-some-iranian-targets-in-the-strait-of-hormuz-us-official-says_eeb478",
+    "article_path": "/article/trump-says-hell-accept-midterm-results-admits-iran-war-hurt-republicans-in-election_81984f",
+    "article_url": "https://ground.news/article/trump-says-hell-accept-midterm-results-admits-iran-war-hurt-republicans-in-election_81984f",
     "bias": [
-      "Left-Leaning coverage frames the reported strikes as a “secret bombing campaign,” “electoral desperation,” and a “deeply alarming” escalation that contradicts diplomacy, while right-leaning accounts emphasize “defensive” action, “retaliation,” deterrence, and protection of shipping from Iranian threats.",
-      "The pivotal divide is election-eve timing: the left treats it as evidence of political motive, whereas the right regards it as consequential but not dispositive.",
-      "Center coverage stresses uncertainty, anonymous sourcing, and the “limited” scale.",
-      "All perspectives note explosions, possible oil-market disruption, strategic stakes in the Strait of Hormuz, and unresolved questions about targets, casualties, damage, and escalation."
+      "Left-Leaning coverage frames Democrats’ projected control of both chambers as a “wipeout” and referendum on Trump, using “slurring,” “crying,” and “devastating” to portray humiliation and blame avoidance.",
+      "Right-Leaning coverage emphasizes defiance, candidate quality, turnout, and Trump’s absence from the ballot, casting him as resilient through “Buckle up,” “radical left,” and “Mr. Veto.” The pivotal divide is whether Iran-war fuel prices signify policy failure or merely one factor beside Republican weaknesses; Trump’s claim that he would accept results and “work with Democrats” is framed leftward as conditional, rightward as conciliatory leverage.",
+      "Center coverage combines these explanations.",
+      "All acknowledge Democratic gains, Trump’s cooperation claims, and veto threats, reflecting broader partisan disputes over accountability and ideological struggle."
     ],
-    "bias_bar_text": null,
-    "center_pct": 41.0,
-    "error": null,
-    "left_pct": 31.0,
-    "location": null,
-    "right_pct": 28.0,
-    "status": "ok",
-    "summary": [
-      "Oil prices rose in early Asian trade on Tuesday following reports that the United States struck Iran's Qeshm Island, with Brent crude futures up 0.5% to $105.25 a barrel and West Texas Intermediate crude increasing 47 cents to $96.93 a barrel.",
-      "Iranian state media reported several explosions near Qeshm Island on Monday, while the Islamic Revolutionary Guard Corps claimed to have intercepted American drones near the Strait of Hormuz in separate operations.",
-      "Market analyst Tim Waterer at KCM Trade noted the strike report \"flipped the tone\" after markets had begun pricing in a more diplomatic path, reversing recent optimism about conflict resolution.",
-      "Reduced traffic through the Strait of Hormuz during the eight-month US-Iran conflict has become a leading cause of elevated gasoline prices, affecting global crude oil and natural gas supplies.",
-      "Iranian President Masoud Pezeshkian said Supreme Leader Ayatollah Mojtaba Khamenei authorized peace talks, though recent Qatari mediator discussions ended without breakthrough; separately, the United States will host Ukraine-Russia talks in Abu Dhabi on November 10-11."
-    ],
-    "title": "US has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, US official says",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/supreme-court-quickly-rejects-trump-effort-to-target-alleged-noncitizen-voters-in-california_d0e89c",
-    "article_url": "https://ground.news/article/supreme-court-quickly-rejects-trump-effort-to-target-alleged-noncitizen-voters-in-california_d0e89c",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 40.0,
-    "error": null,
-    "left_pct": 34.0,
-    "location": null,
-    "right_pct": 26.0,
-    "status": "no_change",
-    "summary": [
-      "The Supreme Court rejected the Trump administration’s request to require California election officials to set aside up to 20,000 mail-in ballots from voters the Justice Department suspects are noncitizens.",
-      "On Monday, November 2, 2026, the Trump administration asked the Supreme Court to direct California to set aside mailed ballots from 20,000 registered voters it alleges may not be citizens, one day before the midterm elections.",
-      "President Donald Trump has alleged without evidence that noncitizens are influencing election outcomes, prompting the Justice Department to seek a ballot hold. District Judge David Carter rejected this attempt on October 28, citing that the Constitution reserves election regulation to states.",
-      "The San Francisco-based 9th U.S. Circuit Court of Appeals upheld the rejection in a 2-1 decision Friday, stating segregating ballots could \"jeopardize the Los Angeles County election.\" Carter also criticized the administration for failing to provide \"credible\" evidence."
-    ],
-    "title": "Supreme Court quickly rejects Trump effort to target alleged noncitizen voters in California",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/judge-dismisses-complaint-against-2-ex-fbi-officials-accused-of-lying-to-congress-about-hunter-biden",
-    "article_url": "https://ground.news/article/judge-dismisses-complaint-against-2-ex-fbi-officials-accused-of-lying-to-congress-about-hunter-biden",
-    "bias": [
-      "Left-Leaning coverage frames the dismissal as a “stinging rebuke” of DOJ “weaponization,” stressing that prosecutors failed to show the former FBI officials knowingly lied and portraying the case as an election-timed assault on institutions.",
-      "Right-Leaning coverage foregrounds the Hunter Biden laptop, “bombshell reporting,” and alleged concealment, depicting dismissal as protection for officials who misled Congress and casting the judge as an “activist judge” or partisan.",
-      "Center coverage, where present, emphasizes procedural limits, “critical mistakes,” and the possibility of a grand-jury indictment.",
-      "All acknowledge the dismissal, allegations about Congress and the laptop, and the judge’s criticism, but diverge over whether the episode signifies institutional abuse or accountability thwarted—reflecting wider disputes over partisan power, election integrity, and law-enforcement legitimacy."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 53.0,
-    "error": null,
-    "left_pct": 27.0,
-    "location": null,
-    "right_pct": 20.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, Magistrate Judge Zia Faruqui dismissed a criminal complaint against former FBI officials Nikki Floris and Bradley Benavides, who faced accusations of misleading Congress regarding Hunter Biden 's laptop.",
-      "Testimony from an FBI agent revealed the investigation was mandated by FBI Director Kash Patel and began shortly after President Donald Trump delivered an election security speech last July.",
-      "During a hearing last week, Faruqui criticized The Justice Department for \"unorthodox maneuvers,\" including filing an amended complaint directly to the docket without court clearance—something he said he had never seen before.",
-      "The ruling represents a setback for The Justice Department, which may still pursue a grand jury indictment against Floris and Benavides despite the dismissal.",
-      "Republican Sens. Chuck Grassley of Iowa and Ron Johnson of Wisconsin claimed a 2020 \"defensive briefing\" regarding Hunter Biden was used to undermine their investigation into Russian disinformation."
-    ],
-    "title": "Judge dismisses complaint against 2 ex-FBI officials accused of lying to Congress about Hunter Biden",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/jet-from-texas-carrying-9-people-crashes-near-homes-in-palm-beach-florida-faa-says_521d12",
-    "article_url": "https://ground.news/article/jet-from-texas-carrying-9-people-crashes-near-homes-in-palm-beach-florida-faa-says_521d12",
-    "bias": null,
     "bias_bar_text": null,
     "center_pct": 46.0,
     "error": null,
-    "left_pct": 25.0,
+    "left_pct": 21.0,
     "location": null,
-    "right_pct": 29.0,
-    "status": "no_change",
-    "summary": [
-      "On Sunday, November 1, 2026, a Learjet 60 carrying nine people crashed into a residential neighborhood in Palm Beach County, Florida, killing everyone on board. The business jet had departed Austin-Bergstrom International Airport in Texas, bound for North Eleuthera Airport in the Bahamas.",
-      "The flight crew reported \"light, clear ice that is manageable and moderate turbulence\" to air traffic control before requesting a climb. After controllers cleared the aircraft higher, the pilot declared an emergency as the jet entered a rapid, uncontrollable descent.",
-      "Cockpit audio captured the pilot reporting a descent rate of 20,000 feet per minute as conditions deteriorated rapidly. \"We're going to crash into the ground,\" the pilot radioed in a devastating final transmission before impact.",
-      "Palm Beach County officials evacuated approximately 600 residents from the area while emergency crews closed Military Trail to all traffic. Governor Ron DeSantis visited the crash site and described the scene as \"cataclysmic,\" noting the jet left a large crater.",
-      "The National Transportation Safety Board is leading an investigation with Federal Aviation Administration support to determine the crash's cause. Investigators are reviewing weather radar, flight data, and cockpit recordings as officials have not yet established why the aircraft plummeted."
-    ],
-    "title": "Jet from Texas carrying 9 people crashes near homes in Palm Beach, Florida, FAA says",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/trump-us-to-stop-giving-money-to-israel",
-    "article_url": "https://ground.news/article/trump-us-to-stop-giving-money-to-israel",
-    "bias": [
-      "Left-Leaning coverage foregrounds the sweeping phrase “stop funding” or “stop paying Israel ,” stressing potential Democratic criticism and the political implications of ending roughly $4 billion in annual military aid, while noting Netanyahu’s earlier plan to phase it out gradually.",
-      "Right-Leaning coverage calls the payments “subsidies,” echoes “They don’t need it,” and portrays Israel as self-sufficient, while emphasizing that weapons purchases or other assistance could continue.",
-      "Center coverage focuses on Trump’s reported agreement with Netanyahu and Israel’s prosperity.",
-      "Across perspectives, the claim is attributed primarily to Trump, lacks independent confirmation, and carries conflicting end-of-year/2026 dates—revealing a divide over retrenchment versus continued strategic support."
-    ],
-    "bias_bar_text": "Left 30% Center 35% Right 35%",
-    "center_pct": 35.0,
-    "error": null,
-    "left_pct": 30.0,
-    "location": null,
-    "right_pct": 35.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, President Donald Trump announced the U.S. will stop providing about $4 billion in annual military aid to Israel by the end of this year, following an agreement with Prime Minister Benjamin Netanyahu.",
-      "The two leaders reached the deal \"a few months ago,\" with Trump characterizing Israel as a \"successful country\" that no longer needs direct financial assistance from Washington.",
-      "In July, the House voted 314 to 104 to defeat a measure by Representative Thomas Massie of Kentucky seeking to cut aid, reflecting ongoing political debates over Israel funding.",
-      "Trump told Fox News the U.S. will still support Israel if needed and that Israel can purchase American weapons without existing restrictions after the aid ends.",
-      "This shift signals a fundamental change in the U.S.-Israel security relationship, moving from subsidized government funding toward a commercial arms purchase model for future defense needs."
-    ],
-    "title": "Trump says US will stop $4 billion military aid to Israel at end of 2026",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/janeese-lewis-george-ready-to-step-off-campaign-trail-faces-tough-dc-realities",
-    "article_url": "https://ground.news/article/janeese-lewis-george-ready-to-step-off-campaign-trail-faces-tough-dc-realities",
-    "bias": null,
-    "bias_bar_text": "Left 57% Center 29% R 14%",
-    "center_pct": 29.0,
-    "error": "Message: \n",
-    "left_pct": 57.0,
-    "location": null,
-    "right_pct": 14.0,
-    "status": "fail",
-    "summary": null,
-    "title": "Democratic Socialist the Heavy Favorite as Nation's Capital Elects Its 1st New Mayor in 12 Years",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/wisconsin-governor-race-tiffany-crowley-campaign-ahead-of-tuesday-vote_026070",
-    "article_url": "https://ground.news/article/wisconsin-governor-race-tiffany-crowley-campaign-ahead-of-tuesday-vote_026070",
-    "bias": [
-      "Left-Leaning framing casts Crowley’s bid to “make history” against a “Trump ally” or “loyalist,” emphasizing representation and the stakes for Democratic control before 2028.",
-      "Right-Leaning coverage de-emphasizes that symbolism, spotlighting Tiffany’s statewide tour and his “accuses” framing of Crowley over alleged tax increases—turning identity into scrutiny of policy and competence.",
-      "Center coverage presents a “close” contest, notes Crowley’s poll momentum, and treats both candidates’ “final pitches” more symmetrically.",
-      "The dividing lines are Trump’s influence, Crowley’s potential historic breakthrough, and tax policy.",
-      "Across perspectives, all emphasize the battleground race, statewide campaigning, and its significance for Wisconsin ’s political direction."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 64.0,
-    "error": null,
-    "left_pct": 24.0,
-    "location": "Wisconsin",
-    "right_pct": 12.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, Republican U.S. Rep. Tom Tiffany and Democratic Milwaukee County Executive David Crowley made final campaign pitches to Wisconsin voters ahead of Tuesday's election, crisscrossing the state with dueling bus tours.",
-      "Voters decide Tuesday whether to elect Wisconsin's first Black governor or return the state to Republican control for the first time in eight years, following Democratic Governor Tony Evers' retirement.",
-      "Tiffany emphasized returning the $3 billion budget surplus to taxpayers and reducing regulations, while Crowley prioritized capping childcare costs at 7% of earnings and expanding healthcare access.",
-      "Recent Marquette University Law School polling shows Crowley leading Tiffany 51% to 44% among likely voters, though his lead narrows to 47% to 44% among all registered voters.",
-      "Tuesday, November 3, 2026, marks Election Day in Wisconsin, with voters heading to the polls to settle the open race and determine the state's political direction for the next four years."
-    ],
-    "title": "Crowley Looks to Make History in Wisconsin Governor's Race Against Trump Ally Tiffany",
-    "topic": "World Series",
-    "topic_full": "World Series · Wisconsin"
-  },
-  {
-    "article_path": "/article/a-rare-open-senate-seat-turns-iowa-into-a-costly-battleground-featuring-josh-turek-and-ashley-hinson_ce328e",
-    "article_url": "https://ground.news/article/a-rare-open-senate-seat-turns-iowa-into-a-costly-battleground-featuring-josh-turek-and-ashley-hinson_ce328e",
-    "bias": [
-      "Left-Leaning coverage frames Iowa’s open Senate seat as a “pivotal” chance to end Democrats’ more-than-decade “drought,” emphasizing voter “frustration” over prices, the Iran war, and tariffs and stressing turnout.",
-      "Right-Leaning coverage portrays those same appeals as a Democratic campaign tactic, favoring “battleground” and national-control language while de-emphasizing the historical drought.",
-      "Center coverage shifts from partisan interpretation to comparison, highlighting affordability messages and an AtlasIntel poll showing Turek ahead 51%–46% within the margin of error.",
-      "All perspectives depict a competitive race that could decide Senate control, reflecting broader ideological divides over economic dissatisfaction, foreign policy, and electoral strategy."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 47.0,
-    "error": null,
-    "left_pct": 35.0,
-    "location": "Iowa",
-    "right_pct": 18.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, Iowans vote in a competitive Senate race between Democrat Josh Turek and Republican Congresswoman Ashley Hinson to fill the seat vacated by retiring Sen. Joni Ernst.",
-      "While Iowa has trended red in recent years, it reemerged as a battleground this year as President Donald Trump's popularity waned, prompting Democrats to invest in an expansive ground game.",
-      "Hinson, a three-term House member and former news anchor, campaigned as a Trump \"top ally,\" while Turek, a former Paralympian, emphasizes his personal story and desire to restore Iowa's bipartisan tradition.",
-      "Voters are weighing frustration over rising prices, the Iran War, and agricultural tariffs, with Hinson asserting that Iowans \"shouldn't have to foot the bill\" for ongoing military actions.",
-      "Polls close at 8:00 PM, and Libertarian Thomas Laehn also appears on the ballot for the seat, which will help determine control of the Senate chamber."
-    ],
-    "title": "A rare open Senate seat turns Iowa into a costly battleground featuring Josh Turek and Ashley Hinson",
-    "topic": "2026 Midterm Elections",
-    "topic_full": "2026 Midterm Elections · Iowa"
-  },
-  {
-    "article_path": "/article/da-releases-videos-of-tyrin-johnson-shooting",
-    "article_url": "https://ground.news/article/da-releases-videos-of-tyrin-johnson-shooting",
-    "bias": [
-      "Left-Leaning framing centers the alarming visual sequence, using phrases such as “dying,” “shot in the back,” and “aftermath” to invite scrutiny of potentially excessive force.",
-      "Right-Leaning coverage uses the same “fatal shooting” and “aftermath” language but de-emphasizes interpretation, highlighting that the Tennessee Bureau of Investigation’s review continues.",
-      "Center coverage supplies more context—naming Tyrin Johnson, identifying the district attorney’s office as the video’s releaser, and noting the preceding chase—while “trained their handguns on” adds tension without assigning guilt.",
-      "Across perspectives, the death, National Guard involvement, and video evidence remain shared ground; the divide concerns emphasis on scrutiny, context, or pending official review."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 57.0,
-    "error": null,
-    "left_pct": 36.0,
-    "location": "Memphis",
-    "right_pct": 7.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, Shelby County District Attorney Steve Mulroy released four videos related to the July 5, 2026, fatal shooting of 20-year-old Tyrin Johnson in downtown Memphis. The footage includes body camera and stationary camera clips from the incident.",
-      "Authorities said troops were responding to reports of gunshots near AutoZone Park when they pursued Johnson, but an autopsy showed he was shot in the back, contradicting accounts that he faced the soldiers when they fired.",
-      "Part of a federal task force created by President Donald Trump to combat crime in Democrat-run cities, the soldiers involved were Alyssa Hout, then 19, and Dallas Jellnick, then 20. The task force was involved in four fatal shootings between May and July.",
-      "Andre Wharton, an attorney for Johnson's family, questioned whether the guardsmen were properly trained, noting the videos do not show the moments immediately before the shooting or the shooting itself.",
-      "The Tennessee Bureau of Investigation is leading the probe, and District Attorney Mulroy stated no charging decisions have been made as of Monday while the investigation remains in progress."
-    ],
-    "title": "Bodycam Video Shows Aftermath of Fatal Shooting by National Guard in Memphis",
-    "topic": "National Guard",
-    "topic_full": "National Guard · Memphis"
-  },
-  {
-    "article_path": "/article/trumps-agenda-meets-the-ballot-box-as-states-vote-on-abortion-redistricting-and-voter-id-mandates",
-    "article_url": "https://ground.news/article/trumps-agenda-meets-the-ballot-box-as-states-vote-on-abortion-redistricting-and-voter-id-mandates",
-    "bias": [
-      "Left-Leaning coverage frames the measures as a “battle over abortion rights,” linking abortion, redistricting, and voter-ID “mandates” to “Trump’s agenda” and emphasizing possible effects on future elections.",
-      "Right-Leaning coverage presents the same issues more descriptively, foregrounding their connection to Trump while de-emphasizing conflict and broader consequences.",
-      "Center coverage calls them a “political undercard,” adding scope—145 ballot questions, ID measures in five states, and redistricting in Maryland and Missouri—and linking outcomes to control of Congress and state governments.",
-      "All perspectives agree voters are deciding abortion, election-rule, and redistricting questions, reflecting wider cultural and partisan struggles over representation and political power."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 76.0,
-    "error": null,
-    "left_pct": 22.0,
-    "location": "United States",
-    "right_pct": 2.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, voters are deciding 145 proposed laws and constitutional amendments across multiple states, serving as a political undercard for midterm elections where President Donald Trump's priorities face a public test.",
-      "In Missouri, voters are deciding whether to repeal a 2024 abortion rights amendment and replace it with a new prohibition allowing exceptions up to 12 weeks for rape, incest, and medical emergencies. Measures in Idaho and Nevada would block bans on abortion before fetal viability, usually considered after 21 weeks.",
-      "Citizen activists placed new voter ID requirements on the ballot in California, Colorado, and Nevada, while six states are voting to limit voting to U.S. citizens. Critics argue such policies are largely symbolic since noncitizen voting is already forbidden in federal elections.",
-      "Redistricting battles in Maryland and Colorado feature proponents like former President Barack Obama urging a 'yes' vote in Maryland to 'stop Trump.' Massachusetts and Alaska are simultaneously deciding whether to adopt open primaries or scrap existing ranked-choice voting systems.",
-      "Constitutional changes in North Dakota and South Dakota now require 60% voter approval instead of a simple majority, while a Colorado amendment seeks to aid immigration enforcement. These votes test support for Trump's policy priorities ahead of the 2028 election cycle."
-    ],
-    "title": "Trump’s agenda meets the ballot box as states vote on abortion, redistricting and voter ID mandates",
-    "topic": "2026 Midterm Elections",
-    "topic_full": "2026 Midterm Elections · United States"
-  },
-  {
-    "article_path": "/article/west-point-cadet-drugged-pregnant-girlfriend-with-spiked-shake-then-forced-abortion-in-gruesome-assault-eat-this-its-good-for-you",
-    "article_url": "https://ground.news/article/west-point-cadet-drugged-pregnant-girlfriend-with-spiked-shake-then-forced-abortion-in-gruesome-assault-eat-this-its-good-for-you",
-    "bias": [
-      "Left-Leaning coverage foregrounds reproductive coercion and institutional accountability, using “force,” “unwanted,” and the pointed “Then he went to grad school” to stress how elite opportunities continued after alleged misconduct.",
-      "Right-Leaning coverage pivots toward pro-life moral outrage and graphic criminality, invoking “spiked,” “gruesome assault,” “sinister,” and “killing the fetus,” while detailing the smoothie and abortion -pill method.",
-      "Center-Leaning accounts retain the charged wording but more often pair it with court-record framing and the guilty assault plea.",
-      "The pivotal divide is whether the story primarily signifies systemic impunity, abortion-related violence, or both; all emphasize alleged drugging, miscarriage, and subsequent elite education, reflecting broader battles over bodily autonomy, abortion, and institutional privilege."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 62.0,
-    "error": null,
-    "left_pct": 22.0,
-    "location": "West Point",
-    "right_pct": 16.0,
-    "status": "ok",
-    "summary": [
-      "Former West Point cadet Caleb Suh pleaded guilty to assault in Manhattan Federal Court last month after drugging his pregnant girlfriend and administering abortion medication against her will in March 2022.",
-      "To incapacitate his girlfriend in her barracks, Suh impersonated her to obtain abortion medication online and obtained Xanax from a friend as a sedative. She woke bleeding and called 911.",
-      "Lawyer Russell Kornblith stated the victim has \"suffered a life-changing event that she is still dealing with and will be dealing with for the rest of her life.\" Her suit seeks unspecified damages.",
-      "Suh graduated from Cornell University this year and enrolled at Columbia University's Mailman School of Public Health, though both institutions stated they were unaware of his disciplinary history during admissions.",
-      "A judge postponed Suh's sentencing until January to allow him to complete his Columbia semester, during which he is taking a three-month life skills course for people charged with federal crimes."
-    ],
-    "title": "Ex-West Point cadet sued for secretly drugging pregnant girlfriend with abortion pills",
-    "topic": "US Crime",
-    "topic_full": "US Crime · West Point"
-  },
-  {
-    "article_path": "/article/trump-calls-iran-conflict-a-soft-war-insists-us-holds-the-cards-ahead-of-midterm-elections",
-    "article_url": "https://ground.news/article/trump-calls-iran-conflict-a-soft-war-insists-us-holds-the-cards-ahead-of-midterm-elections",
-    "bias": [
-      "With no left-leaning coverage, the divide runs between centrist and right-leaning framing: center coverage emphasizes Trump’s “clear, firm” assurance that the Iran conflict would not continue after the midterms, while right coverage stresses skepticism, calling “soft war ” minimizing and his claims “contradictory.” Center framing links the conflict’s end to electoral timing; right framing highlights attacks on Iranian territory, the ability to end it “at any time,” and the $47 billion cost dismissed as “peanuts.” Both portray Trump as reassuring voters and claiming leverage through “holds the cards,” reflecting shared focus on control, but divergent concern over seriousness and political credibility."
-    ],
-    "bias_bar_text": "Center 25% Right 75%",
-    "center_pct": 25.0,
-    "error": null,
-    "left_pct": null,
-    "location": null,
-    "right_pct": 75.0,
-    "status": "ok",
-    "summary": [
-      "President Donald Trump described the Iran conflict as a “soft war” and said the United States could end it at any time.",
-      "Trump said the United States was in no hurry to resume strikes but could use “the hammer” if peace talks fail.",
-      "The Pentagon estimates that the conflict has cost taxpayers more than $47 billion, creating a political problem for Republicans before the midterm elections.",
-      "Trump called the expense “peanuts” and said the conflict was needed to stop Iran from building a nuclear weapon."
-    ],
-    "title": "Trump Calls Iran Conflict a ‘Soft War,’ Says US Holds the Cards Ahead of Midterms",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/susan-collins-faces-troy-jackson-in-maine-senate-race",
-    "article_url": "https://ground.news/article/susan-collins-faces-troy-jackson-in-maine-senate-race",
-    "bias": null,
-    "bias_bar_text": "Left 72% Center 28%",
-    "center_pct": 28.0,
-    "error": null,
-    "left_pct": 72.0,
-    "location": null,
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "On Tuesday, Maine Republican Sen. Susan Collins faces Democrat Troy Jackson in a critical Senate race as Democrats seek a net gain of four seats to secure majority control of the U.S. Senate.",
-      "President Donald Trump 's trade war has strained Maine's forestry and tourism sectors, with forest product exports dropping 20% and causing significant job losses that dominate the campaign.",
-      "Collins touts her seniority to secure tariff exemptions, while Jackson, a former Maine Senate president, argues she has failed to adequately protect local industries from federal trade levies.",
-      "Polls close at 8 p.m. eastern standard time, with ranked-choice voting potentially required if neither candidate reaches 50% of the vote, meaning results could take several days.",
-      "The race serves as a referendum on Trump's unpopularity in Maine, where Democrats aim to flip the seat and challenge the administration despite ongoing uncertainty over future trade negotiations."
-    ],
-    "title": "Maine Sen. Susan Collins, a Republican survivor, tries to defend seat against Democrat Troy Jackson",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/disney-eyes-thousands-of-layoffs-managers-asked-to-cut-20-in-costs-bloomberg-news-reports",
-    "article_url": "https://ground.news/article/disney-eyes-thousands-of-layoffs-managers-asked-to-cut-20-in-costs-bloomberg-news-reports",
-    "bias": [
-      "Left-Leaning framing is de-emphasized, while center coverage presents Disney ’s possible thousands of layoffs and managers’ 20% savings target as strategic restructuring amid weaker box-office revenue and streaming competition, with reinvestment in film, television, technology, and parks.",
-      "Right-Leaning coverage foregrounds worker harm and corporate retrenchment, using “on the chopping block,” “orders,” and “entertainment giant,” while recalling billions in prior cuts and possible cruise-business investment.",
-      "Center language is more measured, though “sweeping” and “at risk” heighten concern.",
-      "Both sides emphasize the scale of cuts and verification caveats, reflecting tensions over corporate discipline, job security, and restructuring."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 36.0,
-    "error": null,
-    "left_pct": 14.0,
-    "location": "United States",
-    "right_pct": 50.0,
-    "status": "ok",
-    "summary": [
-      "Disney is moving toward thousands of job cuts, asking managers to target 20% in annual cost savings, Bloomberg News reported on Monday.",
-      "Chief Executive Officer Josh D'Amaro navigates industry challenges including AI proliferation, weaker box office revenue, and intensifying streaming competition from rivals.",
-      "Disney employed 231,000 people at fiscal year-end, following prior reductions of 7,000 roles in 2023 and about 1,000 positions in April.",
-      "D'Amaro aims to reinvest savings into film, TV programming, technology, and cruise ship businesses while Disney President Dana Walden emphasized evaluating structure to \"survive and thrive.\"",
-      "Broader media peers including Netflix and Skydance have also slashed jobs as traditional television revenue declines and streaming competition intensifies across the industry."
-    ],
-    "title": "Disney eyes thousands of layoffs, asks managers to target 20% savings, Bloomberg News reports",
-    "topic": "Disney",
-    "topic_full": "Disney · United States"
-  },
-  {
-    "article_path": "/article/dems-oh-gov-race",
-    "article_url": "https://ground.news/article/dems-oh-gov-race",
-    "bias": [
-      "Coverage splits over whether Ohio ’s governor’s race is chiefly a referendum on Ramaswamy’s “widely criticized attack ad” featuring Acton’s mother or a broader “historic” contest between two outsider candidates.",
-      "Left-Leaning framing stresses controversy and electoral risk, suggesting continued promotion could “save or sink” his campaign; right-leaning language emphasizes closing arguments and historic significance regardless of the winner, de-emphasizing the ad’s criticism.",
-      "Center coverage bridges these narratives, calling it “hugely controversial” while noting its removal from television but continued online use, the term-limited incumbent, and Acton’s potential milestone as Ohio’s first woman governor.",
-      "All agree the ad and Tuesday’s election matter, reflecting wider divides over campaign ethics, political change, and representation."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 60.0,
-    "error": null,
-    "left_pct": 20.0,
-    "location": "Ohio",
-    "right_pct": 20.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, Ohio voters head to the polls to choose between Republican biotech billionaire Vivek Ramaswamy and Democratic rival Dr. Amy Acton in a race that has drawn unprecedented spending topping $100 million.",
-      "A controversial ad released in the campaign's closing weeks featured Acton's estranged mother, Donna Arthur, calling her daughter \"a liar\" with a \"serious problem\" with honesty, becoming a national flashpoint.",
-      "President Donald Trump and Vice President JD Vance defended Ramaswamy, while Republican Gov. Mike DeWine denounced the ad and called for its removal; Ramaswamy claimed it was fair criticism of a deception pattern.",
-      "Focusing her campaign on affordability, Acton proposed tax credits for lower-income residents, while Ramaswamy proposed phasing out income taxes and rolling back property taxes as his governing model.",
-      "Rural Ohio counties, which have turned sharply Republican since Trump entered the national political scene, may determine Tuesday's outcome as the race remains competitive with no insurmountable lead despite Democrats' outspending disadvantage."
-    ],
-    "title": "Voters to Decide Ohio Governor’s Race After Vivek Ramaswamy Ran ad Featuring Amy Acton’s Mother",
-    "topic": "Vivek Ramaswamy",
-    "topic_full": "Vivek Ramaswamy · Ohio"
-  },
-  {
-    "article_path": "/article/department-of-justice-to-send-election-monitors-to-minnesota_395e06",
-    "article_url": "https://ground.news/article/department-of-justice-to-send-election-monitors-to-minnesota_395e06",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 83.0,
-    "error": "Message: \n",
-    "left_pct": 17.0,
-    "location": "United States",
-    "right_pct": null,
-    "status": "fail",
-    "summary": null,
-    "title": "Department of Justice to send election monitors to Minnesota",
-    "topic": "Department of Justice",
-    "topic_full": "Department of Justice · United States"
-  },
-  {
-    "article_path": "/article/washington-post-elon-musk-explores-spacex-deal-to-enter-us-wireless-phone-market",
-    "article_url": "https://ground.news/article/washington-post-elon-musk-explores-spacex-deal-to-enter-us-wireless-phone-market",
-    "bias": [
-      "Left-Leaning coverage frames SpaceX ’s possible Boost Mobile deal as an effort to “upend” wireless, portraying Musk’s “next target,” “backdoor” market entry, and Mars “ambitions” as signs of disruptive billionaire expansion shadowed by “daunting obstacles.” Right-leaning coverage instead casts him as an entrepreneurial challenger to telecom “giants,” emphasizing a potential 7.4 million customers, investor gains, and acquiring scale “in one fell swoop.” Center coverage cautiously distinguishes buying Boost from using its network, stressing preliminary talks and possible AT&T or T-Mobile consent.",
-      "The key divide is disruption versus execution: all perspectives highlight Starlink’s wireless expansion and competition with incumbents, reflecting broader disagreement over concentrated private power and market dynamism."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 52.0,
-    "error": null,
-    "left_pct": 33.0,
-    "location": "United States",
-    "right_pct": 15.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, The Washington Post reported that SpaceX is in negotiations to acquire EchoStar's Boost Mobile or secure access to its network, potentially granting the company entry into the U.S. wireless market.",
-      "Elon Musk previously approached major wireless carriers AT&T, T-Mobile, and Verizon for network access, but all three rejected his request, prompting him to pursue an arrangement with EchoStar.",
-      "Equity research firm MoffettNathanson estimates the U.S. wireless market is worth $235 billion, a sector where Boost Mobile and Gen Mobile reported 7.375 million subscribers as of June 30, 2026.",
-      "EchoStar shares rose around 4% following the report, though potential hurdles remain as network leases likely require permission from AT&T and T-Mobile to transfer.",
-      "SpaceX recently acquired a nationwide 800 MHz spectrum portfolio from Grain Management for around $8 billion to support Starlink Mobile, Musk's hybrid satellite-terrestrial network aimed at challenging wireless giants."
-    ],
-    "title": "Elon Musk Explores SpaceX Deal to Enter U.S. Wireless Phone Market: Report",
-    "topic": "Elon Musk",
-    "topic_full": "Elon Musk · United States"
-  },
-  {
-    "article_path": "/article/us-to-mediate-trilateral-talks-with-ukraine-russia-in-abu-dhabi-next-week-us-envoy-says_04dce3",
-    "article_url": "https://ground.news/article/us-to-mediate-trilateral-talks-with-ukraine-russia-in-abu-dhabi-next-week-us-envoy-says_04dce3",
-    "bias": [
-      "Coverage converges on U.S.-mediated, working-level Russia -Ukraine talks in Abu Dhabi on November 10–11, but diverges in emphasis: left-leaning reports stress Russian attacks, civilian casualties, and the need for a “comprehensive and sustainable peace agreement,” while right-leaning accounts foreground Trump’s “mission to end the war,” Jared Kushner, U.S. leadership, and a possible front-line freeze tied to “security guarantees.” Center coverage tempers both narratives, noting that the parties remain far apart and using charged phrases such as “Russian war of aggression” and “bombs fall on schools.” Shared attention to mediation and de-escalation reveals competing priorities: humanitarian accountability, presidential diplomacy, and pragmatic uncertainty."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 29.0,
-    "error": null,
-    "left_pct": 33.0,
-    "location": "Russia",
-    "right_pct": 38.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, U.S. Special Envoy Steve Witkoff announced the United States will mediate trilateral peace negotiations between Ukraine and Russia in Abu Dhabi on November 10–11, 2026, advancing President Donald Trump's mission to end the war.",
-      "Russian President Vladimir Putin agreed to a new round of negotiations after meeting Witkoff in St. Petersburg about two weeks ago, following a period when talks stalled in February amid the U.S.-Israel war against Iran.",
-      "American negotiators are meeting representatives from France, Germany, the United Kingdom, the European Union, and NATO in Brussels this week to prioritize security guarantees for Ukraine and post-war reconstruction.",
-      "Kyiv insists on robust security guarantees to prevent future invasions, while Moscow continues demanding territorial concessions in the Donetsk and Luhansk regions, leaving major differences unresolved.",
-      "Jared Kushner is expected to join the American delegation alongside Witkoff as the administration seeks to advance President Trump's 'mission to end the war' before winter sets in."
-    ],
-    "title": "US to mediate trilateral talks with Ukraine, Russia in Abu Dhabi next week, US envoy says",
-    "topic": "Ukraine War",
-    "topic_full": "Ukraine War · Russia"
-  },
-  {
-    "article_path": "/article/samsung-to-produce-amd-and-nvidia-chip-parts-at-second-texas-plant",
-    "article_url": "https://ground.news/article/samsung-to-produce-amd-and-nvidia-chip-parts-at-second-texas-plant",
-    "bias": [
-      "Coverage shows little left-right ideological divergence: all perspectives neutrally frame Samsung ’s reported plan to make HBM components for AMD and Nvidia at its second Taylor, Texas, plant, using restrained terms like “reported” rather than partisan language such as “crisis” or “triumph.” The left-leaning version emphasizes momentum, calling the 2-nanometer output “fully booked,” while center and right presentations prioritize technical precision—“base dies,” “foundry plant”—and attribution to industry sources, implicitly foregrounding uncertainty.",
-      "The pivotal divide is therefore emphasis, not interpretation: demand and commercial success versus sourcing and supply-chain detail.",
-      "All agree on the reported customers, facility, and unconfirmed status."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 66.0,
-    "error": null,
-    "left_pct": 17.0,
-    "location": "Texas",
-    "right_pct": 17.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, Samsung Electronics announced it will use its second Taylor, Texas plant to produce base dies for AMD and Nvidia high-bandwidth memory chips, according to Maeil Business Newspaper.",
-      "Formal construction is due to start this month for the new facility, which will use advanced 2-nanometre technology and cover about 2.7 million square feet, roughly 1.5 times the size of Samsung's first Texas plant.",
-      "Kiwoom Securities expects Samsung's foundry arm to return to profit from the fourth quarter as the company projects 2-nanometre orders will grow more than 130% this year, driven by AI demand and capacity constraints at rival TSMC.",
-      "The project follows Samsung's initial investment that grew to $37 billion in the Taylor campus, which includes a $4.75 billion US CHIPS Act subsidy; the first fab primarily services Tesla under a $16.5 billion contract for AI5 and AI6 chips.",
-      "Equipment installation is scheduled for February 2029, with mass production in 2030, as memory rivals including SK Hynix and China's CXMT race to scale capacity amid surging AI demand."
-    ],
-    "title": "Samsung to Make AMD, Nvidia Chip Parts at Second Texas Plant, Maeil Business Reports",
-    "topic": "Samsung",
-    "topic_full": "Samsung · Texas"
-  },
-  {
-    "article_path": "/article/progressive-abdul-el-sayed-and-republican-mike-rogers-duel-for-key-michigan-senate-seat-wtop-news_d1ce59",
-    "article_url": "https://ground.news/article/progressive-abdul-el-sayed-and-republican-mike-rogers-duel-for-key-michigan-senate-seat-wtop-news_d1ce59",
-    "bias": [
-      "Left-Leaning coverage frames the race as a “white-knuckle contest” between “sharply different theories,” emphasizing Democratic unity and Senate control while de-emphasizing healthcare and Haley Stevens’ endorsement.",
-      "Center-Leaning narratives call El-Sayed’s “unapologetically progressive” healthcare agenda an electoral test and portray Stevens’ “defection” as a “stunning” mobilization challenge.",
-      "Right-Leaning coverage stresses “fallout,” alleged Democratic anger, and “betrayal,” while questioning whether the “bold, progressive agenda” can win Middle America; it also highlights more than 700 rural events.",
-      "All portray El-Sayed and Rogers as consequential rivals whose contest could affect Senate control, reflecting broader divides over ideology, party loyalty, and electability."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 29.0,
-    "error": null,
-    "left_pct": 38.0,
-    "location": "Michigan",
     "right_pct": 33.0,
     "status": "ok",
     "summary": [
-      "On Tuesday, Michigan voters decide the Senate contest between Democrat Abdul El-Sayed and Republican Mike Rogers in a race critical for control of the Senate.",
-      "Rep. Haley Stevens stunned Democrats on Sunday by endorsing Rogers, prompting her expulsion from the Democratic Party and drawing fierce condemnation from leaders fearing the move could energize Republicans.",
-      "Since the August 4 primary, over $100 million in advertising has flowed into this contest, where El-Sayed defeated Stevens by around 14,000 votes amid lingering Democratic Party divisions.",
-      "With over 2.3 million Michigan voters having already cast ballots as of Monday, party officials are scrambling to refocus attention on economic issues, minimizing late-breaking political drama's impact.",
-      "Rogers, a former House Intelligence Committee chairman, aligns with President Donald Trump to win in a state where no Republican has won a Senate race since 1994, while El-Sayed campaigns on a progressive agenda."
+      "On Tuesday, President Donald Trump congratulated Democrats on their midterm victories in a phone call with CBS News, stating he was \"absolutely willing to accept those results\" and looked forward to working with the opposition.",
+      "Democrats secured control of both congressional chambers Tuesday, inflicting a sweeping midterm defeat on the Republican Party. Trump blamed his party's losses on his absence from the ballot, claiming, \"I wasn't on the ballot, and there was nothing that could be done about that.\"",
+      "Trump acknowledged that the war in Iran and high fuel prices weighed on voter sentiment, yet defended his policy, saying, \"People agree with what I'm doing on Iran, but they really probably weren't willing to do the short-term consequence of paying more for gasoline.\"",
+      "With Democrats poised to control the House and Senate, Trump warned he would use his \"strong veto\" power against legislation he considered \"insane,\" telling CBS News, \"They'll send over things that are insane, and I'll veto them.\""
     ],
-    "title": "El-Sayed, Michigan Democrats push to galvanize voters after stunning Senate race defection",
-    "topic": "Abdul El-Sayed",
-    "topic_full": "Abdul El-Sayed · Michigan"
+    "title": "Trump Says He'll Accept Midterm Results, Admits Iran War Hurt Republicans in Election",
+    "topic": null,
+    "topic_full": null
   },
   {
-    "article_path": "/article/judge-blocks-trump-administration-from-pressuring-states-over-noncitizen-voting_65c5c4",
-    "article_url": "https://ground.news/article/judge-blocks-trump-administration-from-pressuring-states-over-noncitizen-voting_65c5c4",
+    "article_path": "/article/democrat-troy-jackson-ousts-republican-senator-susan-collins-in-maine_38106f",
+    "article_url": "https://ground.news/article/democrat-troy-jackson-ousts-republican-senator-susan-collins-in-maine_38106f",
     "bias": [
-      "Left-Leaning coverage frames the injunction as an “administration failure” threatening to “depriv eligible voters” and state authority, while right-leaning coverage emphasizes that noncitizen voting is illegal yet “exceedingly rare,” portraying the ruling as protecting lawful voters from the Justice Department’s “aggressive tactics.” Both describe a judge who “blocked” federal efforts, but “pressuring states” and “disenfranchise” cast the policy as coercive, whereas the right stresses enforcement’s rationale and rarity of abuse.",
-      "Center coverage foregrounds the procedural dispute, agencies, disputed lists, and broader “legal setbacks.” All agree the plan sought to prevent noncitizen voting but diverge over federalism, election security, and civil-rights risk."
+      "Left-Leaning coverage celebrates Jackson’s “triumph,” “dethroning,” or “good riddance” to Collins, framing the upset as a working-class repudiation of Trump and a Democratic “wave.” Right-leaning coverage calls Jackson “far-left,” emphasizes a “stunning upset” by a fifth-generation logger, and spotlights the tension between his anti-lobbyist message and his son’s lobbying work, while citing a roughly 52.4%–47.5% margin.",
+      "Center coverage de-emphasizes ideological judgment, stressing Collins’s concession, procedural uncertainty, and the seat’s “major pickup.” The pivotal divides are Trump’s influence, economic pressures, and Jackson’s replacement of Graham Platner after an allegation.",
+      "All agree Jackson won, Collins’s nearly 30-year tenure ended, and the seat flipped."
     ],
     "bias_bar_text": null,
-    "center_pct": 57.0,
+    "center_pct": 42.0,
     "error": null,
-    "left_pct": 14.0,
-    "location": "United States",
-    "right_pct": 29.0,
+    "left_pct": 36.0,
+    "location": null,
+    "right_pct": 22.0,
     "status": "ok",
     "summary": [
-      "On Monday, U.S. District Judge Tanya Chutkan barred the Justice Department and the Department of Homeland Security from sending states lists of registered voters the administration claims may not be citizens, preventing officials from asking states to separate or discard their ballots.",
-      "Over the past month, the Trump administration ramped up a pressure campaign against election officials, sending letters to California and Washington demanding they not count any ballots from more than 20,000 voters the administration alleged were noncitizens.",
-      "Chutkan, a Washington DC-based appointee of former Democratic President Barack Obama, ruled the administration's data lacked reliability, creating a risk that lawfully registered voters would be disenfranchised; plaintiffs also alleged the effort violated the Privacy Act.",
-      "This ruling marks the latest in a series of legal setbacks for President Donald Trump, who has attempted to assert federal control over election administration ahead of the November 3 midterms.",
-      "Republicans are battling to retain majorities in both houses of Congress, while Trump continues to assert that states facilitate illegal noncitizen voting, an act experts say is exceedingly rare."
+      "On Wednesday, Nov. 4, 2026, Maine Republican Sen. Susan Collins conceded her U.S. Senate seat to Democrat Troy Jackson, who won with 54% of the vote to Collins's 46%.",
+      "Jackson campaigned for just 101 days after replacing Democratic primary winner Graham Platner, who withdrew in July following sexual assault allegations.",
+      "Collins held the Senate seat for more than 30 years and chaired the Senate Appropriations Committee, which oversees federal funding allocations to states and programs.",
+      "Jackson, a fifth-generation logger from Aroostook County, emphasized affordability in his campaign, telling voters, \"you are sending somebody to Washington who knows what that feels like.\"",
+      "Jackson's campaign leveraged President Donald Trump's unpopularity to unseat Collins, whose record included diverging from her party on Brett Kavanaugh's Supreme Court nomination and Trump's impeachment conviction."
     ],
-    "title": "Judge blocks Trump administration from pressuring states over noncitizen voting",
-    "topic": "2026 Midterm Elections",
-    "topic_full": "2026 Midterm Elections · United States"
+    "title": "Democrat Troy Jackson ousts Republican Senator Susan Collins in Maine",
+    "topic": null,
+    "topic_full": null
   },
   {
-    "article_path": "/article/nvidia-orders-data-centre-clients-to-reduce-china-exposure-ft-reports_615b51",
-    "article_url": "https://ground.news/article/nvidia-orders-data-centre-clients-to-reduce-china-exposure-ft-reports_615b51",
+    "article_path": "/article/democrat-benson-wins-race-to-succeed-whitmer-in-michigan",
+    "article_url": "https://ground.news/article/democrat-benson-wins-race-to-succeed-whitmer-in-michigan",
     "bias": [
-      "Left-Leaning coverage foregrounds Nvidia ’s restrictive “cap,” “imposes,” and “reduce China exposure” framing, emphasizing curtailed Chinese business; right-leaning accounts sharpen the posture with “demands” and “cut China exposure,” stressing tougher commercial separation, possible AI-chip demand, and Nvidia’s global strategy.",
-      "Center coverage tempers both, portraying a possible “narrowing” of Chinese AI developers’ access while stressing that the report relies on unnamed sources, could not be independently verified, and was neither confirmed nor denied by Nvidia.",
-      "All highlight the reported 51% non-Chinese-sales threshold; left and center also note it concerns new contracts, leaving existing agreements unaffected—commercial policy reflecting wider technology tensions."
+      "Left-Leaning coverage frames Benson’s victory as a “clear message” and the continuation of Democratic “control,” suggesting voters endorsed lower costs and her priorities; right-leaning coverage instead portrays her as having “fended off” a Republican effort to “retake” the office, foregrounding the 53.8%–44.5% margin and her $60,000 teacher-pay promise as grounds for scrutiny.",
+      "The pivotal divide is whether the result signals a policy mandate or Republican failure, while center coverage de-emphasizes partisan emotion in favor of projections, institutional continuity, and Benson’s prior election-administration role.",
+      "All perspectives agree Benson defeated John James and preserved Democratic control, reflecting broader disputes over mandate, governance, and party power."
     ],
     "bias_bar_text": null,
-    "center_pct": 62.0,
+    "center_pct": 40.0,
     "error": null,
-    "left_pct": 23.0,
+    "left_pct": 51.0,
+    "location": null,
+    "right_pct": 9.0,
+    "status": "ok",
+    "summary": [
+      "Democrat Jocelyn Benson defeated Republican John James in the November 3 election to become Michigan ’s next governor, winning approximately 52.5% of the vote to James’s 45.8%, according to reported results.",
+      "Benson, Michigan’s current secretary of state, campaigned on lowering costs, improving healthcare affordability and building on her record in state government.",
+      "James, a Republican U.S. representative endorsed by President Donald Trump, focused his campaign on income-tax cuts, economic growth and national security.",
+      "The election determined who would succeed Democratic Gov. Gretchen Whitmer, who was unable to seek another term because of Michigan’s gubernatorial term limits."
+    ],
+    "title": "Democrat Benson wins race to succeed Whitmer in Michigan",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/josh-turek-flips-iowa-senate-seat",
+    "article_url": "https://ground.news/article/josh-turek-flips-iowa-senate-seat",
+    "bias": [
+      "Left-Leaning coverage frames Josh Turek’s win as an upset in “reliably red Iowa,” using “shockwaves erupted” and highlighting his two Paralympic gold medals, a 51–45 lead with 78% counted, the 2008 benchmark, Trump’s 13-point 2024 margin, and projections by Decision Desk HQ and NBC.",
+      "Center coverage is restrained, emphasizing CBS’s projection, a “major pickup,” and possible Senate control.",
+      "The right-leaning presentation is terse yet calls it a “major Democratic victory,” with “flips” underscoring partisan reversal while de-emphasizing context.",
+      "All agree Democrats captured a Republican-held seat, but their framing prioritizes biography, institutional stakes, or partisan change."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 40.0,
+    "error": null,
+    "left_pct": 38.0,
+    "location": null,
+    "right_pct": 22.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, Paralympian Josh Turek defeated Iowa GOP Rep. Ashley Hinson to become the state's junior senator-elect, flipping a Republican-held Senate seat with 51% to 45% of the vote counted, per Decision Desk HQ.",
+      "Turek, a state representative and two-time Paralympic gold medalist, campaigned as a moderate emphasizing reversal of Republican cuts to Medicaid, a position pivotal for families relying on home-based services.",
+      "Polling remained neck-and-neck until Election Day, with the final New York Times/Siena poll putting Turek at 48 percent and Hinson at 47 percent on Sunday, despite Hinson's ad claiming Turek supported \"sex changes for children\" without parental consent.",
+      "Turek's victory makes him the first Iowa Democrat to win a Senate seat since Tom Harkin in 2008, bringing the party one step closer to securing a Senate majority.",
+      "Turek will succeed Republican Iowa Sen. Joni Ernst, who announced her retirement in September 2025 following backlash for comments regarding Medicaid cuts and will vacate her seat in January 2027."
+    ],
+    "title": "Iowa elects a Democratic senator for the first time in 18 years as Turek beats Hinson",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/democrat-aaron-ford-unseats-gop-gov-joe-lombardo-in-nevada_866c14",
+    "article_url": "https://ground.news/article/democrat-aaron-ford-unseats-gop-gov-joe-lombardo-in-nevada_866c14",
+    "bias": [
+      "Left-Leaning coverage frames Ford’s win as a major Democratic breakthrough and part of a “historically brutal” Republican “drubbing,” emphasizing Nevada’s battleground importance and his status as the first Black governor.",
+      "Right-Leaning coverage instead portrays an “upset,” “blistering campaign,” and Democratic “sweep,” stressing an attorney general’s forceful removal of a sitting Republican incumbent.",
+      "Center coverage uses restrained “wins” language, foregrounding the 52.3–47.7 early margin, affordability messaging, and historic transition.",
+      "The pivotal divide is whether the result signals national partisan collapse or a surprising state-level reversal; all perspectives agree Ford defeated Lombardo, flipped the governorship, and won a highly competitive race."
+    ],
+    "bias_bar_text": "Left 35% Center 54% 11%",
+    "center_pct": 54.0,
+    "error": null,
+    "left_pct": 35.0,
+    "location": null,
+    "right_pct": 11.0,
+    "status": "ok",
+    "summary": [
+      "Democratic Attorney General Aaron Ford won Nevada's gubernatorial race on Wednesday, defeating Republican incumbent Joe Lombardo. NBC News projected the victory at 4:46 a.m. EST.",
+      "Democrats repeatedly tied Lombardo to a \"Lombardo-Trump economy,\" blaming President Donald Trump and the governor for rising costs in gas, housing, and healthcare that weighed heavily on Nevada voters.",
+      "Ford secured endorsements from former Vice President Kamala Harris and former President Barack Obama, who called him a \"fighter for Nevadans.\" Ford becomes Nevada's first Black governor.",
+      "The result serves as a major boon for Democrats two years before the next presidential election, breaking a state trend where Nevada's last two governors failed to secure re-election.",
+      "Republicans had scrutinized Ford's attorney general record and campaign proposals, but the party faces a setback after their successful 2022 gubernatorial victory in the competitive state."
+    ],
+    "title": "Democrat Aaron Ford unseats GOP Gov. Joe Lombardo in Nevada, Becomes State’s First Black Governor",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/related-energy-drinks-to-heart-attack-in-young-adults",
+    "article_url": "https://ground.news/article/related-energy-drinks-to-heart-attack-in-young-adults",
+    "bias": [
+      "Left-Leaning coverage heightens public-health alarm, describing consumption as a “dangerous habit,” warning of “cardiac harm,” and suggesting a heart-attack “surge.” Right-leaning coverage uses a more restrained “study links” frame, foregrounding “heart attack” and the precise 28,345-report sample while offering less context.",
+      "Center coverage adds guardrails, stressing “preliminary” research, adults 18–34, and association rather than causation.",
+      "The pivotal divide is whether disproportionate FDA reports signal an urgent threat or warrant caution before causal claims.",
+      "All perspectives emphasize serious cardiovascular events, young adults, stimulant products, and the American Heart Association connection, reflecting a shared concern shaped by differing risk-communication priorities."
+    ],
+    "bias_bar_text": "L 22% Center 53% Right 25%",
+    "center_pct": 53.0,
+    "error": null,
+    "left_pct": 22.0,
+    "location": null,
+    "right_pct": 25.0,
+    "status": "ok",
+    "summary": [
+      "Caffeinated energy drinks and stimulant supplements appeared disproportionately in FDA reports of serious cardiovascular events, including cardiac arrest and heart attacks, particularly among adults ages 18 to 34, according to research presented on Monday.",
+      "Sales of caffeinated energy drinks reached over $20 billion in 2024, yet the FDA regulates these products as foods rather than medications, allowing them to bypass rigorous premarket safety testing required for drugs.",
+      "Researchers analyzed 28,345 reports to the FDA between 2017 and 2025, finding that cardiac arrest occurred about 11 times more often with caffeine-containing products, while about 45% of cardiovascular event reports involved adults ages 18 to 34.",
+      "\"These products are marketed as everyday pick-me-ups, so most people assume they carry no real risk,\" said Sai Samayamanthula, a fourth-year medical student at the University of Virginia School of Medicine in Charlottesville, Virginia.",
+      "Gregory M. Marcus, chair of the 2026 American Heart Association scientific statement on caffeine and cardiovascular disease, cautioned that the study identifies associations without proving causation, emphasizing more research is needed to confirm these products' direct responsibility."
+    ],
+    "title": "Energy Drinks Linked to Serious Heart Issues in Young Adults",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/ukraines-zelenskyy-awards-melania-trump-state-honour",
+    "article_url": "https://ground.news/article/ukraines-zelenskyy-awards-melania-trump-state-honour",
+    "bias": [
+      "Coverage converges on Zelenskyy’s state honor for Melania Trump, using positive phrases such as “humanitarian support” and “significant personal contribution,” but its emphasis shifts.",
+      "Left-Leaning reports foreground the honor and aid to Ukrainian children in broad terms, while right-leaning coverage highlights a reported evacuation from a “frontline town” and, like center coverage, specifies children “forcibly moved” from Russian-occupied territory.",
+      "Center coverage presents the award with that displacement context but without the right’s operational detail.",
+      "Thus, the dividing line is general humanitarian recognition versus a concrete wartime action and coercive displacement, while all perspectives emphasize the award, Ukraine -related support, and assistance to children."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 17.0,
+    "error": null,
+    "left_pct": 50.0,
+    "location": "United States",
+    "right_pct": 33.0,
+    "status": "ok",
+    "summary": [
+      "Ukrainian President Volodymyr Zelenskyy awarded U.S. First Lady Melania Trump the Order of Princess Olga, First Class.",
+      "A presidential decree credited Melania Trump with a “significant personal contribution” to humanitarian aid and support for Ukrainian children.",
+      "Ukrainian officials said Melania Trump helped organize a six-day ceasefire to evacuate civilians from Russian-occupied Oleshky.",
+      "Melania Trump said nearly 800 people were evacuated during the operation, which ended on Sunday."
+    ],
+    "title": "Ukraine's Zelenskyy awards Melania Trump state honour",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/for-the-boss-of-ai-at-microsoft-in-case-of-a-sign-of-consciousness-at-ai-it-will-have-to-stop-everything",
+    "article_url": "https://ground.news/article/for-the-boss-of-ai-at-microsoft-in-case-of-a-sign-of-consciousness-at-ai-it-will-have-to-stop-everything",
+    "bias": [
+      "Left-Leaning coverage places the CEO’s opposition within a broader debate over whether AI systems should receive “rights,” while describing him as a “leading thinker” on “fast-evolving technology .” Right-leaning coverage de-emphasizes that ethical context, reducing the message to opposition to “conscious machines.” The dividing line is therefore contextual scope, not overt partisan language: “warns” adds caution in left and center headlines, whereas the right headline uses the more direct “opposes.” Center coverage similarly foregrounds AI rights and authority.",
+      "All perspectives report the CEO’s position, but their differing emphasis reflects wider choices about ethical implications versus concise technological description."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 84.0,
+    "error": null,
+    "left_pct": 16.0,
+    "location": "United States",
+    "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "Microsoft AI CEO Mustafa Suleyman cautioned against developing conscious artificial intelligence, warning that such machines would \"upend our morality, our politics and the core foundation.\"",
+      "Suleyman argued that current artificial intelligence systems lack subjective experiences and cannot suffer, contrasting his position with companies that design technology to mimic human feelings and behaviors.",
+      "The executive criticized Anthropic for training its Claude model to use human-like language, claiming this practice perpetuates false beliefs among users that the technology possesses genuine feelings.",
+      "Oracle plans to raise $20 billion through stock and bond offerings to help finance a massive expansion of its artificial intelligence and cloud infrastructure.",
+      "Trump's push to rename artificial intelligence \"super intelligence\" has drawn mixed responses from major technology leaders ahead of the upcoming midterm elections."
+    ],
+    "title": "Microsoft AI CEO Warns Against Trying to Build Conscious Machines",
+    "topic": "Microsoft",
+    "topic_full": "Microsoft · United States"
+  },
+  {
+    "article_path": "/article/nathan-johnson-wins-texas-attorney-generals-office-in-big-upset",
+    "article_url": "https://ground.news/article/nathan-johnson-wins-texas-attorney-generals-office-in-big-upset",
+    "bias": [
+      "Left-Leaning coverage casts Nathan Johnson’s Democratic win as a “big” or “stunning upset,” even a “blue wave” and statewide “sweep,” stressing national legal repercussions.",
+      "Right-Leaning coverage likewise calls it a “major upset” but largely de-emphasizes broader electoral context, candidate platforms, vote margins, and Middleton’s identity, presenting an unexpected Democratic takeover rather than a realignment.",
+      "Center coverage adds historical and biographical texture: Johnson becomes the first Democratic Texas attorney general since 1994, while Republican Mayes Middleton is described as an “oil and gas heir,” and Libertarian Tom Oxford appears on the ballot.",
+      "All emphasize surprise and Democratic control, reflecting competing interpretations of its significance."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 70.0,
+    "error": null,
+    "left_pct": 17.0,
+    "location": "Texas",
+    "right_pct": 13.0,
+    "status": "ok",
+    "summary": [
+      "In a stunning upset on Tuesday, Democrat Nathan Johnson claimed victory in the race to be Texas' top lawyer, defeating Republican Mayes Middleton.",
+      "Incumbent Attorney General Ken Paxton opted not to seek a fourth term, opening the seat after Middleton spent close to $20 million to defeat U.S. Rep. Chip Roy in the primary runoff.",
+      "Johnson, a Dallas State Senator, becomes the first Democrat elected to the role since 1994, vowing to focus on consumer protection, anti-corruption and child support enforcement.",
+      "The agency previously focused on aggressive national conservative litigation, but Johnson aims to stay out of political fray and focus on state-level issues.",
+      "Paul Nolette, a political scientist at Marquette University, said reclaiming the Texas agency from Republican control has \"kneecapped the conservative legal movement, at least temporarily."
+    ],
+    "title": "Democrat Nathan Johnson flips Texas attorney general’s office",
+    "topic": "Texas Politics",
+    "topic_full": "Texas Politics · Texas"
+  },
+  {
+    "article_path": "/article/spacex-signs-deal-with-qualcomm-to-provide-network-technology-for-us-mobile-service",
+    "article_url": "https://ground.news/article/spacex-signs-deal-with-qualcomm-to-provide-network-technology-for-us-mobile-service",
+    "bias": [
+      "Left-Leaning coverage frames the Qualcomm- SpaceX partnership as Musk’s potentially disruptive, $100 billion expansion into wireless, drones, and robots, pairing “disrupt” and “taking on” with promotional “accelerate” and stressing a reported 2027 rollout.",
+      "Center coverage recasts it as terrestrial infrastructure and a competitive challenge to Verizon, AT&T, and T-Mobile, emphasizing equipment and market power.",
+      "Right-Leaning coverage uses the enabling “power” and presents the deal chiefly as building Starlink Mobile’s U.S. 5G network, de-emphasizing spending, timing, and rivalry.",
+      "All perspectives identify the partnership and its 5G purpose, while diverging over disruption, competition, and corporate reach."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 54.0,
+    "error": null,
+    "left_pct": 31.0,
     "location": "United States",
     "right_pct": 15.0,
     "status": "ok",
     "summary": [
-      "On Tuesday, Nvidia instructed its cloud computing partners to sell at least 51 percent of their services to non-Chinese customers, the Financial Times reported, citing five people familiar with the matter.",
-      "Since 2022, the United States has restricted advanced chip sales to China, yet hardware continues entering via smuggling routes; earlier this year, Super Micro employees were charged with moving around $2.5bn in Nvidia servers into China.",
-      "Nvidia reportedly communicated the mandate verbally through sales and regional teams rather than issuing written instructions, according to five sources; the requirement applies only to new contracts, leaving existing agreements untouched.",
-      "The company stated that \"datacenters and clouds built on American chips are the foundation\" for competition, arguing longstanding United States policy encourages building infrastructure on American technology.",
-      "Chinese foreign ministry spokeswoman Mao Ning said Beijing hopes for a \"fair, transparent and non-discriminatory business environment,\" following China's year-old ban on foreign AI chips from state-funded data centres."
+      "On Wednesday, SpaceX announced a partnership with Qualcomm to supply network infrastructure for Starlink Mobile, aiming to create a nationwide wireless carrier challenging Verizon, AT&T, and T-Mobile.",
+      "Qualcomm will furnish Dragonwing radio and processing units to support tens of thousands of cell sites, creating a terrestrial network designed to \"complement Starlink's satellite capabilities.\"",
+      "SpaceX holds less than 80 MHz of spectrum capacity compared to 300 to 400 MHz held by major carriers, necessitating the EchoStar spectrum acquisition to bridge this critical gap.",
+      "Qualcomm EVP Durga Malladi called the agreement the company's biggest 5G network deal, while SpaceX prepares a massive satellite upgrade with thousands of more powerful Starlink satellites.",
+      "Reports suggest SpaceX may pursue 80,000 cell towers, approaching the scale of AT&T, T-Mobile, and Verizon, though the company has not yet announced specific tower partnerships."
     ],
-    "title": "Nvidia orders data centre clients to reduce China exposure, FT reports",
-    "topic": "Nvidia",
-    "topic_full": "Nvidia · United States"
+    "title": "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service",
+    "topic": "SpaceX",
+    "topic_full": "SpaceX · United States"
   },
   {
-    "article_path": "/article/major-automakers-urge-us-congress-to-pass-permanent-ban-on-chinese-vehicles",
-    "article_url": "https://ground.news/article/major-automakers-urge-us-congress-to-pass-permanent-ban-on-chinese-vehicles",
+    "article_path": "/article/gop-governor-defies-dem-enthusiasm-tough-political-climate-to-win-re-election-in-key-swing-state",
+    "article_url": "https://ground.news/article/gop-governor-defies-dem-enthusiasm-tough-political-climate-to-win-re-election-in-key-swing-state",
     "bias": [
-      "Coverage converges on nearly all major automakers urging Congress to impose a “permanent ban” on Chinese vehicles before a short post-election session, but diverges in rationale and tone: left-leaning accounts emphasize protecting the U.S. market and portray the measure chiefly as an industry-backed demand, while right-leaning coverage foregrounds “surveillance risk” and “monitoring risk,” framing Chinese cars as a national-security threat and highlighting industry leader John Bozzella.",
-      "Center-Leaning reporting stresses procedure and “overwhelming support,” without vote figures, while de-emphasizing broader consequences.",
-      "The pivotal divide is whether the ban is economic protectionism or security defense; all sides emphasize congressional momentum, reflecting shared concern over Chinese competition and geopolitical influence."
+      "Left-Leaning coverage presents Kelly Ayotte’s reelection as a straightforward result—“Republican” winning against Democrat Cinde Warmington—while center coverage adds procedural context, including the AP projection and candidate backgrounds.",
+      "Right-Leaning framing casts the same outcome as a partisan triumph: Ayotte “defies Dem enthusiasm” amid a “tough political climate” and “political headwinds,” with New Hampshire elevated as a “key swing state.” It alone emphasizes her roughly 51.1% vote share, Republican control, and affordable housing priorities, interpreting a local contest as national GOP resilience.",
+      "Across perspectives, the shared focus remains Ayotte’s victory, Warmington’s defeat, and the broader divide between local-result reporting and nationalized partisan meaning."
     ],
     "bias_bar_text": null,
-    "center_pct": 28.0,
+    "center_pct": 25.0,
     "error": null,
-    "left_pct": 43.0,
-    "location": "United States",
-    "right_pct": 29.0,
+    "left_pct": 56.0,
+    "location": "New Hampshire",
+    "right_pct": 19.0,
     "status": "ok",
     "summary": [
-      "On Monday, the Alliance for Automotive Innovation urged U.S. lawmakers to pass a permanent ban on Chinese vehicles when Congress returns next week for a post-midterm session.",
-      "A 2025 regulation effectively restricted Chinese passenger vehicles over sensitive driver data concerns; industry leaders now seek to codify this restriction into permanent law on economic and national security grounds.",
-      "Michigan Republican Rep. John Moolenaar and Democratic Rep. Debbie Dingell introduced the Connected Vehicle Security Act in May to block internet-connected hardware linked to adversaries.",
-      "John Bozzella, who heads the Alliance for Automotive Innovation, warned that Chinese imports carry surveillance risks, citing the European market where imports topped 1.1 million vehicles this year.",
-      "Legislative aides warn limited time remains to approve the ban before the session ends in December, despite President Donald Trump's September suggestion he might accept Chinese manufacturers."
+      "Republican Kelly Ayotte won election Wednesday as governor of New Hampshire , defeating Democrat Cinde Warmington with 51.1% of the vote to secure her second two-year term.",
+      "Ayotte charted a center-right path during her first term despite national political headwinds involving President Donald Trump's low approval ratings and fallout from the war in Iran affecting Republicans nationwide.",
+      "During her first term, Ayotte frequently clashed with the GOP-controlled legislature, using her veto pen to block transgender \"bathroom bills\" and legislation restricting \"obscene\" public school materials.",
+      "Democratic challenger Cinde Warmington struggled to gain traction, facing intense scrutiny over her work as a lobbyist for Purdue Pharma, which Ayotte relentlessly tied to the opioid epidemic.",
+      "New Hampshire is one of two states that elect governors to two-year terms. Ayotte succeeded Republican Chris Sununu in 2024, who served four terms before her tenure began."
     ],
-    "title": "Major automakers urge US Congress to pass permanent ban on Chinese vehicles",
+    "title": "Republican Kelly Ayotte Wins Reelection for Governor in New Hampshire",
+    "topic": "New Hampshire Politics",
+    "topic_full": "New Hampshire Politics · New Hampshire"
+  },
+  {
+    "article_path": "/article/muslim-candidates-make-historic-gains-in-us-midterm-elections",
+    "article_url": "https://ground.news/article/muslim-candidates-make-historic-gains-in-us-midterm-elections",
+    "bias": [
+      "Left-Leaning coverage frames at least seven Muslim victories as “historic gains” while emphasizing Democrats’ takeover of both congressional chambers and foreign policy.",
+      "Right-Leaning coverage similarly celebrates “historic victories” and “strengthening Muslim representation,” but foregrounds candidate names, broader legislative institutions, and the possibility of an additional win, while cautioning that some results were unofficial.",
+      "Center coverage stays narrower, stressing the preliminary “at least” figure and opposition to “unconditional military support” for Israel.",
+      "The pivotal divide is whether the election signifies broader partisan realignment or primarily minority representation; all perspectives share the milestone framing and attention to civil rights and healthcare."
+    ],
+    "bias_bar_text": "L 17% C 16% Right 67%",
+    "center_pct": 16.0,
+    "error": null,
+    "left_pct": 17.0,
+    "location": null,
+    "right_pct": 67.0,
+    "status": "ok",
+    "summary": [
+      "Rashida Tlaib won reelection in Michigan, while Ilhan Omar won Minnesota’s Fifth Congressional District with 62.77% of the vote.",
+      "Latifa Simon and Ayesha Wahab won congressional elections in California.",
+      "Abdul El-Sayed became the first Muslim U.S. senator, according to the report.",
+      "At least seven Muslim candidates won seats in Congress and other legislative institutions during the midterm elections."
+    ],
+    "title": "At Least 7 Muslims Elected to US Congress in Midterm Elections",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/republican-eric-barlow-wins-election-for-governor-in-wyoming",
+    "article_url": "https://ground.news/article/republican-eric-barlow-wins-election-for-governor-in-wyoming",
+    "bias": [
+      "The left-leaning coverage frames Eric Barlow’s victory through ideological tension, saying he “overcame criticism” that he “wasn’t conservative enough,” while also portraying him as a Campbell County rancher.",
+      "Right-Leaning coverage emphasizes credentials—14 years as a legislator, health-care policy, and becoming Wyoming’s “next governor”—and highlights intraparty drama involving Donald Trump’s endorsement of another candidate.",
+      "Center coverage presents a more institutional succession after Mark Gordon’s “term-limited” tenure, while noting Barlow’s experience and Kenneth Casner’s third campaign.",
+      "All perspectives agree Barlow defeated Casner and will govern Wyoming, but their emphases reflect broader divides over ideological purity, political continuity, and leadership credentials."
+    ],
+    "bias_bar_text": "Left 61% Center 28% 11%",
+    "center_pct": 28.0,
+    "error": null,
+    "left_pct": 61.0,
+    "location": null,
+    "right_pct": 11.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, Republican Eric Barlow won the Wyoming gubernatorial election, defeating Democrat Kenneth Casner and Constitution Party candidate Rebecca Bextel. The Associated Press called the race at 7 p.m. with 0% of the votes counted.",
+      "Barlow, a Gillette rancher and former House speaker, secured the Republican nomination despite opposition from the Wyoming GOP and non-endorsement by President Donald Trump.",
+      "The campaign raised more than $2 million, setting a state record, while Barlow promised to protect private property rights and the Second Amendment.",
+      "Barlow will succeed term-limited Republican Gov. Mark Gordon, continuing the state's tradition of electing governors with ranching roots and legislative experience.",
+      "Wyoming's election results remain unofficial until the state canvassing board certifies them next week, with the new governor scheduled to take office on Jan. 4, 2027."
+    ],
+    "title": "Republican Eric Barlow Wins Election for Governor in Wyoming",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/cvs-health-to-split-in-two-separating-pharmacy-business-from-insurance",
+    "article_url": "https://ground.news/article/cvs-health-to-split-in-two-separating-pharmacy-business-from-insurance",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 92.0,
+    "error": null,
+    "left_pct": 8.0,
+    "location": "United States",
+    "right_pct": null,
+    "status": "no_change",
+    "summary": [
+      "On Wednesday, CVS Health announced it will split into two independent companies, marking one of the largest shakeups in the healthcare industry. CEO David Joyner said the move aims to create two focused entities to improve consumer engagement and care coordination.",
+      "The separation partially unwinds the 2018 $69 billion acquisition of Aetna and reverses the 2007 merger strategy with CVS Caremark. Lawmakers in Arkansas and Tennessee enacted measures over the past two years restricting companies from simultaneously owning pharmacy storefronts and managing drug coverage.",
+      "One company will retain Aetna, CVS Caremark, Oak Street Health, and Signify Health. The second entity, CVS Pharmacy, will operate 9,000 locations and MinuteClinic, with Prem Shah, group president of CVS Health, becoming its CEO.",
+      "Shareholders will receive stock in both companies in a tax-free transaction expected to close in early 2028. Shares of CVS Health fell 2% in premarket trading after initially ticking up following the announcement.",
+      "Separately, the company raised its full-year 2026 earnings forecast to a minimum of $8.20 per share, up from the earlier $7.90 to $8.10 range. CVS Pharmacy plans to expand services from its nearly 30,000 pharmacists and pursue partnerships with payers and manufacturers."
+    ],
+    "title": "CVS Health to split in two, separating pharmacy business from insurance",
     "topic": "US Economy",
     "topic_full": "US Economy · United States"
   },
   {
-    "article_path": "/article/syria-announces-the-frustration-of-a-subversive-scheme-targeting-the-homs-refinery-and-the-arrest-of-a-cell-linked-to-hezbollah",
-    "article_url": "https://ground.news/article/syria-announces-the-frustration-of-a-subversive-scheme-targeting-the-homs-refinery-and-the-arrest-of-a-cell-linked-to-hezbollah",
+    "article_path": "/article/hp-inc-appoints-emma-walmsley-as-chief-executive-officer",
+    "article_url": "https://ground.news/article/hp-inc-appoints-emma-walmsley-as-chief-executive-officer",
     "bias": [
-      "Left-Leaning coverage foregrounds operational details—two arrests, seized explosives, and Homs as Syria’s only functioning refinery—while using charged terms such as “terrorist plot” and “militia.” Right-leaning coverage instead stresses Hezbollah ’s Lebanese, “Iran-backed” identity, portraying the alleged bombing as an effort to “undermine” Syrian energy infrastructure and invoking “terrorist attack” language.",
-      "Center coverage is briefer and more qualified, retaining “Syria says” and “plot” without “terrorist” or “militia.” The pivotal divide is whether to emphasize concrete evidence and refinery vulnerability or geopolitical militancy; all perspectives nevertheless highlight authorities having “foiled” an alleged Hezbollah-linked operation, reflecting shared concern over security and critical infrastructure."
+      "Left- and right-leaning coverage largely converge, presenting HP ’s leadership change in restrained corporate language: “appoints” Walmsley as CEO and “chair” Broussard’s succession, without partisan cues such as “crisis,” “woke,” or “slammed.” Neither side meaningfully interprets the move, touts a turnaround, or voices skepticism; both de-emphasize Walmsley’s qualifications and the strategic stakes.",
+      "Center coverage differs by adding that the former GSK chief must “steer” HP through a “steep industry downturn,” memory-chip shortages, and higher prices, while noting Broussard’s interim tenure.",
+      "The dividing line is therefore context versus announcement, though all perspectives agree on the appointments and corporate transition."
     ],
-    "bias_bar_text": "Left 44% C 23% Right 33%",
-    "center_pct": 23.0,
+    "bias_bar_text": null,
+    "center_pct": 37.0,
+    "error": null,
+    "left_pct": 50.0,
+    "location": "Palo Alto",
+    "right_pct": 13.0,
+    "status": "ok",
+    "summary": [
+      "On Nov. 04, 2026, HPQ announced the appointment of Emma Walmsley as Chief Executive Officer, effective January 4, 2027. She succeeds Interim Chief Executive Officer Bruce Broussard, who assumes the role of Board Chair.",
+      "Broussard has served as Interim Chief Executive Officer since February 2026, guiding the Board through a comprehensive global search. He succeeds Chip Bergh, who has led the Board since 2017 and will continue until January 4, 2027.",
+      "Walmsley most recently served as Chief Executive Officer of GSK for nearly nine years, leading a significant transformation. She has also been a member of Microsoft's Board of Directors for seven years.",
+      "\"She has a people-first leadership approach that aligns and inspires high-performing teams,\" said Chip Bergh, Chair of the Board. Walmsley intends to focus on harnessing AI-powered innovation to unlock new growth sources.",
+      "Operating in more than 180 countries, HPQ delivers innovative, AI-powered devices and services. Leadership expects Walmsley's strategic thinking to translate customer insights into growth as the company captures opportunities in the AI-powered era."
+    ],
+    "title": "HP names former GSK chief Emma Walmsley as CEO",
+    "topic": "HP",
+    "topic_full": "HP · Palo Alto"
+  },
+  {
+    "article_path": "/article/republican-marsha-blackburn-wins-election-for-governor-in-tennessee",
+    "article_url": "https://ground.news/article/republican-marsha-blackburn-wins-election-for-governor-in-tennessee",
+    "bias": [
+      "Left-Leaning coverage frames Blackburn’s Republican win as an “ekes out” result, stressing a thin, non-majority margin and questioning any conservative “mandate,” while portraying Green’s “inroads” in “ruby red Tennessee ” as significant.",
+      "Right-Leaning coverage recasts the same contest as a “hard-fought conservative victory,” with “MAGA holds the line” and “keeps the governor’s office red” celebrating partisan continuity; it also notes independent David Hatley’s role.",
+      "Center coverage uses “projected” and “declares herself,” foregrounding that counting was incomplete.",
+      "Across perspectives, Blackburn’s win and status as Tennessee’s first woman governor unite the narratives, while mandate and partisan meaning divide them."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 42.0,
+    "error": null,
+    "left_pct": 32.0,
+    "location": "Tennessee",
+    "right_pct": 26.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, Nov. 3, 2026, the Associated Press projected U.S. Sen. Marsha Blackburn the winner of Tennessee's gubernatorial race, making her the first woman to hold the state's top office.",
+      "Independent candidate David Hatley drew nearly 200,000 votes, tightening the contest, while Blackburn and supporters spent nearly $10 million attacking Hatley's past bank fraud convictions.",
+      "Final unofficial results showed Blackburn captured 45.4% of the vote, narrowly defeating Democrat Jerri Green, who received 43.1%, marking Green's best performance since 2006.",
+      "Blackburn intends to remain in her U.S. Senate seat until her January 16, 2027, inauguration, allowing her to select her own interim replacement for the Washington seat.",
+      "Green conceded the race shortly before 11 p.m. Tuesday, insisting she is \"not going anywhere\" and signaling her fight against school vouchers and for rural healthcare will continue."
+    ],
+    "title": "Republican Marsha Blackburn Wins Election for Governor in Tennessee",
+    "topic": "Marsha Blackburn",
+    "topic_full": "Marsha Blackburn · Tennessee"
+  },
+  {
+    "article_path": "/article/private-companies-added-86-000-jobs-in-october-slightly-higher-than-expected-adp-says_f5053d",
+    "article_url": "https://ground.news/article/private-companies-added-86-000-jobs-in-october-slightly-higher-than-expected-adp-says_f5053d",
+    "bias": [
+      "Coverage divides between restrained and buoyant interpretations: center-leaning reports call October’s 86,000 private-sector jobs only “small signs of improvement,” stress employer “caution,” wage growth of 3.2% in base pay, and a downward September revision, while right-leaning accounts say the gain “tops consensus,” signals a “strong labor market across the board,” and shows wages “accelerates.” The pivotal divide is whether exceeding forecasts of roughly 67,000–75,000 indicates broad momentum or merely modest resilience.",
+      "Right coverage highlights 39,000 jobs in trade, transportation, and utilities and 16 straight monthly gains; both sides emphasize ADP’s 86,000 increase and continued hiring, reflecting differing assessments of economic strength."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 58.0,
+    "error": null,
+    "left_pct": null,
+    "location": "United States",
+    "right_pct": 42.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, Nov. 4, 2026, the ADP National Employment Report showed U.S. private employers added 86,000 jobs in October, matching the downwardly revised payroll count for September.",
+      "Hiring growth was broad across business sizes as medium firms with 50-499 employees added 33,000 new roles, while small establishments added 28,000 and large businesses added 24,000.",
+      "Most growth originated in service-providing industries, which added 82,000 jobs led by 39,000 positions in trade, transportation, and utilities, though professional and business services lost 27,000 roles.",
+      "Workers changing jobs saw 4.8% annual gains, as ADP chief economist Dr. Nela Richardson said \"earnings growth hit its fastest pace since March 2024.\"",
+      "Economists surveyed by Dow Jones project a gain of 59,000 jobs in Friday's Bureau of Labor Statistics report, as investors await confirmation of labor market momentum."
+    ],
+    "title": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
+    "topic": "US Economy",
+    "topic_full": "US Economy · United States"
+  },
+  {
+    "article_path": "/article/republican-thomas-tuberville-wins-election-for-governor-in-alabama-wtop-news",
+    "article_url": "https://ground.news/article/republican-thomas-tuberville-wins-election-for-governor-in-alabama-wtop-news",
+    "bias": [
+      "Left-Leaning coverage frames Tuberville’s win cautiously, using “claims,” “held off,” and “does not concede” to stress the unusually close race, roughly 52.5 percent, Democratic “political progress,” and uncertainty before an official call.",
+      "Right-Leaning coverage presents a decisive Republican triumph, using “wins,” “defeats,” and even “stranglehold,” while emphasizing 52.1–47.9 percent, unexpectedly narrow polling margins, and Tuberville’s “perfect 2004 season.” Center coverage preserves institutional caution, noting the race was not initially called and contextualizing Kay Ivey ’s term limit.",
+      "All perspectives identify Tuberville’s victory over Jones, but their framing reflects competing views of Republican dominance, Democratic gains, and electoral legitimacy."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 29.0,
+    "error": null,
+    "left_pct": 63.0,
+    "location": "Alabama",
+    "right_pct": 8.0,
+    "status": "ok",
+    "summary": [
+      "Republican Tommy Tuberville won the Alabama governor's race on Wednesday, defeating Democrat Doug Jones after the Associated Press declared him the winner at 1:36 a.m. EST.",
+      "Tuesday's election served as a rematch of the 2020 U.S. Senate race, where Tuberville defeated Jones, who previously served as Alabama's junior U.S. senator from 2018 to 2021.",
+      "Tuberville secured victory in what appeared to be the closest Alabama gubernatorial contest in 24 years, though Jones has not yet conceded the race.",
+      "Declaring victory to supporters in Auburn Tuesday evening, Tuberville said, \"Winning is not an accident, it is a decision.\" He prepares to succeed term-limited Governor Kay Ivey .",
+      "The governor-elect plans to reduce the state workforce, expand Alabama's CHOOSE Act voucher program, and cut the grocery tax to improve affordability for families."
+    ],
+    "title": "Republican Thomas Tuberville Wins Election for Governor in Alabama",
+    "topic": "Alabama Politics",
+    "topic_full": "Alabama Politics · Alabama"
+  },
+  {
+    "article_path": "/article/iran-top-negotiator-says-americans-voted-no-to-war",
+    "article_url": "https://ground.news/article/iran-top-negotiator-says-americans-voted-no-to-war",
+    "bias": [
+      "Left-Leaning coverage frames the midterms as Trump’s “grueling” or “crushing defeat” and foregrounds Iran’s antiwar interpretation, sometimes sympathetically echoing “no to war .” Right-leaning coverage also emphasizes Republican losses but stresses Democrats’ potential control of Congress and adds the sharper geopolitical warning about “international paymasters and blackmailers,” portraying Washington as vulnerable to betrayal of public will.",
+      "Center coverage places more weight on domestic drivers—“cost of living,” tariffs, and Iran policy—alongside a “crushing rebuke.” The pivotal divide is whether war opposition caused the vote or merely reflects broader economic and political anger.",
+      "All emphasize Democratic gains, Republican setbacks, and Ghalibaf’s claim, reflecting wider disputes over intervention, sovereignty, and accountability."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 48.0,
+    "error": null,
+    "left_pct": 23.0,
+    "location": "Iran",
+    "right_pct": 29.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, November 4, 2026, Democrats secured control of both the House and Senate in midterm elections, prompting Iranian Parliament Speaker Mohammad Bagher Ghalibaf to declare that Americans have said \"NO TO WAR.\"",
+      "The midterm elections on November 3 followed a contentious cycle defined by economic anxieties and foreign policy tensions, particularly the Iran war , with all 435 House seats and 35 Senate positions contested.",
+      "Fox News reported that four key voter groups—young people, independents, rural voters, and Hispanic voters—shifted away from Republicans, driven by dissatisfaction over the Iran war, tariffs, inflation, and concerns regarding the President's conduct.",
+      "President Donald Trump congratulated Democrats on their victory, telling CBS News, \"I know a lot of Democrats, I have total veto power and I'm sure we'll be able to work things out.\"",
+      "Ghalibaf warned that if the U.S. government betrays the public will, it will \"learn our NO comes with a Nightmare,\" while Trump asserted the Iran war would end only \"when I say it's over."
+    ],
+    "title": "Iranian Officials Say Midterm Results Show US Voters Have Rejected Trump's War",
+    "topic": "Iran War",
+    "topic_full": "Iran War · Iran"
+  },
+  {
+    "article_path": "/article/israeli-opponents-insist-netanyahu-cannot-stay-after-us-election",
+    "article_url": "https://ground.news/article/israeli-opponents-insist-netanyahu-cannot-stay-after-us-election",
+    "bias": [
+      "Left-Leaning coverage frames Netanyahu as “toxic” in Washington, stressing domestic turmoil, declining U.S. standing, and the notable silence of right-wing Israeli politicians.",
+      "Right-Leaning accounts similarly foreground “toxic,” but emphasize “isolation,” security risks, a “clash” with Washington, opponents exploiting Democratic gains, uncertainty over government formation, and an Iranian speaker’s “strong rejection of war” interpretation.",
+      "Center coverage presents rivals’ claims more attribution-first, using “seized on” and “squandered” while raising possible sanctions and damaged bipartisan support—claims not independently verified.",
+      "Across perspectives, opposition figures use the midterms to demand Netanyahu’s removal and warn of diplomatic costs, though bipartisan-support concerns are not shared equally."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 30.0,
+    "error": null,
+    "left_pct": 8.0,
+    "location": "Israel",
+    "right_pct": 62.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, Israeli opposition leaders called for Prime Minister Benjamin Netanyahu to leave office, citing Democratic gains in Tuesday's US midterm elections as evidence he squandered bipartisan American support.",
+      "Democrats secured control of both chambers of Congress in Tuesday's election, dealing a setback to President Donald Trump, who had endorsed Netanyahu and recently pledged to halt $4 billion in annual aid to Israel.",
+      "Opposition Democrats party leader Yair Golan said results \"reveal just how toxic Netanyahu is,\" while Centrist leader Yair Lapid warned, \"Israel cannot afford\" for the Prime Minister to remain in office.",
+      "Israeli President Isaac Herzog will hold talks Wednesday and Thursday to task a candidate with forming a government, as Netanyahu's bloc holds 53 seats in the 120-member Knesset.",
+      "Tel Aviv University professor Udi Sommer predicted the incoming Democratic-controlled Congress would be the most adversarial towards Israel in history, noting the results \"encapsulate the next chapter in US-Israel relations."
+    ],
+    "title": "Israeli Opposition Leaders Say Netanyahu Cannot Remain in Power After US Midterm Elections",
+    "topic": "Benjamin Netanyahu",
+    "topic_full": "Benjamin Netanyahu · Israel"
+  },
+  {
+    "article_path": "/article/washington-post-google-researchers-are-fighting-the-company-to-tell-the-world-what-they-know-about-ai_6bc51d",
+    "article_url": "https://ground.news/article/washington-post-google-researchers-are-fighting-the-company-to-tell-the-world-what-they-know-about-ai_6bc51d",
+    "bias": [
+      "Left-Leaning coverage frames Google as a corporation suppressing dissent, using phrases like “fighting the company” and “dangers of the technology” to spotlight AI safety, worker speech, and public accountability.",
+      "Right-Leaning coverage broadens the critique: “ashamed to work at Google” and “lifetime ban on criticism” dramatize opposition to military AI, while “heavy” or “mounting AI spending” emphasizes investor anxiety, costs, and strategic prioritization.",
+      "Center coverage de-emphasizes ideological conflict, focusing on cost control, Swiss severance details, and DeepMind’s exclusion.",
+      "The pivotal divide is whether buyouts signify labor-and-ethics controversy or rational resource management; all acknowledge voluntary packages across five countries and Google’s simultaneous AI investment."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 36.0,
+    "error": null,
+    "left_pct": 21.0,
+    "location": "United States",
+    "right_pct": 43.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, November 4, 2026, Alphabet's Google confirmed it expanded voluntary buyout offers to staff in Canada, France, Germany, Japan, and Switzerland, with packages announced in June to manage costs amid heavy artificial intelligence spending.",
+      "Mounting artificial intelligence investments have unnerved Wall Street and dented Alphabet's stock price, prompting the company to seek cost efficiencies through programs executives pitch as options for employees no longer aligned with the company's pace or direction.",
+      "In Switzerland, where Google employs about 5,000 people, the scheme excluded DeepMind and Google Cloud units; employees accepting offers received one month's salary for each year of service, capped at 12 months.",
+      "Microsoft offered voluntary buyouts to 60,000 employees last week to contain costs, reflecting broader industry trends, while Google has occasionally followed voluntary offers with job cuts in the U.S. and Britain since 2025.",
+      "Chief Financial Officer Anat Ashkenazi has repeatedly identified artificial intelligence and cloud computing as priority hiring areas, positioning these voluntary exit programs as a mechanism for Alphabet to reallocate resources toward core investment sectors."
+    ],
+    "title": "Google extends voluntary buyout offers to employees in several countries",
+    "topic": "Google",
+    "topic_full": "Google · United States"
+  },
+  {
+    "article_path": "/article/international-politicians-react-to-democrats-winning-us-midterms",
+    "article_url": "https://ground.news/article/international-politicians-react-to-democrats-winning-us-midterms",
+    "bias": [
+      "Left-Leaning coverage casts the result as a “big win” and “retreat of the far right,” treating Democratic gains as a rejection of Trump-aligned politics while questioning whether his foreign-policy approach will persist.",
+      "Right-Leaning coverage uses “sweeping” but chiefly assembles global reactions, highlighting trade, security, energy prices, domestic divisions, and Pedro Sánchez’s charged terms—“hatred,” “sexism,” and “climate denial.” Center coverage blends “welcome and caution,” stressing Ukraine, climate, transatlantic ties, and European strategic autonomy.",
+      "Across perspectives, Democrats won, international leaders responded, and the outcome may shape U.S. foreign policy, global trade, security, and energy."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 39.0,
+    "error": null,
+    "left_pct": 32.0,
+    "location": "United States",
+    "right_pct": 29.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, November 4, 2026, global leaders responded to the Democratic Party 's victory in the U.S. House and Senate, a result with major implications for international trade, security, and energy prices.",
+      "Unified Republican control of Washington ends with this result, although President Donald Trump accepted the midterm outcome while vowing to veto unreasonable legislation when the new Congress takes office in January.",
+      "German Defense Minister Boris Pistorius congratulated Democrats on an \"historic victory,\" while South African President Cyril Ramaphosa said results will \"introduce a new era in world relations.\"",
+      "Diplomatic responses diverged: Russian Deputy Foreign Minister Sergei Ryabkov, quoted by Russian state news agency RIA, said \"Let's wait for the final results,\" while China's foreign ministry stated willingness to \"strengthen communication\" with the U.S.",
+      "Planned U.S.-mediated talks in Abu Dhabi on November 10 and 11 will involve Ukrainian and Russian delegations, following current meetings in Brussels where representatives discuss security guarantees."
+    ],
+    "title": "International politicians react to Democrats winning US midterms",
+    "topic": "2026 Midterm Elections",
+    "topic_full": "2026 Midterm Elections · United States"
+  },
+  {
+    "article_path": "/article/democrats-wins-threaten-ai-trade-and-data-center-boom_188757",
+    "article_url": "https://ground.news/article/democrats-wins-threaten-ai-trade-and-data-center-boom_188757",
+    "bias": [
+      "Left-Leaning coverage casts Democratic victories as an “AI earthquake” and voter “revolt,” emphasizing “energy-guzzling” data centers , Silicon Valley resistance, Trump’s “drubbing,” and possible scrutiny of Musk.",
+      "Right-Leaning coverage reverses the valence: a “Democratic tidal wave” or “vacuum” threatens infrastructure “critical” to AI, investment, jobs, and economic expansion, with restrictions framed as uncertainty.",
+      "Center coverage bridges the divide through the 56% voter figure, market “dip” versus renewable “surge,” and regulatory implications.",
+      "The pivotal fault line is whether moratoriums represent environmental accountability or anti-growth obstruction; all perspectives nonetheless highlight Democratic control, energy demands, investor caution, and intensified oversight."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 48.0,
+    "error": null,
+    "left_pct": 22.0,
+    "location": "United States",
+    "right_pct": 30.0,
+    "status": "ok",
+    "summary": [
+      "On Election Day, Democrat Gina Hinojosa and Democrat Keisha Lance Bottoms secured gubernatorial victories in Texas and Georgia, respectively, campaigning on moratoriums for data-center development and ending decades of Republican control.",
+      "Voters in these states turned against data centers , which opponents say drive up utility bills and pollute the night sky, despite Texas attracting entrepreneurs like Elon Musk, who donated more than $150 million to the Republican campaign.",
+      "Shares in data-center operators fell on Wednesday, contributing to a roughly 8% drawdown in the Nasdaq over the past month, while Anthropic reported revenue surged 47% in the third quarter.",
+      "Analysts view the election as a referendum on AI rather than Donald Trump, with TCW chief executive Katie Koch warning that providers face a PR crisis regarding their \"social license to operate.\"",
+      "Investors anticipate that Democrats will likely push for greater regulation, as Vantage Point Asset Management chief investment officer Nick Ferres noted that financing challenges for the AI boom have become more significant."
+    ],
+    "title": "Democrats’ Wins Threaten AI Trade and Data Center Boom",
+    "topic": "Data Centers",
+    "topic_full": "Data Centers · United States"
+  },
+  {
+    "article_path": "/article/elon-musk-jokes-about-gop-election-defeat-after-spending-record-sums-on-party",
+    "article_url": "https://ground.news/article/elon-musk-jokes-about-gop-election-defeat-after-spending-record-sums-on-party",
+    "bias": [
+      "Left-Leaning coverage portrays Musk’s roughly $250–474 million Republican spending as a humiliating failure, using terms like “ridiculed,” “billionaire blitz,” “bitter ironies,” and “biggest losers,” while treating Democratic victories as a rebuke of wealth-driven politics .",
+      "Right-Leaning accounts acknowledge the defeat but emphasize his serious effort, sarcastic “space lasers” joke, and potential consequences for Texas technology interests, with language such as “drubbing,” “down the drain,” and “buy his own senator.” Center coverage stresses how the “backfired” investment could affect Musk’s businesses.",
+      "All agree his spending failed electorally and that Democrats won, reflecting broader divides over money, power, and partisan influence."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 25.0,
+    "error": null,
+    "left_pct": 33.0,
+    "location": "United States",
+    "right_pct": 42.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, billionaire Elon Musk posted sarcastic remarks on X about Democratic victories in the 2026 midterm elections, quipping, \"Guess my election-interfering space lasers didn't work this time.\"",
+      "Democrats seized control of Congress on Tuesday, winning 233 seats in the 435-seat House and 54 seats in the 100-seat Senate, marking a major reversal in Washington's balance of power.",
+      "Musk spent approximately $250 million to support Republican campaigns, yet Democrat James Talarico defeated Republican Ken Paxton in the Texas Senate race, delivering Democrats a breakthrough in a traditionally conservative state.",
+      "Shares of Tesla Inc. and Space Exploration Technologies Corp. fell approximately 1.8% in post-market trading on Tuesday, while Democrats plan to challenge President Donald Trump's legislative agenda over his remaining two years.",
+      "The electoral shift threatens the policy environment for AI and data centers, with Musk suggesting \"Data centers in space looking pretty appealing right now\" as a potential response to regulatory uncertainty."
+    ],
+    "title": "Elon Musk jokes about GOP election defeat after spending record sums on party",
+    "topic": "Elon Musk",
+    "topic_full": "Elon Musk · United States"
+  },
+  {
+    "article_path": "/article/wsp-confirms-at-least-three-officers-hurt-in-shooting-in-spangle-multiple-civilian-victims",
+    "article_url": "https://ground.news/article/wsp-confirms-at-least-three-officers-hurt-in-shooting-in-spangle-multiple-civilian-victims",
+    "bias": [
+      "Left-Leaning coverage frames the event as domestic violence escalating into a “subsequent firefight,” stressing two deputies “critically wounded” and three deaths, including the suspect.",
+      "Right-Leaning framing de-emphasizes “domestic violence” and instead portrays officers who “came under fire” while trying to “break into the door,” emphasizing a direct law-enforcement confrontation.",
+      "Center coverage adds procedural context—“barricaded suspect,” “standoff,” changing injury counts, the woman’s allegation, and the roadway closure.",
+      "All perspectives emphasize gunfire, injured deputies, fatalities, and investigation, but their dividing line is whether the story centers domestic abuse and uncertainty or officer peril and forceful resistance."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 57.0,
+    "error": null,
+    "left_pct": 32.0,
+    "location": "Washington",
+    "right_pct": 11.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, two Spokane County Sheriff's deputies were critically wounded during a domestic violence shooting incident near Spangle, Washington, after encountering gunfire while attempting to breach a residence.",
+      "Sheriff John Nowels reported that deputies arrived at the home around 2:30 p.m. after a woman told dispatchers she had been shot by her brother; the suspect had an active felony warrant.",
+      "Both deputies were airlifted to Providence Sacred Heart Medical Center in critical condition, along with the injured civilian woman. Adam Richards, chief nursing officer, said the staff cares deeply about everyone arriving at the facility.",
+      "The Spokane Police Department has taken command of the scene and is leading the ongoing standoff, with law enforcement vehicles lining Eighth Avenue to manage the situation and investigate the violence.",
+      "Washington State Patrol Sergeant Greg Riddell confirmed there is no public threat as officials work to barricade the suspect inside the residence while managing traffic closures near Smythe Road."
+    ],
+    "title": "3 dead, including suspect, and 2 deputies critically injured in eastern Washington state",
+    "topic": "US Crime",
+    "topic_full": "US Crime · Washington"
+  },
+  {
+    "article_path": "/article/elon-musks-tesla-and-spacex-take-a-beating-as-dems-surge",
+    "article_url": "https://ground.news/article/elon-musks-tesla-and-spacex-take-a-beating-as-dems-surge",
+    "bias": [
+      "Left-Leaning coverage frames Democratic gains as a dramatic setback for Musk, using “take a beating” and “Dems surge,” while right-leaning accounts employ restrained “slip” language and stress “investor concerns” over AI regulation, a possible merger, and uncertainty under Democratic control.",
+      "The stakes also diverge numerically: the left highlights Tesla’s 4.4% and SpaceX ’s 5.2% declines, versus roughly 1.8% figures elsewhere.",
+      "Center coverage bridges both sides, emphasizing Musk’s Republican financing and a potentially “turbulent day.” All perspectives connect falling shares with Democratic advances and Musk’s Trump ties, reflecting broader tensions over regulation, partisan power, and business risk."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 35.0,
+    "error": null,
+    "left_pct": 15.0,
+    "location": "United States",
+    "right_pct": 50.0,
+    "status": "ok",
+    "summary": [
+      "Democratic lawmakers won the House on Election Night, triggering a sharp sell-off in tech stocks as investors reacted to the shifting political landscape.",
+      "Politico reported last month that Democratic lawmakers plan to aim \"many targets\" at Musk, with tensions stemming from his more than $445 million in donations to GOP candidates.",
+      "Tesla shares fell 4.4% to $381, while SpaceX dropped 5.2% to $134 per share on Election Night, as the tech-heavy Nasdaq declined 2%.",
+      "Investors worry Musk's ties to President Donald Trump and the Republican Party will cause operational difficulties for his companies, with lawmakers planning to focus on his brief leadership of the Department of Government Efficiency .",
+      "Musk previously criticized Democratic candidates, including Texas Senate candidate James Talarico, while facing scrutiny over government contracts and his influence on issues like the war in Ukraine."
+    ],
+    "title": "Tesla, SpaceX Fall as Democrats Win House and Eye Musk Probes",
+    "topic": "Elon Musk",
+    "topic_full": "Elon Musk · United States"
+  },
+  {
+    "article_path": "/article/the-futures-of-actions-fall-as-democrats-gain-momentum-in-elections",
+    "article_url": "https://ground.news/article/the-futures-of-actions-fall-as-democrats-gain-momentum-in-elections",
+    "bias": [
+      "Left-Leaning coverage frames falling stock futures as a potential Washington “shake-up,” emphasizing Democratic Senate gains while stressing uncertainty over congressional control; right-leaning coverage intensifies the market reaction, calling futures a “tumble” and portraying investors as feeling “fear” toward “Democrat gains.” Center coverage occupies a more market-oriented middle ground, highlighting a “sell-off,” falling Treasury yields, and investors seeking “safety” in bonds.",
+      "The pivotal divide is whether Democratic gains signify democratic change, market volatility, or economic threat.",
+      "Despite contrasting emotional tones—disruption, caution, and alarm—all perspectives emphasize declining futures, Democratic advances, and election-driven uncertainty, reflecting broader tensions over partisan power and perceived economic consequences."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 40.0,
+    "error": null,
+    "left_pct": 20.0,
+    "location": "United States",
+    "right_pct": 40.0,
+    "status": "ok",
+    "summary": [
+      "Treasury yields fell Wednesday as investors sought safety, while stock futures slid amid early midterm election results. Nasdaq-100 futures slid 2% and stock contracts shed 1.1%.",
+      "Early results show Democrats making gains in the Senate, although control of both chambers of Congress remains uncertain as votes were still being counted. The CNBC Election Desk projects Democrats winning the House.",
+      "The benchmark 10-year Treasury note yield dropped nearly 5 basis points to 4.902%. The 30-year bond yield slid 5.29%, and the 2-year note yield pulled back 6 basis points to 4.55%.",
+      "Chris Weston, head of research at Pepperstone, wrote that the \"greatest market reaction may come not from who wins Congress, but from how decisively they win and how far the result deviates from expectations.\"",
+      "A commanding victory for either party could force markets to rethink Trump's remaining policy agenda and the political trajectory into 2028. Traders continue monitoring results as polls close in western states."
+    ],
+    "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
+    "topic": "US Economy",
+    "topic_full": "US Economy · United States"
+  },
+  {
+    "article_path": "/article/obama-praises-democratic-midterm-gains-urges-unity-and-service_e43c63",
+    "article_url": "https://ground.news/article/obama-praises-democratic-midterm-gains-urges-unity-and-service_e43c63",
+    "bias": [
+      "Left-Leaning coverage frames Democrats’ congressional takeover as a “sweeping victory” and repudiation of Trump, using “slams” and “bring people together” to cast Obama as conciliatory and Trump as divisive.",
+      "Center coverage, where present, stresses institutional scale through “historic win,” “blue wave,” and even “crushing” defeat.",
+      "Right-Leaning framing de-emphasizes electoral drama, instead spotlighting Obama’s warning to “prevent further damage” and Democrats’ responsibility to deliver “less divisive politics ” and practical solutions.",
+      "The pivotal divide is whether the result represents a mandate against Trump or a broader demand for unity.",
+      "All perspectives agree Democrats won both chambers and that Obama invoked a “clear message,” reflecting competing interpretations of polarization, governance, and voter intent."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 25.0,
+    "error": null,
+    "left_pct": 46.0,
+    "location": "United States",
+    "right_pct": 29.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, former President Barack Obama responded to Tuesday's midterm elections, stating Americans want \"a politics that brings people together\" after Democrats regained control of both the House and Senate.",
+      "Record turnout in early voting exceeded 2 million ballots, following weeks of campaigning by Obama, including an October 28 rally in Morrow, Georgia, supporting U.S. Sen. Jon Ossoff and former Atlanta Mayor Keisha Lance Bottoms.",
+      "Democrats flipped seven seats in the Senate and 25 in the House, with Obama-endorsed candidates including Ohio gubernatorial candidate Amy Acton and Iowa Senate candidate Josh Turek winning their races.",
+      "Obama concluded his remarks by thanking election officials who helped \"ensure a smooth election,\" encouraging incoming leaders to offer concrete solutions to challenges facing their districts and states.",
+      "With two years remaining in the current administration's term, Obama emphasized the need to roll up sleeves and lay the groundwork for the future, particularly for new leaders arriving in Washington."
+    ],
+    "title": "Obama Praises Democratic Midterm Gains, Urges Unity and Service",
+    "topic": "Barack Obama",
+    "topic_full": "Barack Obama · United States"
+  },
+  {
+    "article_path": "/article/fight-over-pro-palestinian-group-ban-heads-to-uks-highest-court_9725ed",
+    "article_url": "https://ground.news/article/fight-over-pro-palestinian-group-ban-heads-to-uks-highest-court_9725ed",
+    "bias": [
+      "Left-Leaning coverage casts the hearing as a “landmark” civil-liberties test, using phrases such as “absurd ban,” “misuse of terrorism powers,” and rights “dismantled,” while “carry away protesters” personalizes state force.",
+      "Right-Leaning coverage foregrounds Palestine Action ’s status as a “proscribed organization,” arrests, and concerns that the challenge “undermined counter-terrorism laws,” adopting a more law-and-order frame.",
+      "Center coverage is more procedural but highlights the hearing’s conflict and more than 300 arrests, portraying the ban as having “failed to quell support.” All emphasize the Supreme Court appeal, counter-terrorism legislation, protests, and arrests, but diverge over civil liberties, state authority, and the legitimacy of proscription."
+    ],
+    "bias_bar_text": "Left 44% Center 37% R 19%",
+    "center_pct": 37.0,
     "error": null,
     "left_pct": 44.0,
     "location": null,
-    "right_pct": 33.0,
+    "right_pct": 19.0,
     "status": "ok",
     "summary": [
-      "On Tuesday, Syrian security forces arrested two men linked to Hezbollah for allegedly planning to attack The Homs refinery, according to SANA.",
-      "The Homs refinery remains the only functioning oil-processing facility in Syria, located about 20 kilometers from the Lebanese border.",
-      "Damascus previously announced a foiled plot in Deraa and an Oct \"act of sabotage\" on a pipeline, though Hezbollah has denied involvement in these activities.",
-      "Relations between Damascus and Hezbollah have deteriorated sharply Since Assad, ending the partnership formed during the nearly 14-year civil war.",
-      "On Monday, Mohammad Haidar became the first Hezbollah minister to visit Damascus on an official trip, traveling with Lebanese government members for talks."
+      "On Wednesday, Palestine Action co-founder Huda Ammori launched a final legal challenge at the Supreme Court to overturn the Labour government's ban of the group under the Terrorism Act.",
+      "The British government banned the group in 2025 after acts of vandalism targeting Elbit Systems, leading to over 4,000 arrests under the Terrorism Act, according to campaign group Defend Our Juries.",
+      "Barrister Raza Husain KC argued that less than 1% of the group's 385 actions met terrorism definitions, while Foreign Secretary Ed Miliband previously noted the ban inadvertently criminalized \"grannies and vicars\" for terror offences.",
+      "The Jewish Leadership Council and Community Security Trust intervened, claiming the group targets Jewish charities, while the Jewish Bloc warned the proscription risks conflating anti-Zionism with antisemitism.",
+      "A decision from the Supreme Court is expected at a later date, though Ammori has indicated she will pursue the case to the European Court of Human Rights if unsuccessful."
     ],
-    "title": "Syria Says It Foiled Hezbollah Plot to Attack Homs Oil Refinery",
+    "title": "Fight over pro-Palestinian group ban heads to UK's highest court",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/nancy-pelosi-criticizes-mamdani-and-el-sayed-over-their-positions-on-israel_ea22c0",
-    "article_url": "https://ground.news/article/nancy-pelosi-criticizes-mamdani-and-el-sayed-over-their-positions-on-israel_ea22c0",
-    "bias": [
-      "Left-Leaning coverage frames Pelosi’s remarks as “bashing” by “moderate” Democrats against progressive candidates, emphasizing antisemitism concerns, internal party tension, and El-Sayed’s 49–42 percent polling lead over Mike Rogers.",
-      "Center coverage narrows the dispute to Pelosi’s “rebuke,” while noting El-Sayed’s stated opposition to antisemitism in all forms.",
-      "Right-Leaning accounts foreground specific Israel positions, repeatedly call them “wrong” or “concerning,” and escalate the episode into a Democratic “civil war,” labeling El-Sayed’s views “radical” and suggesting Pelosi might “backpedal.” All emphasize Pelosi’s criticism and the Israel-antisemitism divide, reflecting broader conflicts over party boundaries, U.S.-Israel policy, and progressive influence."
-    ],
+    "article_path": "/article/nancy-pelosi-criticizes-mamdani-and-el-sayed-over-their-positions-on-israel_8c2df3",
+    "article_url": "https://ground.news/article/nancy-pelosi-criticizes-mamdani-and-el-sayed-over-their-positions-on-israel_8c2df3",
+    "bias": null,
     "bias_bar_text": null,
     "center_pct": null,
     "error": null,
     "left_pct": null,
     "location": null,
     "right_pct": null,
-    "status": "ok",
+    "status": "no_change",
     "summary": [
       "On Thursday, Former House Speaker Nancy Pelosi , D-Calif., criticized New York City Mayor Zohran Mamdani and Michigan Democratic Senate candidate Abdul El-Sayed over their views on Israel, calling their positions \"wrong.\"",
       "The exchange occurs amid ongoing debates within the Democratic Party regarding Israel, particularly following the October 7, 2023, Hamas attacks and the subsequent war in Gaza.",
@@ -665,194 +831,74 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/us-intelligence-sharing-has-fractured-under-trump-officials-say",
-    "article_url": "https://ground.news/article/us-intelligence-sharing-has-fractured-under-trump-officials-say",
-    "bias": [
-      "Left-Leaning coverage frames the disruption as Trump-era “political pressure” and “infighting,” saying agencies “stopped cooperating” and are less able to identify global threats.",
-      "Right-Leaning coverage likewise portrays serious deterioration but emphasizes “gaps in information” reaching policymakers and Congress, tensions affecting Iran and Russia assessments, and the risk of repeating post-9/11 “intelligence failures”—a critique that complicates its usual pro-Trump orientation.",
-      "Center coverage uses attributed language such as “fractured,” highlights staffing cuts, political interference, and Tulsi Gabbard’s tenure.",
-      "Across perspectives, the dividing line is responsibility versus institutional risk, while all stress weakened coordination and an incomplete national-security picture."
-    ],
-    "bias_bar_text": "11% Center 45% Right 44%",
-    "center_pct": 45.0,
-    "error": null,
-    "left_pct": 11.0,
-    "location": null,
-    "right_pct": 44.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, the Central Intelligence Agency stopped co-authoring assessments with the National Intelligence Council , reducing consolidated intelligence reports on critical global threats including Iran for U.S. decision-makers.",
-      "Deep tensions and a multi-decade turf war between the CIA and the Office of the Director of National Intelligence caused this disruption, exacerbated by friction during former DNI Tulsi Gabbard's tenure.",
-      "Analysts now fear political retaliation for writing assessments conflicting with the White House's views, leaving policymakers with an incomplete picture of threats echoing post-9/11 intelligence failures.",
-      "CIA spokesperson Liz Lyons said the agency \"participates fully\" in the Presidential Daily Brief, while an ODNI official stated Director of National Intelligence Jay Clayton has maintained assessment levels close to \"historic trendlines.\"",
-      "The administration weighs whether to resume strikes on Iran today following the midterm elections, amid persistent concerns about intelligence gaps and potential failures."
-    ],
-    "title": "US Intelligence Sharing Has Fractured Under Trump, Officials Say",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/why-crypto-firms-and-billionaires-are-pouring-billions-into-us-midterm-elections_c291cd",
-    "article_url": "https://ground.news/article/why-crypto-firms-and-billionaires-are-pouring-billions-into-us-midterm-elections_c291cd",
+    "article_path": "/article/666608db-7db9-4c56-b040-e109c45c4f40",
+    "article_url": "https://ground.news/article/666608db-7db9-4c56-b040-e109c45c4f40",
     "bias": null,
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": "Message: \n",
-    "left_pct": null,
+    "bias_bar_text": "L 24% Center 30% Right 46%",
+    "center_pct": 30.0,
+    "error": null,
+    "left_pct": 24.0,
     "location": null,
-    "right_pct": null,
-    "status": "fail",
-    "summary": null,
-    "title": "2026 Midterms Set to Become America's Most Expensive Election on Record",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/pete-hegseth-paints-rosy-picture-about-iran-to-trump-rpt",
-    "article_url": "https://ground.news/article/pete-hegseth-paints-rosy-picture-about-iran-to-trump-rpt",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": "Message: \n",
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "fail",
-    "summary": null,
-    "title": "Pete Hegseth Paints 'Rosy' Picture About Iran to Trump: Rpt.",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/apple-forecasts-margin-drop-in-holiday-quarter-as-rising-memory-costs-bite_53992a",
-    "article_url": "https://ground.news/article/apple-forecasts-margin-drop-in-holiday-quarter-as-rising-memory-costs-bite_53992a",
-    "bias": [
-      "Left-Leaning coverage frames Apple ’s $114.5 billion revenue beat as a “positive start” for John Ternus but warns of “skyrocketing memory costs,” tariff-refund assistance, valuation risk, and weakness in China and iPads.",
-      "Right-Leaning coverage more enthusiastically highlights “record” profits, Mac and iPhone strength, price increases, India growth, and a CEO who “passed an early test,” while stressing that Apple “increasingly depends on iPhone” sales.",
-      "Center coverage presents “mixed results,” emphasizing slower services guidance, falling margins, and investors who were “disappointed.” All agree on strong earnings, cost pressures, and weaker China performance, reflecting broader divides over corporate momentum versus sustainability."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 41.0,
-    "error": null,
-    "left_pct": 29.0,
-    "location": "United States",
-    "right_pct": 30.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, Apple reported record September-quarter revenue of $114.5 billion, up 12% year-over-year and surpassing Wall Street estimates of $113.46 billion.",
-      "Apple CEO John Ternus, who took over from Tim Cook on September 1, oversaw the quarter while launching the iPhone Duo and first touchscreen MacBook Pro.",
-      "Net profit reached $30.7 billion, with diluted EPS of $2.10 per share. Operating cash flow totaled $28 billion, which the company returned entirely to shareholders.",
-      "Tariff refunds provided a one-time boost, with Apple CFO Kevan Parekh noting they contributed about 1 percentage point to gross margin and $0.05 to diluted EPS.",
-      "Investors are monitoring December-quarter guidance as the company enters the holiday season with the iPhone 18 Pro, Apple HomeView, and touchscreen MacBook Pro, while non-Pro models arrive early next year."
-    ],
-    "title": "Apple forecasts margin drop in holiday quarter as rising memory costs bite",
-    "topic": "Apple",
-    "topic_full": "Apple · United States"
-  },
-  {
-    "article_path": "/article/us-said-to-plan-fresh-nato-push-for-ukraine-arms-deliveries",
-    "article_url": "https://ground.news/article/us-said-to-plan-fresh-nato-push-for-ukraine-arms-deliveries",
-    "bias": [
-      "No left-leaning framing is supplied; the contrast is chiefly between center and right perspectives.",
-      "Center coverage presents a “fresh NATO push” as urgent support for Ukraine amid “key” weapons shortages and “lingering tension” between Trump and Zelenskyy, while right-leaning coverage stresses that U.S. weapons were “flowing” even as allied funding “lagged behind,” foregrounding burden-sharing and the undisclosed request size.",
-      "Center language emphasizes strategic necessity; right language invites fiscal scrutiny.",
-      "Both rely on attributed reporting, acknowledge continued U.S. aid through PURL, and avoid a disclosed dollar figure, reflecting broader divides over alliance solidarity, war support, and spending responsibility."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 43.0,
-    "error": null,
-    "left_pct": 21.0,
-    "location": "United States",
-    "right_pct": 36.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, the United States reportedly planned to request that North Atlantic Treaty Organization allies provide additional funding for the Prioritized Ukraine Requirements List , a weapons-delivery program supporting Ukraine.",
-      "This request follows recent NATO approval for weapons purchases and a $2.1 billion sale of Patriot missiles, authorized after Ukraine's air defenses reached critically low supply levels.",
-      "Amid lingering tensions, President Donald Trump claimed that Ukrainian President Volodymyr Zelenskyy could have secured a better deal two years ago, complicating ongoing diplomatic efforts.",
-      "Special Envoy Steve Witkoff announced the United States will convene trilateral peace talks in Abu Dhabi on November 10-11 to discuss security arrangements, de-escalation, and humanitarian efforts.",
-      "Russian forces bombed a school in Komyshuvakha on Monday, killing 26 people, as Ukraine's air defenses remain exhausted amid the continuing offensive."
-    ],
-    "title": "US Said to Plan Fresh NATO Push for Ukraine Arms Deliveries",
-    "topic": "Ukraine War",
-    "topic_full": "Ukraine War · United States"
-  },
-  {
-    "article_path": "/article/new-york-reports-first-measles-linked-child-death-in-over-30-years-amid-outbreak",
-    "article_url": "https://ground.news/article/new-york-reports-first-measles-linked-child-death-in-over-30-years-amid-outbreak",
-    "bias": [
-      "Coverage agrees that a Lewis County child’s measles -associated death was New York’s first in more than 30 years, but diverges in meaning and tone: the left emphasizes the rare historical milestone, de-emphasizing the outbreak and vaccination; center reporting adds epidemiological context, measles’ contagiousness, vaccination as the “best protection,” and Governor Hochul’s sympathy, including “heart goes out”; right coverage calls it a “devastating reminder” and alleges Washington “deliberately destroys decades of progress,” framing preventable disease as policy failure.",
-      "Thus, shared facts coexist with a broader divide over whether the tragedy is chiefly a public-health event or evidence of governmental breakdown."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 55.0,
-    "error": null,
-    "left_pct": 22.0,
-    "location": "New York",
-    "right_pct": 23.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, New York health officials reported the state's first measles -associated death in more than 30 years, involving a child in Lewis County.",
-      "Governor Kathy Hochul declared a State Disaster Emergency last month as measles cases surged, with the Health Department recording 178 total cases this year, mostly outside New York City.",
-      "Two doses of the MMR vaccine offer 97% protection against measles, though 2024 vaccination rates for 3-year-olds fell to 93%, missing the 95% threshold needed to prevent outbreaks.",
-      "\"I am heartbroken to learn that a child in Lewis County has died,\" Governor Kathy Hochul said, as the U.S. prepares to lose its measles elimination status next week.",
-      "Public health experts attribute rising cases to falling vaccination rates, while Human Services Secretary Robert F. Kennedy Jr. has drawn criticism for downplaying MMR vaccine immunity."
-    ],
-    "title": "Child in New York dies after contracting measles, governor says",
-    "topic": "Measles",
-    "topic_full": "Measles · New York"
-  },
-  {
-    "article_path": "/article/the-latest-midterm-polls-push-trumps-endorsements-even-lower",
-    "article_url": "https://ground.news/article/the-latest-midterm-polls-push-trumps-endorsements-even-lower",
-    "bias": [
-      "Left-Leaning coverage frames Trump’s 32% approval as political collapse, using emotionally charged terms such as “in tatters,” “stalled,” and “historic low,” while de-emphasizing election mechanics and polling detail.",
-      "Center coverage adopts a restrained tone, stressing that approval was unchanged near the prior 31% record low and that voters viewed the midterms as a way to “oppose” Trump.",
-      "Right-Leaning coverage likewise highlights vulnerability but adds the Democrats’ narrower eight-point lead, 1,765-person sample, and two-point margin of error, tempering the setback with electoral context.",
-      "All agree Trump is near a historic low, revealing broader divides over decline versus political resilience."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 33.0,
-    "error": null,
-    "left_pct": 21.0,
-    "location": "United States",
     "right_pct": 46.0,
-    "status": "ok",
+    "status": "no_change",
     "summary": [
-      "President Donald Trump 's approval rating held near a record low at 32% on Nov 2, with voters viewing Tuesday's midterm elections as an opportunity to oppose the Republican President.",
-      "Republican vulnerabilities stem from fuel price surges since Trump launched a war on Iran in February, while 78% of voters cite the rising cost of living as a top priority.",
-      "Voters preferred Democrats over Republicans 46% to 38% in the \"Generic ballot\" question, with 49% of Democratic voters stating they are \"very enthusiastic\" about voting compared to 33% of Republicans.",
-      "Among independents, 50% view their vote as a stance against Trump, while political strategists believe Democrats have the best shot at winning the House despite facing a more difficult Senate path.",
-      "The five-day poll of 1,765 adults shows the race could be tightening, as Democrats' 8-percentage-point advantage narrowed from an 11-point lead one week earlier."
+      "On Nov 3, Americans voted in midterm elections determining Congressional control for the final two years of President Donald Trump's term, with exit polls revealing an overwhelmingly sour mood.",
+      "Nearly 9 in 10 voters identified the cost of living as a crucial factor in their vote, with Two-thirds blaming Trump for high prices after feeling worse off than two years ago.",
+      "The coalition powering Trump's 2024 victory showed signs of fracturing, with support among voters aged 18-29 falling to 25%, while backing among Black men slipped to 13%.",
+      "Seven in 10 voters want Congress to place more checks and balances on the president, with 62% disapproving of his job performance, one of the highest unfavorable rates in modern times.",
+      "Trump's midterm campaign blitz for Republican candidates in recent weeks failed to improve his standing, suggesting these elections could prove a repudiation of Trump and the Republican Party ."
     ],
-    "title": "Trump approval near career low ahead of elections, Reuters/Ipsos poll finds",
-    "topic": "2026 Midterm Elections",
-    "topic_full": "2026 Midterm Elections · United States"
+    "title": "Key takeaways from US midterm elections",
+    "topic": null,
+    "topic_full": null
   },
   {
-    "article_path": "/article/us-judge-dismisses-trump-administrations-harvard-admissions-probe-case",
-    "article_url": "https://ground.news/article/us-judge-dismisses-trump-administrations-harvard-admissions-probe-case",
+    "article_path": "/article/khamenei-midterm-elections-will-not-change-us-hostile-stance-new-attacks-will-provoke-a-broader-response",
+    "article_url": "https://ground.news/article/khamenei-midterm-elections-will-not-change-us-hostile-stance-new-attacks-will-provoke-a-broader-response",
     "bias": [
-      "Left-Leaning coverage portrays Harvard ’s dismissal as a “win” over an “extreme lawsuit,” while stressing that procedural defects could let the Justice Department revive the case; right-leaning coverage likewise frames Harvard as having “beat” or “shot down” the administration, but emphasizes the school’s claim that the action was part of a “broader campaign” by Republicans.",
-      "Both sides use competitive, emotionally charged language, though the left foregrounds affirmative-action stakes and the right highlights political conflict.",
-      "Center coverage is more restrained, typically saying “dismissed” and describing an admissions probe.",
-      "The shared dividing line is whether the ruling represents substantive vindication or merely a procedural setback amid America’s larger fight over race, executive power, and education."
+      "Left-Leaning coverage frames Republican losses as voters “rejecting war ,” while “hails” casts Iran’s reaction positively and foregrounds Washington’s “hostile policy.” Center coverage stresses continuity—“hostility” persists regardless of party—and warns renewed strikes could produce a “much wider” regional war.",
+      "Right-Leaning coverage shifts toward confrontation, describing U.S. “aggression,” Iranian attacks as challenges to regional “hegemony,” and policy-change expectations as “seriously mistaken,” while emphasizing retaliation and diplomatic efforts.",
+      "The pivotal divide is whether elections signal antiwar sentiment, merely partisan continuity, or impending power realignment.",
+      "Across perspectives, all stress Khamenei’s distrust of U.S. political change, reflecting broader disputes over intervention, escalation, and regional dominance."
     ],
     "bias_bar_text": null,
-    "center_pct": 61.0,
+    "center_pct": null,
     "error": null,
-    "left_pct": 27.0,
-    "location": "Massachusetts",
-    "right_pct": 12.0,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
     "status": "ok",
     "summary": [
-      "On Monday, U.S. District Judge Myong Joun dismissed a Trump administration lawsuit seeking Harvard University admissions records, ruling the Justice Department failed to follow required procedural steps.",
-      "The Justice Department sought applicant-level data to determine if Harvard complies with the Supreme Court's 2023 ruling, while the university's lawyers argued the case serves as retaliation for refusing administration demands to overhaul governance.",
-      "Joun wrote that the complaint failed to inform Harvard of intended litigation if it refused to comply, emphasizing his decision rested on narrow procedural grounds rather than resolving potential discrimination claims.",
-      "This challenge follows President Donald Trump's demand for $1 billion in damages after Harvard refused to sign his education policy 'compact,' compounding previous administration efforts to terminate over $2 billion in grants.",
-      "Although the current case is dismissed, the Justice Department could potentially pursue the lawsuit again by taking additional administrative steps, as the ruling does not resolve whether Harvard will ultimately be required to provide the data."
+      "On Wednesday, Supreme Leader Mojtaba Khamenei dismissed expectations that United States policy toward Iran would shift following the Republican Party's election defeats, declaring those who believe otherwise are \"greatly mistaken.\"",
+      "Democrats seized control of Congress in Tuesday's midterms, as voters expressed anger over living costs and the war against Iran that began on February 28, 2026.",
+      "Iranian judiciary chief Gholamhossein Mohseni Ejei welcomed the results, stating President Donald Trump had been \"defeated both militarily and politically\" and threatening further defeats.",
+      "Chief negotiator Mohammad Bagher Ghalibaf stated Americans voted against war, warning that if the United States government betrays this will, \"it will learn our NO comes with a Nightmare.\"",
+      "United States and Israeli leaders have recently threatened to resume attacks, though Khamenei warned that any renewed aggression would trigger a \"much wider\" response from Iran, extending the war's scope."
     ],
-    "title": "Federal judge dismisses lawsuit against Harvard over federal demand for admissions data",
-    "topic": "Harvard",
-    "topic_full": "Harvard · Massachusetts"
+    "title": "Iran’s Khamenei Says US Hostility Will Persist Regardless of Party in Power",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/kansas-approves-language-reaffirming-citizenship-voting-requirement",
+    "article_url": "https://ground.news/article/kansas-approves-language-reaffirming-citizenship-voting-requirement",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "no_change",
+    "summary": [
+      "On Tuesday, Kansas voters approved a constitutional amendment requiring U.S. citizenship to vote in state elections, with about 64% support and 98% of precincts reporting, according to unofficial results.",
+      "Proponents, including Kansas Representative Pat Proctor, argued the amendment fills a gap left by a constitution 'silent on whether non-citizens are allowed to vote' by revising Article 5, Section 1.",
+      "Shawn Leisinger, Associate Dean at the Washburn University School of Law, noted illegal non-citizen voting is 'very minimal,' while opponents argued existing laws were already sufficient.",
+      "The League of Women Voters warned the amendment could lay groundwork for reviving documentary proof-of-citizenship requirements, potentially disenfranchising tens of thousands of eligible Kansans.",
+      "Kansas Attorney General Kris Kobach has documented four cases of illegal non-citizen voting, and proponents argue the amendment closes potential loopholes in state statutes."
+    ],
+    "title": "Kansas approves language reaffirming citizenship voting requirement",
+    "topic": null,
+    "topic_full": null
   }
 ]
