@@ -1,12 +1,12 @@
 [
   {
-    "article_path": "/article/talarico-after-historic-senate-win-love-can-heal-whats-broken-in-america_a80908",
-    "article_url": "https://ground.news/article/talarico-after-historic-senate-win-love-can-heal-whats-broken-in-america_a80908",
+    "article_path": "/article/federal-judge-temporarily-blocks-construction-of-trumps-250-foot-arch",
+    "article_url": "https://ground.news/article/federal-judge-temporarily-blocks-construction-of-trumps-250-foot-arch",
     "bias": [
-      "Coverage agrees that Democrat James Talarico defeated Republican Ken Paxton, giving Democrats a Senate seat linked to Republican control, but assigns the upset different meaning.",
-      "Left-Leaning accounts stress democracy, concentrated wealth, Elon Musk, and a “mandate,” portraying “work with anyone” as pragmatic while treating the result as a rebuke to billionaires.",
-      "Right-Leaning accounts spotlight the Republican “firewall” turning to “ash,” strategic danger, and the surprising prospect of cooperation with President Trump, using terms like “demolition.” Center coverage emphasizes Talarico’s agenda, an underdog-versus-“Goliath” victory, and a “stinging rebuke” to Trump—not unity.",
-      "All call it historic, though dates cited—1961, 1988, or 1994—conflict."
+      "Left-Leaning coverage frames the arch as a “gigantic” Trump personalization of Washington, stressing Arlington’s solemnity, obstructed historic views, and “unsupported” security claims; words like “derails,” “torching,” and “setback” cast the order as a meaningful rebuke.",
+      "Right-Leaning coverage emphasizes the commission’s 8-4 “green light,” portraying the judge’s action as a temporary obstacle to an independence memorial, with “clears” and “triumphal” suggesting achievement before interference.",
+      "Center coverage presents a procedural pause and unresolved legality.",
+      "All acknowledge the 250-foot structure, opposition, approval, and 14-day halt, but the divide reflects competing concerns over presidential symbolism, preservation, institutional authority, and judicial power."
     ],
     "bias_bar_text": null,
     "center_pct": null,
@@ -16,134 +16,137 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
-      "On Tuesday, Democrat James Talarico defeated Republican Ken Paxton to win a United States Senate seat; The Associated Press called the race, making Talarico the first Democrat to represent Texas in the Senate since 1993.",
-      "Talarico framed the victory as an underdog triumph, facing more than $300 million in spending—the highest in U.S. Senate history. He told an Austin rally, \"In this race, we went up against our own Goliaths,\" citing billionaire Elon Musk and the Washington establishment.",
-      "Mobilizing 60,000 volunteers, the campaign prioritized community aid over traditional advertising. Volunteers delivered bottled water to Sand Branch and collected more than 20,000 pounds of groceries for families in Fort Worth.",
-      "Democrat Gina Hinojosa also unseated Texas Governor Greg Abbott, signaling a broader political shift in the state. These Democratic victories could make Texas competitive in national elections, reshaping the electoral map for future races.",
-      "Talarico pledged to serve all Texans, arguing the central divide is \"top versus bottom\" rather than partisan lines. Promising a \"politics of love,\" he aims to govern for everyone, not just the elite."
+      "On Thursday, U.S. District Judge Tanya Chutkan issued a 14-day restraining order blocking the Trump administration from starting construction on the proposed 250-foot triumphal arch at Memorial Circle, pausing all work while litigation proceeds.",
+      "The National Capital Planning Commission voted 8-4 to approve the project Thursday night, but the District of Columbia and Virginia sued immediately, arguing the monument violates the Commemorative Works Act by lacking explicit congressional authorization.",
+      "An August review by the National Park Service acknowledged the arch would have 'adverse' effects on 42 historic sites, with the most serious concentrated on six locations near the structure.",
+      "Despite administration officials claiming the arch will serve as a military complex for storing drones and ammunition, local officials emphasize that official plans submitted to the planning commission contain no references to such military utility.",
+      "President Donald Trump aims to complete the structure before leaving office in two years, with an aggressive construction schedule planned to include two 10-hour shifts daily, despite the current legal uncertainty."
     ],
     "title": "Source Icon",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/vance-blames-iran-conflict-for-gop-midterm-defeats-the-reason-we-lost-is-the-war_5f0ba6",
-    "article_url": "https://ground.news/article/vance-blames-iran-conflict-for-gop-midterm-defeats-the-reason-we-lost-is-the-war_5f0ba6",
+    "article_path": "/article/us-economy-added-165-000-jobs-in-october-way-more-than-expected-unemployment-rate-at-41",
+    "article_url": "https://ground.news/article/us-economy-added-165-000-jobs-in-october-way-more-than-expected-unemployment-rate-at-41",
     "bias": [
-      "Left-Leaning coverage frames Vance as trying to “flee” a “sinking ship,” portraying the election as a “blue tsunami” that “wiped out” the GOP and casting his criticism as “throwing Trump under the bus.” Right-leaning accounts instead present a “blunt” Vance carving an “America First” path, blaming the war, inflation, Israel policy, or even “neocons,” while some dispute his explanation in favor of tariffs or economic policy.",
-      "Center coverage stresses an “apparent break,” congressional consequences, and polling that only about one-third deemed the war crucial.",
-      "All agree Democrats won both chambers and that Vance’s stance may shape 2028, reflecting divides over loyalty, interventionism, and economic priorities."
+      "The left-leaning narrative foregrounds domestic economic gains, emphasizing that 165,000 jobs were added and unemployment “fell,” while center coverage sharpens the optimism with “way more than expected,” comparing results with a 59,000-job forecast and a 4.1% rate versus 4.2% anticipated.",
+      "Right-Leaning coverage de-emphasizes those labor figures, instead framing the report through an “unsettled equity market,” a “stronger” dollar, and the “greenback,” portraying employment data as one force among competing market pressures.",
+      "The dividing line is jobs-first reassurance versus currency-and-market interpretation, though all perspectives connect the report to U.S. economic conditions and financial consequences."
     ],
-    "bias_bar_text": null,
-    "center_pct": 36.0,
+    "bias_bar_text": "Left 28% Center 43% Right 29%",
+    "center_pct": 43.0,
     "error": null,
-    "left_pct": 30.0,
+    "left_pct": 28.0,
     "location": null,
-    "right_pct": 34.0,
+    "right_pct": 29.0,
     "status": "ok",
     "summary": [
-      "On Wednesday, November 4, 2026, Vice President J.D. Vance blamed the U.S. war in Iran for Republican midterm losses, stating, \"The reason we lost is the war,\" as Democrats captured control of both congressional chambers.",
-      "Vance identified four factors driving former Trump-Vance voters to Democrats: ending the war, addressing inflation, prioritizing an \"America First\" agenda, and changing the United States' relationship with Israel.",
-      "While acknowledging the conflict was \"part of\" the electoral setback, Trump insisted military action against Iran remained necessary to prevent nuclear proliferation, despite the resulting spike in gasoline prices.",
-      "Democrats' control of Congress beginning January 3, 2027, grants the party subpoena power and committee authority to intensify oversight of the administration's Iran policy and potentially constrain the president's legislative agenda.",
-      "As a potential 2028 presidential contender, Vance navigates fallout from the party's historic midterm defeat, with speculation intensifying about the upcoming GOP nomination following his public rebuke of the war."
+      "The Bureau of Labor Statistics reported Friday that the economy added 165,000 jobs in October, surpassing the FactSet consensus forecast of 65,000 while the unemployment rate fell to 4.1% from 4.2%.",
+      "Hiring in September was upwardly revised to 60,000 from 29,000, signaling stronger momentum than initially reported and providing reassurance for an economy entering a new political chapter following the Democrats' midterm election sweep.",
+      "Despite robust job gains, households face persistent cost-of-living concerns while employers navigate rapid AI adoption, elevated inflation, and the ongoing war with Iran simultaneously.",
+      "Market sentiment turned negative as The Nasdaq Composite fell below its 200-day moving average for the first time since April, reflecting sharp declines in SP500 and SPX equities that dampened trading activity.",
+      "Currency strength persists at its best level against many G10 pairs since Tuesday's midterm elections, trading within recent ranges and setting session lows ahead of $1.1200 before option expiration."
     ],
-    "title": "Vance blames Iran conflict for GOP midterm defeats: \"The reason we lost is the war\"",
+    "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate at 4.1%",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/speaker-johnson-wont-stay-on-as-gop-leader-after-midterm-rout",
-    "article_url": "https://ground.news/article/speaker-johnson-wont-stay-on-as-gop-leader-after-midterm-rout",
+    "article_path": "/article/stocks-plunge-as-dem-midterm-sweep-fuels-ai-regulatory-concerns_a87ddf",
+    "article_url": "https://ground.news/article/stocks-plunge-as-dem-midterm-sweep-fuels-ai-regulatory-concerns_a87ddf",
     "bias": [
-      "Left-Leaning coverage frames Mike Johnson ’s exit as a “midterm drubbing,” “widespread repudiation” of Trump and Republicans, and evidence voters demanded change on living costs, even calling him an “accidental speaker.” Right-leaning coverage stresses a “generational” defeat, “shellacked” Republicans, and whether a “MAGA Republican” should replace him, turning succession into an ideological contest.",
-      "Center coverage de-emphasizes partisan blame, highlighting the procedural leadership struggle and Democrats’ “historic sweep.” The pivotal divide is whether Johnson’s move signals repudiation or an opportunity for conservative realignment.",
-      "All perspectives emphasize Democratic control, Johnson’s departure from leadership, and an impending Republican contest."
+      "Left-Leaning coverage frames the selloff as an AI valuation scare amplified by Trump’s “bizarrely” shifting claims—from crediting the rally to blaming Democrats—while highlighting accountability, investigations, and potential public benefits of regulation; right-leaning coverage portrays a Democratic “blue tsunami” or “bloodbath” as directly threatening the AI boom, using “thanks, Democrats,” “Dumocrats,” and “getting creamed” to assign blame and dramatize losses.",
+      "Center coverage stresses uncertainty, rebalancing, valuations, and the VIX rather than definite causation.",
+      "The pivotal divide is whether regulation represents prudent scrutiny or an anti-growth threat.",
+      "All perspectives emphasize the sharp Nasdaq decline, AI-led losses, and investor concern over data-center policy, reflecting broader disputes over government oversight, markets, and partisan responsibility."
     ],
     "bias_bar_text": null,
-    "center_pct": 50.0,
+    "center_pct": 39.0,
     "error": null,
-    "left_pct": 19.0,
-    "location": null,
-    "right_pct": 31.0,
+    "left_pct": 25.0,
+    "location": "United States",
+    "right_pct": 36.0,
     "status": "ok",
     "summary": [
-      "Speaker Mike Johnson told staff this morning he will not seek to remain House Republican leader following the party's significant election losses on Tuesday.",
-      "Massive election losses prompted this decision, forcing Republicans to confront their diminished standing as they transition to the legislative minority after voters rejected the party's agenda.",
-      "Republicans are scheduled to hold an internal leadership election on November 10. Contenders include second-ranking leader Steve Scalise, Judiciary Committee Chairman Jim Jordan, and third-ranking Republican leader Tom Emmer.",
-      "Promising a 100-day agenda, House Democrats are focusing on lowering costs and protecting healthcare programs. House Democratic Leader Hakeem Jeffries said they will work to deliver on the \"dramatic change\" that voters deserve.",
-      "The new Congress convenes on January 3, 2027, to elect a speaker and organize the chamber. Lawmakers also face a looming deadline next month if they fail to pass a funding bill to avert a government shutdown."
+      "On Thursday, Nov. 5, the tech-heavy Nasdaq Composite plunged 5.52%, confirming a technical correction as chipmakers sank on fears that Democratic control of Congress would trigger tougher AI and data-center regulation.",
+      "Voters handed Democrats control of the House and Senate on Tuesday, Nov. 3, fueling investor concerns that the new legislative majority will tighten oversight on artificial intelligence infrastructure and data-center construction.",
+      "Nvidia shares fell 9.3% and SpaceX dropped roughly 8%, erasing trillions in market value as the index recorded its deepest single-day decline since April 2025's 'Liberation Day'.",
+      "Voters in Maine and Nevada approved restrictive measures against data centers, prompting tech analyst Dan Ives to write that AI growth will \"clearly moderate significantly\" as the buildout slows.",
+      "Goldman Sachs projects hyperscaler debt issuance could jump to $420 billion in 2027, raising financing risks for firms reliant on capital for planned infrastructure projects."
     ],
-    "title": "Speaker Johnson Won’t Stay On as GOP Leader After Midterm Rout",
-    "topic": null,
-    "topic_full": null
+    "title": "Stocks plunge as Dem midterm sweep fuels AI regulatory concerns",
+    "topic": "Business",
+    "topic_full": "Business · United States"
   },
   {
-    "article_path": "/article/mississippi-senate-race-separated-by-just-43-votes-with-96-counted_349683",
-    "article_url": "https://ground.news/article/mississippi-senate-race-separated-by-just-43-votes-with-96-counted_349683",
+    "article_path": "/article/newsom-moves-to-commute-all-california-death-sentences-to-life-in-prison-without-parole",
+    "article_url": "https://ground.news/article/newsom-moves-to-commute-all-california-death-sentences-to-life-in-prison-without-parole",
     "bias": [
-      "Left-Leaning coverage frames Scott Colom’s roughly 43-vote lead with 96% counted as a “historic upset,” an “unbelievable blue turn,” and evidence of Black turnout and a changing “deep-red Mississippi,” while right-leaning coverage portrays Cindy Hyde-Smith ’s “sure-thing re-election” becoming a “dogfight,” “rude awakening,” or possible Republican “shock,” sometimes invoking “George Soros-backed” influence.",
-      "The pivotal divides are whether the contest signals demographic transformation or outside progressive intervention, and whether Hyde-Smith’s controversial “another protein” remarks mattered.",
-      "Center coverage de-emphasizes ideological stakes, stressing provisional ballots, recount limitations, and why the race remains “too close to call.” All emphasize its razor-thin margin and national Senate implications, reflecting broader cultural and partisan divides."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 66.0,
-    "error": null,
-    "left_pct": 23.0,
-    "location": null,
-    "right_pct": 11.0,
-    "status": "ok",
-    "summary": [
-      "Democratic district attorney Scott Colom currently holds a razor-thin lead over incumbent Republican Senator Cindy Hyde-Smith by just 43 votes out of over 925,000 ballots counted.",
-      "Election officials across Mississippi are continuing to process remaining absentee, mail-in, and provisional ballots before final tally certifications can take place.",
-      "Independent candidate Ty Pinkins garnered over 19,000 votes, serving as a key third-party factor in the historically tight contest.",
-      "A potential victory by Colom would make him the first Democratic U.S. Senator elected in Mississippi since 1982.",
-      "Major decision desks and news organizations have withheld calling the race as the narrow margin remains well within thresholds for a mandatory recount or potential legal challenges."
-    ],
-    "title": "Mississippi Senate race separated by just 43 votes with 96% counted",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/democrat-aaron-ford-unseats-gop-gov-joe-lombardo-in-nevada-becomes-states-first-black-governor",
-    "article_url": "https://ground.news/article/democrat-aaron-ford-unseats-gop-gov-joe-lombardo-in-nevada-becomes-states-first-black-governor",
-    "bias": [
-      "Left-Leaning coverage frames Ford’s victory as a “historic night,” emphasizing Nevada’s first Black governor and a national Republican “drubbing,” while terms like “squashed” heighten the sense of partisan reversal.",
-      "Right-Leaning coverage instead portrays an “upset” in a “key battleground state,” describing Ford’s “blistering campaign” and Democratic gains as consequential, even invoking “liberals swept.” Center coverage de-emphasizes emotional language, foregrounding early figures of 52.3% to 47.7%, endorsements, affordability, and possible unified Democratic control.",
-      "The dividing lines are representation, national partisan meaning, and campaign intensity; all perspectives nevertheless agree Ford defeated incumbent Joe Lombardo in a competitive, nationally significant race."
+      "Left-Leaning coverage frames Newsom’s commutation of 548 death sentences as a “historic” or “monumental” step, echoing the ACLU and his phrase “state-sanctioned killing,” while highlighting abolition and California’s values.",
+      "Right-Leaning accounts recast the same action as letting 561 inmates “escape ultimate punishment” or “spares every murderer,” foregrounding victims, crime severity, and law-and-order concerns.",
+      "The pivotal divide is whether capital punishment represents state violence or deserved justice; even the totals become contested signals of scope.",
+      "Center coverage largely de-emphasizes moral and political interpretation, simply describing conversion to life without parole.",
+      "All perspectives emphasize the sweeping scale and controversy, reflecting broader clashes over punishment, victims’ rights, and progressive criminal-justice reform."
     ],
     "bias_bar_text": null,
     "center_pct": 49.0,
     "error": null,
-    "left_pct": 33.0,
-    "location": null,
-    "right_pct": 18.0,
+    "left_pct": 31.0,
+    "location": "California",
+    "right_pct": 20.0,
     "status": "ok",
     "summary": [
-      "Democratic Attorney General Aaron Ford won Nevada's gubernatorial race on Wednesday, defeating Republican incumbent Joe Lombardo. NBC News projected the victory at 4:46 a.m. EST.",
-      "Democrats repeatedly tied Lombardo to a \"Lombardo-Trump economy,\" blaming President Donald Trump and the governor for rising costs in gas, housing, and healthcare that weighed heavily on Nevada voters.",
-      "Ford secured endorsements from former Vice President Kamala Harris and former President Barack Obama, who called him a \"fighter for Nevadans.\" Ford becomes Nevada's first Black governor.",
-      "The result serves as a major boon for Democrats two years before the next presidential election, breaking a state trend where Nevada's last two governors failed to secure re-election.",
-      "Republicans had scrutinized Ford's attorney general record and campaign proposals, but the party faces a setback after their successful 2022 gubernatorial victory in the competitive state."
+      "On Thursday, California Gov. Gavin Newsom announced he is commuting 548 death sentences to life without parole, clearing the state's death row for the first time since the late 19th century.",
+      "Newsom cited his long-standing moral opposition to capital punishment, labeling the death penalty system a \"failure\" and noting he issued a moratorium on executions in 2019 shortly after taking office.",
+      "Taxpayers spend more than $200 million annually on automatic appeals, while lawsuits argue \"persistent and pervasive racial disparities\" infect the system; Norma Chavez-Peterson called it a \"failed and unjust experiment.\"",
+      "While Newsom can commute about 40% of sentences unilaterally, the California Supreme Court must approve the remainder; victims' groups opposed the move, with Sandy Friend calling it \"a slap in the face.\"",
+      "Political consultant Mike Madrid noted the stance could create vulnerabilities for Newsom in the 2028 presidential election, though the governor's office stated the policy applies only to current sentences, not a formal repeal."
     ],
-    "title": "Democrat Aaron Ford unseats GOP Gov. Joe Lombardo in Nevada, Becomes State’s First Black Governor",
-    "topic": null,
-    "topic_full": null
+    "title": "Governor Commutes All 548 Death Sentences in California to Life Imprisonment",
+    "topic": "Gavin Newsom",
+    "topic_full": "Gavin Newsom · California"
   },
   {
-    "article_path": "/article/trump-says-largely-true-iran-war-to-blame-for-republican-midterm-losses-but-he-would-do-it-again_93ba21",
-    "article_url": "https://ground.news/article/trump-says-largely-true-iran-war-to-blame-for-republican-midterm-losses-but-he-would-do-it-again_93ba21",
+    "article_path": "/article/harmeet-dhillon-resigns-as-justice-departments-assistant-attorney-general-for-civil-rights-sources",
+    "article_url": "https://ground.news/article/harmeet-dhillon-resigns-as-justice-departments-assistant-attorney-general-for-civil-rights-sources",
     "bias": [
-      "Left-Leaning coverage frames Trump’s ballroom appearance as distraction, using “boasts,” “obliterated,” and “brutal loss” to portray vanity amid a “blue wave,” while emphasizing that the Iran war cost Republicans both chambers and exposing internal blame.",
-      "Right-Leaning coverage acknowledges the “crushing defeat” but foregrounds Trump’s “defiant” “I’d do it again” stance, presenting nuclear prevention and resolve as outweighing gasoline prices and electoral damage; some escalatory rhetoric evokes “bomb the living daylights out of Iran.” Center coverage more cautiously describes a policy dilemma—continuation, escalation, or withdrawal.",
-      "All agree the war shaped losses, yet diverge over whether that reflects reckless leadership or necessary strength."
+      "Left-Leaning coverage frames Dhillon’s resignation as fallout from Democrats’ “massive midterm wins,” using terms like “stomping,” “radical reshaping,” and “worst crusades” to portray political damage, staff departures, and politicized investigations.",
+      "Right-Leaning coverage stresses voluntariness and her planned return to private practice, recasting the same overhaul as a defense of “civil liberties” against “woke ideology,” while praising her as a “beloved Trump official” who acted “without fear or favor.” Center coverage largely foregrounds the resignation and timing, calling her “controversial” without choosing sides.",
+      "All emphasize the post-election departure, revealing a broader divide over institutional disruption versus conservative restoration."
     ],
-    "bias_bar_text": "Left 26% Center 36% Right 38%",
-    "center_pct": 36.0,
+    "bias_bar_text": null,
+    "center_pct": 47.0,
+    "error": null,
+    "left_pct": 21.0,
+    "location": "United States",
+    "right_pct": 32.0,
+    "status": "ok",
+    "summary": [
+      "Assistant Attorney General for Civil Rights Harmeet Dhillon is preparing to step down from the Justice Department, with an announcement expected as soon as Thursday, according to four people familiar with her plans.",
+      "Since her Senate confirmation in April 2025, Dhillon overhauled the Civil Rights Division toward conservative priorities, creating a new Second Amendment section and recruiting attorneys for immigration and voter roll litigation.",
+      "Democrats' massive midterm wins on Tuesday triggered the first senior Justice Department resignation, as Dhillon follows Patrick Davis, who resigned from the Office of Legislative Affairs last month.",
+      "After failed bids for other senior positions, including Attorney General Pam Bondi's former role following President Donald Trump 's firing of Bondi in April, Dhillon planned to return to private practice.",
+      "The Justice Department expects several other senior political appointees to leave before the New Year, as Dhillon intends to \"continue to help plaintiffs\" using what she learned from her time at DOJ."
+    ],
+    "title": "Harmeet Dhillon resigns as Justice Department's assistant attorney general for civil rights: sources",
+    "topic": "Department of Justice",
+    "topic_full": "Department of Justice · United States"
+  },
+  {
+    "article_path": "/article/b35423ee-907b-40d5-841d-77bf129f8f8e",
+    "article_url": "https://ground.news/article/b35423ee-907b-40d5-841d-77bf129f8f8e",
+    "bias": [
+      "Left-Leaning coverage frames Democrats’ congressional takeover as a “Democratic tsunami” or “brutal loss,” portraying Trump’s “boasts” about the ballroom and “doubles down” defense of the Iran war as denial and political recklessness; right-leaning accounts acknowledge a “crushing defeat” but emphasize resolve, exit polling suggesting roughly 74% saw the war as pivotal, gasoline prices, and the “America First” argument that preventing an Iranian nuclear weapon justified the cost.",
+      "The pivotal divide is whether “I’d do it again” signals irresponsibility or strategic conviction, alongside Vance’s criticism as either accountability or 2028 positioning.",
+      "Both sides stress the war, electoral losses, and ballroom spectacle, reflecting deeper disputes over interventionism, nationalism, and Trump’s leadership."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 35.0,
     "error": null,
     "left_pct": 26.0,
-    "location": null,
-    "right_pct": 38.0,
+    "location": "United States",
+    "right_pct": 39.0,
     "status": "ok",
     "summary": [
       "On Wednesday, President Donald Trump acknowledged that the Iran war was a key factor in his party's midterm election losses, though he insisted the conflict was necessary to prevent Iran from obtaining a nuclear weapon.",
@@ -153,496 +156,612 @@
       "Democrats achieved electoral trifectas in Wisconsin, Minnesota, Michigan, and Pennsylvania, complementing congressional gains as the opposition prepares a First 100 Hours agenda focused on reversing Trump administration policies."
     ],
     "title": "Trump says 'largely true' Iran war to blame for Republican midterm losses but he would 'do it again'",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/51-red-cards-shown-in-brazilian-youth-game-between-uberlandia-and-mamore",
-    "article_url": "https://ground.news/article/51-red-cards-shown-in-brazilian-youth-game-between-uberlandia-and-mamore",
-    "bias": [
-      "Left-Leaning coverage frames the match as a “massive brawl” and “dirtiest football match ever,” stressing violence, damage, and institutional breakdown while cautiously calling it a “world record” amid 51-versus-53 discrepancies.",
-      "Right-Leaning coverage foregrounds police intervention, authority, and collapse of order, using “chaos,” “madness,” “tragedy,” and “disaster,” and confidently presents the 51 dismissals as a new record.",
-      "Center coverage is more restrained, emphasizing the unusual count and “completely out of hand” confrontation while de-emphasizing damage and police response.",
-      "All perspectives highlight the brawl, 3–1 result, and extraordinary expulsions, reflecting shared fascination with spectacle but contrasting progressive institutional critique, conservative order-focused alarm, and broader cultural concerns about discipline in youth sport."
-    ],
-    "bias_bar_text": "Left 48% C 22% Right 30%",
-    "center_pct": 22.0,
-    "error": null,
-    "left_pct": 48.0,
-    "location": null,
-    "right_pct": 30.0,
-    "status": "ok",
-    "summary": [
-      "On Sunday, a Brazilian under-20 semifinal match between Uberlandia and Mamore in Minas Gerais set a new world record of 53 red cards following a massive brawl.",
-      "Chaos erupted after Mamore player Davi taunted the opposition bench during goal celebrations, prompting Uberlandia goalkeeping coach Paulo Sergio Dias Dos Santos to storm the pitch and confront him.",
-      "Referee Fernando Patrick Drosghic Modesto dismissed 43 players, eight staff members, and two board members, surpassing the previous Guinness World Record of 36 red cards set in Argentina in February 2011.",
-      "Following the 40-minute delay and subsequent abandonment, Uberlandia announced it would forfeit the second leg of the semifinal, allowing Mamore to advance to the final as a \"gesture of fair play.\"",
-      "Drosghic Modesto reported filing a police complaint citing threats against him, while both teams allegedly vandalized property including the home dressing room and match equipment."
-    ],
-    "title": "Referee Hands Out Record 53 Red Cards After Mass Brawl Erupts in Brazilian Under-20s Match",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/community-colleges-rush-to-expand-semiconductor-training-as-labor-shortage-looms-us-chip-industry",
-    "article_url": "https://ground.news/article/community-colleges-rush-to-expand-semiconductor-training-as-labor-shortage-looms-us-chip-industry",
-    "bias": [
-      "Although the left framing gives slightly more weight to Mock’s part-time work and $100,000-plus debt, suggesting free training as an alternative to costly degrees, the right framing presents the program mainly as a practical workforce pathway.",
-      "The distinction is modest: both use “rush,” “looming,” and “labor shortage,” without clearly partisan language or opposing interpretations.",
-      "Center coverage adds Mock’s final university year and search for a “stable career.” All versions highlight Arizona ’s free three-month course, company interviews, and a potential chip-industry labor shortage, while offering little evidence on its scale, wages, or outcomes—revealing shared attention to skills, mobility, and industrial demand rather than a sharp ideological divide."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 50.0,
-    "error": null,
-    "left_pct": 37.0,
-    "location": "Arizona",
-    "right_pct": 13.0,
-    "status": "ok",
-    "summary": [
-      "Rio Salado College in Tempe, Arizona , launched a tuition-free, 12-week semiconductor training program this fall to prepare students for entry-level technician roles without requiring a four-year degree.",
-      "Encouraged by the 2022 CHIPS Act, companies have invested over $800 billion in new fabrication plants, yet the U.S. semiconductor industry faces a potential shortage of 157,000 full-time workers by 2030, according to SEMI.",
-      "Students like Ethan Mock receive 20 hours of hands-on training in Arizona State University's clean-room labs, using virtual-reality headsets to practice fabrication procedures and safety protocols.",
-      "TSMC's $265 billion development project in northern Phoenix is expected to create 25,000 jobs over the next decade, with consultant Pearl Chang Esau noting the company actively trains Americans for these roles.",
-      "Nationally, over 200 community colleges and universities are coordinating to fill entry-level technician roles, though whether these accelerated programs can meet massive hiring demands of chipmakers like Samsung and SK Hynix remains uncertain."
-    ],
-    "title": "Community colleges rush to expand semiconductor training as labor shortage looms US chip industry",
-    "topic": "Technology",
-    "topic_full": "Technology · Arizona"
-  },
-  {
-    "article_path": "/article/amazon-ditches-grubhub-taps-uber-eats-for-prime",
-    "article_url": "https://ground.news/article/amazon-ditches-grubhub-taps-uber-eats-for-prime",
-    "bias": [
-      "The supposed left–right divide is limited: the left-listed coverage, not clearly partisan, spotlights Amazon ’s “getting back into” restaurant delivery and a “drastically reshaped” competitive landscape after DoorDash–Instacart, while the right-listed item largely presents Uber Eats as a Prime “perk,” de-emphasizing pricing, history, and competition.",
-      "Center coverage supplies the practical qualifiers: $25 orders avoid delivery fees, no separate Uber account is required, and Amazon once shut down its own service.",
-      "Across perspectives, “team-up,” “official partner,” and “new perk” give the deal an upbeat tone; all agree it expands Prime through Amazon’s platform, without establishing a broader ideological divide."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 49.0,
-    "error": null,
-    "left_pct": 46.0,
-    "location": "United States",
-    "right_pct": 5.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, Nov. 5, 2026, Amazon announced Uber Eats as its official restaurant delivery partner for Prime members in the United States, effectively ending the company's existing commercial agreement with Grubhub.",
-      "Shifting its delivery strategy, Amazon is ending the two-year arrangement that provided free delivery on orders over $12, as the company identified an opportunity for a more integrated restaurant delivery experience.",
-      "Without needing to create a new account, Prime members receive $0 delivery fees on restaurant orders of $25 or more when ordering directly on Amazon through the integrated platform.",
-      "To celebrate the launch, members receive $20 off their first two orders of $25 or more within 14 days, and Prime Visa cardholders earn 5% back on all Uber Eats orders through December 5, 2026.",
-      "The partnership positions Uber Eats to reach millions of Prime shoppers while helping Amazon add value to its $139 annual membership fee amid intensifying food delivery competition."
-    ],
-    "title": "Amazon Adds Uber Eats to List of Services for Amazon Prime Members",
-    "topic": "Amazon",
-    "topic_full": "Amazon · United States"
-  },
-  {
-    "article_path": "/article/water-rescues-evacuations-underway-as-catastrophic-flood-event-hits-north-georgia-and-southern-tennessee_aa076e",
-    "article_url": "https://ground.news/article/water-rescues-evacuations-underway-as-catastrophic-flood-event-hits-north-georgia-and-southern-tennessee_aa076e",
-    "bias": [
-      "Left- and right-leaning coverage shows little ideological divergence: both describe heavy rain, flash flooding, rescues, and evacuations without terms such as “woke,” “slammed,” or “invasion.” The left emphasizes 3–5 inches of rain, “life-threatening” and “dangerous conditions,” plus official emergency measures; the right narrows attention to McCaysville’s visible “deep water,” de-emphasizing regional warnings and response scale.",
-      "Center coverage broadens the frame with “catastrophic,” more than 30 rescues, electrical fires, and impacts in Tennessee.",
-      "Their pivotal difference is scope and emotional intensity, not partisan interpretation; all converge on severe flooding and urgent public danger rather than a broader ideological conflict."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 90.0,
-    "error": null,
-    "left_pct": 6.0,
-    "location": "United States",
-    "right_pct": 4.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, November 5, 2026, McCaysville officials declared a state of emergency and ordered mandatory evacuations for West and East Tennessee Avenue after torrential overnight rainfall triggered catastrophic flash flooding. Police Chief Michael Earley restricted city access to authorized personnel only.",
-      "Historic flooding developed after overnight storms dropped up to 6 inches of rain in six hours, sending the Toccoa River cresting just above its 1990 record near the Georgia-Tennessee border. This volume represents a 1-in-200-year rainfall event with only 0.5% annual probability.",
-      "Emergency crews conducted more than 30 rescues overnight as Earley reported water levels reached 6 to 7 feet in downtown McCaysville, submerging vehicles and surrounding homes. Several local businesses sustained significant damage from rising floodwaters.",
-      "Major access points including Blue Ridge Drive and Highway 68 remain closed to prevent traffic risks, while Fannin County Emergency Management opened a shelter at the Fannin County Recreation Center for displaced residents.",
-      "Dangerous river flooding remains a threat throughout the day, the National Weather Service warned, noting that conditions can continue to worsen even after the rain has stopped. Officials urged residents to avoid flooded areas and seek higher ground."
-    ],
-    "title": "Water rescues, evacuations underway as ‘catastrophic flood event’ hits North Georgia and southern Tennessee",
-    "topic": "Floods",
-    "topic_full": "Floods · United States"
-  },
-  {
-    "article_path": "/article/six-dead-and-seven-injured-in-fire-at-brooklyn-building_a2b265",
-    "article_url": "https://ground.news/article/six-dead-and-seven-injured-in-fire-at-brooklyn-building_a2b265",
-    "bias": [
-      "Left-Leaning coverage emphasizes the human toll while cautiously noting that a lithium-ion battery was found and the cause remained unknown, using “barreled through” to convey intensity without assigning blame.",
-      "Right-Leaning coverage foregrounds scale and tragedy—“massive,” “deadly,” and firefighter injuries—while de-emphasizing investigative uncertainty and batteries, framing the event chiefly as a disaster.",
-      "Center coverage bridges these approaches with details such as a three-alarm response, “ripped through,” building destruction, and examination of two batteries.",
-      "The pivotal divide is whether preliminary evidence invites causal scrutiny or remains background detail; all perspectives converge on six deaths, seven injuries, and a major emergency response."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 44.0,
-    "error": null,
-    "left_pct": 40.0,
-    "location": "New York",
-    "right_pct": 16.0,
-    "status": "ok",
-    "summary": [
-      "A three-alarm fire engulfed a Sunset Park, Brooklyn residential building on 58th Street early Thursday, killing six people when more than 230 FDNY personnel responded around 1:40 a.m.",
-      "Investigators discovered a lithium-ion battery at the scene, with hazmat teams called to determine whether it sparked the blaze that officials said originated on the second floor.",
-      "More than 200 firefighters brought the inferno under control in about three hours; seven others, including three firefighters, sustained injuries during the response.",
-      "The American Red Cross is providing temporary housing to residents displaced by the fire, while the city's medical examiner remains at the scene investigating the deadly blaze.",
-      "This incident follows a Bronx fire just over a week ago where a 10-year-old died after an e-scooter burst into flames, prompting the FDNY to note such devices in homes are not unusual."
-    ],
-    "title": "House fire in Brooklyn kills 6 people and injures 7, more than 200 firefighters respond",
-    "topic": "House Fire",
-    "topic_full": "House Fire · New York"
-  },
-  {
-    "article_path": "/article/after-taking-control-of-congress-democrats-vow-major-probes-into-trumps-tentacles-of-corruption",
-    "article_url": "https://ground.news/article/after-taking-control-of-congress-democrats-vow-major-probes-into-trumps-tentacles-of-corruption",
-    "bias": [
-      "Left-Leaning coverage frames Democrats’ congressional victory as voters responding to corruption, using charged terms like “tentacles of corruption,” “major probes,” and “ousted Republicans.” Right-leaning coverage places greater emphasis on the investigations’ scope—Trump’s business dealings, family ventures, and administration—calling them “extensive,” though it also repeats “tentacles of corruption,” blurring the expected partisan contrast.",
-      "The key dividing line is electoral motivation versus scrutiny of specific targets.",
-      "Center coverage is de-emphasized, offering only the generic “Client Challenge” notice and no substantive political framing.",
-      "Across perspectives, Democrats’ victory and planned Trump-related investigations remain shared themes, reflecting wider disputes over accountability and partisan power."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 14.0,
-    "error": null,
-    "left_pct": 57.0,
-    "location": "United States",
-    "right_pct": 29.0,
-    "status": "ok",
-    "summary": [
-      "Democrats are preparing congressional investigations into what they describe as possible self-enrichment involving President Donald Trump and people connected to him.",
-      "House Democratic leaders Hakeem Jeffries, Robert Garcia, and Jamie Raskin are organizing investigations into Trump family business dealings and other administration actions.",
-      "Potential targets include Trump’s real estate and cryptocurrency dealings, ICE operations, the Jeffrey Epstein investigation, and construction projects.",
-      "The AP Voter Poll found that about three in 10 voters named democracy as the country’s top issue, and about eight in 10 of those voters supported the Democrat."
-    ],
-    "title": "After taking control of Congress, Democrats vow major probes into Trump’s ‘tentacles of corruption’",
     "topic": "US Politics",
     "topic_full": "US Politics · United States"
   },
   {
-    "article_path": "/article/saudi-arabia-has-no-easy-choices-as-it-weighs-how-to-combat-houthi-threat",
-    "article_url": "https://ground.news/article/saudi-arabia-has-no-easy-choices-as-it-weighs-how-to-combat-houthi-threat",
+    "article_path": "/article/melania-trump-calls-for-lasting-ukraine-truce-as-she-hosts-russian-and-ukrainian-officials",
+    "article_url": "https://ground.news/article/melania-trump-calls-for-lasting-ukraine-truce-as-she-hosts-russian-and-ukrainian-officials",
     "bias": [
-      "Left-Leaning coverage frames the reported $51 billion demand as leverage born from Houthi battlefield momentum, “strong pressure” on Saudi Arabia, and attacks challenging Saudi-backed forces, while right-leaning coverage portrays it as coercive extortion by “rebels” seeking recognition as Yemen’s “rulers” or a Houthi “regime,” alongside possible Saudi military responses.",
-      "Both use “demand,” but the left emphasizes Saudi vulnerability and context, whereas the right foregrounds legitimacy and security threats; center coverage softens the divide through “no easy choices” and a peace -process lens.",
-      "All perspectives highlight the enormous sum, Iran alignment, and Saudi dilemma, reflecting wider divisions over intervention, sovereignty, and regional power."
+      "Left-Leaning coverage casts Melania Trump as an “independent” broker contrasting with Donald Trump, using phrases like “blows up,” “Russia brag,” “Russian dictator,” and “peace eludes her husband.” Right-leaning accounts portray her as an “exclusive intermediary,” crediting her with “helping secure” a “humanitarian” ceasefire and invoking a “spark in a dark world” and “best in humanity.” Center coverage calls it a limited “humanitarian breakthrough,” stressing the localized, temporary truce, uncertain durability, and Trump’s meeting with Putin envoy Kirill Dmitriev but not Ukrainian representatives.",
+      "Across perspectives, reports cite letters to Putin and Zelenskyy, aid, and roughly 800 evacuations; only left coverage mentions 34 children reunited with families, with no independent verification."
     ],
-    "bias_bar_text": "L 15% Center 31% Right 54%",
-    "center_pct": 31.0,
+    "bias_bar_text": "Left 32% Center 39% Right 29%",
+    "center_pct": 39.0,
     "error": null,
-    "left_pct": 15.0,
+    "left_pct": 32.0,
     "location": null,
-    "right_pct": 54.0,
+    "right_pct": 29.0,
     "status": "ok",
     "summary": [
-      "On Thursday, the Houthis demanded $51 billion in compensation and official Saudi recognition of their authority over Yemen as conditions for ending attacks against Saudi Arabia, The Wall Street Journal reported.",
-      "Following Houthi attacks on Red Sea tankers, Saudi officials approached the group to explore ending the conflict, which involves control of territory near the Mandeb Strait.",
-      "The Houthis seek $51 billion to cover reconstruction costs and compensate for damage attributed to years of Saudi-led airstrikes and a prolonged blockade.",
-      "Granting these demands would require Riyadh to formally acknowledge the group as the legitimate governing authority and withdraw support for the internationally recognized Yemeni government.",
-      "Unwilling to accept the arrangement, Saudi Crown Prince Mohammed remains cautious about military risks, citing concerns that a ground offensive in Yemen could cause substantial casualties and domestic opposition."
+      "On Thursday, First Lady Melania Trump hosted Russian and Ukrainian officials at the White House to mark the localized ceasefire she brokered in the Russian-occupied Ukrainian village of Oleshky.",
+      "The six-day truce, in effect from Oct. 27 to Nov. 1, enabled humanitarian aid deliveries into the ravaged area and allowed nearly 800 civilians to evacuate the fighting.",
+      "Russian envoy Kirill Dmitriev thanked Melania for her \"distinguished humanitarian role,\" while Davyd Arakhamia presented the Order of Princess Olga, 1st Class, on behalf of Ukrainian President Volodymyr Zelenskyy.",
+      "Renewed trilateral talks in Abu Dhabi, United Arab Emirates, are scheduled for next week, positioning the ceasefire as a potential foundation for broader peace discussions.",
+      "Arakhamia noted the mission turned skepticism into confidence, though broader political negotiations remain difficult even as Trump hopes the suspension of hostilities leads to something enduring."
     ],
-    "title": "Houthis Demand $51 Billion, Saudi Recognition to End Attacks, WSJ Reports",
+    "title": "Melania Trump Hosts Russian, Ukrainian Officials to Mark Ceasefire She Brokered",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/us-midterm-results-spark-joy-among-canadians-but-trust-in-america-remains-shaky",
-    "article_url": "https://ground.news/article/us-midterm-results-spark-joy-among-canadians-but-trust-in-america-remains-shaky",
+    "article_path": "/article/democrats-planning-flood-of-ai-bills-when-they-take-control-of-congress",
+    "article_url": "https://ground.news/article/democrats-planning-flood-of-ai-bills-when-they-take-control-of-congress",
     "bias": [
-      "Left-Leaning coverage frames the Democratic congressional result as a “strong rebuke,” saying it may “spark joy” in Canada while warning that trust remains “shaky”; right-leaning coverage instead depicts reactions as “euphoria” tempered by “pragmatism,” emphasizing international consequences rather than sustained distrust or Trump’s conduct.",
-      "Center coverage bridges these frames, grounding skepticism in “punishing tariffs,” “escalating tensions,” and talk of Canada becoming the “51st state.” The pivotal divide is whether the election signals democratic repudiation and damaged alliances or merely a consequential setback requiring practical calculation.",
-      "All perspectives agree the midterms shifted U.S. politics , stirred Canadian reactions, and affected Canada-U.S. relations."
+      "Left-Leaning coverage portrays Democrats as “fired up” about AI but constrained by internal disagreement, stressing that enthusiasm does not guarantee consensus.",
+      "Center-Leaning framing emphasizes a “flood” or “unleash” of bills, including data-center development, while presenting “guardrails” as the proposed regulatory goal.",
+      "Right-Leaning coverage narrows the story to “aggressive oversight,” “scrutiny,” and a “hawkish” progressive agenda, highlighting demands for AI executives to testify and safety legislation, while casting the electoral victory as a “decisive sweep.” The pivotal divide is whether Democratic control signals constructive regulation, legislative overload, or coercive intervention.",
+      "All perspectives anticipate expanded AI policymaking, reflecting broader arguments over regulation, corporate power, and partisan control."
     ],
-    "bias_bar_text": "Left 72% Center 25%",
-    "center_pct": 25.0,
+    "bias_bar_text": "11% Center 33% Right 56%",
+    "center_pct": 33.0,
     "error": null,
-    "left_pct": 72.0,
+    "left_pct": 11.0,
     "location": null,
-    "right_pct": 3.0,
+    "right_pct": 56.0,
     "status": "ok",
     "summary": [
-      "Many Canadians welcome the Democratic sweep of Congress in the United States, yet remain cautious about whether voters' \"strong rebuke of President Donald Trump \" will shift the ongoing trade war.",
-      "Trump's \"punishing tariffs\" on Canadian goods, repeated musings about making Canada the 51st state, and renaming Lake Ontario to Lake America have strained the relationship between the two countries.",
-      "Citizens like Uwe Richter and Juli Taylor are avoiding American travel, with Taylor stating, \"We live in a beautiful country and the best country in the world.\" Both cite Trump's damage to the relationship.",
-      "Gerry Carlin expressed doubt that Democratic control will immediately ease policies, stating, \"there's no guarantee of anything at this point,\" with two years remaining in Trump's term.",
-      "Trade Minister Dominic LeBlanc stated Wednesday that Ottawa's push to diversify trade will continue regardless of U.S. political shifts, noting that recent talks with Trump's administration have been productive."
+      "House Democrats announced plans on Wednesday to introduce legislation targeting artificial intelligence and data-center development when they take control of Congress in January, including new safety testing and liability requirements.",
+      "This shift from the previous Republican-led Congress follows public demand; polling shows US voters prioritize AI regulation and are concerned about the industry's rapid expansion and potential harms.",
+      "Lawmakers plan to introduce the bipartisan GUARD Act to protect children from AI companions and the AI LEAD Act to establish liability standards, while promising to subpoena tech executives to testify under oath.",
+      "Any regulation faces steep odds with President Donald Trump in the White House, though Democrats may attempt to insert AI provisions into mandatory annual legislation or override a presidential veto with two-thirds support.",
+      "Anton Dahbura, co-director of the Johns Hopkins Institute for Assured Autonomy, advocates for 'pragmatic' steps to mitigate risks, noting that well-thought-out regulations could actually accelerate technological development without hindering competition."
     ],
-    "title": "U.S. midterm results spark joy among Canadians but trust in America remains shaky",
+    "title": "Democrats planning flood of AI bills when they take control of Congress",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/tripadvisor-ceo-goldberg-to-step-down-leave-board",
-    "article_url": "https://ground.news/article/tripadvisor-ceo-goldberg-to-step-down-leave-board",
-    "bias": null,
+    "article_path": "/article/desert-icons-collapse-as-southwestern-us-gets-pummeled-with-rain-and-flooding-wtop-news",
+    "article_url": "https://ground.news/article/desert-icons-collapse-as-southwestern-us-gets-pummeled-with-rain-and-flooding-wtop-news",
+    "bias": [
+      "The left-leaning framing foregrounds recent rain and flooding, describing the Southwest as “pummeled” and the formations as “iconic,” while right-leaning coverage de-emphasizes that immediate weather context in favor of unusual geology, “otherworldly” scenery, and rocks that “defy gravity.” Thus, the same collapse is cast either as a dramatic environmental loss or as a striking example of “Mother Nature ” and long-term erosion.",
+      "Center-Leaning accounts similarly stress natural landscape processes with less emphasis on regional disruption.",
+      "All perspectives agree the Alien Throne and King of Wings collapsed through natural forces, revealing little ideological division beyond selective emphasis."
+    ],
+    "bias_bar_text": "Left 62% C 24% R 14%",
+    "center_pct": 24.0,
+    "error": null,
+    "left_pct": 62.0,
+    "location": null,
+    "right_pct": 14.0,
+    "status": "ok",
+    "summary": [
+      "On Oct 30, Kialo Winters, founder of Navajo Tours USA, discovered the Alien Throne had collapsed in New Mexico , following the earlier fall of the King of Wings rock formation within weeks.",
+      "Back-to-Back storms recently dumped more than 20 trillion gallons of rain across the Four Corners region and Nevada, saturating ground and accelerating erosion that toppled the sandstone structures.",
+      "Native Americans view the features as ancestral waypoints guiding trade routes for thousands of years, while visitor Alan Studt documented weathering including cracks and holes in photographs from 2019 onward.",
+      "Social media users shared condolences and debated the fragility of natural wonders, with some expressing gratitude for photographs while others lamented never visiting the remote formations.",
+      "Winters urged visitors to let the remaining sites \"rest,\" calling on people to avoid climbing on what remains and cautioning against taking any pieces home."
+    ],
+    "title": "Desert icons collapse as southwestern US gets pummeled with rain and flooding",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/new-limits-on-federal-student-loans-are-steering-many-borrowers-toward",
+    "article_url": "https://ground.news/article/new-limits-on-federal-student-loans-are-steering-many-borrowers-toward",
+    "bias": [
+      "Left-Leaning framing foregrounds borrower vulnerability, calling the changes “limits” that are “steering” students toward private lenders and spotlighting Chloe Frabotta’s “anxiety.” Center coverage similarly uses mildly coercive “steering” or “push” while concentrating on altered caps and parental borrowing rules.",
+      "Right-Leaning presentation de-emphasizes nationwide effects in its shorter treatment, portraying the measure more cautiously as an eligibility and borrowing-rule change rather than developing a critique of government intervention.",
+      "These are nuances, not a sharp ideological split: all report fall implementation, program-specific caps, parent-loan limits, and movement toward private lenders, while providing no dollar amounts, lender data, policy rationale, or competing arguments."
+    ],
     "bias_bar_text": null,
-    "center_pct": 87.0,
-    "error": "Message: \n",
-    "left_pct": null,
+    "center_pct": 45.0,
+    "error": null,
+    "left_pct": 41.0,
     "location": "United States",
-    "right_pct": 13.0,
-    "status": "fail",
-    "summary": null,
-    "title": "Tripadvisor CEO Goldberg to step down, leave board",
-    "topic": "US Economy",
-    "topic_full": "US Economy · United States"
-  },
-  {
-    "article_path": "/article/marine-dies-during-training-incident-in-northern-okinawa",
-    "article_url": "https://ground.news/article/marine-dies-during-training-incident-in-northern-okinawa",
-    "bias": [
-      "Left-Leaning coverage frames the death amid “ military tensions,” linking a training incident to broader geopolitical unease, while right-leaning material foregrounds military danger through “killed,” “tragedy,” and “fatal occurrence,” plus family notification before identification.",
-      "The left de-emphasizes operational details; center coverage instead specifies Camp Schwab, the 3rd Marine Division, an investigation, and “heavy hearts.” The right also presents the circumstances as unresolved, though descriptions of the service member and location vary.",
-      "Across perspectives, the shared emphasis is a Marine’s death during training in Okinawa, with disagreement chiefly over geopolitical context, emotional intensity, and detail."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 62.0,
-    "error": null,
-    "left_pct": 21.0,
-    "location": null,
-    "right_pct": 17.0,
+    "right_pct": 14.0,
     "status": "ok",
     "summary": [
-      "A Marine died on Tuesday during a training incident at Marine Corps Camp Schwab in Okinawa, the 3rd Marine Division announced Wednesday.",
-      "Division officials withheld the Marine's identity until 24 hours after family notification while confirming the incident remains under investigation.",
-      "Headquartered at Camp Courtney, the Division commanded by Maj. Gen. Kyle Ellison serves as the primary ground force in the Pacific, overseeing most of the 18,000 Japan-based Marines stationed in Okinawa.",
-      "This death follows an October murder investigation involving a Marine at Marine Corps Air Station Futenma, which prompted a month-long curfew and mandatory discipline training for troops.",
-      "Okinawa, located 100 km from Taiwan, is viewed by Tokyo and Washington as vital for deterring military aggression from China, though the large U.S. troop presence has repeatedly stirred local resentment."
+      "New federal loan caps implemented by President Donald Trump have pushed graduate borrowers toward private lenders to cover costs exceeding the new limits.",
+      "Trump's \"Big Beautiful Bill\" introduced borrowing limits of $200,000 for professional degrees and $100,000 for other graduate programs, with an overall lifetime cap of $257,500.",
+      "Private lender SoFi reported student loan originations hit $2.9 billion in the third quarter in late October, while Sallie Mae noted graduate loans surged 119% year-over-year.",
+      "At South Carolina Student Loan, graduate borrowing increased 400% this year, while at least 40 schools have cut program costs to help students navigate the new landscape.",
+      "Jordan Matsudaira, director of the Postsecondary Education & Economics Research Center at American University, estimates that over half a million borrowers will eventually need an extra $20,000 annually."
     ],
-    "title": "US Marine Dies During Training in Japan, Military Says",
-    "topic": "Military",
-    "topic_full": "Military"
+    "title": "New limits on federal student loans are steering many borrowers toward private lenders",
+    "topic": "Student Loans",
+    "topic_full": "Student Loans · United States"
   },
   {
-    "article_path": "/article/melania-trump-to-attend-lsu-alabama-game-announce-5m-endowment_ea45ad",
-    "article_url": "https://ground.news/article/melania-trump-to-attend-lsu-alabama-game-announce-5m-endowment_ea45ad",
+    "article_path": "/article/girl-10-found-dead-in-nj-after-disappearing-from-west-philly-sources-say",
+    "article_url": "https://ground.news/article/girl-10-found-dead-in-nj-after-disappearing-from-west-philly-sources-say",
     "bias": [
-      "Coverage diverges mainly in emphasis: left-leaning accounts frame Melania Trump ’s appearance at the LSU-Alabama game as the “launch” of Fostering the Future, while right-leaning coverage foregrounds the $5 million endowment as a “historic donation” creating “permanent scholarships” for foster youth, de-emphasizing the football setting.",
-      "Center coverage stays logistical, stressing the announcement, Baton Rouge, and scholarship structure.",
-      "The pivotal divide is whether the story is primarily a public appearance and campaign launch or a major philanthropic achievement, with “historic” adding promotional weight absent from the left and center framing.",
-      "All perspectives highlight the $5 million fund and support for former foster-care students, reflecting broader differences over symbolism, charity, and political presentation."
+      "The left- and right-leaning coverage shows little ideological divergence, framing the case primarily as a grim crime : the left stresses a girl “disappearing” from West Philadelphia and, uniquely, her foster-care status, while the right compresses the account to “found dead” in a car “trunk,” de-emphasizing context.",
+      "Center coverage adds “frantic” search, “tragic conclusion,” the apartment location, and one person in custody, giving the investigation greater narrative weight.",
+      "The pivotal divide is contextualization—social background versus stark crime imagery—not policy.",
+      "All perspectives converge on the child’s age, disappearance, death, and New Jersey recovery, reflecting shared shock rather than partisan interpretation."
     ],
     "bias_bar_text": null,
     "center_pct": 71.0,
     "error": null,
-    "left_pct": 19.0,
-    "location": "United States",
-    "right_pct": 10.0,
+    "left_pct": 16.0,
+    "location": "Lindenwold",
+    "right_pct": 13.0,
     "status": "ok",
     "summary": [
-      "First Lady Melania Trump will visit Louisiana State University in Baton Rouge on Saturday, Nov. 7, to announce a $5 million permanent endowment fund supporting LSU students who have experienced foster care.",
-      "The endowment supports the 'Fostering the Future' initiative, which Melania Trump established in 2021 as part of her Be Best program to help foster youth overcome barriers to college completion.",
-      "Research from the Annie E. Casey Foundation shows only 8% to 12% of people with foster care experience earn a degree by their mid-20s, underscoring the critical need for this targeted financial aid.",
-      "During Saturday's LSU Tigers versus Alabama Crimson Tide football game at Tiger Stadium, the Fostering the Future campaign will activate across campus and on the field to promote scholarship opportunities.",
-      "More than 20 schools nationwide now offer these scholarships, with LSU Chancellor Jim Dalton, a vocal foster care advocate and foster parent himself, championing the program's expansion across Louisiana's system."
+      "On Thursday, November 5, 2026, authorities discovered the body of missing 10-year-old Jalayshia Alford inside a car trunk at the Stonington Court Apartments in Lindenwold, New Jersey, ending a 10-day search.",
+      "Jalayshia had been missing since October 26 after last being seen at her foster home on the 500 block of North Simpson Street, though law enforcement sources noted inconsistencies in her foster mother's account.",
+      "Homicide detectives currently have one individual in custody, as investigators previously stated that conflicting information from family members \"stunted\" search efforts across Philadelphia and nearby areas.",
+      "Philadelphia District Attorney Larry Krasner and Police Commissioner Kevin Bethel scheduled a 5:30 p.m. press conference today to announce charges in what officials characterized as a \"brutal murder.\"",
+      "The vehicle where the body was discovered reportedly belongs to a relative of the foster mother, following a search warrant executed at the North Simpson Street residence earlier this week."
     ],
-    "title": "First Lady Melania Trump to Go to LSU-Alabama Game, Announces $5 Million Endowment Fund",
-    "topic": "Melania Trump",
-    "topic_full": "Melania Trump · United States"
+    "title": "Foster Mother Charged with Murder After Missing 10-Year-Old Girl From Philadelphia Found in New Jersey",
+    "topic": "Lindenwold",
+    "topic_full": "Lindenwold · Lindenwold"
   },
   {
-    "article_path": "/article/industry-takedown-of-botnet-hidden-in-more-than-13-million-tv-set-top-boxes-across-200-countries-business-news-week",
-    "article_url": "https://ground.news/article/industry-takedown-of-botnet-hidden-in-more-than-13-million-tv-set-top-boxes-across-200-countries-business-news-week",
+    "article_path": "/article/elon-musk-appears-to-signal-the-end-of-the-road-for-cybertruck_8228c0",
+    "article_url": "https://ground.news/article/elon-musk-appears-to-signal-the-end-of-the-road-for-cybertruck_8228c0",
     "bias": [
-      "Left-Leaning coverage frames the episode as corporate betrayal: a partner “secretly built a backdoor,” “turned” certified devices into a botnet, and was cut off by Google .",
-      "Right-Leaning coverage shifts from institutional accountability to personal threat, warning malware could “spy on users” and give “criminal affiliates” access to devices and internet connections.",
-      "Center coverage adds operational context—1.3 million devices across roughly 200 countries, alleged revenue motives, security-test evasion, and a coordinated takedown.",
-      "All emphasize the malware, Chinese manufacturer, and botnet, but their dividing line is whether the story primarily signifies supply-chain accountability or privacy and surveillance risks."
+      "Left-Leaning coverage frames the Texas production wind-down as the Cybertruck’s “death,” using terms like “RIP,” “dead,” “flop,” and “polarizing,” while stressing ridicule, recalls, safety concerns, and sales reportedly near one-tenth of planned capacity.",
+      "Right-Leaning coverage also highlights commercial disappointment—calling the model “struggling”—but presents the move as a strategic pivot toward Cybercab and leaves open production elsewhere.",
+      "Center coverage emphasizes weak demand, pricing, quality, and uncertainty.",
+      "The pivotal divide is whether 2027 marks an outright failure or merely a factory reallocation.",
+      "All perspectives agree on Musk’s announcement, Cybercab’s expansion, and underwhelming sales, reflecting broader debates over Musk, innovation, and corporate judgment."
     ],
     "bias_bar_text": null,
-    "center_pct": 55.0,
+    "center_pct": 34.0,
     "error": null,
-    "left_pct": 12.0,
-    "location": "United States",
-    "right_pct": 33.0,
+    "left_pct": 32.0,
+    "location": "Texas",
+    "right_pct": 34.0,
     "status": "ok",
     "summary": [
-      "On Monday, November 2, 2026, Google and a coalition of partners announced the coordinated takedown of the XCPE botnet, which had infected more than 1.3 million set-top boxes across more than 200 countries.",
-      "Google's Threat Intelligence Group reported with high confidence that Chinese device manufacturer Videostrong Technology Co. intentionally embedded the persistent backdoor into firmware to generate revenue through criminal affiliates.",
-      "Operating as a plug-in platform for criminal affiliates, the botnet utilized compromised devices for residential proxy services, ad fraud, and malware distribution, with the takedown severing access to at least 10 million additional devices.",
-      "Google terminated its relationship with Videostrong, revoking the company's license to manufacture certified Android devices and banning it from supplying software to certified vendors.",
-      "Related to the 2025 BadBox 2.0 incident, the operation prompted Google to update its certification review process to prevent similar firmware-level breaches and protect consumers."
+      "On Friday, Tesla CEO Elon Musk announced plans to wind down Cybertruck production at Gigafactory Texas around the middle of next year to accommodate increased manufacturing of the Cybercab.",
+      "The Cybertruck, touted by Musk as a futuristic rival to pickup trucks from Ford, has struggled to sustain mass-market interest since its 2023 launch.",
+      "Cybertruck lead engineer Wes Morrill said, \"Cybertruck was an incredible technology development platform and lives on through Cybercab,\" while Tesla has not specified if production will move to another facility or discontinue entirely.",
+      "Tesla intends to make the Cybercab the primary driverless model within its larger robotaxi network, aligning with Musk's goal to transform the automaker into a robotics and self-driving company.",
+      "The automaker's Austin plant remains the only known facility equipped to manufacture the specialized components required for the new model, and Tesla did not immediately respond to a Reuters request for comment."
     ],
-    "title": "Google Disrupts Million-Device XCPE Android Malware Botnet, Bans TV Box Maker",
-    "topic": "Google",
-    "topic_full": "Google · United States"
+    "title": "Tesla to Wind Down Cybertruck Production at Texas Factory, Musk Says",
+    "topic": "Elon Musk",
+    "topic_full": "Elon Musk · Texas"
   },
   {
-    "article_path": "/article/the-2028-election-season-begins-as-both-parties-navigate-midterm-fallout",
-    "article_url": "https://ground.news/article/the-2028-election-season-begins-as-both-parties-navigate-midterm-fallout",
+    "article_path": "/article/gina-hinojosa-begins-work-to-take-office-as-texas-first-democratic-governor-in-decades_3d8d46",
+    "article_url": "https://ground.news/article/gina-hinojosa-begins-work-to-take-office-as-texas-first-democratic-governor-in-decades_3d8d46",
     "bias": [
-      "Coverage agrees Democrats won control of both chambers after all 435 House and 35 Senate seats were contested, but diverges sharply in meaning.",
-      "Left-Leaning accounts call the result a “full-throated rebuke,” “spectacular victories,” and possible “collapse of the MAGA coalition,” stressing damage to Trump, Vance, and Republican unity.",
-      "Right-Leaning framing invokes a “shellacking” or “bloodbath,” yet emphasizes ideological repositioning, DeSantis’s improved odds, and whether traditional conservatism could replace Trumpism.",
-      "Vance’s claim that the Iran conflict—and, more broadly, Israel policy—hurt Republicans is a key dividing line, not proven causation.",
-      "Center coverage presents a potential “new political era.” All portray 2028 as beginning immediately."
+      "Left-Leaning coverage celebrates Hinojosa’s “historic upset,” saying she “shattered decades of GOP control” and promising to undo “divisive policies” as voters reject “culture wars.” Center coverage retains the “historic victory” framing but pivots toward education , including anger over the Republican agenda and a proposed change involving the state’s top education official, while also noting her status as Texas’s first Latina governor.",
+      "Right-Leaning material largely de-emphasizes partisan interpretation, repeating the upset and bipartisan-transition themes without distinct criticism.",
+      "The pivotal divide is whether the result signals progressive repudiation or cautious governing change; all perspectives emphasize Abbott’s defeat, Hinojosa’s “bipartisan” pledge, and the historic Democratic turnover."
     ],
     "bias_bar_text": null,
-    "center_pct": 66.0,
+    "center_pct": 64.0,
     "error": null,
-    "left_pct": 22.0,
-    "location": "United States",
-    "right_pct": 12.0,
+    "left_pct": 28.0,
+    "location": "Texas",
+    "right_pct": 8.0,
     "status": "ok",
     "summary": [
-      "Following disastrous midterm election losses on Tuesday, Vice President JD Vance's odds of winning the 2028 Republican presidential nomination fell from 35% to 30% on Wednesday, according to prediction market platform Kalshi.",
-      "The Republican Party lost control of both the House and the Senate on Tuesday, delivering a major setback to President Donald Trump's second-term agenda and reshaping the political landscape.",
-      "Florida Governor Ron DeSantis saw his nomination odds surge from 5% to 18% after criticizing the administration's foreign policy and ethics during a SiriusXM interview on Wednesday.",
-      "Meanwhile, Georgia Senator Jon Ossoff surged in the Democratic nomination market, with his odds climbing from 17% to 22% on Wednesday following his Tuesday victory.",
-      "Alyssa Farah Griffin suggested the midterm results mark the beginning of the end for the MAGA movement, expressing readiness to see new GOP leadership emerge."
+      "Texas Governor-elect Gina Hinojosa will address reporters today at 2 p.m. in Austin for her first news conference since securing a decisive victory in Tuesday's gubernatorial race.",
+      "Hinojosa defeated incumbent Governor Greg Abbott, ending 12 years of his leadership and becoming the first Democrat elected to the office in more than 30 years.",
+      "The incoming governor pledged to fire Texas Education Agency Commissioner Mike Morath and dismantle the state's school voucher program on her first day in office.",
+      "Abbott conceded the race and offered to assist Hinojosa during the executive transition, with operations beginning immediately ahead of her January 2027 inauguration.",
+      "Beyond education reform, Hinojosa vowed to end no-bid state contracts and restore ethics standards, warning that \"corruption does not become right when our side does it."
     ],
-    "title": "The 2028 election season begins as both parties navigate midterm fallout",
+    "title": "Gina Hinojosa begins work to take office as Texas’ first Democratic governor in decades",
     "topic": "US Politics",
-    "topic_full": "US Politics · United States"
+    "topic_full": "US Politics · Texas"
   },
   {
-    "article_path": "/article/sullivan-peltola-project-confidence-while-awaiting-results-in-alaska-us-senate-race-wtop-news_b6ce8b",
-    "article_url": "https://ground.news/article/sullivan-peltola-project-confidence-while-awaiting-results-in-alaska-us-senate-race-wtop-news_b6ce8b",
+    "article_path": "/article/sandra-birchmores-case-matthew-farwells-trial-enters-its-final-stage",
+    "article_url": "https://ground.news/article/sandra-birchmores-case-matthew-farwells-trial-enters-its-final-stage",
     "bias": [
-      "Left-Leaning coverage frames Alaska ’s unresolved Senate race through “bitterly fought” uncertainty, a “razor-thin margin,” legal challenges, and a “ghost candidate,” implying possible electoral manipulation; right-leaning coverage stresses a “time-consuming” count, “partisan tricks,” and procedural scrutiny, while highlighting that Sullivan trailed Peltola by 626 votes with 77% counted.",
-      "Center coverage comparatively foregrounds affordability, mail ballots, and whether voters retain ranked-choice elections.",
-      "The shared-name candidacy and ranked-choice system are key partisan fault lines, yet all perspectives agree the close contest may require weeks of tabulation—reflecting broader divides over election administration, fairness, and institutional trust."
+      "Across these accounts, the main divide is emphasis rather than explicit partisan rhetoric: left-leaning headlines use neutral legal terms such as “accused,” “defense rests,” and “won’t testify,” while coverage highlights the alleged relationship beginning when Birchmore was 15 and the claimed motive.",
+      "Center coverage adds allegations that Farwell killed her unborn child and staged the death as suicide.",
+      "The right-leaning report de-emphasizes those allegations, instead foregrounding “graphic” crime-scene and autopsy photographs.",
+      "All perspectives stress the defense’s rest and impending closing arguments, while their differing focus reflects broader tensions between narrative allegations and contested courtroom evidence."
     ],
     "bias_bar_text": null,
-    "center_pct": 65.0,
+    "center_pct": 46.0,
     "error": null,
-    "left_pct": 18.0,
-    "location": "Alaska",
-    "right_pct": 17.0,
+    "left_pct": 41.0,
+    "location": "Boston",
+    "right_pct": 13.0,
     "status": "ok",
     "summary": [
-      "The U.S. Senate race between incumbent Republican Sen. Dan S. Sullivan and Democratic challenger Mary Peltola remains too close to call as officials prepare ranked-choice tabulation scheduled for November 18.",
-      "Allegations that the Peltola campaign recruited Daniel J. Sullivan, a retired teacher, to run as a 'spoiler' candidate sparked criminal investigations and lawsuits, reviving suspicions he aimed to confuse voters.",
-      "Alaska's remote geography and 15-day mail-in ballot deadline create a slow count, exacerbated by ranked-choice voting redistribution if no candidate secures more than 50% of first-choice votes.",
-      "Governor Mike Dunleavy launched an investigation into recruitment claims, warning Thursday that if the probe finds 'wrongdoing,' certification could be 'stopped or changed.'",
-      "State officials expect to certify results by November 25, though legal experts warn that narrow margins and ongoing federal probes could trigger protracted litigation."
+      "The defense rested its case Wednesday in the federal murder trial of former Stoughton police officer Matthew Farwell, accused of killing 23-year-old Sandra Birchmore in 2021. Closing arguments are scheduled for Friday.",
+      "Prosecutors allege Farwell killed the pregnant Birchmore to conceal a years-long sexual relationship that began when she was 15. The defense maintains she died by suicide when he visited to end their affair.",
+      "Forensic pathologist Dr. Thomas Andrew testified for the defense that Birchmore's death was \"absolutely not\" homicide, attributing it to hanging. This contradicts prosecution expert Dr. William Smock, who identified injuries consistent with strangulation.",
+      "Farwell declined to testify Wednesday, informing Judge Denise Casper of his decision in a firm voice. Jurors will not report Thursday, returning Friday for closing arguments and deliberations.",
+      "The medical examiner initially ruled the 2021 death a suicide but revised it to \"undetermined\" following a federal investigation. The trial addresses claims that local police previously failed to conduct a thorough probe."
     ],
-    "title": "Alaska Senate race remains too close to call as candidates urge patience",
-    "topic": "2026 Midterm Elections",
-    "topic_full": "2026 Midterm Elections · Alaska"
+    "title": "Closing arguments expected in trial of ex-cop accused of killing Sandra Birchmore",
+    "topic": "Police",
+    "topic_full": "Police · Boston"
   },
   {
-    "article_path": "/article/an-idaho-law-targeted-fentanyl-dealers-prosecutors-are-using-it-to-charge-users-too",
-    "article_url": "https://ground.news/article/an-idaho-law-targeted-fentanyl-dealers-prosecutors-are-using-it-to-charge-users-too",
+    "article_path": "/article/what-democrats-win-could-mean-for-trumps-monument-makeover-projects",
+    "article_url": "https://ground.news/article/what-democrats-win-could-mean-for-trumps-monument-makeover-projects",
     "bias": null,
     "bias_bar_text": null,
-    "center_pct": 33.0,
+    "center_pct": 14.0,
     "error": null,
-    "left_pct": 67.0,
-    "location": "Idaho",
+    "left_pct": 86.0,
+    "location": "Washington",
     "right_pct": null,
     "status": "no_change",
     "summary": [
-      "Idaho prosecutors have charged 134 people with fentanyl trafficking since House Bill 406 took effect on July 1, 2024, allowing authorities to charge individuals possessing at least 4 grams or 100 pills as traffickers without requiring evidence of distribution.",
-      "Lawmakers enacted House Bill 406 to \"shut down the cartels\" and prevent rising overdose deaths after fentanyl killed 197 people in Idaho in 2023, the state's highest annual toll. The law imposes mandatory prison terms of three, five or 10 years depending on possession amounts.",
-      "InvestigateWest's analysis of court records found 30% of completed cases were dismissed and one-third of 90 cases lacked evidence such as scales, ledgers and small bags typically indicating intent to sell. Thirteen people received substance use treatment instead of prison.",
-      "Critics, including Kellen Russoniello, director of public health for the Drug Policy Alliance, argue the law \"ensnares people who are possessing for personal use.\" Prosecutors like Randy Neal counter that accountability is necessary when dealing with lethal substances.",
-      "Idaho is one of nine states allowing trafficking charges based solely on possession thresholds. A 2018 Pew Center report found that \"increasing the severity of punishment does little to deter crime,\" suggesting instead law enforcement targeting traffickers combined with treatment alternatives."
+      "Democrats' overwhelming victory on Tuesday could pump the brakes on President Donald Trump 's agenda, with the incoming Congress holding 54 Democratic senators and 237 representatives.",
+      "Trump has been deeply involved in reshaping D.C., pursuing renovation of the Kennedy Center, overhauling East Potomac Golf Links into an 18-hole championship course, and erecting a 250-foot memorial arch near Arlington National Cemetery.",
+      "Starting Jan. 3, Democrats will control the appropriations process, giving them budget authority to cut project funding and use the debt ceiling fight to rein in Trump's architectural ambitions.",
+      "Legal experts believe the election emboldens judges, as shown when Judge Chutkan granted a 14-day delay on the memorial arch after lawsuits from Virginia and the District of Columbia consolidated late Thursday.",
+      "Rep. Jared Huffman of California, top Democrat on the Natural Resources Committee, spent the past year probing Trump's projects and plans aggressive oversight efforts to prevent their completion."
     ],
-    "title": "Idaho Prosecutors Use Fentanyl Law to Charge Users, Not Just Dealers",
-    "topic": "Idaho Politics",
-    "topic_full": "Idaho Politics · Idaho"
-  },
-  {
-    "article_path": "/article/trumps-lawyers-to-appear-before-appeals-court-as-he-fights-hush-money-conviction",
-    "article_url": "https://ground.news/article/trumps-lawyers-to-appear-before-appeals-court-as-he-fights-hush-money-conviction",
-    "bias": [
-      "Left-Leaning coverage frames Trump’s appeal as a personal “fight” against a “hush money conviction,” emphasizing the “historic verdict” and its scandalous associations.",
-      "Right-Leaning coverage uses the same case label but de-emphasizes the underlying payment and charges, focusing on lawyers challenging the conviction and leaving room for skepticism toward the proceeding.",
-      "Center coverage supplies procedural context—34 felony counts, alleged falsification of records, and the $130,000 payment to Stormy Daniels—without comparable rhetorical coloring.",
-      "The dividing line is whether the hearing signifies accountability or contested political-legal conflict; all perspectives agree that Trump’s lawyers are seeking reversal before an appeals court ."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 77.0,
-    "error": null,
-    "left_pct": 20.0,
-    "location": "New York",
-    "right_pct": 3.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, President Donald Trump 's lawyers will attempt to persuade a New York appeals court to overturn his 2024 hush money conviction, arguing the 34 felony counts of falsifying business records should be vacated.",
-      "The conviction stems from a $130,000 payment to adult film performer Stormy Daniels weeks before the 2016 election; prosecutors argue Trump \"orchestrated a conspiracy\" to hide campaign spending, while his defense contends the payment was a legitimate legal expense.",
-      "Trump's attorneys claim presidential immunity for official acts, arguing his response to the Daniels drama constituted constitutional duties; Manhattan District Attorney Alvin Bragg's office counters that these private communications were \"unofficial conduct.\"",
-      "In court filings, Trump's legal team described the prosecution's theory as \"a house of cards\" built on \"immense political pressure,\" also contending that jury instructions were flawed and evidence regarding his first term should have been excluded.",
-      "While Trump is not expected to attend Thursday's proceedings, he continues pursuing separate federal court avenues for dismissal, with arguments on immunity grounds scheduled for November 16."
-    ],
-    "title": "Trump's lawyers are set to appear before appeals court as he fights his hush money conviction",
+    "title": "Democrats’ Congress Win Could Slow Trump’s D.C. Projects",
     "topic": "Donald Trump",
-    "topic_full": "Donald Trump · New York"
+    "topic_full": "Donald Trump · Washington"
   },
   {
-    "article_path": "/article/us-slaps-sanctions-on-indian-turkish-firms-and-people-for-aiding-iran_da1457",
-    "article_url": "https://ground.news/article/us-slaps-sanctions-on-indian-turkish-firms-and-people-for-aiding-iran_da1457",
+    "article_path": "/article/the-secret-reason-your-iphone-will-refuse-to-autocomplete-certain-political-words_de5eb4",
+    "article_url": "https://ground.news/article/the-secret-reason-your-iphone-will-refuse-to-autocomplete-certain-political-words_de5eb4",
     "bias": [
-      "Left-Leaning coverage emphasizes sanctions ’ consequences—“decimating the Iranian economy,” weakening oil revenue, and funding for war—while portraying alleged “fake flags” as part of that pressure campaign.",
-      "Right-Leaning coverage foregrounds enforcement and security, calling the network “vast” and “criminal,” describing sanctions as an “economic noose,” and broadening attention to military procurement.",
-      "Center coverage de-emphasizes those ideological implications, concentrating on mechanics such as “fraudulent ship registries” and the Turkish aviation allegation.",
-      "The key divide is whether sanctions signify economic harm or necessary deterrence; all perspectives still stress Treasury’s allegations, Iran’s “shadow fleet,” and escalating pressure on Tehran."
+      "Left-Leaning coverage frames Apple ’s undisclosed “gray list” through intrigue—“secret reason” and “refuse” suggest opaque control—while right-leaning coverage intensifies the censorship narrative with “hides,” “politically sensitive,” and the larger estimate of 100,000 entries.",
+      "The pivotal divide is specificity: left coverage de-emphasizes examples, whereas right coverage foregrounds “Dictator Trump,” “Sleepy Joe,” Tibet’s independence, drugs, violence, and Auschwitz, portraying broad ideological reach.",
+      "Center coverage more cautiously emphasizes how predictive text could “quietly shape” communication for hundreds of millions.",
+      "All perspectives highlight the researcher’s discovery and Apple’s nondisclosure, but their framing reflects wider disputes over Big Tech power, free expression, and political bias."
     ],
     "bias_bar_text": null,
-    "center_pct": 24.0,
+    "center_pct": 23.0,
     "error": null,
-    "left_pct": 16.0,
-    "location": "India",
-    "right_pct": 60.0,
+    "left_pct": 33.0,
+    "location": "United States",
+    "right_pct": 44.0,
     "status": "ok",
     "summary": [
-      "The U.S. Department of the Treasury's Office of Foreign Assets Control designated key individuals and corporate entities across India and Turkey for facilitating Iran's shadow oil fleet and supporting its defense and commercial aviation sectors.",
-      "Federal officials cited a Chandigarh-based criminal network operated by Indian nationals Suniel Kumar Sharma and Jaspreet Preeti Shahid, accusing the network of providing fraudulent ship registrations and flagging documentation to enable Iranian oil tankers to evade global trade sanctions .",
-      "The Treasury designated nine India-registered maritime management and tech firms—including Aryavart Ship Management and Oceaniek Technologies—accused of orchestrating flag-impersonation schemes for Iranian vessels dating back to 2014.",
-      "U.S. enforcement actions additionally targeted Turkey-based Fugo Ground Services Inc. for supplying logistics and ground maintenance to Iranian commercial airlines previously designated for transporting military hardware and IRGC personnel.",
-      "Treasury Secretary Scott Bessent emphasized that the administration's broader campaign, designated \"Operation Economic Outcast,\" will aggressively cut off foreign facilitators aiding Tehran's maritime evasion tactics and military supply lines."
+      "On Friday, researcher Derik Kauffman revealed that Apple maintains a hidden grey list of about 100,000 words and phrases that its iOS keyboard blocks from autocomplete and swipe-typing, though users can still manually type the terms.",
+      "Kauffman discovered the list in September using AI tools to investigate why his swipe-typing stuttered over certain phrases. He found the compendium stored deep in Apple's operating system, containing terms overwhelmingly related to vulgarity, sex, drugs, or violence.",
+      "Phrases like \"right wing conspiracy,\" \"Tibetan independence,\" \"Modi braggart,\" and \"occupied territories\" are excluded, according to Kauffman. He noted inconsistencies: \"read smut\" could be swipe-typed while \"read gay smut\" could not.",
+      "David Greene, senior counsel at the Electronic Frontier Foundation, called the secret list \"creepy\" and argued users should customize these filters. In an email, Apple did not comment directly on Kauffman's findings regarding list size or composition.",
+      "Hundreds of millions of iPhone users worldwide rely on this keyboard, meaning hidden filters quietly shape human communication. Kauffman described the filtering as \"a very light-touch form of censorship\" comparable to Google's autocomplete controversies."
     ],
-    "title": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran",
-    "topic": "US Foreign Policy",
-    "topic_full": "US Foreign Policy · India"
+    "title": "Apple's predictive text restrictions include 'Dictator Trump' and 'Sleepy Joe,' researcher finds",
+    "topic": "Apple",
+    "topic_full": "Apple · United States"
   },
   {
-    "article_path": "/article/khamenei-midterm-elections-will-not-change-us-hostile-stance-new-attacks-will-provoke-a-broader-response",
-    "article_url": "https://ground.news/article/khamenei-midterm-elections-will-not-change-us-hostile-stance-new-attacks-will-provoke-a-broader-response",
+    "article_path": "/article/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million-wtop-news_e99b94",
+    "article_url": "https://ground.news/article/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million-wtop-news_e99b94",
     "bias": [
-      "Left-Leaning coverage frames Republican losses as voters “rejecting war ,” while “hails” casts Iran’s reaction positively and foregrounds Washington’s “hostile policy.” Center coverage stresses continuity—“hostility” persists regardless of party—and warns renewed strikes could produce a “much wider” regional war.",
-      "Right-Leaning coverage shifts toward confrontation, describing U.S. “aggression,” Iranian attacks as challenges to regional “hegemony,” and policy-change expectations as “seriously mistaken,” while emphasizing retaliation and diplomatic efforts.",
-      "The pivotal divide is whether elections signal antiwar sentiment, merely partisan continuity, or impending power realignment.",
-      "Across perspectives, all stress Khamenei’s distrust of U.S. political change, reflecting broader disputes over intervention, escalation, and regional dominance."
+      "Left-Leaning coverage dramatizes the alleged conduct through “Fake CEOs ,” “stolen millions,” Israeli suspects, luxury purchases, and money-laundering implications, while right-leaning coverage stresses law-and-order themes—“massive fraud scheme,” “swindled,” colorful aliases, and AI-mimicked calls targeting accounting departments.",
+      "Center coverage de-emphasizes those emotional or lifestyle details, foregrounding the indictment, worldwide reach, and thousands of companies while retaining qualifiers such as “alleged.” The pivotal divide is whether the $129 million figure signals sensationalized criminality or prosecutorial scope; all perspectives nevertheless emphasize AI impersonation, corporate victims, and serious charges, reflecting broader tensions over crime, technology, and accountability."
     ],
     "bias_bar_text": null,
-    "center_pct": 29.0,
+    "center_pct": 53.0,
+    "error": null,
+    "left_pct": 36.0,
+    "location": "United States",
+    "right_pct": 11.0,
+    "status": "ok",
+    "summary": [
+      "Prosecutors unsealed an indictment Thursday charging Sharon Hazan, Guy Sheetrit, and Jacob Soall with stealing more than $129 million from businesses worldwide using advanced artificial intelligence to impersonate corporate executives and lawyers.",
+      "The defendants targeted accounting departments by sending emails purporting to be from CEOs , then coordinating phone or video calls where they used AI to mimic executive voices and sometimes faces.",
+      "Victims included a Missouri hospital system that lost approximately $4.83 million, a Rhode Island bank that lost $2.68 million, and a California hospital system that lost nearly $3 million; stolen funds were converted into cryptocurrencies to conceal origins.",
+      "Authorities arrested Soall in Spain in June, Hazan in Spain in August, and Sheetrit in the United Kingdom in September; U.S. extradition requests for all three remain pending.",
+      "FBI Assistant Director James C. Barnacle, Jr. warned the case demonstrates how emerging technology can be exploited for large-scale fraud, saying the FBI remains committed to disrupting those targeting New Yorkers and businesses."
+    ],
+    "title": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million",
+    "topic": "US Crime",
+    "topic_full": "US Crime · United States"
+  },
+  {
+    "article_path": "/article/democrats-clear-250-house-seats-in-decisive-power-shift",
+    "article_url": "https://ground.news/article/democrats-clear-250-house-seats-in-decisive-power-shift",
+    "bias": [
+      "Left-Leaning coverage celebrates a potentially “historic” Democratic majority, labels Republicans “losers,” and spotlights Democrats nearing a veto override while emphasizing Trump’s angry reaction.",
+      "Right-Leaning coverage instead dramatizes the same outcome as Republicans being “wiped out,” “crushed,” or facing a “devastating defeat,” framing it as rejection of Trump’s movement and a broader party crisis.",
+      "Center coverage, where present, stresses a “decisive power shift” and possible Supreme Court reforms.",
+      "The pivotal divides are Trump’s conduct, institutional consequences, and whether roughly 248–258 Democratic seats signify momentum or catastrophe; all perspectives nonetheless portray a historically large Democratic gain and major Republican setback."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 28.0,
+    "error": null,
+    "left_pct": 36.0,
+    "location": "United States",
+    "right_pct": 36.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, the Democratic House majority surged past 250 seats, with the party now holding or leading in 259 districts, marking its largest majority in nearly two decades.",
+      "This wave represents a net gain of around 44 seats, the third-largest in the past half-century, surpassing Democrats' performance in the 2006 and 2018 midterms.",
+      "Democrats currently lead by about 12 percentage points in the popular vote, a margin that may expand as counting concludes in Western states, according to Brookings Institution data.",
+      "House Democratic Leader Hakeem Jeffries, expected to be elected speaker in January, signaled a focus on Supreme Court reform, writing that Democrats must \"clean up the mess at the Supreme Court and ban Members of Congress from trading stocks.\"",
+      "While House Democrats may push ethics rules and 18-year term limits for justices, legislation requires 60 votes to clear the Senate, making significant structural changes unlikely."
+    ],
+    "title": "Democrats Clear 250 House Seats in Decisive Power Shift",
+    "topic": "2026 Midterm Elections",
+    "topic_full": "2026 Midterm Elections · United States"
+  },
+  {
+    "article_path": "/article/hawaii-doctors-may-soon-start-prescribing-fresh-food",
+    "article_url": "https://ground.news/article/hawaii-doctors-may-soon-start-prescribing-fresh-food",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 40.0,
+    "error": "Message: \n",
+    "left_pct": 60.0,
+    "location": "Hawaii",
+    "right_pct": null,
+    "status": "fail",
+    "summary": null,
+    "title": "Hawaiʻi Doctors May Soon Start Prescribing Fresh Food",
+    "topic": "Economy",
+    "topic_full": "Economy · Hawaii"
+  },
+  {
+    "article_path": "/article/the-irs-has-announced-new-tax-brackets-for-2027-see-where-you-land",
+    "article_url": "https://ground.news/article/the-irs-has-announced-new-tax-brackets-for-2027-see-where-you-land",
+    "bias": [
+      "Left-Leaning coverage frames the 2027 IRS adjustments cautiously, stressing that inflation may leave taxpayers “essentially just breaking even” and spotlighting the estate-and-gift exemption’s rise to $15.48 million per person.",
+      "Right-Leaning coverage emphasizes unchanged rates, thresholds rising 3.2%, and protection against “bracket creep,” portraying the policy as a routine safeguard rather than a tax increase.",
+      "Center coverage supplies practical detail—$33,200 for joint filers, effects of roughly a few hundred dollars, and “particularly important” benefits for working families—without strong partisan language.",
+      "All perspectives highlight inflation-linked adjustments, but their dividing line is whether they signal limited relief, neutral protection, or family assistance."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 82.0,
     "error": null,
     "left_pct": 12.0,
-    "location": "Iran",
-    "right_pct": 59.0,
+    "location": "United States",
+    "right_pct": 6.0,
     "status": "ok",
     "summary": [
-      "On Wednesday, Supreme Leader Mojtaba Khamenei dismissed expectations that United States policy toward Iran would shift following the Republican Party's election defeats, declaring those who believe otherwise are \"greatly mistaken.\"",
-      "Democrats seized control of Congress in Tuesday's midterms, as voters expressed anger over living costs and the war against Iran that began on February 28, 2026.",
-      "Iranian judiciary chief Gholamhossein Mohseni Ejei welcomed the results, stating President Donald Trump had been \"defeated both militarily and politically\" and threatening further defeats.",
-      "Chief negotiator Mohammad Bagher Ghalibaf stated Americans voted against war, warning that if the United States government betrays this will, \"it will learn our NO comes with a Nightmare.\"",
-      "United States and Israeli leaders have recently threatened to resume attacks, though Khamenei warned that any renewed aggression would trigger a \"much wider\" response from Iran, extending the war's scope."
+      "On Thursday, the Internal Revenue Service announced higher federal income tax brackets and standard deductions for 2027, adjusting income thresholds to reflect inflation measured by the consumer price index.",
+      "The IRS adjusts income ranges annually based on the consumer price index, which climbed 3.7% in September 2026 from one year earlier, driving the 2027 bracket increases.",
+      "Single filers receive a $16,600 standard deduction in 2027, up $500 from 2026, while married couples filing jointly gain $1,000, rising to $33,200 from $32,200.",
+      "Americans filing 2027 taxes in early 2028 may earn more income without moving into higher tax brackets, as the IRS maintains seven tiers ranging from 10% to 37%.",
+      "The IRS also raised the lifetime gift and estate tax exemption to $15.48 million per person in 2027, a $480,000 increase from 2026, allowing greater tax-free wealth transfers."
     ],
-    "title": "Iran's Khamenei says US hostility will persist regardless of party in power",
-    "topic": "Mojtaba Khamenei",
-    "topic_full": "Mojtaba Khamenei · Iran"
+    "title": "IRS announces new federal income tax brackets for 2027",
+    "topic": "IRS",
+    "topic_full": "IRS · United States"
   },
   {
-    "article_path": "/article/netanyahus-position-weakens-as-ultra-orthodox-party-withholds-support",
-    "article_url": "https://ground.news/article/netanyahus-position-weakens-as-ultra-orthodox-party-withholds-support",
+    "article_path": "/article/college-sports-bill-in-jeopardy",
+    "article_url": "https://ground.news/article/college-sports-bill-in-jeopardy",
     "bias": [
-      "Left-Leaning coverage frames Netanyahu’s setback through “position weakens,” “hard-right government,” and Arab-led parties that “soared in strength,” emphasizing voter anger, coalition change, and the rival’s broad backing.",
-      "Right-Leaning coverage instead stresses that Netanyahu “loses” support despite five prior elections of religious-party backing, while portraying his opponent as “tipped to form government,” de-emphasizing Arab-party gains and presidential consultations.",
-      "Center coverage uses restrained “weakens” language and foregrounds the procedural contest.",
-      "The pivotal divide is whether the development signals rejection of Netanyahu’s hard-right politics or merely a historic coalition rupture; all perspectives agree that withheld religious support weakened him and elevated a rival amid Israel’s broader ideological and communal divides."
+      "Left-Leaning coverage frames the Protect College Sports Act through procedural uncertainty—“clock starts ticking” and “landmark” suggest urgency and significance—while right-leaning coverage casts Democratic gains as an existential threat, using “life support” and “on its deathbed” and portraying supporters as having “trumpeted” a bipartisan effort to “save college sports.” Center coverage highlights an “overwhelming wave” of Democratic victories and a possible reset of debate.",
+      "The pivotal divide is whether the election merely complicates House action or effectively dooms the bill; all emphasize its Senate passage, expected lame-duck consideration, and potential overhaul of college sports, reflecting wider disputes over Democratic power and legislative direction."
     ],
-    "bias_bar_text": "L 17% Center 66% R 17%",
-    "center_pct": 66.0,
+    "bias_bar_text": null,
+    "center_pct": 50.0,
     "error": null,
-    "left_pct": 17.0,
-    "location": null,
-    "right_pct": 17.0,
+    "left_pct": 19.0,
+    "location": "Orlando",
+    "right_pct": 31.0,
     "status": "ok",
     "summary": [
-      "On Thursday, Prime Minister Benjamin Netanyahu 's position weakened after an ultra-Orthodox Jewish party withheld support for any nominee and Arab-led parties endorsed his chief rival, Gadi Eisenkot.",
-      "The October 27 election ended in deadlock, with Netanyahu's religious-nationalist coalition winning 53 seats and Eisenkot's anti-Netanyahu bloc securing 48 seats in the 120-seat Knesset, leaving neither with a majority.",
-      "United Torah Judaism informed President Isaac Herzog it has \"decided not to recommend any member of Knesset to form a government,\" prioritizing military service exemptions over coalition backing.",
-      "Herzog must task a lawmaker with forming a government by November 11 after meeting separately with Netanyahu and Eisenkot on Thursday night to conclude his official consultations.",
-      "Amid accusations that Netanyahu is attempting to undermine election results, Herzog urged parties to \"remember the issues tearing us apart from within\" and work to avert another election."
+      "On Monday, the Republican-led House returns for a lame-duck session to decide on the Protect College Sports Act , which passed the Senate 77-22 last month despite Democrats securing at least 247 seats in the recent election.",
+      "Facing hurdles, the bill caps player compensation at about $22 million and limits transfers, with 21 Republicans signing a letter expressing concerns about conference membership rules that could restrict school movement.",
+      "Analysis from the National College Players Association warns around 70% of Division I schools fall below the $50 million revenue threshold, while the USOPC counters that 77.2% of U.S. Olympians compete at covered institutions.",
+      "Speaker Mike Johnson signaled he will not lead House Republicans in the new Congress, and political scientist Kyle Saunders called the bill \"very much on life support,\" though Texas Tech booster Cody Campbell sees election urgency helping passage.",
+      "If Congress fails to act, the Big Ten and Southeastern Conference have discussed moving toward \"conference-led governance,\" as attorneys warn schools should prepare for continued uncertainty and litigation regardless of the lame-duck outcome."
     ],
-    "title": "Netanyahu's position weakens as ultra-Orthodox party withholds support",
+    "title": "Election over, the clock starts ticking again on landmark college sports bill in lame-duck House",
+    "topic": "2026 Midterm Elections",
+    "topic_full": "2026 Midterm Elections · Orlando"
+  },
+  {
+    "article_path": "/article/1-officer-killed-and-3-wounded-in-a-firefight-with-a-suspect-in-lakewood-colorado-wtop-news",
+    "article_url": "https://ground.news/article/1-officer-killed-and-3-wounded-in-a-firefight-with-a-suspect-in-lakewood-colorado-wtop-news",
+    "bias": [
+      "Left-Leaning coverage frames the event as a “firefight,” “bloody shootout,” or exchange of fire, emphasizing casualties while leaving agency comparatively open; right-leaning coverage portrays a deliberate attack, using “gunman,” “opened fire,” and even “eliminated” to cast the suspect as the clear aggressor and police as targets.",
+      "The pivotal divide is whether the confrontation is described reciprocally or as an assault on officers, with the RTD bus serving as a setting rather than a broader social explanation.",
+      "Center coverage uses procedural language such as “under investigation,” tracks changing information, and highlights civilian injury and public-safety warnings.",
+      "All perspectives agree on one officer killed, three wounded, and the suspect fatally shot, reflecting shared concern with violence and public safety amid differing law-and-order interpretations."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 54.0,
+    "error": null,
+    "left_pct": 27.0,
+    "location": "Lakewood",
+    "right_pct": 19.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, the Lakewood Police Department began investigating an officer-involved shooting near West Colfax Avenue and Wadsworth Boulevard in Lakewood, occurring aboard an RTD-contracted bus servicing Route 76.",
+      "Witnesses reported a car rear-ended the bus before gunfire erupted; Patrick Dickman, inside the nearby Easy Pawn, heard 13 shots fired and saw about 5 ambulances leave the scene.",
+      "A Lakewood Police Department spokesperson confirmed one officer was killed and three others injured, while the suspect was also killed and one civilian sustained injuries.",
+      "Authorities transported the wounded to St. Anthony's Hospital and Denver Health, where a procession formed along Speer Boulevard outside the facility as Denver Police Chief Ron Thomas appeared.",
+      "The investigation remains ongoing as the Lakewood Police Department collects evidence, with the intersection of West Colfax Avenue and Wadsworth Boulevard remaining closed pending further updates."
+    ],
+    "title": "1 officer killed and 3 wounded in a firefight with a suspect in Lakewood, Colorado",
+    "topic": "US Crime",
+    "topic_full": "US Crime · Lakewood"
+  },
+  {
+    "article_path": "/article/feds-beth-hammack-favors-gradual-rate-hike-path-to-lower-inflation",
+    "article_url": "https://ground.news/article/feds-beth-hammack-favors-gradual-rate-hike-path-to-lower-inflation",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 56.0,
+    "error": null,
+    "left_pct": null,
+    "location": "United States",
+    "right_pct": 44.0,
+    "status": "no_change",
+    "summary": [
+      "On Thursday, Cleveland Federal Reserve President Beth Hammack said the Fed must do more to bring inflation down to its 2% target, citing unacceptably high price pressures.",
+      "Last week, Hammack and Fed Governor Lisa Cook dissented in favor of a rate hike as the Fed held its benchmark rate within the 3.75%-4.00% range.",
+      "Hammack said she prefers \"more frequent smaller adjustments when possible,\" noting this approach would be less disruptive to households, businesses, and financial markets.",
+      "Richmond Fed President Tom Barkin also backed gradual rate increases on Thursday, as Bloomberg reported several additional policymakers have voiced support for tightening slowly.",
+      "Speaking in Zurich, Hammack emphasized that central bank independence is critical to maintaining the dollar's status and expressed skepticism that cryptocurrencies could threaten the greenback."
+    ],
+    "title": "Fed's Beth Hammack Favors Gradual Rate-Hike Path to Lower Inflation",
+    "topic": "US Economy",
+    "topic_full": "US Economy · United States"
+  },
+  {
+    "article_path": "/article/trump-says-he-met-putin-envoy-sees-ukraine-deal-soon",
+    "article_url": "https://ground.news/article/trump-says-he-met-putin-envoy-sees-ukraine-deal-soon",
+    "bias": [
+      "Left-Leaning coverage uses “teases,” “casually floats,” and “cryptic” to stress Trump’s limited detail, Ukraine’s de-emphasized role, and fears Washington could move closer to Moscow or pressure Kyiv into an unfavorable settlement affecting Europe .",
+      "Right-Leaning coverage amplifies “great,” “beautiful,” and “very big,” presenting Trump as a dealmaker, while also invoking “raves,” “without...substance,” and a possible “pivot towards Moscow”; it highlights Dmitriev as Putin’s confidant and possible Abu Dhabi talks.",
+      "Center coverage sticks to attribution and uncertainty.",
+      "Across perspectives, Trump met Putin’s envoy, not Ukrainian representatives, offered no specific terms or independent confirmation, and linked the proposal to Europe and an Oleshky truce."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 28.0,
+    "error": null,
+    "left_pct": 38.0,
+    "location": "Ukraine",
+    "right_pct": 34.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, President Donald Trump confirmed meeting Russian Presidential Envoy Kirill Dmitriev at the White House, though he explicitly denied meeting the visiting Ukrainian delegation attending an event honoring Melania Trump's ceasefire role.",
+      "First Lady Melania Trump hosted the gathering to honor her role brokering a six-day ceasefire in Oleshky, a city of 2,000 residents she described as being on the brink of disaster due to scarce food and medical supplies.",
+      "Nearly 800 residents evacuated Oleshky during the truce, and Russian Presidential Envoy Dmitriev thanked the first lady for her \"distinguished humanitarian role,\" while Ukrainian officials Davyd Arakhamia and Dmytro Lubinets also attended the White House event.",
+      "President Volodymyr Zelenskyy, speaking in Spain on Friday, stated the operation proved \"something very simple,\" noting that when Putin decides to stop the fighting, the silence saves hundreds of lives.",
+      "Peace between Russia and Ukraine has eluded President Trump, who has pressed both nations to end the war for nearly two years, though he suggested any future agreement could involve all of Europe ."
+    ],
+    "title": "Trump says he met Putin envoy, sees Ukraine deal soon",
+    "topic": "Ukraine War",
+    "topic_full": "Ukraine War · Ukraine"
+  },
+  {
+    "article_path": "/article/audi-should-increase-new-factory-in-the-usa-and-create-3-000-jobs",
+    "article_url": "https://ground.news/article/audi-should-increase-new-factory-in-the-usa-and-create-3-000-jobs",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 33.0,
+    "error": "Message: \n",
+    "left_pct": 17.0,
+    "location": "Georgia",
+    "right_pct": 50.0,
+    "status": "fail",
+    "summary": null,
+    "title": "Audi may boost size of new US auto plant by $3 billion, add 3,000 jobs",
+    "topic": "Audi",
+    "topic_full": "Audi · Georgia"
+  },
+  {
+    "article_path": "/article/wsj-major-investors-are-skeptical-anthropic-ipo-can-achieve-15-trillion-valuation",
+    "article_url": "https://ground.news/article/wsj-major-investors-are-skeptical-anthropic-ipo-can-achieve-15-trillion-valuation",
+    "bias": [
+      "Left-Leaning coverage frames Anthropic ’s lofty $1.5 trillion target as overreach, using “lower its ambitions” and “yellow light” to stress caution around concentrated tech wealth; right-leaning accounts dramatize the same doubts through “in trouble,” “historic tech rout,” and “biggest IPO ever,” highlighting a possible slide toward $1 trillion and the shaky economics of the AI boom.",
+      "Center coverage bridges them, emphasizing “AI backlash,” a larger discount, and uncertainty over the November listing and investor roadshow.",
+      "The pivotal divide is whether this is chiefly a warning about corporate excess, a market reckoning, or evidence of systemic AI overvaluation.",
+      "All portray investor skepticism, sell-off pressure, and IPO uncertainty as consequential."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 38.0,
+    "error": null,
+    "left_pct": 12.0,
+    "location": "United States",
+    "right_pct": 50.0,
+    "status": "ok",
+    "summary": [
+      "On Nov 5, The Wall Street Journal and Reuters reported that investors are skeptical about Anthropic 's $1.5 trillion IPO valuation, raising doubts about the AI-related startup's public listing path.",
+      "Wall Street and Silicon Valley were uncertain on Nov 5 following a two-day selloff in AI-related assets triggered by Tuesday's midterm elections and broader market anxiety.",
+      "Investors are awaiting Anthropic's October revenue figure, which the company left blank in its updated S-1 filing, to assess whether growth has recovered after a recent slowdown.",
+      "Potential investors are raising doubts about whether Anthropic can proceed with its roadshow scheduled for next week, with some suggesting the company may need to offer a bigger discount.",
+      "Some analysts suggest Anthropic may mirror SpaceX's trajectory, noting that strong retail demand could eventually bolster the offering despite current skepticism regarding the $1.5 trillion valuation."
+    ],
+    "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation: WSJ",
+    "topic": "Anthropic",
+    "topic_full": "Anthropic · United States"
+  },
+  {
+    "article_path": "/article/tehran-reviews-concrete-proposals-on-future-of-nuclear-program-amid-talks-with-us",
+    "article_url": "https://ground.news/article/tehran-reviews-concrete-proposals-on-future-of-nuclear-program-amid-talks-with-us",
+    "bias": [
+      "Left-Leaning coverage emphasizes the proposal’s wider stakes—sanctions relief, frozen assets, “war reparations,” and even the Strait of Hormuz—portraying it as a conditional diplomatic maneuver with regional implications.",
+      "Right-Leaning coverage frames the same seven conditions as coercion, using charged terms such as “bombshell,” “ultimatum,” “major demands,” and “destroy,” while linking Iran’s move to Trump, mediation, and possible conflict.",
+      "Center coverage de-emphasizes these broader disputes, calling them “concrete proposals” and focusing on transmission through Qatar and Washington’s review.",
+      "The pivotal divide is whether the conditions signal negotiation or intransigence; all perspectives nevertheless agree Iran sent a proposal, tied talks to seven demands, and left its details undisclosed."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 13.0,
+    "error": null,
+    "left_pct": 26.0,
+    "location": "Tehran",
+    "right_pct": 61.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, Iran submitted a nuclear proposal to the United States through Qatar, conditioning future negotiations on Washington meeting seven specific demands.",
+      "Mediators intensified efforts to end the conflict between the United States and Iran amid fears of renewed combat following the U.S. midterm elections.",
+      "Mohsen Rezaei, Iran's top security official, said Thursday, \"We have announced seven conditions to the Americans,\" citing sanctions relief, frozen funds, and war reparations.",
+      "Washington is currently reviewing the proposal, though President Donald Trump declined on Tuesday to rule out resuming combat operations if diplomatic efforts fail.",
+      "Regional instability persists as conflict between Iran-backed Hezbollah and Israel continues, while Iran-aligned Houthis in Yemen recently struck energy facilities and airports in Saudi Arabia."
+    ],
+    "title": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters",
+    "topic": "Iran Politics",
+    "topic_full": "Iran Politics · Tehran"
+  },
+  {
+    "article_path": "/article/washington-voters-approve-transgender-athlete-ban_50136c",
+    "article_url": "https://ground.news/article/washington-voters-approve-transgender-athlete-ban_50136c",
+    "bias": [
+      "Left-Leaning coverage frames Initiative 638’s roughly 56–57% support as an “anti-LGBTQ” setback, stressing exclusion, potentially humiliating verification, and litigation; terms like “horrible,” “ban,” and “exclude” heighten alarm.",
+      "Right-Leaning coverage portrays the same vote as a “major victory” protecting girls’ sports , privacy, and “biological reality,” using “far left” and “mutilating interventions” to condemn opponents and broaden the conflict to medical policy.",
+      "Center coverage presents supporters’ fairness claims alongside “segregation” concerns.",
+      "The pivotal divide is whether sex verification safeguards female categories or intrudes on students’ rights.",
+      "All acknowledge the vote, its national significance, and a widening cultural struggle over gender, youth, and institutional authority."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 37.0,
+    "error": null,
+    "left_pct": 29.0,
+    "location": "Washington",
+    "right_pct": 34.0,
+    "status": "ok",
+    "summary": [
+      "Voters in Washington and Colorado approved measures restricting transgender athletes from participating in school-sanctioned sports .",
+      "Washington's Measure 638 received over 56% of the vote, preventing students assigned male at birth from competing in female sports and requiring gender verification from a health care provider.",
+      "Colorado's Proposition 134 passed with 52% support, requiring schools and athletic associations to classify sports as male, female or coed, based on athletes' sex assigned at birth.",
+      "The results represent a political shift, as voters in traditionally Democratic states supported restrictions that Republican-led states have increasingly adopted."
+    ],
+    "title": "Left-leaning Washington and Colorado join more conservative states in banning transgender athletes",
+    "topic": "Washington State Politics",
+    "topic_full": "Washington State Politics · Washington"
+  },
+  {
+    "article_path": "/article/hinojosa-vows-to-protect-texas-citizens-from-data-centers",
+    "article_url": "https://ground.news/article/hinojosa-vows-to-protect-texas-citizens-from-data-centers",
+    "bias": [
+      "Left-Leaning coverage frames Gina Hinojosa’s CNN remarks with urgent, sweeping language such as “done,” “put the brakes on,” and “must be halted,” portraying data centers as potential sources of unspecified “damage.” Center coverage uses more procedural phrasing—“laws,” “regulations,” and “protect rural communities”—while still describing a possible pause.",
+      "Hinojosa’s Democratic identity is foregrounded only in one left-leaning headline, not across both perspectives.",
+      "No right-leaning narrative is supplied, so a contrasting pro-development or job-creation frame cannot be assessed.",
+      "Across the coverage, proposed safeguards are mentioned, but their details, enforcement, and effects on existing projects remain undeveloped."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 42.0,
+    "error": null,
+    "left_pct": 29.0,
+    "location": "Texas",
+    "right_pct": 29.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, Texas Governor-elect Gina Hinojosa announced plans to introduce legislation protecting residents from data centers , pledging to pause new projects until regulations ensure communities have \"a seat at the table.\"",
+      "Before Hinojosa's election victory, Greg Abbott became one of the first Republican governors to halt new data center connections to the electric grid, ordering a comprehensive audit amid increasing public opposition.",
+      "During a Thursday news conference in Austin, Hinojosa said she contacted the Texas Parks and Wildlife Commission executive director \"to request that no action be taken\" regarding the potential Boca Chica State Park sale to SpaceX.",
+      "Billionaire Elon Musk, whose Tesla and SpaceX firms are headquartered in the Lone Star State, supported Abbott in the election and spent $158 million to promote Texas Republican US Senate candidate Ken Paxton.",
+      "Future policy decisions will occur on Hinojosa's terms, though she acknowledged the state can maintain a working relationship with Musk's companies, emphasizing that all future operations must prioritize state protections."
+    ],
+    "title": "Hinojosa vows to protect Texas citizens from data centers",
+    "topic": "Texas Politics",
+    "topic_full": "Texas Politics · Texas"
+  },
+  {
+    "article_path": "/article/trump-is-right-michigan-senator-elect-el-sayed-agrees-with-presidents-plan-to-end-israel-aid",
+    "article_url": "https://ground.news/article/trump-is-right-michigan-senator-elect-el-sayed-agrees-with-presidents-plan-to-end-israel-aid",
+    "bias": [
+      "Coverage converges on Abdul El-Sayed ’s opposition to U.S. support for Israel and willingness to work with Trump, but diverges in emphasis: left-leaning framing highlights his “praises” of a reported $4 billion cut and cross-party cooperation; center coverage presents “rare common ground” while adding his broader call to end aid and ban weapons sales, plus his distinction between Judaism and Israel; right-leaning framing foregrounds “subsidize a foreign military,” “awful things,” and weapons allegedly used harmfully.",
+      "The pivotal divide is whether this is pragmatic cooperation, expanded policy, or moral condemnation—though all stress reducing U.S. military support."
+    ],
+    "bias_bar_text": "L 20% Center 27% Right 53%",
+    "center_pct": 27.0,
+    "error": null,
+    "left_pct": 20.0,
+    "location": null,
+    "right_pct": 53.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, President Donald Trump announced plans to end approximately $4 billion in annual United States military aid to Israel by the end of 2026, citing an earlier agreement with Prime Minister Benjamin Netanyahu.",
+      "Michigan Senator-elect Abdul El-Sayed welcomed the decision during an appearance on Thursday's Morning Joe, stating, \"I think the president is actually right on this policy.\"",
+      "El-Sayed, the first Muslim American elected to the Senate, called for halting American arms sales to Israel, arguing taxpayer dollars should not fund actions he described as \"genocide\" and \"apartheid\" in Gaza and the West Bank.",
+      "The Democrat rejected claims that criticizing Israel constitutes antisemitism, emphasizing the need to separate Judaism from Israeli government policies while affirming commitment to Jewish children's safety.",
+      "El-Sayed advocated for a broader review of military support for Egypt, Saudi Arabia, Jordan, and Pakistan, arguing American taxpayer dollars should be prioritized for domestic needs instead."
+    ],
+    "title": "El-Sayed backs Trump plan to end Israel aid: ‘I agree with him on that’",
     "topic": null,
     "topic_full": null
   },
@@ -685,8 +804,35 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/erdogan-the-foundations-of-turkish-american-relations-are-solid",
-    "article_url": "https://ground.news/article/erdogan-the-foundations-of-turkish-american-relations-are-solid",
+    "article_path": "/article/jay-rockefeller-senate-voice-on-health-care-and-security-dies-at-89",
+    "article_url": "https://ground.news/article/jay-rockefeller-senate-voice-on-health-care-and-security-dies-at-89",
+    "bias": [
+      "Coverage of Jay Rockefeller’s death is less sharply polarized than ideologically differentiated: left-leaning framing calls him a “voice” for health care and security who “championed” the “most vulnerable,” emphasizing moral advocacy, while right-leaning treatment labels him a “champion” of health care, tax reform, social welfare, and security but foregrounds his Democratic identity and the circumstances of his death.",
+      "Center coverage de-emphasizes partisan characterization, instead stressing his governor-and-senator timeline and role in the 1997 children’s insurance program.",
+      "The pivotal divide is whether Rockefeller is remembered chiefly as a defender of disadvantaged people or as a long-serving Democrat spanning broad policy areas.",
+      "All perspectives agree on his 89-year lifespan, offices, and health-care significance, reflecting shared recognition of public service despite differing ideological lenses."
+    ],
+    "bias_bar_text": "Left 38% Center 37% Right 25%",
+    "center_pct": 37.0,
+    "error": null,
+    "left_pct": 38.0,
+    "location": null,
+    "right_pct": 25.0,
+    "status": "ok",
+    "summary": [
+      "Former West Virginia Governor and U.S. Senator Jay Rockefeller died Friday at 89 at his home in Washington, according to The Washington Post.",
+      "Born into a prominent family in New York City, Rockefeller moved in 1964 to Emmons along the Big Coal River to serve as a Volunteers in Service to America worker.",
+      "Serving as governor from 1977 to 1985 and a five-term U.S. senator until 2015, the Democrat became a fixture of West Virginia politics during an era dominated by his party.",
+      "Rockefeller authored the Children's Health Insurance Program , providing coverage for millions of children, and played a pivotal role in passing the Affordable Care Act of 2010.",
+      "Beyond healthcare, he leveraged long-cultivated relationships in Asia to drive economic development, helping attract investments from companies like Toyota to West Virginia."
+    ],
+    "title": "Jay Rockefeller, Senate voice on health care and security, dies at 89",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/trump-blames-voters-for-the-collapse-of-the-stock-market-you-dont-have-anyone-to-blame-except-you",
+    "article_url": "https://ground.news/article/trump-blames-voters-for-the-collapse-of-the-stock-market-you-dont-have-anyone-to-blame-except-you",
     "bias": null,
     "bias_bar_text": null,
     "center_pct": null,
@@ -696,39 +842,18 @@
     "right_pct": null,
     "status": "fail",
     "summary": null,
-    "title": "Erdogan on US Elections: Turkey-US Relations Are Based on Solid Foundations",
+    "title": "Trump Blames Democrats for US Stock Market Plunge After GOP Midterm Losses",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/all-kinfolk-aint-skinfolk-ms-now-berates-donalds-after-fl-gov-win-celebrates-bottoms-historic-ga-win",
-    "article_url": "https://ground.news/article/all-kinfolk-aint-skinfolk-ms-now-berates-donalds-after-fl-gov-win-celebrates-bottoms-historic-ga-win",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": null,
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "Republican Byron Donalds narrowly defeated Democrat David Jolly and will succeed term-limited Governor Ron DeSantis.",
-      "Donalds became Florida’s first Black governor.",
-      "MS NOW host Symone Sanders Townsend said Donalds’ policies resembled DeSantis’ agenda.",
-      "Media Research Center analyst Tim Graham criticized the remarks, saying they suggested Black conservatives’ beliefs conflicted with their racial identity."
-    ],
-    "title": "MS NOW Host Questions Byron Donalds’ Connection to Florida’s Black Community After Historic Gubernatorial Win",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/almost-three-quarters-of-brits-view-us-as-serious-threat-to-world-peace-survey-finds",
-    "article_url": "https://ground.news/article/almost-three-quarters-of-brits-view-us-as-serious-threat-to-world-peace-survey-finds",
+    "article_path": "/article/jody-owens-aaron-banks-to-be-sentenced-in-federal-bribery-case",
+    "article_url": "https://ground.news/article/jody-owens-aaron-banks-to-be-sentenced-in-federal-bribery-case",
     "bias": [
-      "The left-leaning coverage frames the poll as a “stark change,” stressing that 74% of Britons now view the United States as a “serious threat” to global peace, up from 36% two years earlier, and linking the shift to “Trump’s America,” wariness of U.S. leadership, and warmer views of Europe .",
-      "No right-leaning narrative is provided, so a counter-emphasis or rival characterization cannot be assessed.",
-      "Center coverage uses the more restrained “almost 75%,” de-emphasizing Trump, causation, and historical comparison.",
-      "Across perspectives, the shared emphasis is that roughly three-quarters of Britons hold this negative view."
+      "The left frames the case as a scandal that “engulfed” multiple local officials, emphasizing institutional reach, while the right condenses it into a “bribery scheme” that “ensnared” officials, stressing criminal wrongdoing with less context.",
+      "Neither injects overt partisan terms such as “woke” or “far-left,” and both highlight imprisonment and corruption .",
+      "Center-Leaning coverage supplies the most procedural detail: Jody Owens’s 41-month sentence, guilty plea, alleged $250,000 in bribes, and Aaron Banks’s involvement, though phrases like “Behind Bars” and “Whew!” add drama.",
+      "The dividing line is breadth versus specificity, while all perspectives converge on sentencing and public corruption."
     ],
     "bias_bar_text": null,
     "center_pct": null,
@@ -738,149 +863,14 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
-      "A National Centre for Social Research survey found that 74% of Britons view the United States as a serious threat to global peace, up from 36% in 2024.",
-      "The survey found that 42% of Britons favor closer ties with Western Europe , while 9% favor closer ties with the United States.",
-      "Support for increased defense spending reached 56%, with stronger backing among older people and supporters of the Conservative Party and Reform UK.",
-      "Report author Sophia Gaston said concerns about instability, China, and doubts about American leadership have shifted Britain’s foreign-policy outlook."
+      "On Thursday, Nov. 5, Judge Daniel P. Jordan III sentenced former Hinds County District Attorney Jody Owens to 41 months in federal prison and a $100,000 fine for his role in a bribery scheme.",
+      "The FBI launched an undercover operation in 2022 using agents posing as real estate developers interested in a Downtown Jackson convention center hotel project. Owens facilitated more than $80,000 in bribes to city officials to advance the deal.",
+      "Former Jackson City Council President Aaron Banks was sentenced Thursday to 45 months in prison and a $15,000 fine. Former Mayor Chokwe Antar Lumumba pleaded guilty and faces sentencing on Nov. 20.",
+      "Owens must report to the Federal Correctional Complex Montgomery in Alabama on Jan. 4, 2027. If any portion of the $100,000 fine remains unpaid upon release, he will owe $200 monthly.",
+      "Before his guilty plea, Owens ran as a criminal justice reformer and served as lead attorney for the Southern Poverty Law Center, marking a stark contrast to his federal conviction."
     ],
-    "title": "Almost three-quarters of Brits view US as serious threat to world peace under Trump, survey reveals",
+    "title": "Former Mississippi district attorney sentenced to more than 3 years in prison for bribery scheme",
     "topic": null,
     "topic_full": null
-  },
-  {
-    "article_path": "/article/one-in-four-adolescents-worldwide-reported-no-active-days-in-the-previous-week",
-    "article_url": "https://ground.news/article/one-in-four-adolescents-worldwide-reported-no-active-days-in-the-previous-week",
-    "bias": [
-      "Left-Leaning coverage frames adolescent inactivity as a persistent public- health and inequality problem, using phrases such as “only,” “no daily exercise,” and “falling short” to spotlight girls, Filipino adolescents’ especially low activity, and India’s exclusion.",
-      "Right-Leaning coverage foregrounds urgency through “warns,” “sounds alarm,” and “almost no,” emphasizing unchanged conditions and health risks while de-emphasizing methodology and country detail.",
-      "Center coverage supplies the study’s 140-country, 3.2-million-adolescent scope, 240-million estimate, 14% daily-activity figure, and 13% UK-girls statistic.",
-      "Despite contrasting rhetoric, all highlight stagnation, girls’ lower activity, and associated health concerns."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 37.0,
-    "error": null,
-    "left_pct": 35.0,
-    "location": "United Kingdom",
-    "right_pct": 28.0,
-    "status": "ok",
-    "summary": [
-      "On Wednesday, the World Health Organization released a study finding one in four adolescents worldwide—around 240 million young people—reported no active days per week in 2025, with levels remaining \"virtually unchanged\" for 15 years.",
-      "Published in The Lancet Global Health, the research analyzed 389 surveys of 3.2 million adolescents aged 11 to 17 across 140 countries, covering 59% of the global adolescent population.",
-      "Globally, boys averaged three active days per week compared to 2.4 for girls in 2025; while 40% of teens in Namibia, Nepal, and the Philippines reported no active days, others showed higher activity levels.",
-      "WHO chief Tedros Adhanom Ghebreyesus warned that \"physical inactivity is a major risk factor for heart disease, type 2 diabetes and some cancers,\" noting that early active habits are critical to health protection.",
-      "The United Nations health agency urged societies to build schools and communities where moving is safe and accessible, though no country is currently on track to meet its 15% inactivity reduction target by 2030."
-    ],
-    "title": "One in four adolescents worldwide reported no active days in the previous week",
-    "topic": "World Health Organization",
-    "topic_full": "World Health Organization · United Kingdom"
-  },
-  {
-    "article_path": "/article/billionaire-leon-black-sues-us-rep-robert-garcia-for-defamation-over-epstein-comments",
-    "article_url": "https://ground.news/article/billionaire-leon-black-sues-us-rep-robert-garcia-for-defamation-over-epstein-comments",
-    "bias": [
-      "Left-Leaning coverage foregrounds Black as a “Billionaire,” invokes Epstein as a “disgraced financier,” and adds the House contempt resolution, framing the suit within wealth, power, and congressional accountability.",
-      "Right-Leaning coverage spotlights Garcia’s Democratic identity, uses urgent “JUST IN,” alleges he “knowingly lied,” and highlights the $7.25 million demand, portraying deliberate political misconduct.",
-      "Center coverage softens the clash with procedural details—jury trial, damages, and attributed allegations—while still noting Epstein’s stigma.",
-      "The pivotal divide is whether to emphasize institutional context or alleged deception and financial stakes; all agree Black sued Garcia over comments linking him to Epstein."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 54.0,
-    "error": null,
-    "left_pct": 29.0,
-    "location": "United States",
-    "right_pct": 17.0,
-    "status": "ok",
-    "summary": [
-      "On Wednesday, billionaire Leon Black filed a federal defamation lawsuit in the Southern District against California Rep. Robert Garcia for public comments linking him to Jeffrey Epstein .",
-      "Garcia claimed in a TV interview that \"Leon Black is at the center of Jeffrey Epstein's crimes\" and alleged he \"talked to survivors that have credibly named Leon Black,\" statements Black's lawyers assert are malicious.",
-      "A 2021 Apollo Global Management review found Black paid Epstein $158 million, while the House Oversight Committee recently held Black in contempt for defying subpoenas in its investigation.",
-      "Seeking $7.25 million in compensatory and punitive damages, the lawsuit claims Garcia's comments caused threats and business harm; Garcia's office did not immediately respond to requests for comment.",
-      "Black maintains he had no knowledge of any criminal conduct by Epstein, while the Oversight Committee's probe also questioned figures like Bill Clinton and Bill Gates."
-    ],
-    "title": "Billionaire Leon Black sues U.S. Rep. Robert Garcia for defamation over Epstein comments",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/jetblue-raises-checked-bag-fees-again-now-up-to-70-for-first-bag",
-    "article_url": "https://ground.news/article/jetblue-raises-checked-bag-fees-again-now-up-to-70-for-first-bag",
-    "bias": [
-      "Left-Leaning coverage spotlights JetBlue raising fees “again,” using repetition to invite consumer frustration while de-emphasizing causes, prices, and timing.",
-      "Right-Leaning coverage likewise stresses burden, portraying passengers as “facing” $70 “charges” and intensifying airline pressures as “soaring” costs, but foregrounds individual wallets.",
-      "Center coverage adds market context: three increases in roughly a year, fees reaching $70, fuel and operating costs that “bite,” and JetBlue potentially leading an industry trend.",
-      "The pivotal divide is whether the change is chiefly a recurring corporate burden or a response to financial strain.",
-      "All perspectives emphasize repeated increases and passenger impact, reflecting broader tensions over affordability and corporate pricing."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 62.0,
-    "error": null,
-    "left_pct": 27.0,
-    "location": "United States",
-    "right_pct": 11.0,
-    "status": "ok",
-    "summary": [
-      "Effective Tuesday, November 3, 2026, JetBlue Airways increased checked bag fees for the third time in less than a year, affecting flights within the United States, Latin America, the Caribbean, and Canada.",
-      "Jet fuel prices have roughly doubled since the Iran war began in February, prompting JetBlue to state that \"We're adjusting checked bag fees to help offset rising fuel and operating costs.\"",
-      "Travelers booking economy now pay at least $50 for a first bag during off-peak periods, rising to $60 within 24 hours of departure; peak fees increase to $55 in advance and $70 for late bookings.",
-      "JetBlue has repeatedly led the industry with these increases, and other major airlines typically follow within weeks; frequent flyer status holders and those with co-branded credit cards remain exempt from these charges.",
-      "The airline has not reported an operating profit since before the pandemic and aims to return to profitability in 2027, though rising fuel costs continue to challenge the carrier's financial stability."
-    ],
-    "title": "JetBlue Raises Baggage Fees for a Second Time as Jet Fuel Prices Stay Elevated",
-    "topic": "JetBlue",
-    "topic_full": "JetBlue · United States"
-  },
-  {
-    "article_path": "/article/3-executions-scheduled-for-the-same-day-in-indiana-florida-and-alabama",
-    "article_url": "https://ground.news/article/3-executions-scheduled-for-the-same-day-in-indiana-florida-and-alabama",
-    "bias": [
-      "Left-Leaning coverage casts Indiana’s lethal-injection execution of Jeffrey Weisheit—and the same-day scheduling of Jesse Guardado and Michael Taylor in Florida and Alabama—as a test of fairness, constitutionality, and transparency, using phrases like “serious questions” and “tight secrecy” around closed chamber blinds and advocating life sentences.",
-      "Right-Leaning coverage treats the cases chiefly as lawful consequences of murder convictions, stressing “death row inmates,” scheduling, Florida’s 19th execution of 2026, and the earlier August 13 triple-scheduled day, while de-emphasizing procedural objections.",
-      "Center coverage calls the event “rare,” notes guilt was undisputed, yet reports advocates’ mitigation arguments.",
-      "All agree on the schedule, Weisheit’s execution, and its 2026 recurrence—disagreeing over punishment, oversight, and meaning."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 53.0,
-    "error": null,
-    "left_pct": 34.0,
-    "location": "United States",
-    "right_pct": 13.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, Indiana, Florida, and Alabama scheduled executions for Jeffrey Weisheit, Jesse Guardado, and Michael Taylor, marking the second time this year three people are set to be put to death on the same day.",
-      "Following distinct legal proceedings, Weisheit was convicted of arson killings in Indiana; Guardado confessed to murder in Florida; and Taylor was sentenced for a robbery-homicide in Alabama 35 years after his crime.",
-      "Advocates note Taylor's youth at the time of his crime and Guardado's history as a victim of the abusive Dozier School, while Weisheit's defense team questions whether the state's drug supplier, Pharmaneek, meets safety standards.",
-      "Governor Mike Braun denied clemency for Weisheit on Monday, November 2, while Governor Ron DeSantis rejected appeals for Guardado; both states proceed despite legal challenges regarding lethal injection drug safety.",
-      "Execution rates in 2025 and 2026 have been roughly double the annual average of the preceding decade, according to the Death Penalty Information Center, despite declining public support for the death penalty."
-    ],
-    "title": "3 executions scheduled for the same day in Indiana, Florida and Alabama",
-    "topic": "Death Penalty",
-    "topic_full": "Death Penalty · United States"
-  },
-  {
-    "article_path": "/article/lockheed-martin-will-pay-295-million-in-a-case-of-discrimination-against-white-employees",
-    "article_url": "https://ground.news/article/lockheed-martin-will-pay-295-million-in-a-case-of-discrimination-against-white-employees",
-    "bias": [
-      "Left-Leaning coverage frames the case as a federal “diversity probe,” while right-leaning coverage foregrounds “discriminated against white workers” and ties the settlement to the Trump administration, giving the allegations sharper political resonance.",
-      "Both emphasize the $29.5 million payment, but the pivotal divide is whether diversity-linked compensation is portrayed primarily as a subject of oversight or as alleged unequal treatment.",
-      "Center coverage de-emphasizes partisan framing and adds allegations of HR “pressure,” a whistleblower lawsuit, race-conscious selection, and contractor certification.",
-      "Across perspectives, the shared emphasis is that federal claims targeted Lockheed Martin ’s diversity-related bonus program and ended in settlement."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 64.0,
-    "error": null,
-    "left_pct": 25.0,
-    "location": "United States",
-    "right_pct": 11.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, Lockheed Martin agreed to pay $29.5 million to resolve Justice Department and Equal Employment Opportunity Commission discrimination claims, allocating $22 million to the U.S. government and $7.5 million to more than 1,000 affected employees.",
-      "Federal investigators allege that a 2021 Compensation Adder program pressured managers to adjust race and sex selections to clear statistical 'flags,' with the DOJ claiming managers were directed to remove nonminorities and add minorities to satisfy workforce goals.",
-      "Whistleblower Tim Booher, a former Lockheed vice president, triggered the investigation after meeting with EEOC Commissioner Andrea Lucas in July 2024 to detail his allegations. Booher will receive $4.4 million under the False Claims Act's whistleblower provision.",
-      "Denying the allegations, Lockheed Martin stated it agreed to the settlement to avoid the \"distraction and expense of prolonged litigation\" while maintaining it \"did not admit liability\" and remains focused on its \"critical national security mission.\"",
-      "The Trump administration has increasingly used the 1863 False Claims Act to target corporate diversity, equity, and inclusion programs, securing similar settlements from Deloitte, Accenture, and IBM as part of this broader enforcement initiative."
-    ],
-    "title": "Lockheed Martin to pay $29.5 million to settle federal claims it discriminated against white workers",
-    "topic": "Lockheed Martin",
-    "topic_full": "Lockheed Martin · United States"
   }
 ]
