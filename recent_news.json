@@ -1,12 +1,12 @@
 [
   {
-    "article_path": "/article/faa-lifts-ground-stop-after-four-hours-but-flight-cancellations-will-stretch-into-the-weekend_a3c4db",
-    "article_url": "https://ground.news/article/faa-lifts-ground-stop-after-four-hours-but-flight-cancellations-will-stretch-into-the-weekend_a3c4db",
+    "article_path": "/article/copper-wire-replacement-caused-air-traffic-control-issue-that-grounded-flights-across-us-white-house_62ac89",
+    "article_url": "https://ground.news/article/copper-wire-replacement-caused-air-traffic-control-issue-that-grounded-flights-across-us-white-house_62ac89",
     "bias": [
-      "Left-Leaning coverage foregrounds passengers’ suffering, calling the disruption a “massive failure,” “chaos,” and a “five-hour ordeal,” while linking it to underinvestment and advocating $30–$50 billion for modernization.",
-      "Right-Leaning coverage frames the same outage as government infrastructure failure, stressing “old hardware,” a “meltdown,” contractors, and possible software-update interaction with legacy systems, while emphasizing officials’ rejection of a “cyberattack.” The pivotal divide is whether the event chiefly demonstrates public harm demanding investment or bureaucratic mismanagement demanding accountability.",
-      "Center coverage is more operational, stressing recovery and “stranded” travelers.",
-      "All perspectives agree on the four-to-five-hour stop, continuing cancellations, communications problems, and uncertain technical cause, reflecting broader disputes over government capacity, spending, and responsibility."
+      "Left-Leaning coverage frames the four-to-five-hour ground stop as “air traffic paralysis,” “outdated infrastructure,” and evidence of systemic underinvestment, emphasizing reform and economic fallout.",
+      "Right-Leaning coverage stresses “chaos,” “ travel hell,” and possible contractor “incompetence,” portraying the incident as government mismanagement and political neglect while highlighting roughly 8,000 delays and 7,000–8,000 cancellations.",
+      "Center coverage de-emphasizes blame, retaining uncertainty among a faulty router, installation error, and routine maintenance.",
+      "The sharpest divide concerns whether the failure signifies structural decay or contractor culpability; all perspectives emphasize passenger disruption, aging technology, continued recovery, and officials’ rejection of a foreign cyberattack."
     ],
     "bias_bar_text": null,
     "center_pct": null,
@@ -16,137 +16,31 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
-      "On Friday, the Federal Aviation Administration lifted a nationwide ground stop after a multi-hour communication issue halted flights nationwide, issued 'due to extraordinary circumstances and for reasons of safety.'",
-      "Homeland Security Secretary Markwayne Mullin told reporters at the White House Friday evening there was no indication of a 'nefarious attack' on aviation systems; the disruption impacted multiple Air Route Traffic Control Centers.",
-      "FlightAware reported more than 10,000 domestic delays and 4,000 cancellations by 7:15 p.m. Eastern Time on Friday. Airports nationwide struggled with limited gate space for thousands of flights already airborne.",
-      "Cancellations will stretch into the weekend as the FAA manages the fallout. The agency is spending $12.5 billion on systems overhaul, with Transportation Secretary Sean Duffy suggesting Congressional approval for another $30 billion may be necessary."
+      "On Friday, the Federal Aviation Administration grounded planes for over four hours—the longest nationwide ground stop in 25 years—after new technology overloaded antiquated air traffic control equipment, causing \"intermittent\" communications and radar gaps.",
+      "Transportation Secretary Sean Duffy said a contractor replacing copper wires with fiber optic lines caused the system overload; he and the White House are pushing for $30 billion more to complete critical infrastructure upgrades.",
+      "The stoppage affected about a quarter of 45,000 daily U.S. flights, with more than 4,100 cancellations. Aviation consultant Andrew Charlton said the \"knock-on effect\" of the disruption is incredible.",
+      "FAA Administrator Bryan Bedford said Saturday that U.S. air travel should be fully recovered by the end of tomorrow, though flights will still experience delays and cancellations throughout the day.",
+      "Modernizing active aviation systems is \"incredibly complex and dangerous,\" aviation consultant Andrew Charlton warned, as officials investigate potential contractor \"incompetence\" while aging equipment remains a long-term concern."
     ],
     "title": "Source Icon",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/trump-to-meet-with-chinas-xi-and-russias-putin-at-historic-trilateral-sit-down-on-nuclear-non-proliferation",
-    "article_url": "https://ground.news/article/trump-to-meet-with-chinas-xi-and-russias-putin-at-historic-trilateral-sit-down-on-nuclear-non-proliferation",
+    "article_path": "/article/alaska-elects-jonathan-kreiss-tomkins-the-first-democrat-governor-since-1998",
+    "article_url": "https://ground.news/article/alaska-elects-jonathan-kreiss-tomkins-the-first-democrat-governor-since-1998",
     "bias": [
-      "Left-Leaning coverage foregrounds the consequential omission of Ukraine, Europe ’s security, and possible “power posturing,” even invoking “redistribution of spheres of influence” and, in one instance, “dictator”; right-leaning coverage instead portrays Trump as the architect of an “historic” or “extraordinary” diplomatic initiative addressing nuclear arms, Iran, and possibly North Korea.",
-      "The pivotal divide is whether excluding Kyiv signals marginalization or purposeful focus, while “nuclear” language evokes danger on the left and leadership opportunity on the right.",
-      "Center coverage more consistently stresses “symbolism more than substance” and low expectations.",
-      "All perspectives agree the first U.S.-China-Russia meeting could discuss nuclear proliferation and Iran, but none expects a major breakthrough, reflecting wider divides over Trump’s geopolitical role and Ukraine’s place in diplomacy."
+      "Left-Leaning coverage frames Jonathan Kreiss-Tomkins’s first Democratic Alaska victory since 1998 as a “historic victory,” “landslide,” and “national Democratic wave,” emphasizing a setback for Trump and expanding Democratic control.",
+      "Right-Leaning coverage instead stresses “GOP infighting,” vote-splitting, and “confusing ranked-choice voting,” portraying the result as a “red-state disaster” and Republican failure, while “RINO” attacks Lisa Murkowski’s endorsement.",
+      "Center coverage de-emphasizes partisan drama, highlighting bipartisan support, first-choice totals above 50%, and priorities such as education and affordability.",
+      "All emphasize the Democratic win, Trump-linked defeat, and broader midterm stakes, reflecting deeper divides over party realignment, electoral rules, and Trump’s influence."
     ],
     "bias_bar_text": null,
-    "center_pct": 45.0,
+    "center_pct": 38.0,
     "error": null,
-    "left_pct": 28.0,
-    "location": "United States",
-    "right_pct": 27.0,
-    "status": "ok",
-    "summary": [
-      "According to the White House, President Donald Trump will meet with Chinese President Xi Jinping and Russian President Vladimir Putin in Shenzhen, China, on November 19 for an unprecedented trilateral summit on the sidelines of the Asia-Pacific Economic Cooperation summit.",
-      "Assistant Press Secretary Olivia Wales stated that Trump intends to focus the discussions on nuclear arms control and reducing global nuclear stockpiles, following the expiration of the New Strategic Arms Reduction Treaty earlier in the year.",
-      "A senior U.S. administration official noted that Washington views China's rapidly expanding nuclear arsenal as a central reason for bringing Beijing into arms control talks, while cautioning that the summit is intended as an initial conversation rather than a forum expected to produce an immediate formal agreement.",
-      "According to administration officials, Trump also plans to discuss the conflict with Iran during the three-way sit-down, though Russia's war against Ukraine will not be explicitly on the agenda because Washington and Moscow are addressing that conflict on a separate diplomatic track that does not involve Beijing.",
-      "Before the trilateral session, Trump is scheduled to hold a bilateral meeting and working lunch with Xi Jinping, while the White House confirmed that Trump and Putin will not hold a separate one-on-one meeting during the trip."
-    ],
-    "title": "Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation",
-    "topic": "Politics",
-    "topic_full": "Politics · United States"
-  },
-  {
-    "article_path": "/article/over-30-injured-no-one-missing-after-tanker-collides-with-riverboat-in-new-orleans-officials_6ce1cf",
-    "article_url": "https://ground.news/article/over-30-injured-no-one-missing-after-tanker-collides-with-riverboat-in-new-orleans-officials_6ce1cf",
-    "bias": [
-      "Left-Leaning coverage foregrounds human danger and rescue, using “massive rescue operation,” “capsized,” and “miracle,” while often treating the tanker’s possible steering failure cautiously.",
-      "Right-Leaning coverage intensifies spectacle with “terrifying moment,” “disaster,” “out-of-control,” dramatic video, and claims the tanker “lost steering,” sometimes folding praise for officials and first responders into a broader institutional narrative.",
-      "The pivotal divide is whether the collision was an unfolding emergency or a narrowly avoided catastrophe—and whether roughly 129 passengers signals scale or uncertainty.",
-      "Center coverage de-emphasizes partisan framing, emphasizing official updates and investigation.",
-      "All stress the collision, rescue, survival, and no fatalities, reflecting differing cultural preferences for human-interest urgency versus crisis and accountability."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 54.0,
-    "error": null,
-    "left_pct": 25.0,
-    "location": "Louisiana",
-    "right_pct": 21.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, the 520-foot tanker Atlantic Asphalt collided with the docked 295-foot riverboat American Heritage in New Orleans at 12:30 p.m., partially submerging the vessel and sending passengers into the Mississippi River.",
-      "Local officials and river pilots suggest the Marshall Islands-flagged tanker experienced a steering failure before striking the paddlewheel riverboat, though Port of New Orleans authorities maintain the exact cause remains under investigation.",
-      "New Orleans Mayor Helena Moreno called the rescue a \"miracle on the Mississippi,\" noting that all 129 passengers and crew were accounted for, though 32 people were transported to local hospitals with noncritical injuries.",
-      "Following the collision, the U.S. Coast Guard closed the Mississippi River to all vessel traffic between mile markers 93 and 96 to facilitate rescue operations and damage assessment.",
-      "Echoing the 1996 Bright Field crash, the National Transportation Safety Board has launched an investigation to determine the collision's circumstances as crews work to reopen the critical waterway."
-    ],
-    "title": "Over 30 injured, no one missing after tanker collides with riverboat in New Orleans: Officials",
-    "topic": "Accident",
-    "topic_full": "Accident · Louisiana"
-  },
-  {
-    "article_path": "/article/gop-rep-lauren-boebert-will-lose-reelection-to-democrat-eileen-laubacher-in-colorado-ap-projects_fc56d5",
-    "article_url": "https://ground.news/article/gop-rep-lauren-boebert-will-lose-reelection-to-democrat-eileen-laubacher-in-colorado-ap-projects_fc56d5",
-    "bias": [
-      "Left-Leaning coverage frames Boebert’s narrow defeat—Laubacher led by roughly 0.9 points—as a repudiation of MAGA politics , spotlighting LGBTQ+ controversies and celebratory language such as “sad,” “embarrassing,” “loudest bigots,” and “blue wave.” Right-leaning coverage instead emphasizes the upset in a “safest GOP seat,” the close margin, outstanding ballots, and her “refuses to concede” posture, portraying the result as a setback for an “America First fighter” while questioning premature finality.",
-      "Center coverage gives more weight to election mechanics, Laubacher’s biography, and affordability and health care.",
-      "The pivotal divide is whether the race signifies ideological rejection or an unexpected, procedurally unresolved Republican loss; all perspectives nonetheless stress the flip, Boebert’s Trump alliance, and its broader partisan significance."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 50.0,
-    "error": null,
-    "left_pct": 31.0,
-    "location": "Colorado",
-    "right_pct": 19.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, The Associated Press projected Democrat Eileen Laubacher defeated Republican Representative Lauren Boebert in Colorado's 4th Congressional District, with Laubacher securing 48.8% of the vote.",
-      "Following a shift to the Republican-heavy 4th District in 2024, Boebert faced ethics complaints alleging staff relationships, which she denied as \"utterly false.\"",
-      "With a 1% margin separating the candidates after 10 days of tabulation, Laubacher's victory leaves Democrats with a 7-1 majority among Colorado's House seats.",
-      "While Boebert refused to concede, citing ongoing counts of military and overseas ballots, Laubacher arrived in Washington on Monday for New Member Orientation with the 120th Congress.",
-      "The loss concludes Boebert's six-year congressional career, as Democrats flipped this Trump+18 district amid their sweeping midterm victories across the nation."
-    ],
-    "title": "GOP Rep. Lauren Boebert will lose reelection to Democrat Eileen Laubacher in Colorado, AP projects",
-    "topic": "Lauren Boebert",
-    "topic_full": "Lauren Boebert · Colorado"
-  },
-  {
-    "article_path": "/article/supreme-court-to-rule-on-trumps-asylum-ban",
-    "article_url": "https://ground.news/article/supreme-court-to-rule-on-trumps-asylum-ban",
-    "bias": [
-      "Left-Leaning coverage frames the case as an “asylum ban” or “suspending asylum access,” stressing humanitarian consequences, lower-court rulings that found the policy unlawful, and its status as a “top initiative.” Center coverage broadens the frame to a “far-reaching crackdown” and the possibility of “broadly barring” applications, while right-leaning reporting prefers “restrictions,” “hardline,” and the administration’s claim that the policy helped “reduce border crossings,” emphasizing enforcement and legal authority.",
-      "The pivotal divide is whether the policy is portrayed primarily as unlawful exclusion or border management.",
-      "All perspectives agree the Supreme Court is reviewing Trump’s executive action at the southern border, reflecting a larger clash over immigration, presidential power, and asylum rights."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 55.0,
-    "error": null,
-    "left_pct": 29.0,
-    "location": "United States",
-    "right_pct": 16.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, The Supreme Court agreed to consider President Donald Trump 's asylum ban at the southern border, a cornerstone of the Republican president's immigration crackdown.",
-      "Seeking to overturn lower court rulings, The Trump administration argues it can categorically deny asylum to migrants without accepting applications destined for rejection.",
-      "Federal attorneys claim the ban addresses long processing times for migrants, while the American Civil Liberties Union and the National Immigrant Justice Center contend border crossings were already declining before Trump took office.",
-      "The asylum ban has remained in place throughout the ongoing litigation, as critics argue the executive order attempts to unilaterally \"eviscerate\" legal protections for people fleeing danger.",
-      "Opponents argue the law requires individual asylum assessments rather than unilateral stops; this ban is one of several immigration restrictions Trump implemented upon returning to office in 2025."
-    ],
-    "title": "Supreme Court to review Trump asylum ban at US-Mexico border",
-    "topic": "US Supreme Court",
-    "topic_full": "US Supreme Court · United States"
-  },
-  {
-    "article_path": "/article/jonathan-kreiss-tomkins-becomes-first-democrat-since-1998-elected-governor-in-alaska",
-    "article_url": "https://ground.news/article/jonathan-kreiss-tomkins-becomes-first-democrat-since-1998-elected-governor-in-alaska",
-    "bias": [
-      "Left-Leaning coverage frames Kreiss-Tomkins’s win as Democratic “landslide” momentum, stressing bipartisanship, his age, legislative experience, and “Resident Benefits First” amid Korean LNG investment—though that investment claim is headline-suggested and uncorroborated.",
-      "Right-Leaning coverage instead emphasizes that he “defeated three Republicans” and ended Republican control, de-emphasizing personal or policy themes.",
-      "Center coverage uses the strategic but relatively restrained “flips” to spotlight the partisan change and first Democratic victory since 1998.",
-      "All agree on the result, Democratic identity, and historical milestone, while their emphases reflect differing priorities: broader Democratic success and resident-focused framing versus Republican contest structure and partisan displacement."
-    ],
-    "bias_bar_text": "Left 35% Center 34% Right 31%",
-    "center_pct": 34.0,
-    "error": null,
-    "left_pct": 35.0,
+    "left_pct": 34.0,
     "location": null,
-    "right_pct": 31.0,
+    "right_pct": 28.0,
     "status": "ok",
     "summary": [
       "Democrat Jonathan Kreiss-Tomkins won the Alaska governor's race following a week of vote counting, the Associated Press reported. The 37-year-old replaces term-limited Republican Gov. Mike Dunleavy, who has served since 2018.",
@@ -160,618 +54,603 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/tesla-opens-cybercab-orders-to-select-customers-at-29-990-plus-299-per-month",
-    "article_url": "https://ground.news/article/tesla-opens-cybercab-orders-to-select-customers-at-29-990-plus-299-per-month",
+    "article_path": "/article/trump-to-meet-with-chinas-xi-and-russias-putin-at-historic-trilateral-sit-down-on-nuclear-non-proliferation",
+    "article_url": "https://ground.news/article/trump-to-meet-with-chinas-xi-and-russias-putin-at-historic-trilateral-sit-down-on-nuclear-non-proliferation",
     "bias": [
-      "Coverage is largely nonpartisan in wording, but left- and right-leaning narratives diverge in emphasis: the left foregrounds the $29,990 price alongside the $299 monthly autonomy fee, Texas-and-Florida limits, and geofences “significantly smaller” than advertised, casting practical access skeptically; the right portrays a “push” toward purpose-built, two-seat autonomous consumer vehicles while stressing an uncertain “regulatory future.” Center coverage de-emphasizes detailed pricing, instead frames Tesla ’s ambition to “roll up” Robotaxi and highlights “trouble with a US authority.” Across perspectives, select-customer access, autonomy, Robotaxi deployment, and regulatory constraints recur, revealing tensions between convenience, corporate dominance, consumer technology, and oversight."
-    ],
-    "bias_bar_text": "L 19% Center 37% Right 44%",
-    "center_pct": 37.0,
-    "error": null,
-    "left_pct": 19.0,
-    "location": null,
-    "right_pct": 44.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, Tesla announced it is inviting \"select customers\" to purchase the Cybercab for personal use at $29,990, plus a $299-per-month Autonomy Subscription. Deliveries are expected to begin as soon as next month.",
-      "Originally launched as part of Tesla's robotaxi service in Austin, the steering wheel-free two-seater is the first Level 4 autonomous vehicle available for ownership. Elon Musk previously promised the vehicle for \"below $30,000\" when he unveiled it in 2024.",
-      "Independent tracker Koby Pierce found that actual pickup and drop-off areas cover only 59% to 78% of advertised geofences. The Cybercab struggles with infrastructure like rail crossings, turning 15-minute drives into hour-long trips.",
-      "Following the vehicle's September debut, the National Highway Traffic Safety Administration opened a probe into the data Tesla used to self-certify compliance. Critics note that over five years, the total cost reaches about $47,600 including subscriptions and maintenance.",
-      "Despite Elon Musk's long-standing promises to put autonomous cars in the hands of regular people, the Cybercab remains limited to specific geofenced zones. Tesla restricts operation to \"supported service areas\" rather than nationwide use, limiting practical utility for owners."
-    ],
-    "title": "Tesla Invites Select Customers to Buy Cybercab for Personal Use at $29,990",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/army-another-offending-oil-tanker-catches-fire-east-of-the-strait-of-hormuz",
-    "article_url": "https://ground.news/article/army-another-offending-oil-tanker-catches-fire-east-of-the-strait-of-hormuz",
-    "bias": null,
-    "bias_bar_text": "Left 25% 12% Right 63%",
-    "center_pct": 12.0,
-    "error": "Message: \n",
-    "left_pct": 25.0,
-    "location": null,
-    "right_pct": 63.0,
-    "status": "fail",
-    "summary": null,
-    "title": "Iran's navy says oil tanker on fire after hitting mine in Hormuz",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/former-environment-ministers-accuse-dabrusin-of-lying-about-meeting-climate-targets",
-    "article_url": "https://ground.news/article/former-environment-ministers-accuse-dabrusin-of-lying-about-meeting-climate-targets",
-    "bias": null,
-    "bias_bar_text": "Left 72% Center 28%",
-    "center_pct": 28.0,
-    "error": null,
-    "left_pct": 72.0,
-    "location": null,
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "At the United Nations COP31 conference in Antalya, Turkey, Environment Minister Julie Dabrusin claimed Canada remains \"absolutely committed\" to Paris Accord targets, prompting immediate rebuttals from two former environment ministers.",
-      "Last month, Environment Commissioner Jerry DeMarco reported that Canada's latest projections indicate the government is unlikely to meet its climate targets, citing policy rollbacks including cancellation of the consumer carbon price and two billion trees program.",
-      "Former environment minister Catherine McKenna labeled the government's position \"factually untrue,\" while Steven Guilbeault argued that claiming commitment to Paris targets \"defies reason\" given the Canadian Climate Institute's modelling.",
-      "Prime Minister Mark Carney previously suggested in June that Canada had effectively abandoned its climate commitments, creating a stark contradiction with the government's current official stance on climate policy.",
-      "Government figures from 2024 show Canada achieved only a 10.3 per cent reduction over 21 years, while the Canadian Climate Institute's modelling suggests net-zero by 2050 remains unlikely."
-    ],
-    "title": "Former environment ministers accuse Dabrusin of lying about meeting climate targets",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/duffy-seeks-30b-for-air-traffic-control-upgrades",
-    "article_url": "https://ground.news/article/duffy-seeks-30b-for-air-traffic-control-upgrades",
-    "bias": [
-      "Left-Leaning coverage foregrounds Sean Duffy ’s lobbying and “major” air-traffic upgrades, presenting the roughly $30 billion request as an improvement-oriented investment while de-emphasizing disruptions, safety incidents, and FAA management.",
-      "Center coverage adds context about an “aging” system, travelers, and a January midair collision, framing the $30.1 billion proposal as reform prompted by risks.",
-      "Right-Leaning coverage intensifies urgency with “must modernize,” “critical,” “chaos,” and “paralysed,” portraying failures and FAA planning deficiencies as evidence of governmental breakdown even while endorsing modernization.",
-      "The pivotal divide is whether the story centers investment or accountability; all perspectives agree the aviation system needs major upgrades, reflecting broader disputes over federal spending, competence, and crisis framing."
+      "Left-Leaning coverage foregrounds the consequential omission of Ukraine, Europe ’s security, and possible “power posturing,” even invoking “redistribution of spheres of influence” and, in one instance, “dictator”; right-leaning coverage instead portrays Trump as the architect of an “historic” or “extraordinary” diplomatic initiative addressing nuclear arms, Iran, and possibly North Korea.",
+      "The pivotal divide is whether excluding Kyiv signals marginalization or purposeful focus, while “nuclear” language evokes danger on the left and leadership opportunity on the right.",
+      "Center coverage more consistently stresses “symbolism more than substance” and low expectations.",
+      "All perspectives agree the first U.S.-China-Russia meeting could discuss nuclear proliferation and Iran, but none expects a major breakthrough, reflecting wider divides over Trump’s geopolitical role and Ukraine’s place in diplomacy."
     ],
     "bias_bar_text": null,
-    "center_pct": 70.0,
+    "center_pct": 47.0,
     "error": null,
-    "left_pct": 4.0,
-    "location": "United States",
+    "left_pct": 27.0,
+    "location": null,
     "right_pct": 26.0,
     "status": "ok",
     "summary": [
-      "On Friday, the White House and Department of Transportation urged Congress to approve $30.1 billion to upgrade aging United States airports and air traffic control systems.",
-      "A January 2025 midair collision at Ronald Reagan Washington National Airport that killed 67 people, alongside recent disruptions, has renewed safety concerns regarding infrastructure.",
-      "Transportation Secretary Sean Duffy and Budget Director Russell Vought seek $10.1 billion for air traffic control modernization, $2 billion for towers, and $18 billion for airport-related projects.",
-      "The Federal Aviation Administration has replaced 68% of legacy copper telecommunications networks with high-speed fiber and plans to phase out floppy disks at more than 400 facilities by 2028.",
-      "Major airlines support the request as the White House presses the Republican-led Congress to approve funding before year-end, ahead of the planned January transition when Democrats take control."
+      "According to the White House, President Donald Trump will meet with Chinese President Xi Jinping and Russian President Vladimir Putin in Shenzhen, China, on November 19 for an unprecedented trilateral summit on the sidelines of the Asia-Pacific Economic Cooperation summit.",
+      "Assistant Press Secretary Olivia Wales stated that Trump intends to focus the discussions on nuclear arms control and reducing global nuclear stockpiles, following the expiration of the New Strategic Arms Reduction Treaty earlier in the year.",
+      "A senior U.S. administration official noted that Washington views China's rapidly expanding nuclear arsenal as a central reason for bringing Beijing into arms control talks, while cautioning that the summit is intended as an initial conversation rather than a forum expected to produce an immediate formal agreement.",
+      "According to administration officials, Trump also plans to discuss the conflict with Iran during the three-way sit-down, though Russia's war against Ukraine will not be explicitly on the agenda because Washington and Moscow are addressing that conflict on a separate diplomatic track that does not involve Beijing.",
+      "Before the trilateral session, Trump is scheduled to hold a bilateral meeting and working lunch with Xi Jinping, while the White House confirmed that Trump and Putin will not hold a separate one-on-one meeting during the trip."
     ],
-    "title": "Trump Administration Seeks $30 Billion to Upgrade Airports, Air Traffic Control",
-    "topic": "Sean Duffy",
-    "topic_full": "Sean Duffy · United States"
+    "title": "Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation",
+    "topic": null,
+    "topic_full": null
   },
   {
-    "article_path": "/article/ex-nvidia-ceo-jensen-huang-misled-top-lawyer-on-affair-with-chinese-businesswoman",
-    "article_url": "https://ground.news/article/ex-nvidia-ceo-jensen-huang-misled-top-lawyer-on-affair-with-chinese-businesswoman",
-    "bias": [
-      "Left-Leaning coverage centers on one alleged affair and claims Huang “misled” Nvidia leaders, while de-emphasizing his departure, market fallout, and broader allegations; it also foregrounds the unsubstantiated “Chinese government spy” angle.",
-      "Right-Leaning coverage widens the narrative to a “string of affairs,” “kept executives in the dark,” and a dramatic “downfall,” citing losses of roughly $550 billion or more than $1.8 trillion and using anti-elite language such as “egg on their faces.” Center coverage more often attributes claims to sources, highlights the board investigation, resignation, Asian dismay, and damage to Huang’s “AI visionary” image.",
-      "All portray reputational harm and alleged deception, reflecting tensions over China, elite accountability, and corporate power."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 31.0,
-    "error": null,
-    "left_pct": 23.0,
-    "location": "United States",
-    "right_pct": 46.0,
-    "status": "ok",
-    "summary": [
-      "Former Nvidia CEO Jensen Huang reportedly misled senior company executives, including General Counsel Tim Teter and Chief Marketing Officer Alison Wagonfeld, about his relationship with Chinese businesswoman Alice Huang.",
-      "According to Reuters, Huang repeatedly described his interactions with Alice Huang as routine business dealings despite later admitting that he had been unfaithful to his wife.",
-      "Internal correspondence reviewed by Reuters revealed that Huang reassured company officials in October that his relationship with the businesswoman was strictly professional.",
-      "The relationship attracted additional scrutiny after US intelligence officials reportedly raised concerns that Alice Huang might have links to Chinese intelligence, although Reuters has not independently verified the espionage allegations and Beijing has denied them.",
-      "Nvidia's independent board members launched an investigation into the controversy, while Huang resigned as CEO on November 12, 2026, following reports of multiple alleged extramarital relationships."
-    ],
-    "title": "Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman: Reuters",
-    "topic": "Jensen Huang",
-    "topic_full": "Jensen Huang · United States"
-  },
-  {
-    "article_path": "/article/trump-doesnt-plan-to-raise-nvidia-spy-issue-during-china-trip-us-officials_f127a0",
-    "article_url": "https://ground.news/article/trump-doesnt-plan-to-raise-nvidia-spy-issue-during-china-trip-us-officials_f127a0",
-    "bias": [
-      "Left-Leaning coverage frames Nvidia as a “scandal” threatening to intensify the U.S.-China AI “rivalry,” portraying Trump’s decision not to raise it with Xi as deliberate “avoid” and emphasizing accountability.",
-      "Right-Leaning coverage foregrounds an “alleged Chinese spy scandal,” Trump’s “historic trilateral” with Xi and Putin, and “limits” on presidential power, while stressing that no investigation had concluded.",
-      "Center coverage is more cautious, highlighting Musk as a “valuable adviser” and a possible AI crisis hotline.",
-      "The dividing lines are unresolved espionage claims, Musk’s strategic role, and bilateral versus trilateral diplomacy; all agree on the trip, Musk’s presence, and technology -security competition."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 47.0,
-    "error": null,
-    "left_pct": 21.0,
-    "location": "United States",
-    "right_pct": 32.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, officials said President Donald Trump will not raise Nvidia spying allegations during his Asia trip next week to Shenzhen, China, for the Asia-Pacific Economic Cooperation summit alongside Elon Musk.",
-      "Nvidia CEO Jensen Huang resigned Thursday following reports of an affair with Alice Huang, a businesswoman suspected by U.S. authorities of spying for China. Jensen Huang apologized Sunday for being unfaithful and disappointing the company.",
-      "On Tuesday, independent board members hired law firm Wachtell, Lipton, Rosen & Katz to investigate the relations. The Justice Department has not reached any conclusion regarding Alice Huang's alleged affiliation with the Chinese government.",
-      "Beijing has denied the spying allegations against Alice Huang. A senior official noted, \"When it comes to some of these national security matters... it's probably not something that we're going to read the Chinese in on at this moment.\"",
-      "The President plans to participate in a three-way summit with Chinese President Jinping and Russian President Vladimir Putin during the four-day visit, even as semiconductors remain a major flash point in US-China relations."
-    ],
-    "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
-    "topic": "Donald Trump",
-    "topic_full": "Donald Trump · United States"
-  },
-  {
-    "article_path": "/article/california-governor-newsom-said-trumps-presidency-ended-last-week",
-    "article_url": "https://ground.news/article/california-governor-newsom-said-trumps-presidency-ended-last-week",
-    "bias": [
-      "Left-Leaning coverage frames Newsom’s early-January decision as a personal, newly clarified timeline shaped by family deliberations, using relatively restrained terms like “decision” and “ White House bid.” Right-leaning coverage turns the same remark into a developing electoral drama, using “reveals,” “growing speculation,” and “outgoing Democratic leader,” while spotlighting possible rivalry with Kamala Harris and Newsom’s “historic rebuke” of Trump.",
-      "Center coverage de-emphasizes those stakes, simply presenting a 2028 timeline.",
-      "The partisan dividing lines are family choice versus ambition, and campaign planning versus anti-Trump positioning.",
-      "All perspectives agree Newsom has not decided, reflecting broader attention to the early 2028 contest."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 7.0,
-    "error": null,
-    "left_pct": 13.0,
-    "location": "California",
-    "right_pct": 80.0,
-    "status": "ok",
-    "summary": [
-      "California Governor Gavin Newsom said he will decide by early January whether to seek the 2028 Democratic presidential nomination.",
-      "Newsom made the announcement while attending the United Nations Climate Change Conference in Antalya, Turkey.",
-      "Newsom said he would not run if former Vice President Kamala Harris enters the 2028 race."
-    ],
-    "title": "Newsom says he’ll decide on presidential run in ‘early January’",
-    "topic": "Gavin Newsom",
-    "topic_full": "Gavin Newsom · California"
-  },
-  {
-    "article_path": "/article/us-treasury-bought-yen-in-july-fed-made-no-solo-fx-interventions-in-q3",
-    "article_url": "https://ground.news/article/us-treasury-bought-yen-in-july-fed-made-no-solo-fx-interventions-in-q3",
+    "article_path": "/article/8fc4d33a-8d43-477b-9cba-06db9b9ede41",
+    "article_url": "https://ground.news/article/8fc4d33a-8d43-477b-9cba-06db9b9ede41",
     "bias": null,
     "bias_bar_text": null,
-    "center_pct": 67.0,
+    "center_pct": 54.0,
     "error": null,
-    "left_pct": null,
-    "location": "United States",
-    "right_pct": 33.0,
+    "left_pct": 25.0,
+    "location": null,
+    "right_pct": 21.0,
     "status": "no_change",
     "summary": [
-      "The Federal Reserve Bank of New York confirmed Thursday that the U.S. Treasury bought yen during the July-to-September quarter to stem sharp currency weakening, marking the first U.S. yen-buying intervention since 1998.",
-      "Treasury officials initiated the purchase on July 31, 2026, \"to counter what the US Treasury viewed as disorderly moves in the Japanese yen,\" while Japan's Ministry of Finance simultaneously conducted a record 15.4 trillion yen intervention.",
-      "To fund the operation, the Treasury sold euros from the Exchange Stabilization Fund, purchasing 79.4 billion yen worth $497.37 million, which helped the dollar-yen rate fall \"from around 164 yen per dollar to around 155 yen per dollar.\"",
-      "Treasury Secretary Scott Bessent stated the U.S. would do \"whatever it takes\" to support Japan's stabilization efforts, though Japan's top currency diplomat Atsushi Mimura warned Thursday that it remains \"too early to forget\" the summer intervention.",
-      "With the yen recently sliding back toward 160 per dollar, markets are looking toward the Bank of Japan for potential policy shifts, as most economists expect the central bank to raise its policy rate to 1.5% in December."
+      "On Friday, the 520-foot tanker Atlantic Asphalt collided with the docked 295-foot riverboat American Heritage in New Orleans at 12:30 p.m., partially submerging the vessel and sending passengers into the Mississippi River.",
+      "Local officials and river pilots suggest the Marshall Islands-flagged tanker experienced a steering failure before striking the paddlewheel riverboat, though Port of New Orleans authorities maintain the exact cause remains under investigation.",
+      "New Orleans Mayor Helena Moreno called the rescue a \"miracle on the Mississippi,\" noting that all 129 passengers and crew were accounted for, though 32 people were transported to local hospitals with noncritical injuries.",
+      "Following the collision, the U.S. Coast Guard closed the Mississippi River to all vessel traffic between mile markers 93 and 96 to facilitate rescue operations and damage assessment.",
+      "Echoing the 1996 Bright Field crash, the National Transportation Safety Board has launched an investigation to determine the collision's circumstances as crews work to reopen the critical waterway."
     ],
-    "title": "US Treasury bought yen in July; Fed made no solo FX interventions in Q3",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
+    "title": "Over 30 injured, no one missing after tanker collides with riverboat in New Orleans: Officials",
+    "topic": null,
+    "topic_full": null
   },
   {
-    "article_path": "/article/trump-hesitant-to-resume-war-with-iran-us-media-report",
-    "article_url": "https://ground.news/article/trump-hesitant-to-resume-war-with-iran-us-media-report",
+    "article_path": "/article/gop-rep-lauren-boebert-will-lose-reelection-to-democrat-eileen-laubacher-in-colorado-ap-projects_fc56d5",
+    "article_url": "https://ground.news/article/gop-rep-lauren-boebert-will-lose-reelection-to-democrat-eileen-laubacher-in-colorado-ap-projects_fc56d5",
     "bias": [
-      "Left-Leaning coverage frames Trump’s conditional restraint as a fragile alternative to “renewed strikes,” stressing “escalating the war,” Israeli pressure, Qatar-led mediation left “in limbo,” and even a third carrier signaling preparedness; right-leaning accounts emphasize deterrence, portraying restraint as contingent on Iranian or Houthi “provocations” and responsive to Saudi and Turkish advice.",
-      "The left’s emotional register warns of escalation and favors “winding down hostilities,” while the right’s language presumes potentially inflammatory adversary behavior and foregrounds conditional force.",
-      "Center coverage, using “full-fledged war” and election context, presents uncertainty more cautiously.",
-      "All agree the policy is unsettled and source-based, reflecting wider divides over diplomacy, alliance influence, and military power."
+      "Left-Leaning coverage frames Boebert’s narrow defeat—Laubacher led by roughly 0.9 points—as a repudiation of MAGA politics , spotlighting LGBTQ+ controversies and celebratory language such as “sad,” “embarrassing,” “loudest bigots,” and “blue wave.” Right-leaning coverage instead emphasizes the upset in a “safest GOP seat,” the close margin, outstanding ballots, and her “refuses to concede” posture, portraying the result as a setback for an “America First fighter” while questioning premature finality.",
+      "Center coverage gives more weight to election mechanics, Laubacher’s biography, and affordability and health care.",
+      "The pivotal divide is whether the race signifies ideological rejection or an unexpected, procedurally unresolved Republican loss; all perspectives nonetheless stress the flip, Boebert’s Trump alliance, and its broader partisan significance."
     ],
     "bias_bar_text": null,
-    "center_pct": 41.0,
-    "error": null,
-    "left_pct": 24.0,
-    "location": "United States",
-    "right_pct": 35.0,
-    "status": "ok",
-    "summary": [
-      "President Donald Trump has indicated he may hold off on attacking Iran if the United States faces no new provocations from Tehran or the Iran-backed Houthis in Yemen.",
-      "The war has hiked global fuel prices and proven unpopular with voters, who handed control of Congress to the Democrats in last week's midterm elections following a 55% disapproval rating.",
-      "Military officials are moving a third aircraft carrier into the Middle East , while Trump has been briefed on weapon stockpiles that have drawn down to worrying levels recently.",
-      "In phone calls over the past two weeks, Saudi Crown Prince Mohammed bin Salman and Turkish President Tayyip Erdogan urged Trump not to resume attacks on the Iranian regime.",
-      "Trump has alternated between threats of escalating the war and winding down hostilities, and current officials say he does not appear to have made up his mind on resolving the conflict."
-    ],
-    "title": "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
-    "topic": "Iran War",
-    "topic_full": "Iran War · United States"
-  },
-  {
-    "article_path": "/article/starships-mega-fusee-partially-succeeds-its-fifteenth-test-flight",
-    "article_url": "https://ground.news/article/starships-mega-fusee-partially-succeeds-its-fifteenth-test-flight",
-    "bias": [
-      "Coverage divides over whether Starship Flight 15 was chiefly a failed double-catch or a breakthrough-in-progress.",
-      "Left-Leaning accounts foreground the booster’s “malfunction,” “crashes,” and informal “went boom,” treating the thwarted “unprecedented” recovery as the defining setback while still noting orbital success.",
-      "Right-Leaning accounts stress “partially successful,” 26 deployed satellites, and the possibility to “make history” through later spacecraft recovery, using “soars” and “fireball” for celebratory spectacle and drama.",
-      "Center coverage frames the explosion as a “setback” within the technical push for full reusability, lower launch costs, and eventual recovery of both stages.",
-      "All acknowledge orbit, the Gulf impact, and reusability’s central goal."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 42.0,
-    "error": null,
-    "left_pct": 39.0,
-    "location": "Texas",
-    "right_pct": 19.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, SpaceX launched Starship Flight 15, successfully reaching orbit and deploying 26 advanced Starlink satellites to expand the constellation's network capacity.",
-      "The booster return abort occurred when the first-stage booster diverted offshore instead of returning to the Texas launch pad, though the spacecraft continued its orbital trajectory.",
-      "Three of the 26 Starlink satellites carry cameras to monitor Starship's heatshield during the mission, providing real-time imagery for engineers to assess vehicle condition.",
-      "Starship reached an orbital altitude of around 170 miles and completed multiple orbits, allowing the 26 satellites to begin raising their orbits and preparing for customer service.",
-      "SpaceX had already made three booster grabs at Starbase near the US-Mexico border, and this mission advances the company's goal of full rocket reusability for rapid turnaround launches."
-    ],
-    "title": "SpaceX’s Starship soars into orbit after booster explosion prevents an unprecedented double catch",
-    "topic": "SpaceX",
-    "topic_full": "SpaceX · Texas"
-  },
-  {
-    "article_path": "/article/cantor-fitzgerald-led-by-lutnicks-sons-halved-its-nvidia-stake-amid-megaspeed-controversy-cnbc",
-    "article_url": "https://ground.news/article/cantor-fitzgerald-led-by-lutnicks-sons-halved-its-nvidia-stake-amid-megaspeed-controversy-cnbc",
-    "bias": [
-      "Left-Leaning coverage frames Lutnick’s “softer line” on Nvidia as insufficient amid calls for “tougher controls,” emphasizing policy clashes over advanced-chip sales to Asia while de-emphasizing family finances.",
-      "Center coverage broadens the lens, invoking a “spy scandal,” “deep ties,” and “too cozy” relationships to portray an accountability question.",
-      "Right-Leaning coverage foregrounds the reported $362 million investment by Lutnick’s sons, using “I’m sure it’s a coincidence” and “conflicts of interest” to suggest favoritism and national-security risk.",
-      "All perspectives connect Lutnick, Nvidia, regulation, and scrutiny, but their dividing line is policy oversight versus personal ethics and geopolitical danger."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 50.0,
-    "error": null,
-    "left_pct": 33.0,
-    "location": "United States",
-    "right_pct": 17.0,
-    "status": "ok",
-    "summary": [
-      "Nvidia CEO Jensen Huang resigned Thursday, intensifying scrutiny of Commerce Secretary Howard Lutnick after reports alleged he repeatedly resisted export crackdowns despite White House pressure; Lutnick's former firm, Cantor Fitzgerald, maintains significant Nvidia holdings.",
-      "Intelligence warnings alleged Huang had ties to a Chinese spy, prompting the White House to push for export restrictions on Megaspeed; Lutnick reportedly blocked these measures multiple times, including a direct order from President Donald Trump on November 5.",
-      "Cantor reported a nearly 50% decline in Nvidia holdings between September 2025 and March 2026, dropping to 1.78 million shares, while ethics expert Richard Painter noted the appearance raised concerns despite no proof of wrongdoing.",
-      "Treasury Secretary Scott Bessent noted Friday that other agencies favored restricting Megaspeed for months, while a White House official stated the president maintains \"complete confidence\" in Lutnick, revealing internal disagreement.",
-      "Lawmakers urged the Commerce Department to reconsider Nvidia export licenses following smuggling indictments, and senators pressed for investigations into whether national security recommendations were overruled by the administration."
-    ],
-    "title": "Cantor Fitzgerald, Led by Lutnick's Sons, Halved Its Nvidia Stake Amid Megaspeed Controversy: CNBC",
-    "topic": "Howard Lutnick",
-    "topic_full": "Howard Lutnick · United States"
-  },
-  {
-    "article_path": "/article/binance-reopens-withdrawals-on-87-networks-plans-full-restoration-before-next-weekend",
-    "article_url": "https://ground.news/article/binance-reopens-withdrawals-on-87-networks-plans-full-restoration-before-next-weekend",
-    "bias": [
-      "The supplied material de-emphasizes a distinct left-leaning narrative, while right-leaning coverage frames Binance ’s projected reopening as a recovery effort: it stresses a $6.3 billion “hack,” restoration across 87 networks, 95% fund recovery, and promises to “fully reimburse” clients.",
-      "Center coverage uses the more institutional phrase “security breach,” emphasizes normalization, and cautiously says withdrawals are “targeted” to reopen.",
-      "A key dividing line is attribution: the right highlights FBI claims about North Korean actors alongside North Korea’s denial, whereas center coverage says merely “linked.” Both emphasize reopening, but their framing reflects broader divides over reassurance, accountability, and geopolitical threat."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 37.0,
-    "error": null,
-    "left_pct": null,
-    "location": "United States",
-    "right_pct": 63.0,
-    "status": "ok",
-    "summary": [
-      "Binance aims to reopen withdrawals for all remaining networks and assets by the end of next week, as operations normalize for the world's biggest cryptocurrency exchange following a major security breach last month.",
-      "A multi-stage attack that began in June culminated in the theft of $6.3 billion on October 29, with investigators linking the breach to a North Korean group known as \"TraderTraitor\".",
-      "Earlier this month, the exchange resumed withdrawals in phases after covering 95 per cent of the stolen tokens, with 87 networks reopened for users this week.",
-      "Finance chief Kaiser departed the company to pursue new ventures following the heist, replaced by longtime finance executive Justin Yek, previously vice-president of finance at Airwallex.",
-      "While The FBI and Binance attribute the attack to North Korea, Pyongyang has denied involvement; the incident highlights digital asset vulnerabilities, though Binance vowed to repay customers in full."
-    ],
-    "title": "Binance targets full reopening of withdrawals by next week",
-    "topic": "Binance",
-    "topic_full": "Binance · United States"
-  },
-  {
-    "article_path": "/article/uber-says-us-drivers-license-data-stolen-in-data-breach",
-    "article_url": "https://ground.news/article/uber-says-us-drivers-license-data-stolen-in-data-breach",
-    "bias": [
-      "Left-Leaning coverage frames the incident as hackers or a “cybercriminal group” targeting workers, stressing nearly 9,000 affected people and about 1,873 Rhode Island residents.",
-      "Right-Leaning coverage emphasizes “loss of user personal data,” “exposing thousands,” and the risks of an AI technology provider, while de-emphasizing state-level totals and remedies.",
-      "Center coverage is more measured, highlighting “major data breach,” 3,430 South Carolina residents, possible additional notifications, and free credit monitoring.",
-      "The pivotal divide is whether to foreground criminal culpability, technology-vendor risk, or documented scope and response.",
-      "All perspectives emphasize compromised credentials, stolen license information, and thousands affected, reflecting shared concern over privacy and third-party accountability."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 60.0,
-    "error": null,
-    "left_pct": 20.0,
-    "location": "United States",
-    "right_pct": 20.0,
-    "status": "ok",
-    "summary": [
-      "Uber is notifying thousands of drivers that their personal information, including driver's license data, was stolen during an October breach at tech provider Fireworks AI, with the ride-hail giant filing notices this week to U.S. attorneys general.",
-      "Fireworks reported a data breach last month in which hackers stole internal credentials, which were then used to access Uber's account with the provider; Uber was notified of the unauthorized access on October 9.",
-      "Stolen records include driver's licenses of 2,567 individuals in Massachusetts, 3,430 people across South Carolina, and 1,873 residents of Rhode Island, with Illinois numbers pending and California drivers also notified.",
-      "Uber severed its data connections with the provider and is offering affected drivers free credit monitoring and fraud assistance through Cyberscout, a TransUnion company, with 90 days to enroll.",
-      "This incident marks Uber's second known data breach this year, following a security incident at its Uber Freight truck shipping unit, and online productivity startup Notion also confirmed its data was stolen in the Fireworks hack."
-    ],
-    "title": "Uber reports US driver’s license information stolen during data breach",
-    "topic": "Uber",
-    "topic_full": "Uber · United States"
-  },
-  {
-    "article_path": "/article/after-26-years-the-us-has-lost-its-measles-elimination-status_d0affe",
-    "article_url": "https://ground.news/article/after-26-years-the-us-has-lost-its-measles-elimination-status_d0affe",
-    "bias": [
-      "Left-Leaning coverage frames the loss of measles -elimination status as a “grim milestone” and reversal of a “landmark public health achievement,” stressing declining childhood vaccination, school exemptions, and community protection; one account reports ten deaths, despite the CDC’s six confirmed deaths.",
-      "Right-Leaning coverage emphasizes “record infections and deaths,” sustained transmission, and outbreaks in Utah and Pennsylvania—claims not independently substantiated here—while “stripped” portrays PAHO’s role as punitive.",
-      "Center coverage explains that a PAHO-linked independent commission made the determination, cites 5,412 cases and six deaths, and calls vaccines the “best hope.” All portray an historically severe resurgence and national status loss."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 68.0,
-    "error": null,
-    "left_pct": 21.0,
-    "location": "United States",
-    "right_pct": 11.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, the Centers for Disease Control and Prevention reported 5,412 measles cases across 45 states, an increase of 230 infections since the previous update, as the nation battles its worst viral outbreak in decades.",
-      "Vaccination coverage for US kindergarteners fell to 92.4% in the 2025–2026 school year, leaving roughly 300,000 children unvaccinated; protecting communities requires coverage above 95%, according to the CDC.",
-      "State departments in Pennsylvania, New York, and Wisconsin report eight measles-related deaths, while the CDC confirmed six. US Health Secretary Robert F. Kennedy Jr. disputes the higher state-level tallies.",
-      "About 11% of patients required hospital care this year, with 591 hospitalizations recorded. Dr. Thomas Lew, a Stanford University School of Medicine professor, called the preventable deaths a \"travesty of our public health system.\"",
-      "The Pan American Health Organization's expert commission will decide next week whether the United States retains its measles-free status, which requires suppressing transmission for 12 months or more."
-    ],
-    "title": "After 26 years, the US has lost its measles elimination status",
-    "topic": "Measles",
-    "topic_full": "Measles · United States"
-  },
-  {
-    "article_path": "/article/rubio-acknowledges-people-are-struggling-economically-in-speech-after-gop-midterm-wipeout_efb6bb",
-    "article_url": "https://ground.news/article/rubio-acknowledges-people-are-struggling-economically-in-speech-after-gop-midterm-wipeout_efb6bb",
-    "bias": [
-      "Left-Leaning coverage foregrounds economic hardship and Republican failure, using “struggling,” “wipeout,” and “brushes off” to portray Rubio as dismissive of voters and electoral consequences, while framing his ICC stance as a “scathing attack” on legal restraints.",
-      "Right-Leaning coverage recasts the same remarks as a “muscular foreign policy,” defending sovereignty against a “global elite,” and presents Rubio as a “coalition bridge builder,” even personalizing him through his daughter.",
-      "Center coverage emphasizes institutional context, sanctions, and “campaign speech” speculation.",
-      "All acknowledge economic struggles, midterm losses, and ICC criticism, but their interpretations reflect wider divides over populism, sovereignty, international law, and leadership."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 45.0,
-    "error": null,
-    "left_pct": 20.0,
-    "location": "United States",
-    "right_pct": 35.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, Secretary of State Marco Rubio addressed the Federalist Society National Lawyers Convention in Washington, downplaying recent Republican midterm losses by stating \"great things that last are built in decades, not election cycles.\"",
-      "Voters angry over higher costs delivered massive losses to the Republican Party in last week's midterm elections, blaming the administration for tariffs, the Iran war, and unfulfilled promises to lower prices.",
-      "Rubio defended the Iran war as necessary to prevent nuclear proliferation, while accusing the International Criminal Court of \"weaponization of international law\" to constrain United States interests.",
-      "Though the former Florida senator avoided discussing 2028 presidential prospects, his address follows similar speeches in Greece and mounting speculation about a potential run against Vice President JD Vance.",
-      "Rubio asserted that economic prosperity is \"not self-perpetuating,\" warning the current generation risks leaving the next worse off unless leaders commit to long-term undertakings rather than short-term election cycles."
-    ],
-    "title": "Rubio acknowledges ‘people are struggling’ economically in speech after GOP midterm wipeout",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/exclusive-trump-publishes-rule-saving-2-billion-for-low-income-childcare-program",
-    "article_url": "https://ground.news/article/exclusive-trump-publishes-rule-saving-2-billion-for-low-income-childcare-program",
-    "bias": [
-      "Left-Leaning coverage frames the rollback as Trump “cancels” a “mandatory pay hike,” emphasizing lost protections for Head Start teachers, while right-leaning coverage portrays it as “saving $2 billion,” “restoring flexibility,” and improving access by removing an inflexible wage mandate.",
-      "The key dividing line is whether mandatory raises protect salaries and reduce turnover or impose costly constraints on a low-income childcare program; the savings claim is central to the right but de-emphasized elsewhere.",
-      "Center coverage adds context about competitive pay, benefits, turnover, and the 700,000-plus children served.",
-      "All perspectives agree the Trump administration reversed a Biden-era compensation rule, reflecting broader disputes over labor standards, government spending, and regulatory flexibility."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 50.0,
-    "error": null,
-    "left_pct": 35.0,
-    "location": "United States",
-    "right_pct": 15.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, the U.S. Department of Health and Human Services finalized the rollback of a 2024 rule requiring larger Head Start programs to raise teacher pay to match local public preschool educators by 2031.",
-      "The Trump administration claimed the change \"removes a burdensome unfunded mandate\" that would have cost around $2.1 billion annually by 2031, arguing it restores flexibility and prevents elimination of 106,000 classroom slots.",
-      "Head Start teachers with master's degrees earned less than $60,000 on average, while public school teachers earn more than $75,000 annually, according to 2026 program data and National Education Association tracking.",
-      "Criticizing the move, the National Association for the Education of Young Children stated, \"HHS frames this as a choice between paying educators and serving children, but a funded slot without a qualified teacher serves no one.\"",
-      "Broader efforts to overhaul Head Start continue, as the Trump administration proposes removing federal student-to-teacher ratios while congressional Democrats have urged reconsideration of the wage rollback in the coming year."
-    ],
-    "title": "Trump administration cancels mandatory pay hike for Head Start teachers",
-    "topic": "Education",
-    "topic_full": "Education · United States"
-  },
-  {
-    "article_path": "/article/ford-opens-massive-new-archive-putting-over-a-century-of-automotive-history-on-display",
-    "article_url": "https://ground.news/article/ford-opens-massive-new-archive-putting-over-a-century-of-automotive-history-on-display",
-    "bias": [
-      "Coverage is broadly celebratory rather than conventionally partisan, but its emphasis diverges: left-leaning accounts frame the Vault as selective access for “lucky gearheads and fans of history,” while right-leaning coverage calls it a “massive new archive” and stresses its “source of inspiration” for Ford designers and engineers.",
-      "Center-Leaning reports supply the fullest scale and context, citing 79,000 square feet, varied vehicle categories, and “awesome cars” and “full of wonders.” A key dividing line is public access versus institutional utility, alongside the count—125 vehicles in left and center accounts versus roughly 150 on the right.",
-      "All portray Ford’s century-plus heritage positively, reflecting shared cultural enthusiasm for automotive legacy."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 57.0,
-    "error": null,
-    "left_pct": 26.0,
-    "location": "United States",
-    "right_pct": 17.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, Ford Motor Co. opened the 79,000-square-foot Ford Vault in Romulus, Michigan, consolidating roughly 150 historic vehicles, concept cars, and racing machines into a permanent archive.",
-      "Archives and Heritage Brand Manager Ted Ryan began building the heritage fleet three years ago after CEO Jim Farley pushed Ford to develop a collection similar to ones maintained overseas.",
-      "The 125-vehicle collection includes a 1910 Model T, a 1938 ambulance, and rare concept Mustangs, alongside World War II-era military vehicles and a Formula One race car.",
-      "Currently, the facility is restricted to employees due to zoning regulations, though Ford is working with Romulus city government to secure permits for eventual public access.",
-      "Designers and engineers will use the Vault as a working archive to study earlier innovations and draw inspiration for future vehicle projects and development."
-    ],
-    "title": "Ford throws open the doors to its new Vault, unveiling 125 rare historic vehicles",
-    "topic": "Ford",
-    "topic_full": "Ford · United States"
-  },
-  {
-    "article_path": "/article/brother-of-late-mexican-cartel-leader-is-sentenced-to-22-years-in-prison-for-drug-trafficking-plot_b2c621",
-    "article_url": "https://ground.news/article/brother-of-late-mexican-cartel-leader-is-sentenced-to-22-years-in-prison-for-drug-trafficking-plot_b2c621",
-    "bias": [
-      "Left-Leaning coverage emphasizes a “sprawling drug-trafficking conspiracy,” cocaine and methamphetamine reaching U.S. streets, and the prosecution’s roughly 30-year request, framing the case around cartel violence and public harm.",
-      "Right-Leaning coverage pivots toward punishment and persona, using “notorious drug kingpin,” “narco trafficker,” “Tony Montana,” and the mocking “Say hello to our little cell,” while stressing the 270-month sentence exceeded the defense position.",
-      "Center coverage de-emphasizes theatrical labels, adding court and procedural detail.",
-      "The dividing lines are whether to foreground societal consequences, criminal identity, or sentencing severity; all perspectives nonetheless converge on the 22.5-year punishment, cartel connection, trafficking, and firearms charges—reflecting shared concern over organized crime and cross-border security."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 35.0,
-    "error": null,
-    "left_pct": 41.0,
-    "location": "United States",
-    "right_pct": 24.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, Antonio Oseguera Cervantes, brother of slain Jalisco New Generation co-founder Nemesio Rubén Oseguera Cervantes known as \"Mencho,\" was sentenced to more than 22 years in U.S. prison for drug trafficking.",
-      "Oseguera Cervantes joined the Milenio Cartel in around 2002, later overseeing narcotics sales and supervising methamphetamine laboratories for the Jalisco New Generation cartel after reporting directly to his brother in 2010.",
-      "The defendant pleaded guilty to distributing 5 kilograms or more of cocaine and 500 grams or more of methamphetamine. In a letter to court, he wrote, \"Deeply sorry for my actions and for the harm they caused.\"",
-      "Administrator Terry Cole of the Drug Enforcement Administration said, \"The sentencing of Oseguera Cervantes demonstrates that no cartel leader is beyond the reach of American justice.\" Assistant Attorney General Tysen Duva called it a message to criminals worldwide.",
-      "This case forms part of a Trump administration initiative to eliminate powerful cartels, utilizing the Homeland Security Task Force to investigate transnational criminal organizations operating in the United States."
-    ],
-    "title": "Brother of late Mexican cartel leader is sentenced to 22 years in prison for drug trafficking plot",
-    "topic": "Organized Crime",
-    "topic_full": "Organized Crime · United States"
-  },
-  {
-    "article_path": "/article/un-chief-says-immediate-and-drastic-emissions-cuts-needed-to-avert-climate-change-catastrophe-wtop-news_a942ac",
-    "article_url": "https://ground.news/article/un-chief-says-immediate-and-drastic-emissions-cuts-needed-to-avert-climate-change-catastrophe-wtop-news_a942ac",
-    "bias": [
-      "Left-Leaning coverage frames COP31 as a moral emergency, using “immediate,” “drastic,” “catastrophe,” and “making a killing while killing our planet” to condemn fossil-fuel profits, lobbying, and demand $1.3 trillion annually for developing countries.",
-      "Right-Leaning coverage stresses accountability—“polluters must pay,” “distort science,” and possible “irrecoverable overshoot”—while portraying negotiations and major emitters’ inaction as an “inadequate response.” Center coverage de-emphasizes partisan condemnation, emphasizing contested trade-offs, vulnerable nations, and summit diplomacy.",
-      "All highlight Guterres’s dinosaur comparison, urgent cuts, and roughly 2.7°C projections, revealing a shared climate alarm filtered through justice, institutional skepticism, and geopolitical responsibility."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 42.0,
-    "error": null,
-    "left_pct": 42.0,
-    "location": "United States",
-    "right_pct": 16.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, United Nations Secretary-General Antonio Guterres addressed the COP31 Climate Summit in Antalya, Turkey, demanding immediate and drastic fossil fuel emission cuts to \"follow the science\" and avert catastrophic climate effects.",
-      "The independent Climate Action Tracker reported Thursday that global warming progress has stalled for five years, ensuring the world will overshoot the 1.5 degrees Celsius goal set by the 2015 Paris Agreement.",
-      "Climate TRACE satellite data shows prioritizing clean energy cuts emissions 14% compared to 7% with fossil fuels, while Guterres noted tripling adaptation finance would meet less than 30 percent of needs.",
-      "Guterres warned that failing to act fuels geopolitical instability, hunger, and displacement while pushing countries into debt, adding that wealthier nations must \"deliver the finance they have promised.\"",
-      "The United States skipped the summit for the second consecutive year after President Donald Trump withdrew from climate negotiations, complicating progress that requires cooperation from top emitters."
-    ],
-    "title": "UN chief says ‘immediate and drastic’ emissions cuts needed to avert climate change catastrophe",
-    "topic": "Environment",
-    "topic_full": "Environment · United States"
-  },
-  {
-    "article_path": "/article/trump-list-of-us-designated-foreign-terrorist-organizations-in-latin-america-grows-to-22-wtop-news_2ca06b",
-    "article_url": "https://ground.news/article/trump-list-of-us-designated-foreign-terrorist-organizations-in-latin-america-grows-to-22-wtop-news_2ca06b",
-    "bias": [
-      "Left-Leaning coverage emphasizes the Trump administration’s expanding “blacklist”—now 22 regional groups—and the coercive use of “terrorist” designations and sanctions, while right-leaning coverage foregrounds Treasury action, cartel logistics, and an aggressive campaign against “brutal drug terrorism ” and “political patrons.” The pivotal divide is whether profit-driven gangs merit a terrorism label: center coverage, where present, highlights its novelty relative to ISIS or al-Qaida, whereas the right stresses “essential logistics partners” and decisive enforcement.",
-      "All perspectives identify Los Lorenzana, Los Huistas, and Los Mendoza, their cartel links, and U.S. action, reflecting broader disputes over state power, security, and regional policy."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 29.0,
-    "error": null,
-    "left_pct": 41.0,
-    "location": "United States",
-    "right_pct": 30.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, Secretary of State Marco Rubio designated Los Mendoza, Los Huistas, and Los Lorenzana as international terrorists, citing their deep ties to Mexican drug cartels facilitating narcotics trafficking.",
-      "Federal officials say these groups serve as essential logistics partners for the Sinaloa Cartel and the Jalisco New Generation Cartel, moving fentanyl, cocaine, and methamphetamine toward the United States.",
-      "Operating across regions like San Marcos, Huehuetenango, and Peten, the organizations provide secret airstrips and storage sites while maintaining influence through relationships with local officials and business owners.",
-      "Treasury Department sanctions freeze the groups' assets in the United States, and any business owned 50 percent or more by them is blocked from American transactions.",
-      "The Trump Administration continues using tools to disrupt revenue streams funding violent narcoterrorists, with Rubio stating, \"We will not stand by while these foreign terrorist organizations corrupt Guatemala's institutions."
-    ],
-    "title": "Trump list of US-designated ‘foreign terrorist organizations’ in Latin America grows to 22",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/immigrant-families-detained-in-cold-and-sunless-rooms-beyond-72-hour-l",
-    "article_url": "https://ground.news/article/immigrant-families-detained-in-cold-and-sunless-rooms-beyond-72-hour-l",
-    "bias": [
-      "The apparent left-right divide largely dissolves: all three perspectives repeat the same charged phrases—“cold and sunless,” “detained,” and “beyond 72-hour limit”—while qualifying them with “advocates say.” Left framing leans toward migrant vulnerability and government compliance; right framing foregrounds the allegation without adding independent assessment, government response, or broader policy critique.",
-      "Center coverage adds a motion seeking clarification of children’s right to counsel, sharpening the legal context.",
-      "The shared emphasis is immigrant children reportedly held up to a month in rooms intended for 72 hours, leaving the central claims unresolved amid limited verification and oversight."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 37.0,
-    "error": null,
-    "left_pct": 48.0,
-    "location": "United States",
-    "right_pct": 15.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, legal advocates including the Center for Human Rights and Constitutional Law, National Center for Youth Law, and Children's Rights filed a motion asking a judge to clarify children's right to counsel under a longstanding court agreement.",
-      "The Flores Settlement, a court agreement protecting immigrant children in federal custody, mandates safe and sanitary conditions and limits detention to 72 hours. Legal advocates allege current practices violate these standards.",
-      "Parents in facilities across Texas and California reported being confined to detention pods for 23 hours a day with no access to books or television. Families described thin mats causing rashes and losing track of time.",
-      "One mother reported her four-year-old daughter developed a stutter and lost weight during two weeks of detention after witnessing a man handcuffed and chained being deported. Children face physical ailments including rashes from sleeping mats.",
-      "Despite a record low number of border arrests, an annual report filed by CBP found officials took more than the recommended time to process families from March through June, contributing to prolonged detention stays."
-    ],
-    "title": "Immigrant Families Detained in Cold and Sunless Rooms Beyond 72-Hour Limit, Advocates Say",
-    "topic": "U.S. Department of Homeland Security (DHS)",
-    "topic_full": "U.S. Department of Homeland Security (DHS) · United States"
-  },
-  {
-    "article_path": "/article/bristol-county-sheriff-seeks-27m-for-ash-street-jail-closure-plan-as-sheriffs-compete-for-state-funding",
-    "article_url": "https://ground.news/article/bristol-county-sheriff-seeks-27m-for-ash-street-jail-closure-plan-as-sheriffs-compete-for-state-funding",
-    "bias": [
-      "The coverage reveals little partisan divergence: identical headlines use neutral terms such as “requested,” “repair,” and “renovate,” with no “crisis” or “waste” rhetoric.",
-      "Both left- and right-leaning accounts note competition among sheriffs for funding, while the center treatment de-emphasizes that context; the left gives greater emphasis to the 148-year-old Ash Street Jail and its possible closure, whereas the right presents those points more briefly.",
-      "Across perspectives, sheriffs seek $241 million, including Paul Heroux’s $27 million for Dartmouth renovations that could enable Ash Street’s closure.",
-      "All de-emphasize funding criteria, facility conditions, costs, capacity, and operational effects, limiting ideological interpretation."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 29.0,
-    "error": null,
-    "left_pct": 50.0,
-    "location": "Massachusetts",
-    "right_pct": 21.0,
-    "status": "ok",
-    "summary": [
-      "Bristol County Sheriff Paul Heroux is seeking $27 million in state funding to renovate the Dartmouth House of Correction, enabling closure of the 148-year-old Ash Street Jail in New Bedford.",
-      "Inspector General Jeff Shapiro recommended closing the jail in a June report, citing safety concerns and aging infrastructure. Consolidating operations at Dartmouth would save about $11 million in essential repairs.",
-      "The proposal allocates $11.8 million to upgrade housing units and $2.2 million to build a 3,000-square-foot intake center. The project would combine 96 cells into 48 larger units with in-cell plumbing and safety systems.",
-      "Heroux faces stiff competition for limited state funding, as sheriffs across Massachusetts have requested about $241 million total. The state expects to allocate $125 million to $150 million, with decisions pending through DCAMM.",
-      "Tensions remain high with local police chiefs, who say Heroux's refusal of arrestees after medical screenings has strained their departments. Heroux counters that the Dartmouth facility offers a more robust medical operation better suited for those detainees."
-    ],
-    "title": "Sheriffs across Massachusetts have requested $241 million to repair and renovate their jails",
-    "topic": "Police",
-    "topic_full": "Police · Massachusetts"
-  },
-  {
-    "article_path": "/article/trump-administration-lets-states-delay-new-medicaid-work-rules",
-    "article_url": "https://ground.news/article/trump-administration-lets-states-delay-new-medicaid-work-rules",
-    "bias": [
-      "The supplied analyses contain no right-leaning headlines, so the clearest contrast is between left-leaning and center-oriented framing.",
-      "Left coverage foregrounds human costs, saying states may “remove people” from Medicaid and that millions “could have” lost insurance, while describing officials as “scrambling” to implement an 80-hour monthly work, service, or education rule.",
-      "Center coverage emphasizes the delay’s optional nature, legal disputes over medical-frailty exemptions, and “slow walk” or “stringent” rules.",
-      "Both highlight the six-month extension and state preparation, but their dividing line is whether the policy is primarily a coverage threat or an administratively contested implementation choice."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 47.0,
-    "error": null,
-    "left_pct": 48.0,
-    "location": "United States",
-    "right_pct": 5.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, the Centers for Medicare and Medicaid Services announced a six-month optional delay for Medicaid work requirement enforcement, calling it a 'hold harmless' period affecting President Donald Trump's 'big, beautiful bill.'",
-      "A Boston federal court ruling blocked enforcement for medically frail individuals, and five Democratic governors last month requested postponement citing state agencies' lack of readiness. The judge ruled states lacked adequate time and resources to overhaul eligibility systems.",
-      "The mandate requires able-bodied adults under 65 to work or volunteer 80 hours monthly to maintain coverage. Nebraska's May launch resulted in over 1,000 residents losing benefits, with most denials stemming from paperwork failures rather than non-compliance.",
-      "Kate McEvoy, executive director of the National Association of Medicaid Directors, said state leaders 'appreciate the additional flexibility that CMS is providing.' Conversely, Sarah Lueck, vice president for health policy at the Center on Budget and Policy Priorities, stated 'today's news lets states delay the harm.'",
-      "Democrats who won control of Congress last week have pledged to reverse these work requirements. The delay offers states temporary reprieve as the political landscape shifts regarding the program's future."
-    ],
-    "title": "US gives states another 6 months before they have to remove people from Medicaid for not working",
-    "topic": "Health",
-    "topic_full": "Health · United States"
-  },
-  {
-    "article_path": "/article/after-racial-conflicts-in-itacare-government-meets-with-southern-palestine-front-of-bahia",
-    "article_url": "https://ground.news/article/after-racial-conflicts-in-itacare-government-meets-with-southern-palestine-front-of-bahia",
-    "bias": [
-      "Left-Leaning coverage foregrounds alleged assaults, harassment, and vandalism—carefully using “alleged” and “viral”—and presents Bahia’s extended Summer Operation and federal coordination as evidence of a serious security challenge.",
-      "Right-Leaning coverage de-emphasizes those details, framing the episode chiefly as “escalated” tensions between Israeli tourists and pro-Palestine residents warranting investigation, with less interpretation.",
-      "Center coverage, where present, stresses how the dispute “snowballed” from a colonial-house argument and sexual-harassment report into a broader governmental controversy, including Governor Jerônimo Rodrigues.",
-      "The pivotal divide is whether to emphasize alleged misconduct and security consequences or political-contextualized conflict; all agree tensions escalated and police are investigating, reflecting wider Israel-Palestine and governance divides."
-    ],
-    "bias_bar_text": "Left 31% Center 46% R 23%",
-    "center_pct": 46.0,
+    "center_pct": 51.0,
     "error": null,
     "left_pct": 31.0,
+    "location": null,
+    "right_pct": 18.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, The Associated Press projected Democrat Eileen Laubacher defeated Republican Representative Lauren Boebert in Colorado's 4th Congressional District, with Laubacher securing 48.8% of the vote.",
+      "Following a shift to the Republican-heavy 4th District in 2024, Boebert faced ethics complaints alleging staff relationships, which she denied as \"utterly false.\"",
+      "With a 1% margin separating the candidates after 10 days of tabulation, Laubacher's victory leaves Democrats with a 7-1 majority among Colorado's House seats.",
+      "While Boebert refused to concede, citing ongoing counts of military and overseas ballots, Laubacher arrived in Washington on Monday for New Member Orientation with the 120th Congress.",
+      "The loss concludes Boebert's six-year congressional career, as Democrats flipped this Trump+18 district amid their sweeping midterm victories across the nation."
+    ],
+    "title": "GOP Rep. Lauren Boebert will lose reelection to Democrat Eileen Laubacher in Colorado, AP projects",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/federal-judge-temporarily-blocks-trump-administration-from-closing-east-potomac-park_55cd27",
+    "article_url": "https://ground.news/article/federal-judge-temporarily-blocks-trump-administration-from-closing-east-potomac-park_55cd27",
+    "bias": [
+      "Left-Leaning coverage frames the redevelopment as a “prestige project” or “ golf course coup,” stressing public access, preservation, environmental concerns, and a “legal defeat” after the judge “blocked” closure of parkland.",
+      "Right-Leaning coverage portrays the same plan as a “major overhaul” of a course Trump calls “Trash Island,” emphasizing a “world-class championship” facility and a 50% local discount, while depicting a “Biden judge” as obstructing improvement.",
+      "Center coverage presents a temporary “setback” and the legal dispute with less evaluative language.",
+      "The pivotal divide is whether this is public-space seizure or overdue renovation; all agree the order temporarily halted a roughly 15-month closure and that Trump seeks a championship-level course, reflecting broader conflicts over executive power, public resources, and partisan distrust."
+    ],
+    "bias_bar_text": "Left 27% Center 50% R 23%",
+    "center_pct": 50.0,
+    "error": null,
+    "left_pct": 27.0,
     "location": null,
     "right_pct": 23.0,
     "status": "ok",
     "summary": [
-      "Bahia state authorities announced Wednesday they will reinforce police in tourist areas of Itacaré following recent hostilities between residents and Israeli tourists, aiming to promote \"respectful coexistence.\"",
-      "Tensions center on a colonial-style house used by Israeli travelers as a synagogue; after the group vacated, activists added murals featuring Palestinian symbols, prompting confrontations.",
-      "Earlier this week, Bahia Governor Jerônimo Rodrigues visited Itacaré to meet security forces, while Rabbi Nehorai Yitzhak Tamsit stated he tried to resolve the situation peacefully before leaving.",
-      "Lawmaker Erika Hilton requested the foreign ministry consider banning soldiers from Israel accused of war crimes, while the Brazil Israel Institute warned against dehumanizing Israeli tourists.",
-      "Many Israeli travelers are former soldiers who likely participated in the Gaza war following Oct. 7, 2023; earlier this year, three other Israeli tourists were detained in Itacaré after clashing with residents."
+      "On Saturday, U.S. District Judge Ana Reyes issued a temporary restraining order blocking the Trump administration from closing East Potomac Park and East Potomac Golf Course on Sunday, preserving public access through November 28, 2026.",
+      "President Donald Trump planned to close the course for a 15-month renovation into a \"World Championship Public Facility,\" but preservationists and local golfers sued in February, arguing the project violates federal environmental laws and threatens public access.",
+      "Judge Reyes found the administration's stated safety justifications \"pretextual\" and determined the government violated federal law \"to meet an arbitrary deadline\" by failing to solicit required public comment before closure.",
+      "The order requires the government \"cannot use the absence of golf operations as a reason to exclude the public,\" though the Justice Department vowed it will \"always vociferously defend\" the administration's agenda in court.",
+      "Reyes appointed former U.S. Attorney Jessie Liu to investigate whether government officials misled the court, an inquiry reflecting institutional strain as legal battles over Trump's capital renovation projects intensify."
     ],
-    "title": "Brazil investigates strife between Israeli tourists and pro-Palestine residents",
+    "title": "Federal judge temporarily blocks Trump administration from closing East Potomac Park",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/new-orleans-port-sues-to-get-control-of-tanker-that-crashed-into-cruise-ship-on-mississippi-river",
+    "article_url": "https://ground.news/article/new-orleans-port-sues-to-get-control-of-tanker-that-crashed-into-cruise-ship-on-mississippi-river",
+    "bias": [
+      "Coverage converges on a tanker striking a docked cruise vessel, a lawsuit seeking roughly $1 million, and judicially authorized “seizure” or control, but its emphases diverge.",
+      "Left-Leaning accounts stress the tanker’s lost steering, terminal damage, federal investigation, and ownership by a “Chinese company,” while emotionally vivid “slammed into” language foregrounds causation.",
+      "Center coverage clarifies that the vessel could be seized and sold, notes the $1 million claim, and highlights that all passengers and crew survived.",
+      "Right-Leaning framing uses “crash,” “seizure,” and financial stakes, de-emphasizing steering and ownership while stressing legal consequences.",
+      "All portray a serious collision and accountability dispute, reflecting broader divides over liability, geopolitics, and institutional power."
+    ],
+    "bias_bar_text": "Left 38% Center 37% Right 25%",
+    "center_pct": 37.0,
+    "error": null,
+    "left_pct": 38.0,
+    "location": null,
+    "right_pct": 25.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, the Port of New Orleans sued the owners of the Atlantic Asphalt tanker, which struck the docked American Heritage cruise ship and caused more than $1 million in damage to the Thalia Street Terminal.",
+      "The tanker appeared to lose steering control before striking the cruise ship, forcing 197 passengers and crew into the Mississippi River; officials hailed the rescue effort as a \"miracle on the Mississippi.\"",
+      "District Judge Wendy Vitter authorized the tanker's seizure Friday, enabling the port's legal claim. Thirty-two people were hospitalized with non-critical injuries, though no fatalities were reported.",
+      "Coast Guard Capt Melanie Burnham said crews must remove 16,000 gallons of fuel from the partially submerged cruise ship. The National Transportation Safety Board has launched an investigation into the crash.",
+      "Thome Ship Management stated Saturday the tanker is stable at anchor and the firm is \"fully complying with the local authorities as they carry out the necessary investigations.\" Traffic on the Mississippi River remains limited but should resume soon."
+    ],
+    "title": "New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/planes-collide-at-miami-runway-crossing-a-day-after-national-grounding_7a79e1",
+    "article_url": "https://ground.news/article/planes-collide-at-miami-runway-crossing-a-day-after-national-grounding_7a79e1",
+    "bias": [
+      "Left-Leaning coverage frames the taxiway contact as part of a “difficult weekend” for air travelers, stressing disruption, possible maneuvering errors, and an FAA investigation; its phrase “shocking pilot audio” adds sensational emphasis, not a distinct ideological claim.",
+      "Center coverage treats it as developing, foregrounding conflicting reports of no injuries versus two minor injuries and available ATC audio.",
+      "Right-Leaning accounts emphasize a low-speed encounter, “dramatic seconds,” “chaos,” possible UPS responsibility, and broader airport-safety or air-traffic-management concerns, without confirmed fault.",
+      "Across perspectives, coverage agrees on the aircraft, location, timing, audio, and proximity to the nationwide FAA disruption."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 52.0,
+    "error": null,
+    "left_pct": 14.0,
+    "location": "Miami",
+    "right_pct": 34.0,
+    "status": "ok",
+    "summary": [
+      "A UPS Boeing 767 and a Copa Airlines Boeing 737 collided while taxiing at Miami International Airport on Saturday night, with the Copa flight having just arrived from Panama City.",
+      "Air traffic control audio captured the UPS Flight 358 pilot saying, \"Somebody hit us,\" before acknowledging, \"Yeah we went too far and he clipped us with his wing\" during the taxiway incident.",
+      "Miami-Dade Fire Rescue reported no major injuries, though Fox Sports journalist Andy Slater noted two people aboard the Copa flight complained of back pain as airport operations continued without disruption.",
+      "The collision occurred as Miami International Airport continues experiencing delays following Friday's nationwide Federal Aviation Administration ground stop that disrupted travel for about 1.5 million passengers.",
+      "FAA Administrator Bryan Bedford stated Saturday that the national air travel schedule should return to normal by the end of Sunday, despite more than 800 flights scheduled for Sunday being canceled nationwide."
+    ],
+    "title": "UPS plane, Copa Airlines jet collide at Miami International Airport, officials say",
+    "topic": "Aviation Accidents",
+    "topic_full": "Aviation Accidents · Miami"
+  },
+  {
+    "article_path": "/article/us-authorities-say-they-suspended-flights-for-usual-maintenance",
+    "article_url": "https://ground.news/article/us-authorities-say-they-suspended-flights-for-usual-maintenance",
+    "bias": [
+      "Left-Leaning coverage stresses passenger disruption, “routine maintenance that went wrong,” gradual recovery, and the historically dramatic “longest” shutdown since September 11, while right-leaning coverage pivots toward “aging air traffic infrastructure,” a communications-router malfunction, possible contractor-installed equipment involving L3Harris, and modernization funding—shifting attention from inconvenience to accountability and institutional weakness.",
+      "The center emphasizes passengers “scrambling for seats” and worldwide effects.",
+      "All perspectives describe a nationwide ground stop, thousands of cancellations or delays, and the FAA ’s expectation of recovery by late Sunday, though only left and right cite more than 5,300 cancellations and nearly 6,300 delays; center reports thousands without exact totals.",
+      "The divide reflects competing priorities: human disruption and historical scale versus technical responsibility and infrastructure investment."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 46.0,
+    "error": null,
+    "left_pct": 27.0,
+    "location": "United States",
+    "right_pct": 27.0,
+    "status": "ok",
+    "summary": [
+      "Transportation Secretary Sean Duffy announced that U.S. air travel should largely return to normal schedules by late Sunday, following a nationwide flight shutdown that halted nearly all departing flights for almost five hours on Friday.",
+      "Officials traced the disruption to FAA contractor L3Harris, which installed a faulty router at a remote facility that triggered data overloading across 17 of the agency's 22 en route centers.",
+      "Airlines canceled more than 5,300 flights and delayed almost 6,300 on Saturday. Delta Air Lines, United Airlines, and American Airlines each canceled about 25 percent of their flights, while JetBlue canceled nearly 45 percent.",
+      "Representatives Rick Larsen and Andre Carson, slated to chair the House Transportation and Infrastructure Committee next year, vowed to hold the administration accountable. They noted the Transportation Department only spent $1 billion of the $12.5 billion received last year.",
+      "Secretary Duffy called for $50 billion in funding to upgrade air traffic control systems on Friday, an increase from his earlier $30 billion request. House Speaker Mike Johnson stated on Saturday that he supports approving additional funding this year."
+    ],
+    "title": "US air travel disruptions to persist until late on Sunday, FAA head says",
+    "topic": "FAA",
+    "topic_full": "FAA · United States"
+  },
+  {
+    "article_path": "/article/democrat-mary-peltola-is-likely-to-win-alaskas-senate-race-as-vote-counting-continues-nbc-news",
+    "article_url": "https://ground.news/article/democrat-mary-peltola-is-likely-to-win-alaskas-senate-race-as-vote-counting-continues-nbc-news",
+    "bias": [
+      "Left-Leaning coverage frames Peltola’s projected win as a Democratic advance, using “unseat,” “likely to win,” and “no mathematical path” while emphasizing a possible 56–44 Senate majority; right-leaning coverage instead foregrounds her “declares victory,” sharpening the dividing line over whether an unresolved count justifies treating the race as decided.",
+      "Center coverage de-emphasizes partisan stakes, citing a nearly four-point lead, nearly 2,000 net votes, 49.8 percent, and ranked-choice scenarios.",
+      "All portray Peltola ahead, but their tones reflect broader divides over electoral certainty, party power, and procedural legitimacy."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 49.0,
+    "error": null,
+    "left_pct": 38.0,
+    "location": "Alaska",
+    "right_pct": 13.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday, the NBC News Decision Desk characterized former Democratic Rep. Mary Peltola as likely to win the Alaska Senate race, leading Republican Sen. Dan Sullivan by over 10,000 votes.",
+      "Alaska's vote counting continues following the November 13 deadline for mail-in ballots postmarked by Election Day, explaining why the close contest remains uncalled nearly a week after polls closed.",
+      "Statistical analysis shows Sullivan faces a steep hurdle, requiring roughly 93% of redistributed votes to overcome the deficit, while ballot exhaustion limits the available pool as over 45% of voters ranked neither candidate.",
+      "Alaska Division of Elections officials are scheduled to run the ranked-choice tabulation on November 18, which also serves as the final deadline for receiving absentee ballots.",
+      "A victory for Peltola would secure a 56-44 Senate majority for Democrats next year, though the contest remains the final uncalled 2026 Senate race with the NBC News Decision Desk maintaining at least 95% confidence."
+    ],
+    "title": "Democrat Mary Peltola is likely to win Alaska’s Senate race, as vote counting continues: NBC News",
+    "topic": "2026 Midterm Elections",
+    "topic_full": "2026 Midterm Elections · Alaska"
+  },
+  {
+    "article_path": "/article/diesel-cheaper-again-price-at-lowest-level-in-over-two-months",
+    "article_url": "https://ground.news/article/diesel-cheaper-again-price-at-lowest-level-in-over-two-months",
+    "bias": [
+      "Left- and right-leaning coverage broadly agrees that diesel fell to about $5.998 per gallon after two months above $6, but diverges in meaning: the left emphasizes a “sharp rise,” California prices above $10, refinery limits, and stricter fuel rules, while the right highlights “war,” “systematic attacks,” Trump-era efforts, and consumer “relief,” portraying policy results as limited.",
+      "Center coverage stays market-focused, stressing “record highs,” easing tensions, and weaker demand without assigning political responsibility.",
+      "The pivotal divide is causation—regional infrastructure and market pressures versus geopolitical conflict and presidential action—though all perspectives emphasize easing tensions, softer demand, and lower prices’ economic significance."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 37.0,
+    "error": null,
+    "left_pct": 19.0,
+    "location": "United States",
+    "right_pct": 44.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday, U.S. diesel prices fell below $6 a gallon to $5.998, according to GasBuddy, marking the first time in two months the national average retreated from that threshold.",
+      "Easing geopolitical tensions and seasonal demand weakness reduced fuel market pressure, as Brent crude futures dropped 18.5% over the past two weeks.",
+      "The Trump administration launched an $8 billion support program for farmers and expanded access to tax-exempt red-dyed diesel, while refinery maintenance largely completed by November allowed production to recover.",
+      "Diesel prices had previously peaked at $6.519 in September, driven by supply disruptions from the US-Israeli conflict with Iran and Ukraine's attacks on Russian refineries.",
+      "Gasoline prices also fell below $4 per gallon this month for the first time since August 10, according to GasBuddy data, reflecting broader market relief."
+    ],
+    "title": "US diesel below $6 a gallon at 2-month low on easing tensions, weaker demand",
+    "topic": "US Economy",
+    "topic_full": "US Economy · United States"
+  },
+  {
+    "article_path": "/article/mamdani-thanks-trump-for-helping-small-businesses-in-nyc-nationwide-president-has-delivered-relief_e3e83f",
+    "article_url": "https://ground.news/article/mamdani-thanks-trump-for-helping-small-businesses-in-nyc-nationwide-president-has-delivered-relief_e3e83f",
+    "bias": [
+      "Left-Leaning coverage frames the 90-day nationwide SNAP extension as a “major win” secured through Mamdani’s “back channel” with an “unpopular president,” portraying cooperation as politically fruitful and protecting bodegas from threatened food-stamp access.",
+      "Right-Leaning coverage shifts credit to Trump, saying he “delivered relief” and a “lifeline,” while “SNAP cuts” and “fighting chance to stay in business ” heighten urgency for small retailers.",
+      "Center coverage de-emphasizes partisan credit, stressing USDA enforcement, compliance mechanics, and roughly 10,000 affected bodegas.",
+      "The dividing line is who deserves credit and whether the delay signals partnership or practical administration; all emphasize the 90-day reprieve and retailer impact."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 30.0,
+    "error": null,
+    "left_pct": 33.0,
+    "location": "New York",
+    "right_pct": 37.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, Mayor Zohran Mamdani announced he struck a deal with President Donald Trump to delay enforcement of new federal food-stocking requirements for 90 days, extending relief nationwide to small retailers risking SNAP authorization loss.",
+      "Mamdani urged the USDA to postpone the rules after neighborhood bodegas warned they lacked sufficient time to comply; updated standards now require stores to stock 84 items across four categories including dairy, grains, protein, and produce.",
+      "For many bodegas, SNAP purchases account for up to 30% of typical sales, making these stores essential for more than one million New Yorkers and 36 million Americans who rely on the program for affordable food.",
+      "City Hall will work with the Department of Small Business Services and the Department of Health and Mental Hygiene to help owners identify inventory gaps and connect with distributors carrying qualifying products during the extension.",
+      "Uncertainty remains regarding when the final enforcement deadline will fall, as it is unclear how the 90-day extension affects the broader reauthorization review process for the city's more than 10,000 bodegas with limited shelf space."
+    ],
+    "title": "Mamdani announces deal with White House for 90-day extension for new SNAP requirements",
+    "topic": "Zohran Mamdani",
+    "topic_full": "Zohran Mamdani · New York"
+  },
+  {
+    "article_path": "/article/israel-warned-us-of-possible-attack-on-donald-trump-using-drones-carrying-explosives-report_f405d2",
+    "article_url": "https://ground.news/article/israel-warned-us-of-possible-attack-on-donald-trump-using-drones-carrying-explosives-report_f405d2",
+    "bias": [
+      "Left-Leaning coverage foregrounds uncertainty, using phrases such as “alleged assassination plot,” “eliminate,” and questions about whether US intelligence sought verification, while right-leaning coverage frames Iran as an escalating, imminent danger through “assassination attempt,” “targeting,” and even “liquidation operation.” The pivotal divide is whether the Mossad warning signals a credible operational threat or an intelligence claim requiring scrutiny: the right emphasizes heightened protection, officials’ relocation, Trump’s reduced appearances, and sharply diminished US-Iran negotiation prospects; the left highlights verification gaps and intelligence cooperation.",
+      "Center coverage mediates with “possible attack” and reported validation.",
+      "All stress drones, Trump’s vulnerability, and unconfirmed intelligence, reflecting wider security-versus-skepticism divides."
+    ],
+    "bias_bar_text": "L 18% C 23% Right 59%",
+    "center_pct": 23.0,
+    "error": null,
+    "left_pct": 18.0,
+    "location": null,
+    "right_pct": 59.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday, Israel Hayom reported that Mossad intelligence alerted the CIA to an Iranian plot using explosive-laden drones targeting President Donald Trump and senior administration officials.",
+      "These intelligence warnings prompted immediate security escalations, including restricting Trump's outdoor appearances and relocating key cabinet members such as Treasury Secretary Scott Bessent to secure military facilities.",
+      "Another Western intelligence agency corroborated the threat, while counter-drone systems were deployed at Trump's Mar-a-Lago estate in Palm Beach, Florida, to mitigate aerial attack risks.",
+      "Tehran officials accused the United States of pushing \"a new deceptive narrative,\" while the reported plot has effectively chilled ongoing diplomatic efforts between Washington and Iran.",
+      "President Donald Trump is scheduled to travel to the Asia-Pacific Economic Cooperation summit in Shenzhen, China, where he will meet with global leaders amid heightened security."
+    ],
+    "title": "Israel warned US of possible attack on Donald Trump using drones carrying explosives: Report",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/deputy-working-security-at-south-carolina-gun-show-fatally-shoots-customer-who-shot-him-wtop-news",
+    "article_url": "https://ground.news/article/deputy-working-security-at-south-carolina-gun-show-fatally-shoots-customer-who-shot-him-wtop-news",
+    "bias": [
+      "Left-Leaning coverage presents a concise sequence—describing the deceased as a “customer” who shot the deputy first—while right-leaning accounts foreground the deputy’s injury and label the event a “shootout,” “suspect,” and an SLED investigation, a framing that may invite a self-defense or law-and-order interpretation without stating it outright.",
+      "Center coverage adds “suspect,” a “massive police response,” the leg injury, and the Jamil Temple location, emphasizing an unfolding emergency.",
+      "Across perspectives, the deputy’s stable condition and the fatal exchange are shared; their dividing line is whether the deceased is portrayed primarily as a customer, an alleged suspect, or a participant in a shootout."
+    ],
+    "bias_bar_text": "Left 41% Center 52% 7%",
+    "center_pct": 52.0,
+    "error": null,
+    "left_pct": 41.0,
+    "location": null,
+    "right_pct": 7.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday, a Lexington County Sheriff's Department deputy working security at The Jamil Temple fatally shot a gunman who fired on him during a gun and knife show.",
+      "The South Carolina Arms Collector Association was hosting the event at the venue, which the Shriners own and frequently rent for public markets and gatherings.",
+      "Adam Myrick, public information officer for the Lexington County Sheriff's Department, said the deputy is in stable condition following surgery and there is no ongoing threat to the public.",
+      "Authorities have not publicly identified the deputy or the deceased gunman; drivers are urged to avoid the area around Jamil and St. Andrews roads during the investigation.",
+      "Emergency services were dispatched to the scene, according to Lexington County SC Firewire, where show rules prohibit attendees from carrying loaded weapons except for on-duty police officers."
+    ],
+    "title": "Deputy Working Security at South Carolina Gun Show Fatally Shoots Customer Who Shot Him",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/data-recorder-recovered-from-tanker-in-new-orleans-cruise-ship-collision-ntsb-says",
+    "article_url": "https://ground.news/article/data-recorder-recovered-from-tanker-in-new-orleans-cruise-ship-collision-ntsb-says",
+    "bias": [
+      "The left-leaning framing stresses uncertainty, using “too soon to know” and highlighting that the passenger vessel carried more than 100 people, foregrounding unresolved causation and human stakes.",
+      "Center and right coverage instead emphasize the recovered “data recorder,” portraying it as a meaningful investigative breakthrough, while adding contextual detail by calling the vessel a “luxury paddle-wheeler” docked on the Mississippi.",
+      "The pivotal divide is whether to spotlight limited knowledge and potential impact or new evidence and procedural progress; emotionally charged partisan language is largely absent, with restrained, attribution-based tones across perspectives.",
+      "All agree on the collision and NTSB investigation, reflecting shared institutional focus rather than broader ideological conflict."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 60.0,
+    "error": null,
+    "left_pct": 10.0,
+    "location": "New Orleans",
+    "right_pct": 30.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, the tanker Atlantic Asphalt collided with the American Cruise Lines paddle-wheeler American Heritage on the Mississippi River in New Orleans , forcing 191 people aboard to evacuate as the vessel sank.",
+      "First responders pulled about 100 people from the water, New Orleans Mayor Helena Moreno said Saturday, with 32 individuals transported to local hospitals on Friday following the collision.",
+      "Nine people remained hospitalized on Saturday afternoon, Moreno said, while the National Transportation Safety Board deployed 16 investigators on-site to interview those involved in the incident.",
+      "The NTSB recovered the voyage data recorder from the Atlantic Asphalt on Saturday, which documents the tanker's speed, course, and bridge audio to help determine the collision's cause.",
+      "Removing the sunken American Heritage from the river could take weeks, Mayor Moreno confirmed, though officials verified that no one was killed in the collision."
+    ],
+    "title": "Data recorder recovered from tanker in New Orleans cruise ship collision, NTSB says",
+    "topic": "Police",
+    "topic_full": "Police · New Orleans"
+  },
+  {
+    "article_path": "/article/us-facilitating-direct-engagement-between-europe-and-russia-amid-push-for-peace-in-ukraine-kushner-says_4e5583",
+    "article_url": "https://ground.news/article/us-facilitating-direct-engagement-between-europe-and-russia-amid-push-for-peace-in-ukraine-kushner-says_4e5583",
+    "bias": [
+      "Left-Leaning coverage frames Kushner’s initiative as a hopeful peace process, stressing “direct engagement,” compromises, security guarantees, possible UAE or Swiss venues, and a potential “breakthrough,” while de-emphasizing Russian resistance.",
+      "Right-Leaning coverage portrays Washington as actively reshaping Europe ’s security order, emphasizing NATO, an “essential role” for Europe, and the idea that agreements are “not possible” before the war ends; colloquialisms like Moscow’s “nyet” add sharper skepticism.",
+      "Center coverage presents “direct engagement” more cautiously, highlighting Russia’s denial that European participation was agreed and treating proposals as unsettled.",
+      "All perspectives acknowledge U.S.-backed talks and new ideas, but their divide reflects broader tensions over diplomacy versus strategic pressure and postwar security."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 25.0,
+    "error": null,
+    "left_pct": 32.0,
+    "location": "United States",
+    "right_pct": 43.0,
+    "status": "ok",
+    "summary": [
+      "Jared Kushner, President Trump's special envoy, announced Saturday that the United States is facilitating direct engagement between Moscow and European partners to secure a peace deal in the Ukraine war.",
+      "Kushner and Steve Witkoff held separate meetings with Russian President Vladimir Putin and Ukrainian President Volodymyr Zelenskyy this past week, following the first round of U.S.-brokered talks since February.",
+      "Zelenskyy warned Friday that Moscow could use security framework discussions to weaken NATO and reshape European borders, stating, \"In my view, this can be dangerous.\"",
+      "European leaders stressed that security decisions must be made by Europeans themselves, warning against allowing Russia to dictate terms or negotiate NATO's future.",
+      "Kushner added Saturday that lasting peace requires security guarantees for Kyiv and \"detailed, actionable postwar security arrangements that reduce the risk of another war."
+    ],
+    "title": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says",
+    "topic": "US Foreign Policy",
+    "topic_full": "US Foreign Policy · United States"
+  },
+  {
+    "article_path": "/article/law-enforcement-searches-illinois-plant-after-credible-threat-of-explosive-device",
+    "article_url": "https://ground.news/article/law-enforcement-searches-illinois-plant-after-credible-threat-of-explosive-device",
+    "bias": [
+      "The left-leaning account frames the incident as contained, emphasizing that the evacuation was “lifted” after the plant search, while right-leaning coverage foregrounds danger through “credible threat” and “rapid evacuation,” stressing law-enforcement action, bomb-disposal experts, and continued examination.",
+      "The center presentation falls between them, highlighting the officials’ “credible threat” assessment, the one-mile radius, and state-federal response without heightened rhetoric.",
+      "The pivotal divide is whether to emphasize resolution or unresolved risk, with the left de-emphasizing operational details and the right de-emphasizing the evacuation’s end.",
+      "All perspectives agree on the explosive device, search, and evacuation, reflecting broader tensions between reassurance and security-focused framing."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 58.0,
+    "error": null,
+    "left_pct": 25.0,
+    "location": "Peoria",
+    "right_pct": 17.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday, state and federal officers finished searching the BioUrja ethanol plant in Peoria, Illinois, after a device deemed a \"credible threat\" was discovered on Friday near the facility.",
+      "The incident began Friday when the BioUrja plant notified police of a bomb threat, prompting officials to order residents within a 1-mile radius to evacuate as a precaution.",
+      "Personnel from the FBI and the Bureau of Alcohol, Tobacco, Firearms and Explosives searched the sprawling facility, which Peoria Police Chief Brad Dixon said spans 44-1/2 football fields.",
+      "The Peoria Police Department announced on Facebook that nothing \"of concern\" was found, allowing authorities to lift the evacuation notice for Peoria's approximately 110,000 residents on Saturday.",
+      "Bomb technicians rendered the device safe, though Peoria Police Chief Dixon said an \"extensive criminal investigation\" is underway to identify the person responsible for the threat."
+    ],
+    "title": "Law enforcement searches Illinois plant after 'credible threat' of explosive device",
+    "topic": "Police",
+    "topic_full": "Police · Peoria"
+  },
+  {
+    "article_path": "/article/spacex-catches-upper-stage-of-starship-rocket-in-historic-first_3b6a23",
+    "article_url": "https://ground.news/article/spacex-catches-upper-stage-of-starship-rocket-in-historic-first_3b6a23",
+    "bias": [
+      "Left-Leaning coverage frames the upper-stage catch as a “dramatic first,” “triumphant return,” and “breakthrough,” linking it to Moon, Mars, and expansive future ambitions; right-leaning coverage similarly celebrates “makes history,” “spectacular,” and “Musk’s monster,” but stresses private innovation, cheaper spaceflight, and airline-like reusability.",
+      "The pivotal divide is the failed Super Heavy recovery: center coverage calls it a “setback,” while left emphasis de-emphasizes operational limitations and right treats the booster’s “exploded” outcome as a remaining technical hurdle.",
+      "All perspectives agree the catch advances reusability, lasted about 22 hours and 14 orbits, and could support Artemis, reflecting shared excitement amid differing ideological priorities."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 43.0,
+    "error": null,
+    "left_pct": 32.0,
+    "location": "United States",
+    "right_pct": 25.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday, SpaceX successfully caught its Starship upper stage using giant mechanical arms at Starbase, Texas, after the spacecraft, Ship 42, completed 14 orbits over a 22-hour flight.",
+      "SpaceX fell short of its goal to recover both rocket stages when the Super Heavy booster aborted its landing attempt Friday due to a low-fuel alarm, resulting in an offshore splashdown in the Gulf of Mexico.",
+      "Deploying 26 Starlink V3 satellites, Ship 42 returned to be secured by the launch tower's mechanical 'chopstick' arms, which SpaceX commentator Dan Huot called \"the missing link\" of spaceflight.",
+      "This midair capture serves as a major proof of concept for the Starship program, marking the first time an orbital upper stage has been fully recovered—essential to SpaceX's goal of fully reusable rocket systems.",
+      "NASA's Artemis lunar missions and eventual Mars exploration will rely on Starship technology, as SpaceX aims to increase launch cadence to support a constellation of up to one million satellites for orbital data infrastructure."
+    ],
+    "title": "SpaceX catches upper stage of Starship rocket in historic first",
+    "topic": "SpaceX",
+    "topic_full": "SpaceX · United States"
+  },
+  {
+    "article_path": "/article/feds-jefferson-says-he-is-taking-his-policy-cues-from-inflation",
+    "article_url": "https://ground.news/article/feds-jefferson-says-he-is-taking-his-policy-cues-from-inflation",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 50.0,
+    "error": null,
+    "left_pct": null,
+    "location": "United States",
+    "right_pct": 50.0,
+    "status": "no_change",
+    "summary": [
+      "On Friday, Federal Reserve Vice Chair Philip Jefferson said he is prioritizing inflation trends to guide future interest-rate decisions, noting persistent price pressures remain the primary signal for monetary policy.",
+      "Jefferson recently joined 10 Fed policymakers who voted at their October meeting to await further data before considering rate increases, with 2 dissenting from the majority position.",
+      "Fed policymakers have indicated in recent weeks that elevated inflation may necessitate larger rate hikes than the single quarter-point increase delivered in September, potentially arriving in quicker succession.",
+      "Regarding artificial intelligence, Jefferson said the technology could boost productivity substantially but risks displacing workers faster than they can adapt, limiting monetary policy's ability to address structural employment shifts.",
+      "Jefferson emphasized that while AI adoption could increase borrowing costs economy-wide, \"Monetary policy can affect cyclical conditions\" but cannot address the structural factors determining long-run employment rates."
+    ],
+    "title": "Fed's Jefferson says he is taking his policy cues from inflation",
+    "topic": "Federal Reserve",
+    "topic_full": "Federal Reserve · United States"
+  },
+  {
+    "article_path": "/article/workday-outage-means-employees-across-thousands-of-businesses-cant-access-accounts_3b6ae2",
+    "article_url": "https://ground.news/article/workday-outage-means-employees-across-thousands-of-businesses-cant-access-accounts_3b6ae2",
+    "bias": [
+      "Left-Leaning coverage frames the incident as workers being “locked” out, emphasizing millions affected and disrupted workplace tasks, while right-leaning coverage intensifies the story with “ANOTHER ONE,” “massive,” “serious,” and “major,” portraying a cascading national crisis involving retailers, payroll access, and a simultaneous FAA “ground stop.” The pivotal divide is whether to treat the outage as an isolated employee-access problem or connect it to broader infrastructure failures; only the right highlights that juxtaposition, without established causation.",
+      "Center coverage de-emphasizes partisan urgency, supplying operational detail such as roughly 11,500 businesses, maintenance mode, and an “unexpected” database connection.",
+      "All perspectives stress widespread disruption and uncertainty, reflecting broader divides over systemic-risk interpretation."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 52.0,
+    "error": null,
+    "left_pct": 10.0,
+    "location": "United States",
+    "right_pct": 38.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, a Workday outage locked employees across 11,500 businesses out of their HR accounts, preventing users from clocking in or out, requesting time off, and accessing benefit information.",
+      "Workday placed its system into maintenance mode after discovering an issue during backup system testing, causing inconsistent information that could trigger errors when users access accounts.",
+      "High-Profile clients including Target, Walmart, and Netflix rely on the platform, alongside the Department of Energy and NASA's Jet Propulsion Laboratory at the California Institute of Technology.",
+      "Downdetector recorded nearly 3,000 outage reports shortly after 5 p.m. Friday; a Workday spokesperson said, \"Some of our customers are experiencing a service disruption and we're working urgently to investigate and resolve the issue.\"",
+      "Workday has not provided an estimate for platform restoration, leaving employees unable to access benefits enrollment during the outage."
+    ],
+    "title": "Workday, software company with thousands of Fortune 500 clients, joins Microsoft in experiencing major outage",
+    "topic": "Business",
+    "topic_full": "Business · United States"
+  },
+  {
+    "article_path": "/article/voyager-1-fifty-years-since-its-launch-it-breaks-down-humanitys-longest-journey",
+    "article_url": "https://ground.news/article/voyager-1-fifty-years-since-its-launch-it-breaks-down-humanitys-longest-journey",
+    "bias": [
+      "These headlines reveal more tonal than ideological division: left-labeled coverage foregrounds NASA ’s continuing receipt of data and calls the scale “mind-blowing,” while right-labeled coverage stresses exact measurements, the “magical boundary,” the “greatest distance ever traveled,” and a “hard-to-beat record”—difficulty surpassing it, not permanence.",
+      "Center coverage adds operational context: a 24-hour signal delay and Voyager 2’s projected 2035 milestone, while also calling the achievement “extraordinary.” Across all perspectives, Voyager 1’s 1977 launch, approach to one light-day, and historic distance record remain shared emphasis, reflecting broad fascination with exploration rather than a clear partisan divide."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 38.0,
+    "error": null,
+    "left_pct": 33.0,
+    "location": "United States",
+    "right_pct": 29.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, NASA 's Voyager 1 reached the milestone of one light-day from Earth, having travelled more than 16 billion miles since its 1977 launch. Radio signals from the spacecraft now take 24 hours to reach Earth.",
+      "Launched 49 years ago, the probe swept past Jupiter and Saturn in 1979 and 1980 before exiting the solar system. It reached interstellar space—the expansive region between star systems—in 2012.",
+      "A skeleton team at NASA's Jet Propulsion Laboratory in Pasadena, California, sends commands weekly to maintain the plutonium-powered spacecraft. Project manager Suzanne Dodd credits their expertise for keeping Voyager 1 chugging along like \"the little engine that could.\"",
+      "Equipped with a gold-plated record carrying greetings in 55 languages, Voyager serves as Earth's ambassador into deep space. In 1990, it captured the iconic \"Pale Blue Dot\" photograph from beyond Neptune, humanity's most distant portrait of home.",
+      "NASA projects another 18,000 years before Voyager 1 completes a full light-year journey, while its twin Voyager 2 will not reach the one light-day milestone until 2035. Project manager Dodd calls the mission \"a national treasure."
+    ],
+    "title": "NASA’s Voyager 1 closes in on a light-day in interstellar space for a new distance record",
+    "topic": "NASA",
+    "topic_full": "NASA · United States"
+  },
+  {
+    "article_path": "/article/bomb-found-near-ethanol-plant-in-central-illinois-forces-evacuations-as-authorities-investigate",
+    "article_url": "https://ground.news/article/bomb-found-near-ethanol-plant-in-central-illinois-forces-evacuations-as-authorities-investigate",
+    "bias": [
+      "Left-Leaning coverage emphasizes community disruption—“mass evacuations ,” more than 5,000 displaced, canceled events, and the FBI search—while right-leaning framing spotlights industrial danger, an “active bomb,” “panic,” “blast radius,” and the necessity of a mandatory shutdown.",
+      "The pivotal divide is whether the device is cautiously a “suspicious package” or definitively a bomb, and whether the response signals protection or heightened insecurity.",
+      "Center coverage de-emphasizes partisan implications, stressing procedure, shelters, the search, and the evacuation’s lifting.",
+      "All perspectives agree the threat was credible, the device was neutralized, and authorities acted, reflecting shared concern over public safety amid differing emphases on social disruption versus danger."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 62.0,
+    "error": null,
+    "left_pct": 16.0,
+    "location": "Peoria",
+    "right_pct": 22.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, the Peoria Police Department ordered an evacuation within a 1-mile radius of the BioUrja Renewables ethanol plant after identifying a suspicious package as a \"credible threat.\"",
+      "The BioUrja facility spans approximately 44-and-a-half football fields and contains ethanol and highly combustible types of chemicals, prompting officials to treat the discovery with extreme caution.",
+      "Bomb technicians rendered the device safe at 9:12 p.m. Friday, while the response forced the closure of Interstate 74 and displaced more than 5,000 residents and workers.",
+      "Authorities lifted the evacuation order Saturday at 1 p.m. after an exhaustive search revealed no additional hazards, allowing residents and businesses to return.",
+      "The Federal Bureau of Investigation continues to work \"tirelessly\" to identify the individual responsible, as officials confirm no suspects have been identified and the investigation remains active."
+    ],
+    "title": "Bomb found near ethanol plant in central Illinois forces evacuations as authorities investigate",
+    "topic": "US Crime",
+    "topic_full": "US Crime · Peoria"
+  },
+  {
+    "article_path": "/article/musk-critical-nvidia-deals-will-be-lost-without-huang",
+    "article_url": "https://ground.news/article/musk-critical-nvidia-deals-will-be-lost-without-huang",
+    "bias": [
+      "No left-leaning coverage is supplied; the contrast is between center and right framing.",
+      "Center outlets attribute the prediction to Musk with “says,” quote “critical,” and stress it as a warning, while noting Huang managed the supply chain “brilliantly” and that “handshake” relationships are Musk’s claim.",
+      "Right-Leaning coverage intensifies urgency through “warns,” “disruption,” “risks losing,” and “will have” supply-chain issues, portraying Huang’s departure as a looming business threat.",
+      "Both emphasize his personal trust and critical deals, yet neither identifies losses, contracts, or dollar values—revealing a shared focus on corporate continuity amid differing levels of alarm."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 35.0,
+    "error": null,
+    "left_pct": 26.0,
+    "location": "United States",
+    "right_pct": 39.0,
+    "status": "ok",
+    "summary": [
+      "Tesla and SpaceX CEO Elon Musk warned on Saturday that Nvidia could lose critical supply agreements following co-founder Jensen Huang 's resignation, citing the importance of his personal relationships with suppliers and business partners.",
+      "Huang resigned as Nvidia CEO amid mounting scrutiny over alleged relationships with Nvidia Vice President of Healthcare Kimberly Powell and Alice Huang, a businesswoman suspected of having links to Chinese intelligence.",
+      "Musk said many of Nvidia's supply chain deals were built on personal handshakes with Jensen rather than written contracts. \"Without Jensen, at least some of those critical deals will be lost,\" he added.",
+      "Following Huang's resignation, Nvidia appointed Chief Financial Officer Colette Kress as interim CEO. Musk publicly backed a petition on Friday seeking Jensen's reinstatement, stating it \"would be an honor\" to work with him.",
+      "Jensen led Nvidia for more than three decades, transforming it into a leading supplier of AI chips. His departure creates uncertainty for the company's central role in supplying advanced semiconductors worldwide."
+    ],
+    "title": "Musk says Nvidia will lose 'critical' deals without Jensen Huang",
+    "topic": "Jensen Huang",
+    "topic_full": "Jensen Huang · United States"
+  },
+  {
+    "article_path": "/article/intel-intercepts-implicating-jensen-huang-in-affair-sparked-classified-rubio-memo",
+    "article_url": "https://ground.news/article/intel-intercepts-implicating-jensen-huang-in-affair-sparked-classified-rubio-memo",
+    "bias": [
+      "Left-Leaning coverage uses charged phrases like “spy scandal” and “shadow war for Trump’s ear,” emphasizing alleged misconduct and a struggle over China policy.",
+      "Center coverage is more procedural, stressing intercepted communications, possible sensitive- technology diversion, the masked American, and a classified Rubio memo, while retaining hedges such as “possibly.” Right-leaning coverage heightens personalization through “love-spy scandal,” calls Huang “Trump’s friend,” and alleges Rubio “arranged” the espionage controversy—not the affair.",
+      "All connect Huang, Rubio, China, and alleged personal ties, but none supplies corroborating evidence, named sources, official confirmation, or responses, reflecting competing interpretations of intelligence, influence, and geopolitical conflict."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 73.0,
+    "error": null,
+    "left_pct": 18.0,
+    "location": "United States",
+    "right_pct": 9.0,
+    "status": "ok",
+    "summary": [
+      "National Security Adviser Marco Rubio drafted a classified memo after intelligence intercepts linked NVIDIA CEO Jensen Huang to a Megaspeed executive, prompting officials to request Huang be \"unmasked\" in the report to warn senior policymakers.",
+      "Alice Huang had been targeted by the National Security Agency for months amid investigations into Megaspeed, a firm suspected of diverting sensitive technology to China, though officials disagree on whether she was recruited by State Security.",
+      "Sources cite concern that Huang is \"being coopted to approve deals without due diligence that are at odds with US national security objectives because of a personal relationship,\" exposing sensitive technology to potential compromise.",
+      "President Donald Trump expressed sympathy, stating the former CEO is \"going through hell,\" while Attorney General Todd Blanche said on Thursday that The Justice has reached \"no conclusions\" regarding Alice Huang's identity.",
+      "Critics argue the fixation on the affair obscures broader questions regarding the government's failure to prevent the diversion of sophisticated technology to China, shifting focus from systemic security gaps to personal matters."
+    ],
+    "title": "Intel intercepts implicating Jensen Huang in affair sparked classified Rubio memo, CNN reports",
+    "topic": "Jensen Huang",
+    "topic_full": "Jensen Huang · United States"
+  },
+  {
+    "article_path": "/article/mazraa-resident-arrested-on-suspicion-of-spying-for-iran-photographed-military-bases-and-police-stations",
+    "article_url": "https://ground.news/article/mazraa-resident-arrested-on-suspicion-of-spying-for-iran-photographed-military-bases-and-police-stations",
+    "bias": [
+      "Left-Leaning coverage frames the case around alleged motive and procedure, stressing “revenge,” Telegram contact, transmitted locations, and the expectation of charges, while right-leaning coverage foregrounds national security through repeated “spy,” “Iran,” “volunteering,” and “Hizbullah spy,” emphasizing ideological commitment, self-initiated cooperation, and the joint police–Shin Bet operation.",
+      "The pivotal divide is whether the suspect is portrayed primarily as an individual allegedly acting for revenge or as an “Arab Israeli” embedded in a hostile foreign threat—an identity marker de-emphasized on the left but repeated on the right.",
+      "Both highlight the alleged unpaid espionage, strategic-site photography , and Iranian connection, reflecting wider tensions over security, ethnicity, and accountability."
+    ],
+    "bias_bar_text": "Left 33% Right 67%",
+    "center_pct": null,
+    "error": null,
+    "left_pct": 33.0,
+    "location": null,
+    "right_pct": 67.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, authorities announced the arrest of Wissam Ghaleb Saleh Awad, a resident of Mazra in the Western Galilee, on suspicion of volunteering to conduct espionage for Iranian intelligence.",
+      "Unlike many recruits, Awad allegedly sought no payment, motivated by ideology and support for Hezbollah ; he initiated contact with Iranian intelligence operatives through Telegram.",
+      "Investigators allege Awad photographed military installations, police stations, and strategic infrastructure, transmitting images and geographic coordinates to his handlers for potential use in attacks.",
+      "The Haifa District Prosecutor is expected to file an indictment against Awad at the Haifa Magistrate on Sunday, requesting he remain in custody until legal proceedings conclude.",
+      "Dozens of Israelis have faced similar charges over the past two years, as Iranian intelligence continues attempting to recruit citizens for espionage via Telegram and other social media platforms."
+    ],
+    "title": "No Money, Just Revenge: Israeli Arrested After Allegedly Offering to Spy for Iran For",
     "topic": null,
     "topic_full": null
   },
@@ -803,35 +682,50 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/trump-promotes-federal-film-tax-incentive-amid-nationwide-faa-flight-disruptions",
-    "article_url": "https://ground.news/article/trump-promotes-federal-film-tax-incentive-amid-nationwide-faa-flight-disruptions",
+    "article_path": "/article/netanyahu-loses-parliamentary-majority-as-trumps-republicans-suffer-major-congressional-setback_9df1cf",
+    "article_url": "https://ground.news/article/netanyahu-loses-parliamentary-majority-as-trumps-republicans-suffer-major-congressional-setback_9df1cf",
     "bias": [
-      "Left-Leaning coverage frames the nationwide FAA ground stop as a “crisis,” stressing more than 5,000 delays, 319 cancellations, and passengers’ “furious backlash” while portraying Trump’s Hollywood tax-incentive promotion as “utter incompetence” and “babble”—a glaring priority failure.",
-      "Right-Leaning coverage de-emphasizes Hollywood and traveler impact, instead foregrounding Trump’s assessment that the “shutdown” showed no apparent cyberattack or AI link, using comparatively restrained attribution.",
-      "The pivotal divide is whether the story is presidential negligence or technical causation; center coverage narrows it to Trump’s silence and cleared schedule.",
-      "All acknowledge the nationwide disruption and Trump’s connection, reflecting broader divides over accountability, crisis management, and security framing."
+      "Left-Leaning coverage urges voters to “get rid of” Netanyahu, says he “burned every support” in Washington, links his alliance with Trump to Democratic gains, and anticipates renewed peace pressure.",
+      "Center coverage frames the partnership as a “lost bet,” stresses Israel’s “increasingly isolated” position, and warns Hamas could “win big” from turmoil.",
+      "Right-Leaning coverage instead says October 7 “shattered” Netanyahu’s “grip on power,” treats coalition losses as a stability crisis, and places him within a “global far-right alliance.” All portray Netanyahu and Trump as politically weakened, but diverge over whether the decisive issue is diplomacy, strategic fallout, or wartime accountability."
     ],
-    "bias_bar_text": "Left 70% C 20% 10%",
-    "center_pct": 20.0,
+    "bias_bar_text": null,
+    "center_pct": null,
     "error": null,
-    "left_pct": 70.0,
+    "left_pct": null,
     "location": null,
-    "right_pct": 10.0,
+    "right_pct": null,
     "status": "ok",
     "summary": [
-      "On Friday, the Federal Aviation Administration ordered a nationwide ground stop due to air traffic control communication failures, delaying over 10,000 flights. President Donald Trump drew backlash for posting about film tax incentives instead of addressing the aviation emergency.",
-      "Following the halt, DHS Secretary Markwayne Mullin stated the incident was a telecommunication outage rather than a terrorist attack. The FAA has not yet revealed the specific cause, though officials confirmed the failure impacted all Air Route Traffic Control Centers.",
-      "CNN reporter Richard Quest described the situation as 'chaos,' with planes unable to depart and international flights grounding for fuel. MS NOW correspondent Eugene Daniels, trapped in California, reported travelers were 'shocked' by the administration's silence.",
-      "On Truth Social, Trump touted the 'Motion Picture, Television, and Entertainment Revitalization Act,' claiming bipartisan support to keep production in America. He promised the tax incentives would be 'made up tenfold' by revenue pouring into the Treasury.",
-      "The Cato Institute estimated the proposed tax incentives could cost between $33 billion and $49 billion. Legislators face an impasse on the bill, which may be attached to end-of-year funding legislation amid concerns of a government shutdown."
+      "Israeli Prime Minister Benjamin Netanyahu lost his parliamentary majority following a heated vote, while President Donald Trump's party suffered a major midterm election setback.",
+      "President Donald Trump and Prime Minister Benjamin Netanyahu agreed to end $3.8 billion in annual U.S. military aid, with the president announcing the assistance would cease by the end of the year.",
+      "Vice President JD Vance acknowledged the war with the Islamic Republic of Iran contributed to Republican defeats, as voters rejected the administration's \"incessant message to hate thy neighbor.\"",
+      "Former Prime Minister Ehud Barak accused Netanyahu of concocting a \"stinking deal\" that traded military aid for political endorsement, concluding Netanyahu \"exceeded his authority\" and is \"utterly unfit to lead a country.\"",
+      "Political uncertainty in Israel and Washington may provide Hamas additional room to maneuver over its future governance role, as the militant movement continues to survive despite three years of full-scale war."
     ],
-    "title": "Trump Promotes Federal Film Tax Incentive Amid Nationwide FAA Flight Disruptions",
+    "title": "NETANYAHU LOSES PARLIAMENTARY MAJORITY AS TRUMP’S REPUBLICANS SUFFER MAJOR CONGRESSIONAL SETBACK!",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/here-we-go-al-green-announces-plans-to-lead-another-impeachment-vote-against-trump-in-unhinged-house-floor-speech-the-gateway-pundit-by-cr",
-    "article_url": "https://ground.news/article/here-we-go-al-green-announces-plans-to-lead-another-impeachment-vote-against-trump-in-unhinged-house-floor-speech-the-gateway-pundit-by-cr",
+    "article_path": "/article/trump-heads-to-asia-with-hopes-of-shifting-the-momentum-after-midterm-setbacks-hurt-him-at-home",
+    "article_url": "https://ground.news/article/trump-heads-to-asia-with-hopes-of-shifting-the-momentum-after-midterm-setbacks-hurt-him-at-home",
+    "bias": null,
+    "bias_bar_text": "L 22% Center 67% 11%",
+    "center_pct": 67.0,
+    "error": "Message: \n",
+    "left_pct": 22.0,
+    "location": null,
+    "right_pct": 11.0,
+    "status": "fail",
+    "summary": null,
+    "title": "Trump heads to Asia with hopes of shifting the momentum after midterm setbacks hurt him at home",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/senate-gop-urges-wh-to-declassify-crossfire-hurricane-documents",
+    "article_url": "https://ground.news/article/senate-gop-urges-wh-to-declassify-crossfire-hurricane-documents",
     "bias": null,
     "bias_bar_text": null,
     "center_pct": null,
@@ -841,8 +735,168 @@
     "right_pct": null,
     "status": "fail",
     "summary": null,
-    "title": "Democrat Al Green Announces Plans to Force House Vote on Impeaching President Trump Next Week",
+    "title": "Wisconsin Sen. Ron Johnson pushes Trump to declassify FBI investigation records",
     "topic": null,
     "topic_full": null
+  },
+  {
+    "article_path": "/article/are-you-serious-trump-official-sparks-fury-with-remark-during-national-emergency",
+    "article_url": "https://ground.news/article/are-you-serious-trump-official-sparks-fury-with-remark-during-national-emergency",
+    "bias": [
+      "Left-Leaning coverage portrays the nationwide FAA ground stop as a leadership and communications failure, stressing Mullin’s “super intelligence” correction, public backlash, and phrases such as “sparks fury,” “chaos,” “stunning moment,” and “accidentally tells the truth.” Right-leaning coverage instead foregrounds uncertainty and institutional response, emphasizing officials “working to resolve the issue” while noting Mullin “refuses to rule out” a cyberattack or AI problem.",
+      "The pivotal divide is whether the episode signifies political incompetence or a still-unresolved security threat, alongside competing interpretations of a telecommunications outage versus possible hacking.",
+      "Both sides acknowledge the disruption, Mullin’s role, ongoing investigation, and efforts to restore flights, reflecting broader divides over Trump-era governance and institutional trust."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "On Friday, Homeland Security Secretary Markwayne Mullin interrupted a reporter during a briefing on the unprecedented nationwide Federal Aviation Administration ground stop to correct the use of the term \"artificial intelligence,\" insisting on \"super intelligence.\"",
+      "Following an executive order, President Donald Trump mandated the term \"super intelligence\" across federal agencies, reportedly claiming Chinese President Xi Jingping supported the rebranding, despite the original term remaining on the White House web site.",
+      "The FAA cited \"extraordinary circumstances\" and \"reasons of safety\" for the stoppage, which caused more than 10,000 delays and more than 1,700 cancellations by early Friday evening as officials investigated the communications outage.",
+      "Critics condemned Mullin's focus, with Pennsylvania Rep. Malcolm Kenyatta calling for \"one person with just regular intelligence\" in the administration, while progressive media outlet MeidasTouch labeled the distraction \"unserious\" during the national emergency.",
+      "Regarding the investigation into the communications outage, Mullin stated, \"You just can't rule out anything at this point,\" assuring the press and the nation that the event was not the result of terrorism."
+    ],
+    "title": "DHS Sec. Markwayne Mullin Refuses to Rule Out Cyberattack or AI Issue as Ground Stop Continues",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/craig-shares-an-emotional-moment-with-daughter-of-emanuel-church-shooting-victim-at-newly-opened-memorial",
+    "article_url": "https://ground.news/article/craig-shares-an-emotional-moment-with-daughter-of-emanuel-church-shooting-victim-at-newly-opened-memorial",
+    "bias": [
+      "Left-Leaning coverage frames the memorial as a reckoning with racial violence, using charged terms such as “massacre,” “hate,” “horrific deaths,” and “anti-Black racism,” while emphasizing education, community openness, and the victims’ Black identity.",
+      "Center coverage softens that interpretive emphasis, foregrounding relatives’ movement from grief or fear toward “gratitude and hope” and the memorial’s setting and tribute.",
+      "Right-Leaning coverage de-emphasizes racial context and emotion, presenting the opening primarily as the culmination of a “decade-long effort.” The pivotal divide is whether the site represents an ongoing anti-racist warning or a completed civic project; all perspectives nonetheless emphasize the Emanuel Nine, public remembrance, and the decade required to honor them."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 54.0,
+    "error": null,
+    "left_pct": 33.0,
+    "location": "Charleston",
+    "right_pct": 13.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday, the Emanuel Nine Memorial opens to the public at Mother Emanuel African Methodist Episcopal Church in Charleston, South Carolina , honoring nine Bible study attendees killed in 2015.",
+      "Established in 1818, Mother Emanuel became a historic site of resistance before a white supremacist fatally shot nine worshippers during Bible study on June 17, 2015.",
+      "Architect Michael Arad, designer of the 9/11 Memorial in New York City, created the $20 million site featuring a Fountain of Grace and marble Fellowship Benches, funded primarily through donations.",
+      "Sharon Risher, whose mother Ethel Lance was killed, visited the site and stated she wants people to understand the victims' impact endures beyond forgiveness conversations.",
+      "The Mother Emanuel Memorial Foundation will launch the Crossroads Education and Outreach program to foster discussions on confronting racism, while a Survivors' Garden honoring five survivors is soon to come."
+    ],
+    "title": "Memorial opens honoring victims of the 2015 Charleston church massacre",
+    "topic": "Charleston, South Carolina",
+    "topic_full": "Charleston, South Carolina · Charleston"
+  },
+  {
+    "article_path": "/article/alaska-open-primaries-ranked-choice-voting-win-by-widest-margin-yet",
+    "article_url": "https://ground.news/article/alaska-open-primaries-ranked-choice-voting-win-by-widest-margin-yet",
+    "bias": [
+      "Left-Leaning coverage frames the result as Alaskans choosing to “stick with” a 2020 reform, stressing the “latest attempt” to repeal open primaries and ranked-choice voting .",
+      "Right-Leaning coverage instead centers on voters rejecting repeal, calls the arrangement “unique,” and de-emphasizes any explicit endorsement of keeping it.",
+      "The pivotal divide is whether the vote signifies affirmative support or merely defeat of a change, with “keep” versus “reject” carrying different emotional cues.",
+      "Center coverage bridges these frames with “a large and growing mandate,” while noting another repeal effort may follow.",
+      "All emphasize the contested ballot measure, reflecting broader disagreement over electoral design and policy continuity."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 43.0,
+    "error": null,
+    "left_pct": 47.0,
+    "location": "Alaska",
+    "right_pct": 10.0,
+    "status": "ok",
+    "summary": [
+      "Alaska voters rejected Ballot Measure 2 on November 3, marking the second time in two years that Alaskans declined to repeal the state's open primaries and ranked-choice voting system.",
+      "Since its 2020 adoption, the system has faced consistent opposition from the Alaska Republican Party and President Donald Trump, who called the method \"disastrous and very fraudulent.\"",
+      "Supporters raised $10.4 million to defend the system, significantly outpacing the $2.5 million raised by the measure's campaign, while proponents argue it promotes bipartisanship in the Alaska Legislature.",
+      "This month's result ensures Alaskans will continue using the open primary and ranked-choice system through the 2028 election cycle, when Republican U.S. Sen. Lisa Murkowski faces reelection.",
+      "Though undecided on timelines, activists including Phil Izon, sponsor of the 2024 initiative, and campaign manager Bethany Marcum have indicated they may launch another repeal effort before 2028."
+    ],
+    "title": "Alaska voters reject ballot measure seeking to repeal open primaries, ranked voting system",
+    "topic": "Alaska Politics",
+    "topic_full": "Alaska Politics · Alaska"
+  },
+  {
+    "article_path": "/article/preliminary-study-finds-a-clue-in-the-quest-to-help-diagnose-cte-in-the-living_b1f151",
+    "article_url": "https://ground.news/article/preliminary-study-finds-a-clue-in-the-quest-to-help-diagnose-cte-in-the-living_b1f151",
+    "bias": [
+      "Left-Leaning coverage frames the research as a hopeful public- health “quest,” using “clue” and “help” to suggest progress toward diagnosing CTE in living patients, while right-leaning coverage is more narrowly cautious, emphasizing a “toxic protein” and “advanced CTE,” which limits the finding’s reach.",
+      "Center coverage bridges both tones with “shows promise,” while adding that doctors currently rely on symptoms such as mood swings and memory loss.",
+      "The pivotal divide is whether the biomarker signals broad diagnostic progress or only a preliminary tool for advanced disease.",
+      "Still, all perspectives stress “preliminary” evidence and shared concern over repeated head trauma and difficult diagnosis."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 55.0,
+    "error": null,
+    "left_pct": 35.0,
+    "location": "Washington",
+    "right_pct": 10.0,
+    "status": "ok",
+    "summary": [
+      "Washington University researchers found a blood test detecting a toxic protein can identify advanced CTE, a condition currently only diagnosable after death.",
+      "Scientists stumbled onto the potential biomarker while studying Alzheimer, discovering that levels of the protein were also elevated in patients with advanced CTE.",
+      "The test achieved an AUC of 0.97 for detecting advanced CTE, though accuracy dropped to 0.64 for early-stage disease according to findings published late Friday in JAMA.",
+      "Rudolph Castellani, a neuropathologist at Northwestern University, cautioned the findings remain preliminary and require larger studies, noting the test cannot distinguish CTE from Alzheimer alone.",
+      "If validated, the test could allow doctors to diagnose CTE in living patients, potentially facilitating clinical trials for treatments currently limited by the inability to confirm diagnosis."
+    ],
+    "title": "Washington University Study Links Blood Biomarker to Advanced CTE",
+    "topic": "Medical",
+    "topic_full": "Medical · Washington"
+  },
+  {
+    "article_path": "/article/deaths-of-4-firefighters-in-colorado-wildfire-caused-by-extreme-fire-behavior-human-error-report-finds",
+    "article_url": "https://ground.news/article/deaths-of-4-firefighters-in-colorado-wildfire-caused-by-extreme-fire-behavior-human-error-report-finds",
+    "bias": [
+      "The left-leaning framing emphasizes institutional accountability, spotlighting “understaffing,” “communication failures,” and a grieving family’s “We want answers” response, while emotionally describing a “raging wildfire,” “shocking” speed, and “no escape.” Center coverage presents a less accusatory sequence: extreme fire behavior, “human error,” aerial-supervision gaps, a roughly nine-second shelter window, and growth from 60 to over 28,000 acres, while stressing that investigators assigned no blame.",
+      "No right-leaning analysis is provided, so a left-right contrast cannot be established.",
+      "Both perspectives converge on four deaths, one injury, rapidly changing fire conditions, and communication failures, reflecting tensions between accountability and operational explanation."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 58.0,
+    "error": null,
+    "left_pct": 34.0,
+    "location": "Colorado",
+    "right_pct": 8.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, the Department of Interior released an investigation into the June 27 wildfire in Mesa County that killed four firefighters , citing \"extraordinary fire behavior\" and \"strained communications\" as primary factors in the tragedy.",
+      "Extreme winds pushed the Snyder Fire more than 7 miles across canyons in about 2 hours and 43 minutes, while the Rifle Helitack crew operated under a \"false mental model\" that Air Attack was actively monitoring the blaze.",
+      "A 200-foot rock dome obscured the approaching fire, forcing an immediate shelter deployment; interviewees described the fire's progression as \"shocking\" and \"unfathomable\" as it swept \"like a storm, sweeping with the wind.\"",
+      "Demanding accountability, Ron and Lisa Hutcherson cited \"preventable failures of leadership\" and questioned why investigators sent three fire shelters to a \"disposal site\" rather than preserving them as evidence.",
+      "Secretary of the Interior Doug Burgum pledged to apply report lessons to protect firefighters, emphasizing the Department of Interior's duty to improve communication and airspace awareness in honor of the fallen crew."
+    ],
+    "title": "Federal Report Cites Failures in Colorado Wildfire That Killed 4; Families Demand Accountability",
+    "topic": "Firefighters",
+    "topic_full": "Firefighters · Colorado"
+  },
+  {
+    "article_path": "/article/50-years-after-iconic-film-a-gathering-of-rocky-fans-in-philadelphia-breaks-a-world-record-wtop-news_e4149b",
+    "article_url": "https://ground.news/article/50-years-after-iconic-film-a-gathering-of-rocky-fans-in-philadelphia-breaks-a-world-record-wtop-news_e4149b",
+    "bias": [
+      "The supposed left-right divide is modest: both sets of coverage present promotional entertainment framing, not partisan arguments.",
+      "Left-Associated accounts stress Rocky’s “legacy,” “resilience,” “grit,” and perseverance; right-associated accounts foreground the fan gathering, franchise durability, and achievement, with the playful phrase “punch above their weight.” Neither side substantially disputes the reported Guinness recognition, though no exact participant count, adjudication details, or direct Guinness quotation appears.",
+      "Center coverage broadens the picture to tourism, a step run, statue rededication, meat-market challenge, 40,000 expected runners, and a “uniquely Catholic” interpretation.",
+      "Across perspectives, Philadelphia, fan participation, and Rocky’s endurance unite the narrative."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 69.0,
+    "error": null,
+    "left_pct": 20.0,
+    "location": "Philadelphia",
+    "right_pct": 11.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, 570 fans dressed as Rocky Balboa gathered at the Philadelphia Museum of Art steps, setting a Guinness World Record for the largest such assembly and surpassing the previous mark of 250.",
+      "Rocky Season marks 50 years since the 1976 film written by Sylvester Stallone , a citywide celebration honoring the underdog boxer who became the highest-grossing sports film of its era.",
+      "Participants donned the character's signature gray sweatsuits, black beanies, and boxing gloves to achieve the record. \"It's going to be awesome just to be a part of history,\" attendee Kevin Yacovetti said.",
+      "On Saturday, tourism officials said 45,000 runners from all 50 states and 75 countries will participate in a \"Rocky Run\" throughout Philadelphia. The event honors the fictional boxer citywide.",
+      "The city organized diverse events this month, including release of Stallone's memoir \"The Steps\" and a statue rededication, expanding on the inaugural 2023 Rocky Day and subsequent Rocky Fest."
+    ],
+    "title": "50 years after iconic film, a gathering of ‘Rocky’ fans in Philadelphia breaks a world record",
+    "topic": "Movies",
+    "topic_full": "Movies · Philadelphia"
   }
 ]
