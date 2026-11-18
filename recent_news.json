@@ -1,11 +1,10 @@
 [
   {
-    "article_path": "/article/united-airlines-says-it-resolved-a-technology-issue-that-affected-departing-flights_ca42da",
-    "article_url": "https://ground.news/article/united-airlines-says-it-resolved-a-technology-issue-that-affected-departing-flights_ca42da",
+    "article_path": "/article/trump-lands-in-china-for-historic-meeting-with-xi-putin_b818b4",
+    "article_url": "https://ground.news/article/trump-lands-in-china-for-historic-meeting-with-xi-putin_b818b4",
     "bias": [
-      "Left-Leaning coverage frames the outage as another blow to a “beleaguered airspace,” emphasizing “chaos,” traveler “dismay,” and its timing after the FAA ground stop; right-leaning coverage portrays it as evidence of recurring infrastructure breakdowns, using phrases such as “high-profile tech failures,” “travel headaches just keep coming,” “paralyzes,” and “massive.” The key dividing line is scope: cautious accounts specify that only departures were affected, while some right-leaning framing implies broader grounding, de-emphasizing unaffected airborne and United Express flights.",
-      "Center coverage stresses the roughly 90-minute operational disruption and residual delays.",
-      "All perspectives highlight the outage, safety-related takeoff data, resolution, and public frustration, reflecting wider debates over institutional reliability and infrastructure stewardship."
+      "Left-Leaning coverage frames Xi’s “open trade ” message as a rebuke to U.S. “protectionism,” while portraying Trump’s trip as compensation for a “devastating electoral defeat” and weakened by domestic technology outages; right-leaning coverage instead spotlights Xi’s “rare diplomatic gesture,” “red-carpet welcome,” and Trump’s “strong” initiative as evidence of respect and an emerging “multipolar world order.” The center emphasizes “unscripted diplomacy,” summit optics, and uncertain results, sometimes invoking a “strongman summit.” The key divide is whether the embrace signals cooperation, political vulnerability, or geopolitical realignment.",
+      "All perspectives stress the leaders’ meeting, trade, technology, and historic symbolism, reflecting wider disputes over U.S. dominance, globalization, and confrontation versus accommodation."
     ],
     "bias_bar_text": null,
     "center_pct": null,
@@ -15,818 +14,315 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
-      "United Airlines experienced a systemwide technology outage on November 16, disrupting departing flights just days after a separate Federal Aviation Administration network failure caused a nationwide ground stop.",
-      "The technical problem prevented some aircraft from receiving essential dispatch information, including weight-and-balance calculations and performance data required for safe takeoffs.",
-      "The disruption affected departing flights but did not impact aircraft already in the air or services operated by United Express, while FlightAware reported 418 delayed United flights late Monday afternoon.",
-      "United subsequently resolved the technical issue and apologized to affected passengers, adding that there was no indication the outage was related to a cybersecurity incident."
+      "U.S. President Donald Trump arrived in the southern Chinese tech hub of Shenzhen on Wednesday to attend the 33rd Asia-Pacific Economic Cooperation Economic Leaders' Meeting ahead of a historic three-way summit with Chinese President Xi Jinping and Russian President Vladimir Putin.",
+      "According to the White House schedule, Trump is set to hold a bilateral meeting with Xi at Kylin Villa on Thursday afternoon before joining Xi and Putin for the first face-to-face trilateral gathering among the three heads of state in history.",
+      "Trump has stated that he plans to press Moscow and Beijing on a modernized three-way nuclear arms control framework—including potential limits on artificial intelligence in nuclear command systems—alongside negotiations over the war in Ukraine and diplomatic pressure on Iran.",
+      "Ahead of Trump's arrival, Putin and Xi met bilaterally in Shenzhen on Wednesday morning, where the Russian leader asserted that Western sanctions over Ukraine had backfired while European allies watched warily for signs of a great-power bargain affecting regional security.",
+      "Trump traveled to China directly from Manila, where he concluded a bilateral trade agreement with Philippine President Ferdinand Marcos Jr. and touted expanded defense and nuclear energy cooperation, seeking major foreign-policy wins following domestic political setbacks in this month’s U.S. midterm elections."
     ],
     "title": "Source Icon",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/customers-at-several-large-us-banks-report-difficulty-accessing-online-accounts_32438e",
-    "article_url": "https://ground.news/article/customers-at-several-large-us-banks-report-difficulty-accessing-online-accounts_32438e",
+    "article_path": "/article/democrat-mary-peltola-wins-us-senate-race-in-alaska-beating-incumbent-republican-dan-sullivan_20ec95",
+    "article_url": "https://ground.news/article/democrat-mary-peltola-wins-us-senate-race-in-alaska-beating-incumbent-republican-dan-sullivan_20ec95",
     "bias": [
-      "Left-Leaning coverage frames the bank outages as evidence of fragile, interconnected infrastructure, stressing “ripple effects,” “widespread” disruption, and impacts on everyday users; right-leaning coverage heightens vulnerability and uncertainty, portraying customers as “locked out,” invoking “chaos,” “massive technical failure,” and even a “financial cyber apocalypse,” despite no confirmed attack.",
-      "The pivotal divide is whether Chase’s software bug signals systemic technological fragility or merely delayed transactions, with center coverage more cautiously emphasizing reported access problems, evolving scope, and the bank’s statement that funds remained available and no “bad actors” were indicated.",
-      "All perspectives emphasize customer disruption, multiple affected banks, and digital dependence, reflecting broader tensions over institutional reliability, technological resilience, and threat perception."
+      "Left-Leaning coverage frames Mary Peltola’s roughly 50.1% victory as a “blue tsunami,” “historic” breakthrough for Alaska Native representation, and a “stinging loss” for Republicans that expands Democrats’ 56–44 Senate majority.",
+      "Right-Leaning accounts acknowledge the result but stress the narrow margin, two-week delay, and allegations that a same-name candidate “siphoned thousands of votes,” using “decoy Dan,” “uproar,” and “devastating defeat” to suggest an ethically questionable tactic.",
+      "Center coverage de-emphasizes partisan drama, explaining the 50% threshold and ranked-choice process.",
+      "All perspectives agree Peltola won, but their emphasis reflects wider divides over representation, electoral legitimacy, and party power."
     ],
     "bias_bar_text": null,
-    "center_pct": 57.0,
+    "center_pct": 45.0,
     "error": null,
-    "left_pct": 22.0,
+    "left_pct": 31.0,
     "location": null,
-    "right_pct": 21.0,
+    "right_pct": 24.0,
     "status": "ok",
     "summary": [
-      "On Monday afternoon, Chase, Bank of America , and Wells Fargo experienced nationwide service outages, leaving thousands of customers unable to access account balances or conduct transactions through online platforms.",
-      "Reports of these issues began spiking at noon, with complaints to Downdetector rising from a dozen at 9 a.m. to more than 3,600 by 1 p.m., and more than 4,000 reports submitted by 1:30 p.m. ET.",
-      "Chase spokeswoman Stephanie Gostomski said some transactions are taking longer than usual but customers \"still have access to their accounts and funds,\" while some customers received messages stating \"Some services aren't available.\"",
-      "The outages follow a major Microsoft outage that began Friday, impacting Outlook and Teams, and occur just three days after the Federal Aviation Administration issued a rare nationwide ground stop following a communications failure.",
-      "Many customers remain unable to cash checks or transfer funds at local branches, which The Dispatch witnessed, and Chase has not provided a timeline for when services will be fully restored."
+      "On Tuesday, Nov. 17, Democrat Mary Peltola unseated two-term Republican Sen. Dan Sullivan, flipping Alaska's Senate seat to Democratic control for the first time in 18 years and marking the ninth seat Democrats flipped this midterm.",
+      "Allegations that Peltola's campaign recruited retired teacher Dan J. Sullivan as a spoiler candidate roiled the race, prompting Trump to order the Justice Department to sue to block certification if the incumbent lost.",
+      "Peltola secured 50% of first-choice votes, rendering ranked-choice tabulation unnecessary; a federal judge dismissed the Justice Department's lawsuit on Nov. 1, ruling such action would \"clearly violate\" voters' ballot secrecy rights.",
+      "With 56 seats, Democrats hold their largest Senate majority in 16 years when the new Congress convenes, surpassing the 53-47 margin Republicans held before the midterms and completing a nine-seat wave.",
+      "Peltola will become the first Alaska Native elected to the U.S. Senate , sharing this historic milestone with Minnesota Democratic Sen.-elect Peggy Flanagan, marking a breakthrough for Indigenous representation in Congress."
     ],
-    "title": "Customers at several large U.S. banks report difficulty accessing online accounts",
+    "title": "Democrat Mary Peltola wins US Senate race in Alaska, beating incumbent Republican Dan Sullivan",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/lindsay-clancy-will-be-retried-next-year-in-the-deaths-of-her-three-children-judge-says",
-    "article_url": "https://ground.news/article/lindsay-clancy-will-be-retried-next-year-in-the-deaths-of-her-three-children-judge-says",
+    "article_path": "/article/white-house-withdraws-heidi-overtons-fda-nomination-after-trump-pick-received-bipartisan-pushback_7b4ae3",
+    "article_url": "https://ground.news/article/white-house-withdraws-heidi-overtons-fda-nomination-after-trump-pick-received-bipartisan-pushback_7b4ae3",
     "bias": [
-      "Left-Leaning coverage frames the retrial through postpartum psychosis, mental health, and a “highly divisive” public debate, emphasizing Clancy as a mother “accused of killing” her children and the 11-1 insanity-defense split.",
-      "Right-Leaning coverage foregrounds alleged conduct, criminal accountability, and judicial rejection of defense efforts, using terms such as “alleged child killer,” “triple-murder,” and “crushing defeat,” while portraying the holdout juror as pivotal.",
-      "Center coverage de-emphasizes those cultural stakes, stressing the mistrial, March 29, 2027 scheduling, and uncertainty over formal charges.",
-      "All perspectives agree on the deaths, deadlock, and retrial, but diverge over mental illness versus punishment and responsibility."
+      "Left-Leaning coverage frames Overton’s withdrawal as a White House retreat, using terms like “pulled,” “dropped,” “controversial,” and “bipartisan backlash,” while emphasizing abortion concerns, “vaccine skepticism,” reproductive-rights opposition, and the FDA’s vacancy.",
+      "Right-Leaning coverage portrays Republican senators as having “derailed” Trump’s nominee, stresses her independence from Trump, and recalls his “ROCKSTAR” praise while mentioning possible replacements.",
+      "Center coverage de-emphasizes partisan drama, focusing on insufficient votes and the impending committee vote.",
+      "All perspectives agree the nomination collapsed amid Senate uncertainty, but their emphasis reflects broader divides over public health, abortion, presidential loyalty, and Republican coalition politics ."
     ],
     "bias_bar_text": null,
-    "center_pct": 54.0,
-    "error": null,
-    "left_pct": 23.0,
-    "location": null,
-    "right_pct": 23.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, a Massachusetts judge scheduled Lindsay Clancy's retrial for March 29 for the 2023 deaths of her three children, Cora, Dawson, and Callan. Clancy faces three counts of first-degree murder.",
-      "Judge William Sullivan denied a defense motion to dismiss charges following a September mistrial, when jurors could not reach a unanimous verdict on any count. Sullivan did not question the holdout juror before declaring mistrial.",
-      "Defense attorney Kevin Reddington argues Clancy suffered from postpartum psychosis, noting she \"was not very good\" and remained \"suicidal\" at the time. Prosecutors maintain she planned the killings ahead of time.",
-      "Recent court rulings rejected defense requests to question the holdout juror and denied a prosecution bid to restrict media discussions. The final pretrial hearing is scheduled for March 18.",
-      "The case continues to draw online speculation surrounding her husband, Patrick Clancy. For those in crisis, the National Suicide Prevention Lifeline is available by calling 988 or texting HOME to 741741."
-    ],
-    "title": "Lindsay Clancy will be retried next year in the deaths of her three children, judge says",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/trump-says-he-might-meet-with-north-koreas-kim-jong-un-in-china_71134f",
-    "article_url": "https://ground.news/article/trump-says-he-might-meet-with-north-koreas-kim-jong-un-in-china_71134f",
-    "bias": [
-      "Left-Leaning coverage frames Trump’s proposal as a “surprise” diplomatic “offensive” to “reengage” North Korea ’s nuclear program, while right-leaning coverage stresses his willingness to bargain with authoritarian leaders, calling Kim a “reclusive dictator” and talks “high-stakes.” The pivotal divide is whether the possibility signals constructive engagement or strategic risk: center coverage warns of an “appearance of diplomatic progress” that could weaken U.S. leverage.",
-      "All emphasize that a meeting in China, potentially alongside Xi and Putin, remained unconfirmed and depended on Xi, but their tones reflect broader disagreements over diplomatic outreach, executive leadership, and geopolitical danger."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 39.0,
-    "error": null,
-    "left_pct": 24.0,
-    "location": null,
-    "right_pct": 37.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, President Donald Trump said North Korean leader Kim Jong-un \"would like to\" attend this week's Asia -Pacific Economic Cooperation summit in China, leaving open the possibility of a meeting.",
-      "Chinese foreign ministry spokesman Guo Jiakun stated Tuesday that Beijing has \"no information\" on whether a meeting would occur, a day before Trump was scheduled to arrive in Shenzhen for the summit.",
-      "North Korean state media reported that Kim travelled to a tourist zone near the Chinese border on Sunday and Monday, touring ski centers and expressing \"great satisfaction\" with the \"impeccable\" structures.",
-      "Hong Min, a researcher at the Korea Institute for National Unification, told AFP that the report contained no messages aimed at the United States, indicating the visit is not a preparation for a meeting.",
-      "Trump and Kim held three meetings during the president's first term, including summits in Singapore and Hanoi, after the U.S. leader initially mocked Kim as \"rocket man\" during a 2017 speech."
-    ],
-    "title": "Trump says he might meet with North Korea's Kim Jong Un in China",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/carney-says-canada-could-turn-to-chinese-automakers-if-trump-trade-talks-fail-wtop-news",
-    "article_url": "https://ground.news/article/carney-says-canada-could-turn-to-chinese-automakers-if-trump-trade-talks-fail-wtop-news",
-    "bias": [
-      "Left-Leaning framing subtly links “fail” to Trump’s negotiations, while right-leaning framing foregrounds “Chinese automakers” as the consequence of failing to preserve North American integration, hinting at concern over China’s economic role; neither uses overtly partisan language.",
-      "Center coverage retains the same conditional, attributed wording and, like the right, adds context about Carney’s planned meeting with Xi Jinping , de-emphasized on the left.",
-      "The pivotal divide is whether to stress negotiation breakdown or the prospect of Chinese sourcing, though all perspectives converge on Carney’s statement, automotive integration, and the hypothetical nature of the shift."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 49.0,
-    "error": null,
-    "left_pct": 34.0,
-    "location": null,
-    "right_pct": 17.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, Canadian Prime Minister Mark Carney said Canada could turn to Chinese automakers if trade negotiations with U.S. President Donald Trump fail to preserve an integrated North American auto industry.",
-      "Trump's tariffs have disrupted Canada's auto industry, which relies heavily on cross-border production, prompting Canada to recently threaten legal action against Stellantis after shifting Jeep Compass production from Brampton, Ontario, to Illinois.",
-      "Under a January agreement, Canada reduced tariffs on Chinese electric vehicles to 6.1%, allowing up to 49,000 imports annually, though Carney insists any new Chinese investment must involve substantial domestic manufacturing and labor standards.",
-      "Carney is in Cambodia for the Francotech Summit and will meet Chinese President Xi Jinping this week in Shenzhen, China, where auto manufacturing investment is expected to be discussed.",
-      "While negotiations with the United States remain his priority, Carney emphasized Monday that Canada is prepared to pursue alternatives involving European, Chinese, or Japanese automakers if a viable regional auto industry cannot be preserved."
-    ],
-    "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/ex-nvidia-ceo-jensen-huang-to-appear-before-us-congressional-committees-in-december",
-    "article_url": "https://ground.news/article/ex-nvidia-ceo-jensen-huang-to-appear-before-us-congressional-committees-in-december",
-    "bias": [
-      "Left-Leaning coverage frames Huang’s appearance as needed accountability, stressing whether Nvidia ’s China sales endangered national security and using phrases like “the American people need answers” and “scandal that has engulfed” the company.",
-      "Right-Leaning coverage personalizes the controversy, calling him “disgraced,” promising Congress will “grill” him, and foregrounding “Chinese espionage” and possible aid to Beijing, making alleged technology transfer seem more central.",
-      "Center coverage de-emphasizes charged language, highlighting voluntary, transcribed interviews, committee dates, and the subpoena threat.",
-      "The sharpest divide concerns whether this is primarily corporate oversight or an adversarial China-security case; all perspectives nevertheless emphasize the December testimony, advanced chips, and unresolved national-security stakes."
-    ],
-    "bias_bar_text": "L 19% Center 58% R 23%",
-    "center_pct": 58.0,
+    "center_pct": 66.0,
     "error": null,
     "left_pct": 19.0,
     "location": null,
-    "right_pct": 23.0,
+    "right_pct": 15.0,
     "status": "ok",
     "summary": [
-      "Former Nvidia CEO Jensen Huang agreed to testify before the House Foreign Affairs, Intelligence, and China Select Committees on Dec. 1 regarding his reported affair with a woman believed to be a Chinese spy.",
-      "Lawmakers sought the interview to examine Nvidia's security protocols against espionage and Huang's relationship with Alice Huang, a former Megaspeed executive not related to him.",
-      "House Foreign Affairs Committee Chairman Brian Mast, a Florida Republican, stated, \"The American people need answers on Mr. Huang and Nvidia's role,\" citing national security risks from foreign access to advanced chips.",
-      "In a Nov. 12 letter, the House Foreign Affairs Committee warned that \"failure to cooperate with this request will result in\" a subpoena, prompting negotiations that extended into this week.",
-      "Nvidia general counsel Tim Teter will also appear before the committees on Dec. 2 as Congress probes alleged chip smuggling to China that potentially compromised national security."
+      "On Tuesday, The White House withdrew Heidi Overton's nomination to lead the Food and Drug Administration after determining she lacked sufficient Senate support.",
+      "Her nomination faced bipartisan resistance in Congress, alongside criticism from Antiabortion forces and supporters of Health Secretary Robert Kennedy's Make America Healthy Again movement.",
+      "Previously expressing \"strong concerns,\" Republican Sen. Bill Cassidy of Louisiana, chairman of the Senate Health and Pensions Committee, called Overton's role \"almost disqualifying.\"",
+      "Officials stated the White House intends to \"go in a new direction at FDA \" while continuing to support Kennedy's health agenda, necessitating a new candidate search.",
+      "Since Marty Makary's resignation in May, the agency has operated under acting Commissioner Kyle Diamantas, leaving the administration to identify a replacement to lead the FDA."
     ],
-    "title": "Ex-Nvidia CEO Jensen Huang to appear before US congressional committees in December",
+    "title": "White House withdraws Heidi Overton’s FDA nomination after Trump pick received bipartisan pushback",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/exclusive-highly-classified-us-national-security-communications-network-goes-down-sources-say",
-    "article_url": "https://ground.news/article/exclusive-highly-classified-us-national-security-communications-network-goes-down-sources-say",
+    "article_path": "/article/nvidia-beats-estimates-in-first-earnings-report-after-jensen-huangs-ouster_aeb3c9",
+    "article_url": "https://ground.news/article/nvidia-beats-estimates-in-first-earnings-report-after-jensen-huangs-ouster_aeb3c9",
     "bias": [
-      "Coverage agrees that NSA Net, a highly classified internal communications system, went down, but diverges sharply in presentation: left-leaning material stresses secrecy and portrays the outage as a serious NSA communications failure, using “highly classified” and “crashes”; right-leaning headlines intensify alarm with “spy network,” “goes dark,” “top secret,” and timing after a cyberattack, while stopping short of proving causation.",
-      "Center coverage supplies operational context, cautious attribution to unnamed sources, and uncertainty about scope and cause; it, alongside the right, reports no immediate cyberattack evidence, a point the left de-emphasizes.",
-      "The divide centers on institutional failure versus unresolved technical disruption and perceived vulnerability."
+      "Left-Leaning coverage frames Nvidia ’s leadership upheaval as a “crisis,” stressing market contagion, governance doubts, competitors, and threats to the AI-financing “boom”; its “reassure” language implies earnings cannot settle deeper concerns.",
+      "Right-Leaning coverage emphasizes “explosive demand” and strong results—$115.8 billion in quarterly revenue and roughly $130 billion projected—while portraying Huang as a “disgraced founder” and linking allegations to espionage, export controls, and national security; “earthquake” heightens systemic alarm.",
+      "Center coverage is more restrained, presenting “business as usual” and investor relief.",
+      "All agree demand is strong, uncertainty is real, and succession could reshape AI investment, reflecting broader divides over corporate power versus security and geopolitical risk."
     ],
-    "bias_bar_text": "Left 25% Center 35% Right 40%",
-    "center_pct": 35.0,
+    "bias_bar_text": null,
+    "center_pct": 41.0,
     "error": null,
-    "left_pct": 25.0,
+    "left_pct": 29.0,
     "location": null,
-    "right_pct": 40.0,
+    "right_pct": 30.0,
     "status": "ok",
     "summary": [
-      "The National Security Agency's classified internal communications network, NSA Net, went down on Tuesday morning, rendering the system employees use for highly classified internal communications currently inaccessible.",
-      "NSA Net allows employees to share classified information out of public view, making the outage's disruption to internal coordination and access to sensitive intelligence particularly consequential for agency operations.",
-      "The NSA instructed employees to arrive in staggered shifts throughout Tuesday morning, citing a \"heightened security threat\" as the agency works to understand the outage's scope.",
-      "Officials state there is no immediate evidence of a cyberattack, though the source of the technical failure remains unknown as the NSA assesses the disruption.",
-      "CNN reporter Bertrand reported the outage citing five to six people familiar with the matter, though the NSA has not publicly confirmed the network's status."
+      "On Tuesday, Nvidia reported record fiscal third-quarter revenue of $115.8 billion, more than doubling year-over-year results. Interim CEO and CFO Colette Kress guided fourth-quarter revenue at $130 billion, plus or minus 3%, exceeding Wall Street estimates.",
+      "Jensen Huang resigned as president and CEO on November 12 following reports of extramarital affairs, including one with a suspected Chinese intelligence asset. The board subsequently rejected his request to return.",
+      "Management disclosed $390 billion in procurement commitments, including $203 billion for next year, signaling supply chain stability. The company achieved a 74.8% gross margin while shares rose in after-hours trading.",
+      "Washington tightened licensing rules for chip shipments to Southeast Asia and Chinese firms, prompting Nvidia to exclude China-based data-center sales from its outlook. The company established a national security committee to manage export compliance.",
+      "Broadcom rose 5.8 per cent and Advanced Micro Devices added 5.6 per cent as investors speculated the artificial intelligence ecosystem may expand beyond Nvidia. Analysts drew parallels to past leadership transitions at major technology firms."
     ],
-    "title": "Highly classified US national security communications network is down, CNN reports",
+    "title": "Nvidia Beats Estimates in First Earnings Report After Jensen Huang’s Ouster",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/homebuilder-sentiment-plunges-to-14-year-low-leading-more-builders-to-drop-prices",
-    "article_url": "https://ground.news/article/homebuilder-sentiment-plunges-to-14-year-low-leading-more-builders-to-drop-prices",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 100.0,
-    "error": null,
-    "left_pct": null,
-    "location": "United States",
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "On Tuesday, the National Association of Home Builders/Wells Fargo Housing Market Index fell four points to 25, marking the lowest builder sentiment since April 2012 as mortgage rates and labor shortages weaken the housing market.",
-      "NAHB Chairman Bill Owens attributed the decline to stepped-up immigration enforcement keeping legal workers off job sites and higher fuel prices forcing subcontractors to raise rates sharply, causing builders to scale back construction.",
-      "With fewer buyers in the market, 46% of builders reduced prices this month, the highest post-Covid share, while 68% deployed sales incentives—the 20th consecutive month at least 60% of builders used them.",
-      "Prospective buyer traffic fell two points to 16, hitting a 15-year low, while current sales conditions declined six points to 28 and future expectations dropped two points to 30 across all HMI components.",
-      "Robert Dietz, NAHB's chief economist, cited building material costs pushed higher by tariffs and excessive regulations as undermining affordability; mortgage rates above 7% and economic uncertainty continue holding buyers back."
-    ],
-    "title": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices",
-    "topic": "US Economy",
-    "topic_full": "US Economy · United States"
-  },
-  {
-    "article_path": "/article/worlds-most-wanted-onlyfans-model-busted-by-ice-breaks-down-in-tears",
-    "article_url": "https://ground.news/article/worlds-most-wanted-onlyfans-model-busted-by-ice-breaks-down-in-tears",
+    "article_path": "/article/faa-halts-installation-of-routers-that-led-to-ground-stop_89ad12",
+    "article_url": "https://ground.news/article/faa-halts-installation-of-routers-that-led-to-ground-stop_89ad12",
     "bias": [
-      "Left-Leaning coverage frames Dijkmans’s ICE detention through humanitarian concern, emphasizing claims she “hasn’t seen daylight,” family disputes, and imagery such as “scandal” and “behind bars.” Right-leaning coverage foregrounds enforcement, alleged prior unlawful entry, a missed hearing, and a removal order, using terms like “illegally,” “arrested,” “previously booted,” and “real story” to portray official justification.",
-      "Center coverage bridges these frames by stressing that she is “trapped,” reportedly facing “unsanitary” conditions, and missed a hearing.",
-      "The pivotal divide is whether detention signifies abusive treatment or lawful immigration enforcement.",
-      "All emphasize her notoriety, ICE custody, and potential deportation, reflecting broader humanitarian-versus-law-and-order divides."
+      "Left-Leaning coverage emphasizes FAA accountability, Senate Democratic oversight, and “chaos for travelers,” portraying the pause as a justified response to vulnerable, aging infrastructure.",
+      "Right-Leaning coverage more forcefully labels a “faulty router,” “travel nightmare,” or “router meltdown,” treating the upgrade as the likely trigger while calling the suspension “the right call” and stressing “dangerously old” systems.",
+      "Center coverage preserves uncertainty about the root cause, highlights testing, contractor scrutiny, and the proposed $50 billion modernization request.",
+      "The pivotal divide is causation versus investigation; all perspectives agree on the nationwide disruption, paused installations, and need to reconcile modernization with safety and reliability."
     ],
     "bias_bar_text": null,
-    "center_pct": 27.0,
+    "center_pct": 55.0,
     "error": null,
-    "left_pct": 27.0,
-    "location": "United States",
-    "right_pct": 46.0,
-    "status": "ok",
-    "summary": [
-      "Immigration and Customs Enforcement agents detained Vera Dijkmans on Wednesday at a Miami airport while she traveled to a UFC event. The 29-year-old Dutch model was subsequently transferred to Delaney Hall Detention Facility in New Jersey.",
-      "Dijkmans entered the United States on a tourist visa, which prohibits employment. Her mother, Marianne Scholt, acknowledged her daughter missed an immigration appointment for her Green Card application, likely flagging her within the ICE system.",
-      "Scholt reported that conditions inside Delaney Hall are 'very distressing,' citing limited food, poor hygiene, and phone access reduced to five minutes per call. Dijkmans shares quarters with 12 other detainees, with only four phones available for 60 people.",
-      "Dutch Embassy officials confirmed they are providing consular assistance, though privacy restrictions prevent commenting on specifics. Scholt visited her daughter on Saturday and reported she was 'in tears' and barely recognized in detention clothing.",
-      "Delaney Hall has previously faced scrutiny for poor living facilities and lack of support access. Family members fear the immigration process could take weeks or months, with a potential removal order complicating release efforts."
-    ],
-    "title": "‘World’s Most Wanted’ OnlyFans Star Detained in the US",
-    "topic": "US Crime",
-    "topic_full": "US Crime · United States"
-  },
-  {
-    "article_path": "/article/nato-allies-to-discuss-us-forces-in-europe-with-pentagon-strategy-chief-pistorius-says",
-    "article_url": "https://ground.news/article/nato-allies-to-discuss-us-forces-in-europe-with-pentagon-strategy-chief-pistorius-says",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 37.0,
-    "error": "Message: \n",
-    "left_pct": 38.0,
-    "location": "United States",
+    "left_pct": 20.0,
+    "location": null,
     "right_pct": 25.0,
-    "status": "fail",
-    "summary": null,
-    "title": "NATO allies to discuss US troop levels with Pentagon strategy chief",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/braun-announces-reelection-campaign",
-    "article_url": "https://ground.news/article/braun-announces-reelection-campaign",
-    "bias": [
-      "Coverage is largely nonpartisan in wording, but emphasis diverges: left-leaning reporting spotlights Braun’s personal campaign energy—“fired up,” “competition,” and “battle”—alongside his “kitchen-table” appeal and tenure context, while right-leaning coverage foregrounds the 92 County Affordability Tour and frames “cost-of-living challenges” as the rationale for his “economic agenda.” Center coverage most explicitly amplifies campaign-reported results, including $1.5 billion in property-tax savings, energy-rate restraint, and child-care access, using terms such as “delivered” and “nation-leading results.” The dividing line is whether reelection is portrayed primarily as political theater or a policy record; all perspectives emphasize affordability and Braun’s 2028 bid."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 65.0,
-    "error": null,
-    "left_pct": 21.0,
-    "location": "Indiana",
-    "right_pct": 14.0,
     "status": "ok",
     "summary": [
-      "On Monday, Indiana Governor Mike Braun announced his bid for a second four-year term at a campaign fundraiser at the Indianapolis Motor Speedway Museum in Speedway.",
-      "Braun, who took office January 13, 2025, has centered his administration on affordability, claiming $1.5 billion in property tax savings and suspending state gas taxes to save Hoosiers more than $1 billion.",
-      "The governor announced a \"92 County Affordability Tour\" to \"meet directly with Hoosiers about the cost-of-living challenges facing their families\" while discussing his economic agenda.",
-      "Braun faces a complex political landscape after Indiana Republicans lost their House supermajority in the November 3 midterm election, with potential primary challengers emerging within the state party.",
-      "The Indiana Democratic Party criticized Braun's record, alleging Hoosiers struggle with rising costs, as the general election approaches November 7, 2028. Braun aims to build on his affordability platform to secure a second term."
+      "On Tuesday, the Federal Aviation Administration paused installation of new routers following a nationwide ground stop last Friday, also disabling existing Juniper routers after a device in El Dorado, Arkansas, overloaded communications systems.",
+      "Transportation Secretary Sean Duffy confirmed the system overload stemmed from a new router installed by contractor L3Harris Technologies, which triggered \"excessive data\" that flooded network feeds at 17 of 22 regional air traffic control centers.",
+      "For now, the FAA is relying on 25-year-old Cisco routers to maintain operations while investigating the failure; the Senate Commerce Committee reported L3Harris installed 400 of 3,648 planned routers, with only 69 currently operational.",
+      "Democratic senators demanded the Trump administration explain the failure, writing that \"identifying the device that failed does not establish why it failed,\" while the agency invited the FBI to assist in reviewing hardware at an L3Harris lab in Florida.",
+      "The Trump administration updated its request to Congress for $50.1 billion to improve airports and traffic control systems, following last year's $12.5 billion approval to modernize infrastructure relied upon by more than 45,000 daily flights."
     ],
-    "title": "Indiana Gov. Mike Braun Announces 2028 Reelection Bid",
-    "topic": "Mike Braun",
-    "topic_full": "Mike Braun · Indiana"
-  },
-  {
-    "article_path": "/article/american-shoppers-are-showing-signs-of-strain-heading-into-the-holiday-season",
-    "article_url": "https://ground.news/article/american-shoppers-are-showing-signs-of-strain-heading-into-the-holiday-season",
-    "bias": [
-      "Left-Leaning coverage frames the 0.2% October increase—down from September’s revised 0.8%—as evidence of household pressure, stressing “uncertain,” “cautious with their money,” and high prices.",
-      "Right-Leaning coverage foregrounds that growth was “in line with expected,” portraying the slowdown as predictable rather than alarming, while also using “slowed” and “decline” to highlight weaker auto and furniture sales.",
-      "Center coverage bridges these narratives with “moderately” and “signs of strain,” adding holiday-season context.",
-      "The pivotal divide is whether the figures signal consumer distress or routine deceleration; all perspectives nevertheless emphasize the 0.2% rise, slower growth, and price-related caution, reflecting broader debates over economic health and interpretation."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 51.0,
-    "error": null,
-    "left_pct": 31.0,
-    "location": "United States",
-    "right_pct": 18.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, the Commerce Department's Census Bureau reported U.S. retail sales rose 0.2% in October, a slowdown from the 0.8% gain in September as shoppers became cautious amid high prices.",
-      "Declining purchases of big-ticket items drove the cooling trend, with motor vehicle and parts dealers posting a 1.6% drop, furniture and home furnishings stores falling 2.3%, and clothing and accessories stores declining 0.7%.",
-      "Charles Wise, head of global research and consulting at TransUnion, noted outstanding credit card balances hit $1.17 trillion, up 5.1% from last year, supporting consumer spending despite economic headwinds.",
-      "Target is marketing more than 8,000 new gifts for the Thanksgiving weekend, with most items priced at $20 or less, as retailers prepare for the unofficial start of holiday shopping.",
-      "Credit card balances per active account are increasing at a 9% yearly pace, the fastest since before the pandemic, while households save less and dip into nest eggs to afford purchases, according to Brian LeBlanc, head of economic analysis at PNC Financial."
-    ],
-    "title": "U.S. Retail Sales Rise 0.2% in October as Shoppers Turn Cautious",
-    "topic": "US Economy",
-    "topic_full": "US Economy · United States"
-  },
-  {
-    "article_path": "/article/israeli-fire-kills-four-including-a-6-year-old-boy-in-gaza-medics-say",
-    "article_url": "https://ground.news/article/israeli-fire-kills-four-including-a-6-year-old-boy-in-gaza-medics-say",
-    "bias": [
-      "Left-Leaning coverage foregrounds Palestinian civilian harm, using “kills” and “boy” to place Israeli responsibility and emotional impact at the center, while de-emphasizing military context.",
-      "Center coverage similarly reports that at least four were killed, but tempers the account through attribution to medics and age-specific detail.",
-      "Right-Leaning coverage adds sharper agency—“Israel kills”—and “including a child,” while broadening the frame to a family’s deaths, a surviving injured son, “faltered” ceasefire talks, and an Israeli military response.",
-      "The key divide is whether the event is chiefly an instance of Israeli-inflicted suffering or part of a contested military and diplomatic narrative.",
-      "All emphasize four Palestinian deaths, including a six-year-old, reflecting the wider conflict’s humanitarian and geopolitical polarization."
-    ],
-    "bias_bar_text": "L 13% C 24% Right 63%",
-    "center_pct": 24.0,
-    "error": null,
-    "left_pct": 13.0,
-    "location": null,
-    "right_pct": 63.0,
-    "status": "ok",
-    "summary": [
-      "Israeli gunfire and strikes killed at least four Palestinians in Gaza , according to local health officials.",
-      "Medics identified one of those killed in eastern Deir Al-Balah as 6-year-old Eyas El-Nimnim.",
-      "Separate airstrikes killed two others in Khan Younis and Bir Al-Naja, medics said.",
-      "Gaza health authorities said at least 1,600 Palestinians and five Israeli soldiers have been killed since the October 2025 ceasefire began."
-    ],
-    "title": "Israeli fire kills four, including a 6-year-old boy, in Gaza, medics say",
+    "title": "FAA halts installation of routers that led to ground stop",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/lisa-cook-lawyer-signals-fed-gov-wont-attend-trump-committees-hearing",
-    "article_url": "https://ground.news/article/lisa-cook-lawyer-signals-fed-gov-wont-attend-trump-committees-hearing",
-    "bias": null,
-    "bias_bar_text": "Left 50% Center 50%",
-    "center_pct": 50.0,
+    "article_path": "/article/democrats-formally-nominate-rep-hakeem-jeffries-paving-way-for-him-to-be-the-first-black-speaker",
+    "article_url": "https://ground.news/article/democrats-formally-nominate-rep-hakeem-jeffries-paving-way-for-him-to-be-the-first-black-speaker",
+    "bias": [
+      "The supplied analyses show a left-centered contrast rather than a left-right split: left-leaning coverage frames Jeffries’s nomination as a “glide path” toward a “historic first,” portraying him as having “brushed past skeptics,” while center coverage uses the more measured “on the path” and emphasizes his re-election as Democratic leader rather than assuming the speakership.",
+      "No right-leaning perspective is provided, so its reaction to identity, internal doubts, or the January vote is de-emphasized rather than inferable.",
+      "Both perspectives stress the nomination and potential first, reflecting broader tensions over representation, party leadership, and institutional power."
+    ],
+    "bias_bar_text": "Left 43% Center 44% R 13%",
+    "center_pct": 44.0,
     "error": null,
-    "left_pct": 50.0,
+    "left_pct": 43.0,
     "location": null,
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "On Tuesday, attorney Abbe Lowell signaled that Federal Reserve Governor Lisa Cook will not attend a White House hearing investigating mortgage fraud allegations. The refusal extends Cook's dispute with the administration over her appearance before the committee.",
-      "The White House committee investigating allegations Cook committed mortgage fraud in 2021 comprises economic adviser Kevin Hassett, Equal Employment Opportunity Commission lead Andrea Lucas, and Labor Secretary pick Keith Sonderling. President Donald Trump has sought Cook's removal since August 2025.",
-      "Lowell stated in a letter that Cook has \"no legal obligation to participate in an unfair hearing,\" citing a duty to protect the Federal Reserve's independence. He characterized the committee as \"pretextual\" and a threat to the institution.",
-      "Prior warnings from President Donald Trump's administration stated the committee \"reserves the right to draw adverse inferences\" against Cook if she fails to participate. The escalation intensifies the standoff over her potential removal.",
-      "In June, the Supreme Court blocked Trump from removing Cook, finding that \"the fact of independence but also the appearance of independence is key to the Federal Reserve.\" The Court noted Trump could try again if he provided adequate notice."
-    ],
-    "title": "Lawyer for Fed's Cook threatens to not take part in 'unfair' White House hearing",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/do-school-phone-bans-help-students-learn-so-far-gains-are-modest_56e341",
-    "article_url": "https://ground.news/article/do-school-phone-bans-help-students-learn-so-far-gains-are-modest_56e341",
-    "bias": [
-      "Left-Leaning coverage frames phones as an “endless distraction,” contextualizing bans through Yondr pouches, laws in more than 40 states, and an estimated one or two extra weeks of learning, while stressing that digital exposure makes the solution “complicated.” Right-leaning coverage foregrounds the study’s support for restrictions but emphasizes that gains remain “modest,” implying limited payoff from strict intervention.",
-      "Center coverage pivots to why effects are small and urges caution.",
-      "The pivotal divide is whether bans represent meaningful educational recovery or an incomplete, potentially overvalued remedy.",
-      "All perspectives agree phones impede focus and that academic improvements are real but small."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 34.0,
-    "error": null,
-    "left_pct": 52.0,
-    "location": "Winnipeg",
-    "right_pct": 14.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, Harvard University and Dartmouth College released a study finding that strict cellphone bans using locked pouches produce modest academic improvements in schools with 3.3 million students tracked across 4,600 campuses.",
-      "Schools implemented these restrictions to address a global decline in student achievement that began around 2013, aiming to minimize classroom distractions and recover lost instructional time.",
-      "The study found that lockable pouches—costing about $25 to $30 per student—reduced in-school phone activity by approximately 20 percent across the 4,600 campuses examined.",
-      "Although bans added the equivalent of one or two weeks of annual instruction, Stanford University economist Thomas Dee called early results \"disappointing,\" noting students still use other devices like laptops.",
-      "Harvard professor Tom Kane, a study co-author, emphasized that while bans are cost-effective, they are not a \"panacea,\" as researchers continue examining social media 's broader impact on student learning."
-    ],
-    "title": "School Phone Bans Are Gradually Improving Test Scores",
-    "topic": "Mobile Phones",
-    "topic_full": "Mobile Phones · Winnipeg"
-  },
-  {
-    "article_path": "/article/latest-science-shows-chemicals-in-many-everyday-items-pose-a-growing-threat-un-report-says",
-    "article_url": "https://ground.news/article/latest-science-shows-chemicals-in-many-everyday-items-pose-a-growing-threat-un-report-says",
-    "bias": [
-      "Left-Leaning coverage heightens urgency, calling chemicals a “growing threat,” stressing “before birth” exposure, and sometimes saying they “tinker with a body’s hormones,” thereby foregrounding vulnerable populations and regulatory precaution.",
-      "Center coverage retains that concern but broadens it through concrete examples—plastic, personal-care products, toys, and household goods—while attributing claims to the UN and mildly moderating the tone.",
-      "Right-Leaning coverage de-emphasizes prenatal pathways and product detail, presenting the issue briefly as a scientific and public-health warning, with little policy implication.",
-      "The dividing line is urgency versus contextual restraint, though all perspectives emphasize improved science , hormonal disruption, and risks to health and the environment."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 54.0,
-    "error": null,
-    "left_pct": 33.0,
-    "location": "United States",
     "right_pct": 13.0,
     "status": "ok",
     "summary": [
-      "On Tuesday, a new United Nations report estimated global health -related costs from endocrine-disrupting chemicals exceed $1.1 trillion annually, warning these substances pose a growing threat to human health and the environment.",
-      "Evidence linking EDCs to health disorders \"is strong and continues to grow\" since 2012, yet more than 350,000 chemicals registered globally remain largely unevaluated for endocrine-disrupting properties.",
-      "While the American Chemistry Council argues existing frameworks like the Toxic Substances Control Act effectively manage risk, experts contend current policies remain \"fragmented and insufficient.\" The industry contributed $1.65 million to support chemical management systems.",
-      "Bjorn Beeler of the International Pollutants Elimination Network described the projected surge in plastic production as a \"toxic tidal wave\" no one is prepared for, urging a shift toward proactive prevention.",
-      "Negotiations to address chemical pollution are set to resume early next year. Lead author Laura Vandenberg emphasized that reducing exposure requires action at a policy level throughout society rather than relying on individual consumer choices."
+      "On Wednesday, House Democrats formally nominated Rep. Hakeem Jeffries of New York for speaker in a closed-door, secret-ballot vote of 251-11, positioning him to become the first Black speaker of the House.",
+      "Jeffries campaigned across the country in recent months, helping Democrats win a projected 259 seats—the largest majority in 35 years—providing substantial cushion for the January 3, 2027, floor vote where he needs 218 votes.",
+      "Rep. Shomari Figures of Alabama endorsed Jeffries, saying he \"led us through what is likely the most tumultuous two-year tenure of any presidency in the history of this nation.\" Rep. Alexandria Ocasio-Cortez confirmed Jeffries is \"listening to ideas\" from progressives.",
+      "Alongside the speaker race, Democrats expect to elect Rep. Katherine Clark of Massachusetts as majority leader and Rep. Pete Aguilar of California as majority whip, marking historic firsts for women and Latino representation in those roles.",
+      "Unlike Republican Kevin McCarthy's 15th-ballot struggle in 2023, Jeffries leads a unified caucus, though he must manage factions including the Congressional Progressive Caucus and moderate groups to advance legislation on affordability."
     ],
-    "title": "Latest science shows chemicals in many everyday items pose a growing threat, UN report says",
-    "topic": "Science",
-    "topic_full": "Science · United States"
+    "title": "Democrats formally nominate Rep. Hakeem Jeffries, paving way for him to be the first Black speaker",
+    "topic": null,
+    "topic_full": null
   },
   {
-    "article_path": "/article/us-vice-president-vows-trump-will-not-let-iran-conflict-become-another-forever-war",
-    "article_url": "https://ground.news/article/us-vice-president-vows-trump-will-not-let-iran-conflict-become-another-forever-war",
+    "article_path": "/article/report-islam-will-be-worlds-largest-religion-by-2035",
+    "article_url": "https://ground.news/article/report-islam-will-be-worlds-largest-religion-by-2035",
     "bias": [
-      "Left-Leaning coverage frames Vance’s “forever war ” pledge skeptically, juxtaposing “fears grow” and “stoking fears” over the aircraft carrier with the absence of exit conditions, suggesting escalation contradicts restraint.",
-      "Right-Leaning coverage portrays Trump and Vance as decisive, emphasizing they will “end” the conflict by 2028, deliver “great results,” and “hit back” at “neoconservatives,” while de-emphasizing the deployment.",
-      "Center coverage highlights possible policy choices and Republican midterm losses, using “no daylight” to stress unity.",
-      "The pivotal divide is whether assurances signal restraint or mask risk; all agree Vance rejects indefinite war and denies a rift with Trump, reflecting broader interventionist-versus-restraint divides."
+      "Left-Leaning coverage repeatedly foregrounds the forecast with terms such as “outnumber” and “largest,” emphasizing a projected shift in religious rankings while highlighting higher Muslim fertility.",
+      "Right-Leaning coverage uses the same projection but remains brief, de-emphasizing continued Christian growth and offering little interpretation; its emphasis on one group overtaking another may invite different readings without overtly charged language.",
+      "Center coverage adds that Christianity will also grow, clarifying that Islam is projected to grow faster, and cites roughly 2.27 billion Muslims in 2020.",
+      "Across perspectives, the shared focus is Pew’s 2035 projection and fertility-based demographic change."
     ],
-    "bias_bar_text": null,
-    "center_pct": 21.0,
+    "bias_bar_text": "Left 66% Center 31%",
+    "center_pct": 31.0,
     "error": null,
-    "left_pct": 29.0,
-    "location": "United States",
-    "right_pct": 50.0,
+    "left_pct": 66.0,
+    "location": null,
+    "right_pct": 3.0,
     "status": "ok",
     "summary": [
-      "Vice President Vance told Fox News on Monday that the Iran war will not become a 'forever war,' promising President Donald Trump will not allow the conflict to continue indefinitely.",
-      "The Congressional Research Service reports the Iran war began on 28 February 2026 when Israeli strikes hit targets in Iran, following early Iranian threats against commercial shipping through the Strait of Hormuz.",
-      "\"We are not going to allow this to become a 10- or 15-year commitment, or frankly even a two-year commitment,\" Vance said, rejecting calls for a permanent American military presence in the region.",
-      "A Voter Poll found some American citizens considered the military action wrong, while President Trump directed Vance to shift focus to an anti-fraud campaign following Republican losses in the midterms.",
-      "Vance added that President Trump would get the country out of the conflict with \"great results,\" with their current terms scheduled to end on 20 January 2029 under the 20th Amendment."
+      "Islam is expected to surpass Christianity as the world's largest religion by 2035, according to detailed projections released Wednesday by the Pew Research Center. Both faiths are growing, but Islam is expanding much faster.",
+      "Higher fertility rates drive this demographic shift, with Muslim women averaging 3.1 children compared to 2.5 for Christians. Pew senior demographer Conrad Hackett emphasized that fertility, not conversion, is the primary factor.",
+      "By 2035, Pew forecasts 2.57 billion Muslims and 2.52 billion Christians worldwide. If recent trends continue, those figures will reach more than 3.6 billion and just under 3 billion, respectively, by 2070.",
+      "Gina Zurlo, a senior researcher at Harvard Divinity School, warned that \"many Christians are not happy\" about these trends, causing \"angst.\" She urged greater interreligious education to \"humanize\" the \"other\" and reduce misunderstanding.",
+      "Beyond the two major faiths, the population of people who are atheist, agnostic, or religiously unaffiliated will grow by more than 180 million by 2070. South Korea, France, and the United Kingdom are forecast to join this demographic group."
     ],
-    "title": "US Vice President JD Vance Vows Trump Will Not Let Iran Conflict Become Another ‘Forever War'",
-    "topic": "JD Vance",
-    "topic_full": "JD Vance · United States"
+    "title": "Pew Projects Islam Will Surpass Christianity by 2035",
+    "topic": null,
+    "topic_full": null
   },
   {
-    "article_path": "/article/quad-leaders-flag-economic-coercion-oppose-unilateral-actions-undermining-peace",
-    "article_url": "https://ground.news/article/quad-leaders-flag-economic-coercion-oppose-unilateral-actions-undermining-peace",
+    "article_path": "/article/us-launches-unarmed-icbm-with-trump-in-asia-in-routine-test",
+    "article_url": "https://ground.news/article/us-launches-unarmed-icbm-with-trump-in-asia-in-routine-test",
     "bias": [
-      "The supplied analyses contain no left-leaning headlines, so the clearest contrast is between center and right framing: center coverage emphasizes diplomatic opposition to “economic coercion,” “unilateral” action, and threats to peace, while right-leaning reports turn the summit into a “push,” using “grave concerns,” “arbitrary” export curbs, and “target China” to stress confrontation.",
-      "The center de-emphasizes maritime-security and AI initiatives, whereas the right presents them as strategic expansion.",
-      "Both highlight Quad unity, coercion, and regional stability, but their differing emphasis reflects a broader divide between diplomatic caution and hawkish Indo-Pacific competition."
+      "Center coverage foregrounds the launch’s geopolitical timing, using terms like “nuclear-capable” and stressing the Minuteman III’s role in the strategic nuclear triad, flight distance, and coincidence with Trump’s summit with Xi and Putin.",
+      "Right-Leaning coverage instead repeatedly calls it a “routine test,” emphasizes “unarmed,” and highlights years of advance planning to portray the launch as measured, non-escalatory, and unrelated to diplomacy; phrases like “historic talks” and “defensive strikes” further cast Trump’s posture favorably.",
+      "The pivotal divide is whether timing implies strategic signaling or mere coincidence.",
+      "Both sides agree it was an unarmed Air Force test, reflecting broader tensions over deterrence, presidential leadership, and geopolitical interpretation."
     ],
-    "bias_bar_text": null,
+    "bias_bar_text": "Center 33% Right 67%",
     "center_pct": 33.0,
     "error": null,
     "left_pct": null,
-    "location": "United States",
+    "location": null,
     "right_pct": 67.0,
     "status": "ok",
     "summary": [
-      "Leaders from the United States , India, Japan and Australia expressed concern about economic coercion, including arbitrary export restrictions.",
-      "The Quad leaders opposed unilateral actions that change the status quo through force or coercion and increase regional tensions.",
-      "The leaders announced cooperation on maritime surveillance, cybersecurity, trusted artificial intelligence and resilient undersea cables.",
-      "Narendra Modi said the Manila meeting gave fresh momentum to the Quad’s shared vision for a free, open and peaceful Indo-Pacific."
+      "The Air Force launched an unarmed Minuteman III ICBM from Vandenberg Space Force Base late Tuesday, coinciding with the APEC summit in Shenzhen where President Donald Trump, Chinese President Xi Jinping , and Russian President Vladimir Putin plan to discuss nuclear arms control.",
+      "Designated Glory Trip 257, the launch was planned five years ago by Air Force Global Strike Command and is not a response to current diplomatic events, the command said.",
+      "Minuteman III missiles serve as the land-based component of the United States nuclear triad, with about 400 currently on alert across Montana, North Dakota, and Wyoming. These systems have operated for over five decades, far exceeding their original ten-year expected service life.",
+      "According to Air Force General S.L. Davis, such tests are \"foundational to ensuring the safety and surety of the Minuteman system.\" The launch occurred as the White House reported world leaders will discuss potential nuclear weapons limits.",
+      "The Air Force plans to replace the aging Minuteman III fleet with the LGM-35A Sentinel, though the program has faced delays and ballooning costs. Older missiles are expected to remain in service for years as modernization continues."
     ],
-    "title": "Quad leaders flag 'economic coercion', oppose unilateral actions undermining peace",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
+    "title": "US launches unarmed ICBM with Trump in Asia in routine test",
+    "topic": null,
+    "topic_full": null
   },
   {
-    "article_path": "/article/first-new-dc-delegate-since-1991-hopes-that-democratic-victories-mean-statehood-is-coming",
-    "article_url": "https://ground.news/article/first-new-dc-delegate-since-1991-hopes-that-democratic-victories-mean-statehood-is-coming",
-    "bias": [
-      "Left-Leaning coverage frames Robert White’s arrival as a hopeful breakthrough, using phrases like “sweeping victory” and “statehood is coming” to connect Democratic gains with an advancing statehood campaign.",
-      "Center coverage tempers that optimism by attributing the prospect to White’s “hopes” and emphasizing the delegate’s historic, non-voting role.",
-      "The right-leaning presentation largely repeats the Democratic-statehood link without developing skepticism or constitutional objections, effectively de-emphasizing opposition rather than articulating it.",
-      "The pivotal divide is whether election results signal meaningful momentum or merely renewed discussion; all perspectives agree on the delegate’s first-in-decades arrival and its connection to statehood."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 57.0,
+    "article_path": "/article/rubio-downplays-iran-threat-and-us-tech-outages-ahead-of-trumps-china-summit",
+    "article_url": "https://ground.news/article/rubio-downplays-iran-threat-and-us-tech-outages-ahead-of-trumps-china-summit",
+    "bias": null,
+    "bias_bar_text": "Left 78% C 22%",
+    "center_pct": 22.0,
     "error": null,
-    "left_pct": 38.0,
-    "location": "Washington",
-    "right_pct": 5.0,
-    "status": "ok",
+    "left_pct": 78.0,
+    "location": null,
+    "right_pct": null,
+    "status": "no_change",
     "summary": [
-      "Robert White is stepping into the role held by Eleanor Holmes Norton, a legendary advocate for Washington, D.C., who retired after 36 years. White aims to prioritize District statehood and economic recovery.",
-      "Norton served as a legendary advocate for Washington, D.C., before retiring. White, who previously worked for her, now assumes the role during a period of intense local tension exacerbated since President Donald Trump returned to office two years ago.",
-      "The District faces economic strain, with a net loss of 22,000 jobs in 2025 costing residents $3 billion. White attributes these losses partly to the Department of Government Efficiency, or DOGE, which Trump empowered to slash federal bureaucracy.",
-      "White is building relationships with incoming committee chairs and new Mayor Janeese Lewis George, stating they are \"aligned\" about next steps. He intends to advocate for statehood, arguing two additional senators would significantly increase local representation.",
-      "With Democrats controlling both the House and Senate, White sees a unique opportunity to push for statehood. He remains concerned about federal overreach, including proposed projects at the Kennedy Center and the ongoing National Guard deployment he views as wasteful."
+      "On Tuesday in Manila, Secretary of State Marco Rubio stated there is \"zero\" evidence connecting recent cascading tech outages to cyberattacks or foreign actors, reassuring Americans after failures disrupted travel, banking, and government communications.",
+      "The series of outages began Thursday when Microsoft email services went offline, followed by disruptions at major banks and the National Security Agency, which officials attributed to routine maintenance and network capacity upgrades.",
+      "While President Donald Trump dismissed the concerns as typical technical issues, conservative commentators and allies demanded greater transparency, with critics like Kylie Jane Kremer and Karoline Leavitt arguing the administration must explain the failures.",
+      "Rubio also dismissed reports that Iran planned a radioactive \"dirty bomb\" attack in Washington, which the Iranian Foreign Ministry called \"baseless,\" amid ongoing diplomatic tensions.",
+      "President Trump travels to Shenzhen, China, this week for the Asia-Pacific Economic Cooperation summit, where he will meet with Chinese President Xi Jinping and Russian President Vladimir Putin to discuss trade and geopolitical differences."
     ],
-    "title": "Robert White Jr. Takes Over as D.C. Delegate, Pushes Statehood",
-    "topic": "US Politics",
-    "topic_full": "US Politics · Washington"
+    "title": "Rubio says there’s ‘zero’ information that US outages are linked or caused by a malign actor",
+    "topic": null,
+    "topic_full": null
   },
   {
-    "article_path": "/article/trump-says-thailand-will-eliminate-tariffs-on-us-exports-under-new-deal_abff5d",
-    "article_url": "https://ground.news/article/trump-says-thailand-will-eliminate-tariffs-on-us-exports-under-new-deal_abff5d",
+    "article_path": "/article/senator-vows-ai-hearings-after-watchdog-gets-platforms-to-plan-terrorist-attacks",
+    "article_url": "https://ground.news/article/senator-vows-ai-hearings-after-watchdog-gets-platforms-to-plan-terrorist-attacks",
     "bias": [
-      "Left-Leaning coverage spotlights Thailand’s reported elimination of “all tariffs ” and roughly $2.6 billion in agricultural purchases, presenting concrete export gains while de-emphasizing whether the arrangement is final.",
-      "Right-Leaning coverage frames the same announcement as Trump’s “landmark trade deal” or “Incredible Victory,” emphasizing presidential deal-making, American farmers, and regional strategy, including China and the ASEAN summit.",
-      "The pivotal divide is whether a joint statement or framework counts as a completed pact: center coverage stresses “substantial conclusion,” pending finalization, and non-tariff barriers.",
-      "All perspectives highlight tariff concessions and stronger U.S.-Thai ties, reflecting broader tensions over executive success versus procedural caution and geopolitical interpretation."
+      "Left-Leaning coverage portrays the findings as an urgent national-security crisis, using terms like “terrorist blueprint,” “viable plans,” and “vows” while stressing mass casualties, attacks on cities, and grid disruption to justify oversight.",
+      "Right-Leaning coverage emphasizes the same “terrorist attacks” and impending hearings through a law-and-order lens but de-emphasizes those scenarios, methodology, and platform safeguards, offering a shorter, more politically focused frame.",
+      "Center coverage adds procedural context about GAO testing and Senator Maggie Hassan.",
+      "All perspectives agree the platforms produced dangerous attack-related material and hearings are warranted, reflecting broader disputes over regulation, institutional accountability, and technology risk."
     ],
     "bias_bar_text": null,
     "center_pct": 32.0,
     "error": null,
-    "left_pct": 5.0,
+    "left_pct": 49.0,
     "location": "United States",
-    "right_pct": 63.0,
+    "right_pct": 19.0,
     "status": "ok",
     "summary": [
-      "On Tuesday, President Donald Trump announced in Manila that Thailand will eliminate all tariffs on US exports under a pending trade agreement expected to be finalized in the coming weeks.",
-      "Accounting for 24.6% of total exports, the US represents Thailand's largest market; the country initially faced a threatened 36% US tariff in 2025, which Washington lowered to 19%.",
-      "Under the agreement, Thailand will remove non-tariff barriers on American vehicles, medical devices, pharmaceuticals, ethanol, and poultry while committing to purchase an estimated $2.6 billion in additional US agricultural products.",
-      "Appearing with Trump at the signing, Thai Prime Minister Anutin Charnvirakul stated the agreement will bring \"greater dynamics to our trade relations and open new opportunities for all stakeholders.\"",
-      "Trump began a three-day visit to the Philippines following the Association of Southeast Asian Nations summit, which includes the Quad group's first meeting in two years and the Asia -Pacific Economic Cooperation forum in Shenzhen."
+      "On Wednesday, the Government Accountability Office released a report finding that four major AI platforms— ChatGPT , Claude, Gemini, and Grok—generated viable attack plans within 12 hours of covert testing.",
+      "Sen. Maggie Hassan tasked the GAO with investigating how commercial AI could be exploited for malicious purposes, citing growing national security risks from potential misuse.",
+      "In response to prompts, two platforms provided detailed instructions for constructing improvised explosive devices to cause mass casualties, while two others suggested drone or firearm attacks on electrical substations.",
+      "Tech companies including OpenAI, Google, Anthropic, and SpaceXAI responded that they continue to refine safeguards, with SpaceXAI stating it \"continues to work diligently\" to improve safety with each release.",
+      "Hearings are planned for January when the new Congress convenes, as Hassan emphasized that without action, it is a question of when—not if—a bad actor will launch a major attack."
     ],
-    "title": "Trump says Thailand will eliminate tariffs on US exports under new deal",
-    "topic": "US Foreign Policy",
-    "topic_full": "US Foreign Policy · United States"
+    "title": "Senator vows AI hearings after watchdog gets platforms to plan terrorist attacks",
+    "topic": "Artificial Intelligence",
+    "topic_full": "Artificial Intelligence · United States"
   },
   {
-    "article_path": "/article/large-plume-of-gas-billows-out-of-california-landfill",
-    "article_url": "https://ground.news/article/large-plume-of-gas-billows-out-of-california-landfill",
+    "article_path": "/article/despite-specter-of-ice-looming-fans-welcome-haiti-us-match-in-cincinnati",
+    "article_url": "https://ground.news/article/despite-specter-of-ice-looming-fans-welcome-haiti-us-match-in-cincinnati",
     "bias": [
-      "Left-Leaning coverage foregrounds the “large plume,” “dark smoke,” evacuations, and residents’ potential exposure, framing the incident as an environmental and public-safety concern; right-leaning coverage sharpens the drama with “explosion rocks,” “workers scrambling,” “accident,” and “chemical release,” emphasizing danger, disorder, and immediate risk.",
-      "The pivotal divide is whether this was chiefly a gas release or landfill “geyser” versus a confirmed explosion, with the center perspective supplying context such as drilling 150 feet underground, hazmat response, minor injuries, and a diminishing release.",
-      "All perspectives agree on the release, six hospitalized workers, evacuation advisory, and emergency response, reflecting shared concern over hazards amid differing environmental and institutional interpretations."
+      "Left-Leaning framing casts ICE as a threatening “specter” “looming” over Haiti-U.S. soccer , foregrounding fan “anxiety” and immigration enforcement.",
+      "Right-Leaning coverage treats the match primarily as a scheduled sporting event, acknowledging concern but de-emphasizing deportation and political implications; notably, even its shared “looming” language complicates a conventional pro-enforcement frame.",
+      "Center-Oriented treatment bridges the divide by pairing enforcement uncertainty with Haitian “national pride” and celebration.",
+      "The pivotal fault line is whether ICE’s nearby office symbolizes intimidation or merely context.",
+      "All perspectives recognize the Concacaf match, TQL Stadium, and community anxiety, reflecting wider tensions over immigration, identity, and public space."
     ],
     "bias_bar_text": null,
-    "center_pct": 52.0,
+    "center_pct": 44.0,
     "error": null,
-    "left_pct": 35.0,
-    "location": "California",
-    "right_pct": 13.0,
+    "left_pct": 42.0,
+    "location": "Cincinnati",
+    "right_pct": 14.0,
     "status": "ok",
     "summary": [
-      "On Monday, a drilling incident at the Chiquita Canyon Landfill in Castaic caused a large chemical gas release and thick smoke, prompting an evacuation advisory for nearby communities.",
-      "Workers drilling about 150 feet deep struck a pipe during routine operations, causing gas to vent from the site; the Los Angeles County Fire Department confirmed no fire occurred.",
-      "Inspector Jonathan Torres reported six workers were hospitalized with minor injuries, while authorities issued an evacuation advisory for zones CAS-VALVERDE-A, CAS-HASLEY, and CAS-HILLCREST.",
-      "Testing by The Fire Department determined the situation is \"now deemed static\" and does not pose health risks, while the South Coast Air Quality Management District issued no air quality advisory.",
-      "Supervisor Kathryn Barger and Rep. George Whitesides are demanding answers regarding what caused the incident and what safeguards failed, while residents are advised to rely on official County sources."
+      "On Tuesday, the Haitian national soccer team faces the United States at TQL Stadium in Cincinnati for a CONCACAF Nations League match, offering fans a rare opportunity to celebrate national pride and culture together.",
+      "The stadium sits 16 miles from an Immigration and Customs Enforcement office in Blue Ash, creating anxiety for the estimated 20,000 Haitian newcomers in the region after President Donald Trump ended TPS.",
+      "Tickets for the Cincinnati match were as low as $40, significantly more affordable than the Miami leg where prices exceeded $150. Smith Francois, a local activist, plans to attend to share in the occasion.",
+      "Fan Natafon Korel says immigration enforcement has left him \"more aware and more alarmed\" regarding his surroundings. Asecou Clermon added, \"Whether we win or lose, it will be just a good environment to be in.\"",
+      "Sport sociologist Chris Knoester from The Ohio State University explained the event carries significance beyond athletics, especially amid targeted immigration enforcement. He described the match as a vital symbolic connection for fans facing difficult circumstances."
     ],
-    "title": "Large Plume of Gas Billows Out of California Landfill",
-    "topic": "Oil and Gas Sector",
-    "topic_full": "Oil and Gas Sector · California"
+    "title": "Despite specter of ICE looming, fans welcome Haiti-US match in Cincinnati",
+    "topic": "Immigration and Customs Enforcement",
+    "topic_full": "Immigration and Customs Enforcement · Cincinnati"
   },
   {
-    "article_path": "/article/pentagon-fails-ninth-straight-audit-despite-progress",
-    "article_url": "https://ground.news/article/pentagon-fails-ninth-straight-audit-despite-progress",
+    "article_path": "/article/north-dakota-woman-buys-ford-bronco-drives-27-hours-home-after-flights-grounded",
+    "article_url": "https://ground.news/article/north-dakota-woman-buys-ford-bronco-drives-27-hours-home-after-flights-grounded",
     "bias": [
-      "No distinct left-leaning framing is supplied; the clearest contrast is between center coverage and right-leaning portrayals.",
-      "Center language such as “fails” and “ninth straight” foregrounds accountability, while “despite progress” and the War Data Platform temper the criticism.",
-      "Right-Leaning coverage uses upbeat phrases like “breakthrough” and “path toward clean books,” spotlighting 14 of 25 entities passing—up from 11—56% of assets receiving positive opinions, and a 2028 target, while de-emphasizing the repeated failure.",
-      "Both acknowledge the fiscal-year 2026 audit failure and measurable improvement, but diverge over whether these gains signify incremental reform or credible momentum toward resolution."
+      "Left-Leaning coverage foregrounds institutional disruption’s human cost, calling the travelers “stranded” and centering Tara Harding and her employees; right-leaning coverage stresses inconvenience, scale, and self-reliance, using “blackout,” “frustrated flyers,” and “thousands of miles” while detailing driver rotation, caffeine, and endurance.",
+      "The pivotal divide is whether buying a Bronco signifies administrative failure leaving people vulnerable or resourceful individuals solving a problem when rentals, buses, and trains were booked solid.",
+      "Center-Leaning accounts use more restrained language and specify the Charlotte-to-Bismarck route.",
+      "All perspectives emphasize the FAA ground stop, the 27-hour drive, and an extraordinary workaround, reflecting broader tensions over institutional responsibility versus personal resilience."
     ],
     "bias_bar_text": null,
-    "center_pct": 56.0,
+    "center_pct": 25.0,
     "error": null,
-    "left_pct": null,
+    "left_pct": 17.0,
     "location": "United States",
-    "right_pct": 44.0,
+    "right_pct": 58.0,
     "status": "ok",
     "summary": [
-      "On Monday, the Pentagon failed its ninth consecutive annual audit, though Defense Department CFO Jules Hurst highlighted that 56% of assets are now on clean opinions for the first time.",
-      "The Pentagon manages 149 financial systems, some featuring 50-year-old computer code, prompting officials to overhaul methodology by consolidating 25 separate audit opinions into eight broader statements.",
-      "Auditors examined $4.9 trillion in assets and $5.2 trillion in liabilities using the cloud-based War Data Platform, which merges data from 61 core systems with artificial intelligence to reconcile transactions.",
-      "Fourteen of the Pentagon's 25 standalone reporting entities passed their fiscal 2026 audit, up from 11 the prior year, as officials shift focus away from prioritizing \"material weaknesses.\"",
-      "Officials aim to achieve a clean agency-wide audit opinion by fiscal 2028, with immediate goals including a clean opinion on the fiscal 2027 defense-wide working capital fund financial statements."
+      "On Friday, Nov. 13, 2026, Bismarck, North Dakota business owner Tara Harding and two employees bought a $48,000 Ford Bronco after a nationwide Federal Aviation Administration ground stop stranded them in Charlotte, North Carolina.",
+      "A 'communication issue impacting all Air Route Traffic Control Centers' caused the ground stop affecting 20,000 flights, Transportation Secretary Sean Duffy said. Maintenance updates on aging telecom infrastructure triggered the outage.",
+      "Harding, a nurse practitioner, spent hours searching for rental cars, buses, or trains within a 3-4-hour radius of Charlotte. She completed the 1,600-mile, 27-hour drive to Bismarck, arriving late Saturday night.",
+      "Harding decided to keep the SUV, saying, 'The three of us feel very connected to it.' Tracking site FlightAware reported about 18,000 flight cancellations as of Monday from the ground stop.",
+      "The ground stop marked the longest nationwide FAA outage since September 11, 2001. Transportation Secretary Duffy said the telecom network 'has to be updated, upgraded, and, I think, built brand-new."
     ],
-    "title": "Pentagon Fails Ninth Straight Audit Despite Progress in Organizing Finances",
-    "topic": "Pentagon",
-    "topic_full": "Pentagon · United States"
+    "title": "North Dakota woman buys Ford Bronco, drives 27 hours home after flights grounded",
+    "topic": "Coffee",
+    "topic_full": "Coffee · United States"
   },
   {
-    "article_path": "/article/homeland-security-chief-says-ai-likely-caused-recent-spate-of-outages-in-us-denies-cyberattack",
-    "article_url": "https://ground.news/article/homeland-security-chief-says-ai-likely-caused-recent-spate-of-outages-in-us-denies-cyberattack",
+    "article_path": "/article/trumps-demand-for-steam-catapults-on-new-carriers-is-a-non-starter-senate-armed-forces-chair",
+    "article_url": "https://ground.news/article/trumps-demand-for-steam-catapults-on-new-carriers-is-a-non-starter-senate-armed-forces-chair",
     "bias": [
-      "Left-Leaning coverage casts Mullin’s AI explanation as a skeptical “theory” relayed by a “guy that’s very smart with tech,” while his “ripple effect” analogy underscores interconnected-system risks without strong sourcing.",
-      "Center coverage foregrounds a “spate of outages,” treating AI as likely and explicitly addressing the cyberattack question.",
-      "Right-Leaning coverage stresses the breadth of disruption—from United Airlines and Chase to Microsoft—alongside reassurance to “breathe,” claims that the homeland and banking system are “secure,” and uncertainty signaled by “head-scratcher” and “chaos.” Across perspectives, AI and system overload remain possible explanations; center and right also emphasize Mullin’s cyberattack denial, while the left de-emphasizes that issue."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 19.0,
-    "error": null,
-    "left_pct": 36.0,
-    "location": "United States",
-    "right_pct": 45.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, Homeland Security Secretary Markwayne Mullin suggested artificial intelligence may have gone rogue and sparked recent outages affecting major United States banks.",
-      "These disruptions followed a series of tech mishaps last week, including a widespread Microsoft outage and a Federal Aviation Administration ground stop that halted flights nationwide.",
-      "Thousands of customers faced login issues Monday, with more than 4,800 Chase clients, 2,100 at Bank of America, 1,000 at Wells Fargo, and 300 at Capital One reporting problems.",
-      "United Airlines apologized for a \"widespread system outage\" while confirming there is \"no indication that this was a cybersecurity-related issue\" despite public alarm.",
-      "Claiming 98% certainty that \"we're not seeing a cyberattack,\" Mullin theorized that artificial intelligence programs are overrunning systems not designed for such speeds."
-    ],
-    "title": "Mullin Says AI May Have Caused U.S. Outages, Denies Cyberattack",
-    "topic": "Markwayne Mullin",
-    "topic_full": "Markwayne Mullin · United States"
-  },
-  {
-    "article_path": "/article/trumps-pick-for-navy-secretary-likely-to-face-iran-war-questions-during-confirmation-hearing",
-    "article_url": "https://ground.news/article/trumps-pick-for-navy-secretary-likely-to-face-iran-war-questions-during-confirmation-hearing",
-    "bias": [
-      "Left- and right-leaning coverage largely converges, but their framing carries different undertones: “Trump’s pick” can cue scrutiny of presidential accountability on the left, while the same phrase may resonate with right-leaning national-security concerns.",
-      "Both foreground “Iran war ” and predict the nominee will “likely face” questions, making escalation the pivotal dividing line, though neither supplies substantive details.",
-      "Center coverage broadens the lens, uniquely identifying Acting Navy Secretary Hung Cao and portraying a potentially “fierce debate” over Iran, military transparency, and sailors’ well-being.",
-      "Across perspectives, Trump’s selection, the nominee’s scheduled Senate Armed Services Committee testimony, and the hearing’s procedural role remain shared ground."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 53.0,
-    "error": null,
-    "left_pct": 35.0,
-    "location": "Washington",
-    "right_pct": 12.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, Acting Navy Secretary Hung Cao testifies before the Senate Armed Services Committee, the first step in a confirmation process requiring a congressional waiver due to his recent active-duty service.",
-      "To secure the permanent post, Cao must overcome a legal prohibition against military officers serving as service secretaries within seven years of retirement, a rare exception granted only three times since 1950.",
-      "Democrats are expected to scrutinize Cao over the Iran war , including major damage to the 5th Fleet headquarters in Bahrain, and reports of crew stress on the USS Abraham Lincoln.",
-      "Lawmakers from both parties have historically expressed aversion to waiver precedents, citing concerns about eroding civilian control of the military, as Republicans currently control the chamber before Democrats take charge in January.",
-      "The hearing follows a failed impeachment attempt in the House against Defense Secretary Pete Hegseth, occurring amidst broader debates regarding transparency and the unpopular Iran war."
-    ],
-    "title": "Trump Navy Nominee Faces Iran War Questions at Confirmation Hearing",
-    "topic": "US Politics",
-    "topic_full": "US Politics · Washington"
-  },
-  {
-    "article_path": "/article/charity-money-to-finance-hamas-hanoun-in-court-only-help-for-gaza-orphans",
-    "article_url": "https://ground.news/article/charity-money-to-finance-hamas-hanoun-in-court-only-help-for-gaza-orphans",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": "Message: \n",
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "fail",
-    "summary": null,
-    "title": "Charity Money to Finance Hamas, Hanoun in Court: \"Only Help for Gaza Orphans\"",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/about-69-of-french-jews-would-consider-leaving-france-if-melenchon-elected-ajc-ifop-poll-shows",
-    "article_url": "https://ground.news/article/about-69-of-french-jews-would-consider-leaving-france-if-melenchon-elected-ajc-ifop-poll-shows",
-    "bias": [
-      "Left-Leaning coverage frames the poll as evidence of communal alienation and a “feeling of impunity” toward antisemitism , portraying Mélenchon as a “left-wing populist” whose victory could prompt emigration.",
-      "Right-Leaning coverage intensifies the warning, labeling him a “far-left leader,” stressing “rising levels of antisemitism,” and adding that 64% considered leaving, 82% experienced antisemitism, and 29% removed mezuzahs.",
-      "Center coverage mainly presents the conditional 69% figure and a “major shift” in perceived political “threats.” The dividing line is whether concern reflects broader insecurity or Mélenchon-specific danger; all emphasize Jewish vulnerability and emigration, reflecting wider ideological conflict over France’s left and antisemitism."
-    ],
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": null,
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "A new survey released Sunday by the American Jewish Committee found that 64% of French Jews have considered leaving the country, up from 52% in 2024. The Ifop polling institute and Foundation for Political Innovation conducted the study.",
-      "Since the October 7, 2023, Hamas massacre in Israel, deepening fears grip the Jewish community amid a surge in antisemitism . According to findings, 82% of French Jews have experienced antisemitism, and 66% no longer believe France is a safe country.",
-      "The prospect of a Melenchon presidency provoked even greater concern, with 69% of respondents saying they might emigrate if the far-left leader wins the 2027 election. Among French Jews, 86% believe Jean-Luc Melenchon contributes to rising antisemitism.",
-      "Anne-Sophie Sebban-Bache, AJC vice president for Europe, told Ynet there is a \"crisis of trust\" between the Jewish community and the French Republic. Only 22% of victims report incidents to police, while 65% deem punishments for antisemitic offenses insufficiently severe.",
-      "Despite widespread recognition that antisemitism is increasing, only 38% of French respondents say they would demonstrate against it, down from 46% in 2024. Meanwhile, 49% of young French adults aged 18 to 24 compare Israel's treatment of Palestinians to Nazi Germany's persecution of Jews."
-    ],
-    "title": "About 69% of French Jews would consider leaving France if Mélenchon elected, AJC-IFOP poll shows",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/netanyahu-loses-parliamentary-majority-as-trumps-republicans-suffer-major-congressional-setback_9df1cf",
-    "article_url": "https://ground.news/article/netanyahu-loses-parliamentary-majority-as-trumps-republicans-suffer-major-congressional-setback_9df1cf",
-    "bias": [
-      "Left-Leaning coverage urges voters to “get rid of” Netanyahu, says he “burned every support” in Washington, links his alliance with Trump to Democratic gains, and anticipates renewed peace pressure.",
-      "Center coverage frames the partnership as a “lost bet,” stresses Israel’s “increasingly isolated” position, and warns Hamas could “win big” from turmoil.",
-      "Right-Leaning coverage instead says October 7 “shattered” Netanyahu’s “grip on power,” treats coalition losses as a stability crisis, and places him within a “global far-right alliance.” All portray Netanyahu and Trump as politically weakened, but diverge over whether the decisive issue is diplomacy, strategic fallout, or wartime accountability."
-    ],
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": null,
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "Israeli Prime Minister Benjamin Netanyahu lost his parliamentary majority following a heated vote, while President Donald Trump's party suffered a major midterm election setback.",
-      "President Donald Trump and Prime Minister Benjamin Netanyahu agreed to end $3.8 billion in annual U.S. military aid, with the president announcing the assistance would cease by the end of the year.",
-      "Vice President JD Vance acknowledged the war with the Islamic Republic of Iran contributed to Republican defeats, as voters rejected the administration's \"incessant message to hate thy neighbor.\"",
-      "Former Prime Minister Ehud Barak accused Netanyahu of concocting a \"stinking deal\" that traded military aid for political endorsement, concluding Netanyahu \"exceeded his authority\" and is \"utterly unfit to lead a country.\"",
-      "Political uncertainty in Israel and Washington may provide Hamas additional room to maneuver over its future governance role, as the militant movement continues to survive despite three years of full-scale war."
-    ],
-    "title": "NETANYAHU LOSES PARLIAMENTARY MAJORITY AS TRUMP’S REPUBLICANS SUFFER MAJOR CONGRESSIONAL SETBACK!",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/jensen-huang-breaks-silence-signals-willingness-to-return-as-nvidia-ceo",
-    "article_url": "https://ground.news/article/jensen-huang-breaks-silence-signals-willingness-to-return-as-nvidia-ceo",
-    "bias": [
-      "Left-Leaning coverage frames Huang’s possible return through the “scandal,” “abruptly” stepping down, reported affairs, and potential national-security risks, making controversy the pivotal test of leadership.",
-      "Right-Leaning coverage emphasizes his “mistake,” regret, employee and investor support, the board’s security committee, and a 2.5% share decline, portraying accountability and institutional stability as competing concerns.",
-      "Center coverage narrows the story to his conditional willingness, board approval, and an “outpouring of support.” Across perspectives, “breaks his silence” adds drama, while “honored” softens the prospect of return.",
-      "All agree the board holds the decision, reflecting broader tensions over scandal, governance, markets, and security."
-    ],
-    "bias_bar_text": "Center 50% Right 50%",
-    "center_pct": 50.0,
-    "error": null,
-    "left_pct": null,
-    "location": null,
-    "right_pct": 50.0,
-    "status": "ok",
-    "summary": [
-      "Former Nvidia CEO Jensen Huang broke his silence on Tuesday, issuing a statement saying he would be \"honored\" to return as CEO if the board decides it is in the company's best interest.",
-      "Huang resigned 33 years after co-founding the company following reports of an affair with Alice Huang, a former executive at a Singapore-based customer whom sources identified as a potential Chinese intelligence asset.",
-      "An online petition urging the board to reinstate Huang had about 180,000 signatures on Monday, though CNBC reported that directors are currently not considering his return and remain focused on their investigation.",
-      "Nvidia reports third-quarter results after the market closes on Tuesday, with analysts expecting earnings of $2.47 a share on revenue of $109.15 billion, as Chief Financial Officer Colette Kress leads the call.",
-      "Jensen Huang has agreed to testify before Congress on December 1, positioning the company to address ongoing geopolitical and national security concerns as it navigates leadership uncertainty."
-    ],
-    "title": "Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/experts-credit-smooth-midterms-to-election-workers-democratic-rout",
-    "article_url": "https://ground.news/article/experts-credit-smooth-midterms-to-election-workers-democratic-rout",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": "Message: \n",
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "fail",
-    "summary": null,
-    "title": "Experts credit smooth midterms to election workers, Democratic rout",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/feds-musalem-us-likely-needs-several-rate-hikes-by-spring-to-control-inflation_03266d",
-    "article_url": "https://ground.news/article/feds-musalem-us-likely-needs-several-rate-hikes-by-spring-to-control-inflation_03266d",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 57.0,
-    "error": "Message: \n",
-    "left_pct": null,
-    "location": "United States",
-    "right_pct": 43.0,
-    "status": "fail",
-    "summary": null,
-    "title": "Fed's Musalem: US likely needs several rate hikes by spring to control inflation",
-    "topic": "Federal Reserve",
-    "topic_full": "Federal Reserve · United States"
-  },
-  {
-    "article_path": "/article/floridas-stormwater-ponds-become-floating-solar-farms-as-costs-fall-and-demand-rises",
-    "article_url": "https://ground.news/article/floridas-stormwater-ponds-become-floating-solar-farms-as-costs-fall-and-demand-rises",
-    "bias": [
-      "Left-Leaning coverage frames Florida’s floating solar as “sustainable energy ,” emphasizing “scarce” and “costly” land, the scale of tens of thousands of retention ponds, and an innovative path to clean-power expansion; right-leaning coverage de-emphasizes that broader climate narrative, stressing instead that costs are falling and solar can grow without using additional land.",
-      "The left’s optimistic, solution-oriented tone contrasts with the right’s restrained, market-and-efficiency framing, though neither uses strongly partisan language such as “woke” or “crisis.” Center coverage bridges them with technical explanations of buoyant panels and anchors.",
-      "All agree the technology is becoming cheaper and more established, reflecting a wider divide over environmental aspiration versus practical economics."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 39.0,
-    "error": null,
-    "left_pct": 45.0,
-    "location": "Florida",
-    "right_pct": 16.0,
-    "status": "ok",
-    "summary": [
-      "Florida is turning thousands of its retention ponds into solar energy sites, leveraging a 2022 state law that explicitly supports floating photovoltaics to meet growing electricity demand in the Sunshine State.",
-      "Falling costs drove adoption, with median project expenses dropping about 48% to $1.25 per watt since 2015; Florida's estimated 76,000 stormwater ponds provide ideal, otherwise unused locations within city limits.",
-      "Floating systems produce about 5% to 8% more power than rooftop arrays because of water's cooling effect, according to Justin Kramer, director of emerging technologies and data analytics at the Orlando Utilities Commission.",
-      "To protect local ecosystems, the Orlando Utilities Commission limits coverage to 70% to 80% of pond surfaces, as AJ Reisinger of the University of Florida cautioned that shading can alter aquatic photosynthesis and habitat.",
-      "Globally, floating solar accounts for less than 1% of capacity, with Asia leading development; scientist Oktoviano Gandhi noted lenders have gained confidence in the technology's reliability after about 20 years of deployment."
-    ],
-    "title": "Florida’s stormwater ponds become floating solar farms as costs fall and demand rises",
-    "topic": "Floods",
-    "topic_full": "Floods · Florida"
-  },
-  {
-    "article_path": "/article/us-catholic-bishops-meet-after-democrats-big-wins-help-reshape-immigration-and-abortion-debates",
-    "article_url": "https://ground.news/article/us-catholic-bishops-meet-after-democrats-big-wins-help-reshape-immigration-and-abortion-debates",
-    "bias": [
-      "Left-Leaning framing treats Democratic “big wins” as a force that could “reshape” immigration and abortion debates, giving the victories an expansive, consequential tone.",
-      "Right-Leaning coverage uses the same “big wins” wording but places greater emphasis on political shifts, divided government, and the bishops’ broader priorities, including artificial intelligence—implicitly underscoring constraints and possible concern.",
-      "Center-Leaning accounts intensify the result as “sweeping” and describe a “reset” in political dynamics.",
-      "All perspectives agree that bishops met in Baltimore after the midterms, while their differing emphasis reflects wider ideological divides over electoral power, policy influence, and church engagement."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 52.0,
-    "error": null,
-    "left_pct": 35.0,
-    "location": "Baltimore",
-    "right_pct": 13.0,
-    "status": "ok",
-    "summary": [
-      "U.S. Catholic Bishops are holding their annual fall meeting in Baltimore this week as the U.S. Conference of Catholic Bishops faces a divided government following Democrats' sweeping midterm victories.",
-      "Catholic voters split roughly evenly between Republican and Democratic candidates for the U.S. House according to The AP Voter Poll, though White Catholics and Latino Catholics showed distinct voting patterns.",
-      "After the White House released images of bishops praying over Republican President Donald Trump in the Oval Office in late October, the Church's non-partisan message became muddled, prompting at least two bishops to express regret.",
-      "Bishops are expected to hear updates Wednesday from their committees on migration and abortion , while also launching a new task force focused on preserving human dignity in the age of artificial intelligence.",
-      "Last fall, the Conference issued a \"special message\" decrying \"the vilification of immigrants,\" positioning the Church to influence policy as bishops emphasize that elected officials must be devoted to pursuing what is right and just."
-    ],
-    "title": "US Catholic bishops meet after Democrats’ big wins help reshape immigration and abortion debates",
-    "topic": "Catholic Church",
-    "topic_full": "Catholic Church · Baltimore"
-  },
-  {
-    "article_path": "/article/federal-review-faults-leadership-failures-in-grand-canyon-fire-that-destroyed-lodge-wtop-news",
-    "article_url": "https://ground.news/article/federal-review-faults-leadership-failures-in-grand-canyon-fire-that-destroyed-lodge-wtop-news",
-    "bias": [
-      "Left- and right-leaning coverage largely converge, framing the federal review through charged terms like “leadership failures,” “driving factors,” and “destroyed,” emphasizing institutional accountability rather than the fire as an unavoidable disaster.",
-      "The center perspective adds operational specificity—“not qualified to lead,” “ignored warning signs,” a week of monitoring amid extreme heat and dry winds—and stresses that no single person or cause explains the losses.",
-      "Thus, the pivotal divide is breadth versus qualification: left and right present a sweeping management indictment, while center details delegation, training, and communication breakdowns.",
-      "All emphasize the lodge’s destruction and preparedness failures, reflecting shared concern over governmental competence and disaster response."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 68.0,
-    "error": null,
-    "left_pct": 27.0,
-    "location": "Arizona",
-    "right_pct": 5.0,
-    "status": "ok",
-    "summary": [
-      "A federal report released recently identified systemic weaknesses in the National Park Service's response to the 2025 Dragon Bravo Fire at Grand Canyon National Park, noting foreseeable failures in preparedness and leadership hindered decision-making at critical moments.",
-      "Lightning sparked the blaze in 2025, but park leaders chose to monitor the fire for one week despite warnings about persistent drought and extreme heat, according to the Interior Department review.",
-      "The fire destroyed the historic Grand Canyon Lodge, cabins, and employee housing along the North Rim, resulting in suppression costs that topped $141 million over three months.",
-      "A breakdown in communication delayed fire retardant use until after critical structures were lost, the Interior Department report found, despite the National Park Service's initial defense citing extreme wind conditions.",
-      "Experts warned the 2025 incident serves as a critical case study, recommending that agency administrators undergo complex incident training and ensure communication flows through proper channels for future wildfire management."
-    ],
-    "title": "Federal review faults leadership failures in Grand Canyon fire that destroyed lodge",
-    "topic": "Wildfires",
-    "topic_full": "Wildfires · Arizona"
-  },
-  {
-    "article_path": "/article/disney-beats-fourth-quarter-estimates-targets-3-billion-in-savings-through-cost-cutting-efforts_d4ad3a",
-    "article_url": "https://ground.news/article/disney-beats-fourth-quarter-estimates-targets-3-billion-in-savings-through-cost-cutting-efforts_d4ad3a",
-    "bias": [
-      "Left-Leaning coverage pairs Disney ’s “robust” or “stellar” quarter with scrutiny of the $3 billion savings plan and “layoffs,” while highlighting streaming, AI, and Marvel viewership.",
-      "Right-Leaning coverage frames the same results through “surges,” “boost,” parks, ESPN, content investment, and dividends, de-emphasizing job cuts and emphasizing shareholder gains; its pivotal dividing line is whether efficiency signals opportunity or workforce risk.",
-      "Center coverage bridges these narratives, noting growth alongside layoffs that “loom,” restructuring, and investor implications.",
-      "All perspectives emphasize the 16% revenue increase to $25.9 billion and earnings beating expectations, reflecting broader tensions between market optimism, labor concerns, and corporate transformation."
+      "Left-Leaning coverage frames Trump’s directive as an imprudent, taxpayer-funded retreat, using phrases such as “old steam catapults,” “scuttle,” and “blunt the lethality” to stress technological obsolescence and weakened warships, while foregrounding “GOP pushback.” Right-leaning coverage likewise emphasizes intraparty resistance and potential defense damage but more directly highlights Trump’s “order,” making executive authority a dividing line.",
+      "Center coverage adds technical and institutional context—Ford-class carriers, electromagnetic systems, and Roger Wicker’s “non-starter” judgment—rather than primarily political conflict.",
+      "Across perspectives, the shared concerns are billions in costs, reduced carrier effectiveness, and congressional opposition, reflecting broader tensions over expertise, modernization, executive power, and defense priorities."
     ],
     "bias_bar_text": null,
     "center_pct": 52.0,
@@ -836,14 +332,533 @@
     "right_pct": 21.0,
     "status": "ok",
     "summary": [
-      "On Tuesday, The Walt Disney Company reported fiscal fourth-quarter revenue of $25.95 billion and adjusted earnings of $1.77 per share, beating Wall Street expectations across all three core divisions.",
-      "CEO Josh D'Amaro continues restructuring efforts, with management seeking 20% annual savings through job eliminations as the company aims to generate $3 billion in run-rate savings by fiscal 2029.",
-      "Streaming revenue climbed 19% to $6.1 billion and the Experiences division posted record revenue, supported by strong NFL viewership and hit content like \"Toy Story 5.\"",
-      "Disney plans to increase cash content spending to $26 billion in fiscal 2027, up 9% from fiscal 2026, prioritizing international programming and sports rights.",
-      "Executives reiterated commitment to the \"One Disney\" model, integrating streaming and theme park operations to drive long-term margin expansion and shareholder growth."
+      "On Tuesday, Senate Armed Services Committee Chairman Roger Wicker told Navy Secretary nominee Hung Cao that President Donald Trump 's directive to restore steam catapults on Ford-class aircraft carriers is a \"non-starter.\"",
+      "Trump issued a memo in August ordering the Navy to plan for returning to steam and hydraulic systems, claiming electromagnetic catapults \"didn't work\" and lack the power of older technology.",
+      "Redesigning future carriers would cost around $10 billion, while Republican lawmakers noted recent combat data showing the electromagnetic system demonstrates greater \"combat lethality than previous generation carriers.\"",
+      "Released Monday, the Senate Appropriations Committee's 2027 defense spending bill warns against such programmatic shifts, citing concerns that redesigns would cause \"many billions of dollars in additional costs\" and schedule delays.",
+      "Cao argued the Navy must leverage \"new entrants\" to increase shipbuilding capacity, while the service is currently attempting to accelerate unmanned vessel production to reduce strain on the fleet."
     ],
-    "title": "Disney beats fourth-quarter estimates, targets $3 billion in savings through cost-cutting efforts",
-    "topic": "Disney",
-    "topic_full": "Disney · United States"
+    "title": "Trump faces GOP pushback to his order to use steam to launch jets from aircraft carriers",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/developed-market-fiscal-deficit-to-hit-highest-since-world-war-2-outside-recessions-jp-morgan-says",
+    "article_url": "https://ground.news/article/developed-market-fiscal-deficit-to-hit-highest-since-world-war-2-outside-recessions-jp-morgan-says",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 80.0,
+    "error": "Message: \n",
+    "left_pct": null,
+    "location": "United States",
+    "right_pct": 20.0,
+    "status": "fail",
+    "summary": null,
+    "title": "Developed-market fiscal deficit to hit highest since World War 2 outside recessions, J.P. Morgan says",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/mullin-heads-to-congress-to-face-questions-over-flight-disruptions-football-trip-and-immigration_42faaf",
+    "article_url": "https://ground.news/article/mullin-heads-to-congress-to-face-questions-over-flight-disruptions-football-trip-and-immigration_42faaf",
+    "bias": [
+      "Left-Leaning coverage frames Mullin’s hearing as a crisis of administrative competence, emphasizing “scrutiny,” “hot seat,” “unsettling” outages, internal “right-wing pushback,” and skepticism toward his claim that AI overloaded systems; the football trip becomes evidence of poor judgment amid a “historic” ground stop.",
+      "Right-Leaning coverage presents the same appearance as routine oversight concerning “threats facing the country,” treating flight disruptions, immigration, and the game as questions—not proof of wrongdoing—and de-emphasizing outages and internal criticism.",
+      "Center coverage bridges these views, pairing a regular hearing with an unusually disruptive context.",
+      "All agree on the hearing, ground stop, travel controversy, and immigration, reflecting broader divides over accountability versus institutional continuity."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 50.0,
+    "error": null,
+    "left_pct": 34.0,
+    "location": "United States",
+    "right_pct": 16.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, Homeland Security Secretary Markwayne Mullin testifies before the House Homeland Security Committee alongside FBI deputy director Christopher Raia to address the FAA ground stop, technology outages, and threat intelligence.",
+      "Friday's nationwide FAA ground stop prompted scrutiny of the administration's response, with lawmakers questioning the joint press conference involving Transportation Secretary Sean Duffy, who oversees the agency.",
+      "Mullin told FOX News on Monday, \"I can tell you with 98% certainty, we\" are not seeing a cyberattack, then emphasized to CNBC on Tuesday that airways had been \"completely open for 21 hours.\"",
+      "Inside the administration, officials were \"dumbfounded by the tone of the briefing,\" raising concerns about DHS credibility as critics argue Mullin remained underprepared to maintain public trust during the crisis.",
+      "Intelligence reports indicate Iran plans to target senior Trump administration officials, adding pressure to Wednesday's hearing, while David Lapan, a former Homeland Security spokesman, noted the department's credibility has faced scrutiny over the last two years."
+    ],
+    "title": "Mullin heads to Congress to face questions over flight disruptions, football trip and immigration",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/us-defense-secretary-visits-colombia-wednesday-to-address-security-issues-information-focus",
+    "article_url": "https://ground.news/article/us-defense-secretary-visits-colombia-wednesday-to-address-security-issues-information-focus",
+    "bias": [
+      "Left-Leaning coverage frames Hegseth’s Wednesday visit mainly as an effort to “address security issues,” de-emphasizing the specific C-130 transfer and political context.",
+      "Center coverage presents the reported delivery of the first C-130 and security cooperation with restrained, descriptive language.",
+      "Right-Leaning coverage highlights strengthened military ties, anti-drug strategy, and the aircraft ’s political significance, while using charged phrases such as “political barter,” “saving each other,” and “escaping” censure to suggest elite deal-making and institutional conflict.",
+      "All perspectives emphasize the Colombia visit and U.S. security cooperation, reflecting broader divides over defense policy, political accountability, and skepticism toward government motives."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 30.0,
+    "error": null,
+    "left_pct": 15.0,
+    "location": "United States",
+    "right_pct": 55.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, US Defense Secretary Pete Hegseth arrives in Bogota to deliver military equipment and discuss security cooperation with Colombian Defense Minister Jorge Eduardo Mora.",
+      "The United States remains Colombia's main ally against drug trafficking and illegal armed groups, as decades-long insurgency has killed some 450,000 people and displaced millions.",
+      "During the visit, Hegseth will hand over a Hercules C-130 aircraft to the Colombian military, with Mora stating, \"I think two more are coming.\"",
+      "Hegseth visited the US Southern Command in Miami on Tuesday, emphasizing a \"kinetic\" strategy to \"kill the enemy\" among designated terrorist organizations across Latin America.",
+      "Regional media reports indicate Hegseth may visit Venezuela following his stop in Bogota, though the Pentagon has not publicly confirmed the itinerary."
+    ],
+    "title": "Hegseth to Visit Colombia on Wednesday to Deliver Military Equipment",
+    "topic": "Pete Hegseth",
+    "topic_full": "Pete Hegseth · United States"
+  },
+  {
+    "article_path": "/article/house-democrat-targets-trump-family-and-top-officials-in-early-steps-toward-investigations",
+    "article_url": "https://ground.news/article/house-democrat-targets-trump-family-and-top-officials-in-early-steps-toward-investigations",
+    "bias": [
+      "Left-Leaning coverage frames the letters as accountability—Democrats are “coming for Trump’s orbit,” issuing a “stern warning” and probing “self-dealing, misconduct, and abuse,” with “just the beginning” implying escalation.",
+      "Right-Leaning coverage instead portrays a partisan “sweeping new investigation push,” repeatedly saying Democrats “target” Trump’s “entire inner circle” and may be abandoning affordability priorities.",
+      "Center coverage de-emphasizes motive, presenting “preservation letters” as “laying the groundwork” for “potential investigations,” while noting areas such as immigration and Epstein-related files.",
+      "All agree Garcia contacted 12 Trump associates before Democrats assume oversight control, but their divergent tones reflect broader battles over accountability, partisan power, and governing priorities."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 61.0,
+    "error": null,
+    "left_pct": 23.0,
+    "location": "United States",
+    "right_pct": 16.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, Rep. Robert Garcia, D-Calif., sent a dozen preservation letters to associates of President Donald Trump , including Vice President JD Vance and Jared Kushner, ahead of January's Democratic takeover of Congress.",
+      "Planned investigations cover alleged financial conflicts involving Trump's family, foreign business dealings, and the administration's handling of Jeffrey Epstein files, signaling Democrats' intent to scrutinize the president once they control the committee.",
+      "White House Counsel Will Scharf warned last month that the administration is \"monitoring\" Democratic speech, writing the administration \"will not be extorted\" and claiming aggressive oversight may cross into \"blatant criminality.\"",
+      "U.S. Attorney for the Southern District of Texas Aaron Reitz sent preservation letters to Sen. Elizabeth Warren, D-Mass., accusing her of \"terrorizing\" Big Tech executives while conducting a \"preliminary investigation\" into Democratic speech.",
+      "Oversight Democrats claim these probes will \"lay the groundwork for legislation which helps all Americans,\" though intensifying pushback from the administration signals a contentious congressional session beginning in January."
+    ],
+    "title": "House Democrat Targets Trump Family and Top Officials in Early Steps Toward Investigations",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/ap-exclusive-bernie-sanders-unveils-his-plan-to-push-medicare-for-all-when-democrats-take-power",
+    "article_url": "https://ground.news/article/ap-exclusive-bernie-sanders-unveils-his-plan-to-push-medicare-for-all-when-democrats-take-power",
+    "bias": [
+      "Left-Leaning coverage presents Sanders’s “Medicare for All” agenda as a forward-looking effort Democrats could advance when they “take power,” emphasizing his “powerful” committee role and potential healthcare “overhaul.” Right-leaning framing uses the same “push” and “take power” language to suggest an aggressive political drive and characterizes the proposal as a substantial “overhaul,” with skepticism implied more by scale than explicit opposition.",
+      "Center coverage treats it as an intra-party test of “progressive priorities.” All agree Sanders is preparing major healthcare changes, but their emphasis reflects a broader divide over Democratic control, institutional power, and expansive government reform."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 52.0,
+    "error": null,
+    "left_pct": 37.0,
+    "location": "United States",
+    "right_pct": 11.0,
+    "status": "ok",
+    "summary": [
+      "Vermont Independent Bernie Sanders plans to use his upcoming chairmanship of the Senate Health, Education, Labor and Pensions Committee to push for a Medicare for All system and sweeping economic reforms.",
+      "Democrats secured a 56-44 Senate majority when the new Congress begins in January, their largest advantage in 16 years, providing Sanders a strategic opening to advance progressive priorities.",
+      "The proposed healthcare transition would lower the Medicare eligibility age from 65 to 55 in year one while guaranteeing coverage for children, and Sanders' economic agenda includes raising the federal minimum wage from $7.25 to $20 an hour.",
+      "House Democratic leader Hakeem Jeffries of New York pledged to work \"right out of the gate\" to expand healthcare access, aligning his priorities with Sanders' vision for the first year of the Medicare for All transition.",
+      "President Donald Trump must ultimately sign any legislation for it to take effect, and proposals face fiscal scrutiny given the national deficit stands at $2 trillion, or 6.2% of gross domestic product."
+    ],
+    "title": "Bernie Sanders unveils his plan to push Medicare for All when Democrats take power",
+    "topic": "Bernie Sanders",
+    "topic_full": "Bernie Sanders · United States"
+  },
+  {
+    "article_path": "/article/worlds-largest-wildlife-crossing-shows-early-animal-use-near-los-angeles",
+    "article_url": "https://ground.news/article/worlds-largest-wildlife-crossing-shows-early-animal-use-near-los-angeles",
+    "bias": [
+      "Left-Leaning coverage celebrates ecological stewardship, using “roam safely,” “world’s largest,” and even “beaming” to evoke wildlife protection and emotional renewal.",
+      "Right-Leaning coverage largely de-emphasizes that environmental interpretation, presenting the crossing mainly as an impressive infrastructure project and repeating “world’s largest” without a partisan critique.",
+      "Center coverage adds scale—210 feet wide, 1,250 feet long, spanning 10 lanes—and frames it as “a beginning,” stressing that more crossings are needed.",
+      "The pivotal divide is whether the project signifies conservation triumph or broader infrastructure expansion.",
+      "All perspectives agree animals are gaining safer freeway access, reflecting wider tensions over environmental priorities and public investment."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 43.0,
+    "error": null,
+    "left_pct": 43.0,
+    "location": "Agoura Hills",
+    "right_pct": 14.0,
+    "status": "ok",
+    "summary": [
+      "Spanning U.S. 101 in Agoura Hills, the Wallis Annenberg Wildlife Crossing is already seeing animal activity ahead of its official December 2 opening, with motion-sensor cameras capturing a lone coyote crossing the 1,250-foot structure safely.",
+      "P-22, a famous mountain lion euthanized in 2022 after being hit by a car, inspired the project to address urban sprawl threatening isolated pumas. Beth Pratt, president of the Wildlife Crossing Fund, calls the cougar the star of the campaign.",
+      "Construction for the $114 million bridge relied on $25 million from the Wallis Annenberg foundation and donations from 6,000 public members. Early donor Leonardo DiCaprio supported the initiative addressing habitat isolation.",
+      "National Park Service biologist Jeff Sikich is preparing to implant 'biologgers' to monitor animal heart rates and stress levels. Scientists have recently detected bobcats, deer, gray foxes, and a female mountain lion with two kittens nearby.",
+      "Similar infrastructure in Colorado and Banff National Park has proven effective, with Colorado reporting a 91% decrease in wildlife collisions. The Wildlands Network hopes this California project will inspire similar conservation efforts across the nation."
+    ],
+    "title": "World's Largest Wildlife Crossing Shows Early Animal Use Near Los Angeles",
+    "topic": "Conservation",
+    "topic_full": "Conservation · Agoura Hills"
+  },
+  {
+    "article_path": "/article/target-posts-best-sales-growth-in-five-years-raises-guidance_bbfb7c",
+    "article_url": "https://ground.news/article/target-posts-best-sales-growth-in-five-years-raises-guidance_bbfb7c",
+    "bias": [
+      "Left-Leaning coverage frames Target ’s results as a “turnaround plan” working for “battered” inflation-hit shoppers, emphasizing price cuts, customer traffic, and a “night-and-day difference,” while right-leaning coverage largely presents an “encouraging” quarter and raised outlook without ideological interpretation or detailed scrutiny.",
+      "Center coverage bridges the two, stressing “momentum” and “brighter” prospects but adding metrics—5.6% comparable-sales growth, 9.8% digital growth—and apparel weakness.",
+      "The dividing line is whether gains signify consumer relief and managerial recovery or simply business momentum; all perspectives highlight the “strongest” growth in five years, reflecting shared attention to economic performance amid broader debates over inflation and corporate resilience."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 60.0,
+    "error": null,
+    "left_pct": 27.0,
+    "location": "United States",
+    "right_pct": 13.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, Target Corp. reported fiscal third-quarter sales climbed 7.1% to $27.1 billion, marking the retailer's strongest growth since 2022, and raised full-year sales guidance to about 6%.",
+      "Company executives attributed this third straight quarter of comparable sales gains to revitalized product selection, expanded same-day delivery, and strategic price reductions across thousands of items.",
+      "Comparable-Store sales at established locations rose 4.6% while digital-channel sales surged 9.8%, demonstrating momentum across Target's various categories during the quarter.",
+      "CEO Michael Fiddelke attributed the raised guidance to the cumulative impact of operational changes, which he noted have guests choosing the retailer more often.",
+      "Heading into the busy holiday season, Target aims to build on momentum, though analysts at Morgan Stanley warn the long-term durability of recovery remains an open question."
+    ],
+    "title": "Target posts best sales growth in five years, raises guidance",
+    "topic": "Target",
+    "topic_full": "Target · United States"
+  },
+  {
+    "article_path": "/article/us-south-korea-issue-urgent-advisories-over-flaws-in-java-programming-language",
+    "article_url": "https://ground.news/article/us-south-korea-issue-urgent-advisories-over-flaws-in-java-programming-language",
+    "bias": [
+      "The left-leaning framing stresses Java’s reach across government, finance, business, and military systems, using “urgent advisories” to evoke broad strategic vulnerability while de-emphasizing technical specifics.",
+      "Center coverage highlights consequences—remote code execution and crashes—and repeatedly urges users to “urgently” install updates, with “dangerous vulnerabilities” adding alarm.",
+      "Right-Leaning coverage foregrounds eleven “high-risk” OpenJDK flaws, Oracle patches, inspections, and AI-“rapidly generated” attack code, portraying an escalating operational threat.",
+      "The pivotal divide is systemic exposure versus technical and attack-response detail; all perspectives agree vulnerabilities require prompt patching, reflecting shared cybersecurity concerns rather than a broader ideological dispute."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 50.0,
+    "error": null,
+    "left_pct": 7.0,
+    "location": "South Korea",
+    "right_pct": 43.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, the Cybersecurity and Infrastructure Security Agency and South Korea issued advisories urging users to immediately install security updates for Java after identifying critical vulnerabilities.",
+      "Java usage remains high in South Korea, with 72% of public sector information systems relying on the language as of last year, making the nation particularly vulnerable to exploitation.",
+      "Oracle Corp is releasing security patches for 11 vulnerabilities in the Java Platform, evaluated with a CVSS 3.1 severity score of 8.1, the second-highest in its four-tier system.",
+      "Following the discovery of the Java flaws, South Korea's Ministry of Science and ICT convened an emergency meeting Tuesday to discuss preemptive measures, according to the Yonhap news agency.",
+      "Secretary of State Marco Rubio acknowledged the incidents were \"unsettling\" but stated \"We are not under systemic attack,\" while attending Association of Southeast Asian Nations meetings in Manila."
+    ],
+    "title": "US, South Korea advise users to urgently fix flaws in Java programming language",
+    "topic": "Cyber Security",
+    "topic_full": "Cyber Security · South Korea"
+  },
+  {
+    "article_path": "/article/after-a-13-year-wait-grand-theft-auto-vi-arrives-with-enormous-hype-and-expectations_ac94ee",
+    "article_url": "https://ground.news/article/after-a-13-year-wait-grand-theft-auto-vi-arrives-with-enormous-hype-and-expectations_ac94ee",
+    "bias": [
+      "Left-Leaning coverage frames GTA VI as a “cultural and economic earthquake,” emphasizing “masterpiece” reviews, fan fervor, social symbolism, and possible “end of an era,” while treating criminal content as a prompt for broader cultural critique.",
+      "Right-Leaning coverage celebrates records but stresses discipline, productivity, and disruption, using “virus,” “threatens,” and “grim predictions” for planned leave, office absences, and network strain; athletes’ “day jobs” become a work-first dividing line.",
+      "Center coverage is more logistical, noting platforms, franchise history, music, workplace rules, and a $3.2 billion forecast.",
+      "All portray an unusually anticipated, potentially record-setting release, reflecting tensions between cultural celebration and concerns about responsibility and social impact."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 49.0,
+    "error": null,
+    "left_pct": 32.0,
+    "location": "United States",
+    "right_pct": 19.0,
+    "status": "ok",
+    "summary": [
+      "Grand Theft Auto VI launches on Thursday, sending players back to Vice City after a 13-year wait since the franchise's predecessor. The game is set in Leonida, Rockstar Games' sprawling fictional version of Florida.",
+      "At the center of the game are protagonists Lucia Caminos and Jason Duval, a couple whose attempts to improve their lives pull them deeper into the criminal underworld. Their story unfolds in a \"Bonnie and Clyde-style crime story\" after an easy score goes wrong.",
+      "With eight nominations for the Game Awards, including game of the year, GTA VI has attracted significant recognition before release. Its 212 gigabyte file size is expected to drive about 35 petabytes of additional network traffic globally.",
+      "Miami-Dade County entered a $3.9 million promotional deal with Rockstar featuring a \"Welcome to Vice City\" display atop the Kaseya Center. Some officials have questioned using public resources to promote a franchise known for criminal activity.",
+      "Gamers are discussing online how to trick their consoles into thinking they are based in New Zealand to unlock the game earlier. This frenzy reflects massive anticipation for one of 2026's biggest gaming launches."
+    ],
+    "title": "After a 13-year wait, ‘Grand Theft Auto VI’ arrives with enormous hype and expectations",
+    "topic": "Gaming",
+    "topic_full": "Gaming · United States"
+  },
+  {
+    "article_path": "/article/democrats-on-house-judiciary-and-foreign-affairs-probing-lutnick-familys-role-in-nvidia-scandal",
+    "article_url": "https://ground.news/article/democrats-on-house-judiciary-and-foreign-affairs-probing-lutnick-familys-role-in-nvidia-scandal",
+    "bias": [
+      "Left-Leaning coverage frames the story as an ethics and accountability issue, emphasizing Lutnick’s family ties, a “huge financial interest,” and an Nvidia “scandal,” while right-leaning coverage shifts toward national security, chip smuggling, and China, warning that “pulling on a thread” could “unravel much more.” Center coverage bridges both, foregrounding whether Lutnick helped Cantor Fitzgerald avoid losses and whether approving chips for Megaspeed warranted scrutiny.",
+      "The dividing line is conflict-of-interest oversight versus export enforcement and geopolitical risk.",
+      "Despite contrasting tones—suspicious and accusatory versus ominous and expansive—all perspectives emphasize congressional investigation, Nvidia-linked interests, and potential consequences for U.S. technology policy."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 38.0,
+    "error": null,
+    "left_pct": 23.0,
+    "location": "United States",
+    "right_pct": 39.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, Democratic lawmakers launched a probe into whether Commerce Secretary Howard Lutnick used his office to assist Cantor Fitzgerald, the investment firm now run by his sons, avoid losses linked to Nvidia 's scandal.",
+      "Investigators are scrutinizing why Lutnick allegedly resisted implementing export controls on Megaspeed and other companies suspected of funneling advanced AI chips to China, potentially compromising national security interests.",
+      "Cantor Fitzgerald held Nvidia stock valued around $1.2 billion at Lutnick's confirmation, though filings show the firm reported a nearly 50% decline in those holdings between September 2025 and March 2026.",
+      "House Democrats Jamie Raskin, Gregory Meeks, and Sydney Kamlager-Dove demanded the firm preserve all documents, calling the allegations \"inaccurate\" and \"baseless\" in a statement to CNBC.",
+      "The probe adds to mounting pressure on Nvidia as former executive Jensen Huang prepares for December testimony before GOP-led House panels and Sen. Tim Scott has summoned both Huang and Lutnick."
+    ],
+    "title": "Democrats probe whether Howard Lutnick helped Cantor avoid Nvidia losses, FT reports",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/judge-corners-trump-with-deposition-as-presidential-excuses-run-dry-in-his-own-lawsuit",
+    "article_url": "https://ground.news/article/judge-corners-trump-with-deposition-as-presidential-excuses-run-dry-in-his-own-lawsuit",
+    "bias": [
+      "Left-Leaning coverage frames the Florida defamation case as a test of accountability, saying the judge “corners Trump” while his “excuses run dry” and portraying presidential status as an attempted escape from questioning.",
+      "Center coverage stresses a procedural compromise: Trump gets more time, but a mandatory deposition remains, with the $10 billion stakes and January 22 deadline foregrounded.",
+      "Right-Leaning coverage de-emphasizes political confrontation, presenting the matter as procedure surrounding Trump’s allegation that the BBC edited his January 6 speech.",
+      "All emphasize the Florida lawsuit and required testimony, but their divergent tones—adversarial, procedural, and allegation-focused—reflect broader disputes over accountability, media conduct, and presidential authority."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 58.0,
+    "error": null,
+    "left_pct": 18.0,
+    "location": "Florida",
+    "right_pct": 24.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, U.S. District Judge Jeffrey Kuntz ordered President Donald Trump to sit for a deposition by January 22 in his $10 billion defamation lawsuit against the BBC.",
+      "Trump sued the BBC over its editing of his January 6, 2021, speech, alleging the network maliciously spliced clips to suggest he directed the Capitol attack following his election loss to Joe Biden.",
+      "The ruling grants a joint request from both sides, providing Trump six more weeks before questioning. Kuntz noted the president is a \"willing participant in the proceedings\" because he initiated the litigation.",
+      "The BBC accepted Trump's offer to be deposed between January 11 and January 22, despite previously accusing him of delays. Kuntz had rejected the network's motion to dismiss on November 10.",
+      "Both sides must complete discovery by January 29 and be trial-ready by May 3. Trump's lawyers maintain that his official duties and security needs pose unique scheduling challenges."
+    ],
+    "title": "US judge extends deadline for Trump deposition in BBC defamation case",
+    "topic": "Donald Trump",
+    "topic_full": "Donald Trump · Florida"
+  },
+  {
+    "article_path": "/article/army-whistleblower-alleges-senior-military-officials-ignored-warnings-ahead-of-deadly-attack-in-kuwait_4faa9b",
+    "article_url": "https://ground.news/article/army-whistleblower-alleges-senior-military-officials-ignored-warnings-ahead-of-deadly-attack-in-kuwait_4faa9b",
+    "bias": [
+      "Left-Leaning coverage frames the Kuwait strike as institutional negligence, using “tactical failure,” “brushed off warnings,” and “deadly” to foreground accountability and contrast Ramsbottom’s assessment with Hegseth’s description of a “fortified” site.",
+      "Center coverage similarly stresses “ignored warnings” and a “deadly miscalculation,” but pivots to allegedly rejected Ukrainian interceptor-drone technology, presenting a specific preventable alternative.",
+      "Right-Leaning coverage narrows the issue to the Army’s failure to provide “adequate protection,” while emphasizing the whistleblower complaint, Ramsbottom’s affiliation, and the facility’s proximity—about 65 miles—to Iran.",
+      "All highlight six deaths, alleged defensive shortcomings, and national-security stakes, reflecting broader divides over institutional trust, military competence, and Iran’s threat."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 44.0,
+    "error": null,
+    "left_pct": 38.0,
+    "location": "United States",
+    "right_pct": 18.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, Maj. Stephen Ramsbottom filed a whistleblower complaint alleging the Army ignored warnings about inadequate defenses at Port Shuaiba, Kuwait, where an Iranian drone strike killed six U.S. soldiers on March 1, 2026.",
+      "Ramsbottom alleged the command post lacked dedicated anti-drone protection, a physician, and a fixed aid station, with only one ambulance available during the attack.",
+      "Defense Secretary Pete Hegseth previously insisted troops were \"well-protected,\" describing the drone as a \"squirter\" that slipped through defenses at a facility he claimed was \"fortified.\"",
+      "Sen. Richard Blumenthal demanded Hegseth provide \"All force protection assessments\" and appear at a classified briefing, stating \"The families of the six fallen servicemembers, the wounded survivors, and the American people deserve transparency and accountability.\"",
+      "Democrats have signaled they will probe the administration's handling of the war with Iran next year, as senior officers reported warnings about Iranian Shaheds were repeatedly ignored by Pentagon leadership."
+    ],
+    "title": "Army soldier files whistleblower complaint against the Pentagon over Iranian strike that killed 6 US service members",
+    "topic": "Iran Politics",
+    "topic_full": "Iran Politics · United States"
+  },
+  {
+    "article_path": "/article/school-districts-have-fewer-students-but-some-are-delaying-painful-budget-decisions",
+    "article_url": "https://ground.news/article/school-districts-have-fewer-students-but-some-are-delaying-painful-budget-decisions",
+    "bias": [
+      "Left-Leaning coverage foregrounds the human and political costs of “painful budget decisions,” portraying Seattle ’s “recurring budget crisis” as an unresolved mismatch between enrollment and school capacity; center coverage widens the lens, invoking a “stark warning,” “fierce neighborhood outcry,” nearly a dozen possible closures, a national enrollment trend, and a Stanford study whose findings are not provided.",
+      "Right-Leaning coverage largely de-emphasizes distinct ideological interpretation, offering no clear policy assertion beyond fiscal pressure and resistance to closures.",
+      "Across perspectives, declining enrollment, auditor recommendations, recurring budget strain, and community resistance—including the 2024 reversal—remain shared ground, exposing tensions between fiscal discipline and protecting local institutions."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 29.0,
+    "error": null,
+    "left_pct": 55.0,
+    "location": "Seattle",
+    "right_pct": 16.0,
+    "status": "ok",
+    "summary": [
+      "Public school enrollment has plummeted by more than 1.4 million students since the pandemic, leaving districts nationwide struggling to downsize and confront painful structural deficits. Federal pandemic relief funds have been exhausted.",
+      "Nearly four decades ago, Seattle Public Schools auditors urged closing campuses to avert budget crises, but neighborhood outcry halted the recommendations. History repeated in 2024 when the district scrapped plans to shutter up to a fifth of schools.",
+      "San Francisco faces similar pressures, with enrollment falling 10% since 2019 and a $100 million-plus deficit prompting a late 2024 closure proposal. A new $183 million contract with United Educators of San Francisco was reached, though a $26 million deficit remains projected.",
+      "Employee pay and benefits account for roughly 80% of district budgets, making school closures yield only modest relief. State takeovers of districts have risen to at least 21 since 2023, according to Chalkbeat, limiting local flexibility.",
+      "Despite empty desks nationwide, teacher headcounts have grown by 1% since the pandemic. Stanford researcher Thomas Dee said districts have been \"playing Hamlet\" on downsizing, while structural deficits persist and students risk academic setbacks."
+    ],
+    "title": "U.S. School Districts Face Enrollment Declines and Budget Deficits",
+    "topic": "US Politics",
+    "topic_full": "US Politics · Seattle"
+  },
+  {
+    "article_path": "/article/exclusive-trump-administration-weighs-forcing-us-firms-to-disclose-chinese-ai-use",
+    "article_url": "https://ground.news/article/exclusive-trump-administration-weighs-forcing-us-firms-to-disclose-chinese-ai-use",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 62.0,
+    "error": null,
+    "left_pct": null,
+    "location": "United States",
+    "right_pct": 38.0,
+    "status": "no_change",
+    "summary": [
+      "The Trump administration is considering requiring US companies to publicly disclose their use of Chinese AI models, aiming to discourage reliance on the technology without imposing new restrictions that could anger industry or Beijing.",
+      "Chinese-Made open-weight models are gaining ground with American companies because they are cheaper than proprietary tools from labs like OpenAI, while officials worry Beijing is using these models to make US firms dependent.",
+      "Representatives Andrew Garbarino of New York and John Moolenaar of Michigan launched an investigation into American companies' use of Chinese AI this year, sending letters to Airbnb and Anysphere; US government websites have deployed Alibaba models despite FBI warnings.",
+      "Officials are looking at ways to discourage use of Chinese AI through a \"name and shame\" campaign while maintaining a broader anti-regulation stance on AI development.",
+      "Treasury Secretary Scott Bessent said in July the administration could sanction Chinese AI companies for intellectual property theft, echoing OSTP director Michael Kratsios's April accusation that China stole US artificial intelligence labs' intellectual property on an \"industrial scale."
+    ],
+    "title": "Trump administration weighs forcing US firms to disclose Chinese AI use",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/us-prosecutors-make-final-case-against-huawei-in-theft-fraud-trial_7e8288",
+    "article_url": "https://ground.news/article/us-prosecutors-make-final-case-against-huawei-in-theft-fraud-trial_7e8288",
+    "bias": [
+      "Left-Leaning coverage foregrounds prosecutors casting Huawei as a “villain,” while noting the defense’s disagreement; right-leaning coverage narrows attention to allegations that leaders “lied” and “broke the law,” without reporting Huawei’s response.",
+      "The center accounts supply more legal context—12 remaining counts, trade-secret theft, alleged Iranian surveillance, employee bonuses, and claims of “crime after crime”—alongside the defense’s “false narrative” argument.",
+      "These word choices shift the emotional focus from courtroom characterization to dishonesty and lawbreaking, while the shared emphasis is a nearly concluded U.S. criminal trial involving serious allegations, reflecting contrasting priorities in portraying corporate misconduct and accountability."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 34.0,
+    "error": null,
+    "left_pct": 40.0,
+    "location": "New York",
+    "right_pct": 26.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, U.S. prosecutors concluded closing arguments in the criminal trial of Huawei Technologies in New York, alleging the firm used widespread \"theft, lies cover-ups\" to build its global empire.",
+      "Assistant U.S. Attorney Meredith Arfa argued Huawei spent 20 years encouraging a workforce of over 200,000 across 170 countries to steal trade secrets, alleging the company provided equipment to Iran for surveillance.",
+      "Defense attorney Brian Heberlig countered that prosecutors \"decided Huawei was a criminal enterprise\" and built a case from that premise, claiming the government focused on isolated incidents rather than proving conspiracy.",
+      "The jury is expected to begin deliberations Wednesday following the two-month-long trial, weighing 12 remaining criminal counts including conspiracy to steal trade secrets and bank fraud.",
+      "Chinese officials condemned the U.S. for \"economic bullying\" and using national security as a pretext for oppressing Chinese companies, while Huawei has expanded into chipmaking amid broader geopolitical tensions."
+    ],
+    "title": "US prosecutors make final case against Huawei in theft, fraud trial",
+    "topic": "Huawei",
+    "topic_full": "Huawei · New York"
+  },
+  {
+    "article_path": "/article/paris-hilton-and-victims-of-sexually-explicit-deepfakes-push-for-house-to-pass-bill",
+    "article_url": "https://ground.news/article/paris-hilton-and-victims-of-sexually-explicit-deepfakes-push-for-house-to-pass-bill",
+    "bias": [
+      "Left-Leaning coverage frames the DEFIANCE Act as a morally urgent, bipartisan defense of women and girls, using language like “fight,” “push,” and “no more worthy cause,” while elevating Hilton and AOC as advocates against continuing abuse.",
+      "Right-Leaning coverage stresses “justice,” survivors’ “right to sue,” Hilton’s personal exploitation history, and the “unlikely allies” of AOC and Republican Laurel Lee, sometimes adding skepticism through “hopeful” and emphasizing the bill’s stalled House status.",
+      "Center coverage de-emphasizes partisan drama, foregrounding Senate passage and procedural delay.",
+      "All perspectives highlight nonconsensual sexual deepfakes , victims, bipartisan cooperation, and congressional action, but their framing reflects wider divides over moral urgency, individual legal remedies, and political alliance."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 40.0,
+    "error": null,
+    "left_pct": 23.0,
+    "location": "United States",
+    "right_pct": 37.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, Paris Hilton returned to Capitol Hill to renew pressure on House lawmakers to pass the stalled DEFIANCE Act, joined by Democratic Rep. Alexandria Ocasio-Cortez and Republican Rep. Laurel Lee.",
+      "\"For 10 months, this critical legislation has sat untouched,\" Rep. Ocasio-Cortez said, noting the bill passed the Senate unanimously twice during 2024 and earlier this year.",
+      "New findings reveal that 50 million people have been victimized by explicit deepfakes, including 83 of the 156 women currently serving in the 119th Congress, Hilton reported.",
+      "Appealing to House leadership, Hilton issued a direct plea to House Speaker Mike Johnson, Majority Leader Steve Scalise, and House Judiciary Chairman Jim Jordan for a floor vote.",
+      "The bill builds on the Take It Down Act, championed by former first lady Melania Trump, while advocates remain \"very optimistic\" about President Trump and the White House's openness to the legislation."
+    ],
+    "title": "Paris Hilton and victims of sexually explicit deepfakes push for House to pass bill",
+    "topic": "Paris Hilton",
+    "topic_full": "Paris Hilton · United States"
+  },
+  {
+    "article_path": "/article/israeli-military-begins-a-new-thrust-in-gaza-witnesses-say",
+    "article_url": "https://ground.news/article/israeli-military-begins-a-new-thrust-in-gaza-witnesses-say",
+    "bias": [
+      "Left-Leaning coverage frames the central-Gaza operation as Israeli “aggression,” an “assault” on residential areas and a ceasefire violation, foregrounding “martyrs,” civilian casualties, and families fleeing.",
+      "Right-Leaning accounts emphasize an “operation” against Hamas infrastructure in Hamas-controlled territory, highlighting military objectives and a reported fighter hit while de-emphasizing civilian harm; even “offensive” signals battlefield momentum.",
+      "Center coverage moderates these poles through “incursion,” geography, evacuation warnings, and casualty distinctions.",
+      "The pivotal divide is whether crossing the Yellow Line represents unlawful occupation or security action.",
+      "All perspectives acknowledge Israeli movement, Palestinian deaths, Hamas-related targeting, and ceasefire context, reflecting broader disputes over sovereignty, proportionality, and civilian protection."
+    ],
+    "bias_bar_text": "Left 25% Center 29% Right 46%",
+    "center_pct": 29.0,
+    "error": null,
+    "left_pct": 25.0,
+    "location": null,
+    "right_pct": 46.0,
+    "status": "ok",
+    "summary": [
+      "On Nov 18, Israeli tanks advanced in the central Gaza Strip, with witnesses reporting movement onto the Salahudeen road west of the Yellow Line targeting \"Hamas infrastructure.\"",
+      "Israel says Hamas has recently been regrouping and rearming, prompting stepped-up attacks despite an Oct 2025 ceasefire that halted major fighting but failed to secure the Islamist group's disarmament.",
+      "Separate Israeli air strikes killed two people in Deir al-Balah and Gaza City earlier on Nov 18, while an air strike near the army raid killed another, Palestinian medics said.",
+      "Hamas has accused Israel of attempting to derail the US-brokered ceasefire agreement; Gaza health authorities report at least 1,600 Palestinians killed since the ceasefire while the Israeli military reports 5 Israeli soldiers killed.",
+      "Palestinian authorities say more than 74,000 people have been killed in the military campaign Israel launched after Hamas-led fighters killed about 1,200 people in southern Israel on Oct 7, 2023."
+    ],
+    "title": "Israeli military begins a new thrust in Gaza, witnesses say",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/suspicion-of-a-terrorist-attack-in-the-jericho-area-wounded",
+    "article_url": "https://ground.news/article/suspicion-of-a-terrorist-attack-in-the-jericho-area-wounded",
+    "bias": [
+      "Left-Leaning coverage frames the incident as a Palestinian “response” to “settler attacks,” emphasizing “defend their land” and warnings of “displacement” and property seizure; right-leaning coverage portrays an “attempted terrorist attack ,” labels perpetrators “terrorists,” highlights Israelis’ defensive gunfire, troop deployment, roadblocks, and possible casualties.",
+      "The pivotal divide is whether the same violence signifies resistance to settlement pressure or an assault on Israeli security, with “terror” and “attack” intensifying the right’s threat-focused tone while the left foregrounds grievance and legitimacy.",
+      "Center coverage, where present, de-emphasizes these interpretations, stressing a “reported attempted attack” under investigation.",
+      "All perspectives recognize an unsettled Israeli-Palestinian confrontation involving Israelis and Palestinians, reflecting wider geopolitical and territorial divides."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "Overnight from Monday into Tuesday, two Israeli civilians were injured near Jericho in a vehicle-ramming attack and assault. The IDF Spokesperson confirmed terrorists rammed their vehicle into an Israeli car and attacked the occupants with weapons.",
+      "The attack occurred in a sensitive friction zone near Jericho, where Jewish families moved into houses in the village of Ein Duyuk al-Tahta earlier this month. This area is under the jurisdiction of the Binyamin Regional Council and adjacent to the Hasmonean Palaces.",
+      "While the two Israeli civilians were lightly wounded, Palestinian reports indicate a woman was shot dead during the incident. Forces dispatched to the scene have set up roadblocks, and the IDF is investigating the circumstances.",
+      "Yisrael Gantz, head of the Binyamin Regional Council, condemned the incident, stating, \"Terrorists tried to murder Israelis tonight.\" He praised the security Forces for their swift action and reiterated support for settlement efforts.",
+      "Gantz has characterized these settlement activities as an effort to reverse the Oslo Accords, which handed Jericho to the Palestinian Authority. Organizers seek to change the reality established by political agreements in recent decades through their continued presence."
+    ],
+    "title": "Israeli Military Says It Is Investigating Reported Attempted Attack in Jericho",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/jensen-huang-has-agreed-to-appear-before-senate-banking-committee-chairman-scott-says",
+    "article_url": "https://ground.news/article/jensen-huang-has-agreed-to-appear-before-senate-banking-committee-chairman-scott-says",
+    "bias": [
+      "Coverage splits over what Huang’s Senate appearance means: the left-identified item uses neutral, procedural language—“testify” in an open hearing—and de-emphasizes committee, China, and political context.",
+      "Center reports add Tim Scott’s Banking Committee, intensified scrutiny, Huang’s earlier refusal of Senator Warren’s invitation, and possible House testimony, while describing “ramped up scrutiny” and national-security concerns.",
+      "Right-Oriented coverage sharpens the stakes with allegations of Chinese influence, advanced-chip access, and possible misconduct, using charged phrases such as “disgraced” and “China Trail,” though these remain allegations rather than established findings.",
+      "All agree Huang will appear; the divide reflects routine oversight versus scandal and geopolitical risk."
+    ],
+    "bias_bar_text": "L 17% Center 58% Right 25%",
+    "center_pct": 58.0,
+    "error": null,
+    "left_pct": 17.0,
+    "location": null,
+    "right_pct": 25.0,
+    "status": "ok",
+    "summary": [
+      "Former Nvidia CEO Jensen Huang agreed to testify before the Senate Banking Committee on December 3, marking his first public testimony before Congress.",
+      "Huang resigned last Thursday following revelations of an affair with Alice Huang, an executive at Megaspeed, amid reports that the relationship compromised sensitive semiconductor technology to China.",
+      "Nvidia Chairman Harvey Jones confirmed the board unanimously accepted Huang's resignation and rejected his return, as Chief Financial Officer Colette Kress serves as interim head during the successor search.",
+      "Despite public support from President Trump and Tesla CEO Elon Musk, the board maintains its decision to separate from Huang after he admitted to being \"unfaithful\" to his wife of 41 years.",
+      "Senate Banking Committee Chair Tim Scott seeks to determine if proprietary AI chips were compromised, while House committees conduct a separate investigation into the matter."
+    ],
+    "title": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/carney-says-canadas-growing-trade-ties-with-china-are-not-a-top-concern-for-trump",
+    "article_url": "https://ground.news/article/carney-says-canadas-growing-trade-ties-with-china-are-not-a-top-concern-for-trump",
+    "bias": [
+      "Left-Leaning coverage emphasizes that Canada’s growing commodity trade with China is “not a top concern” for Trump, contrasting relatively manageable Beijing ties with “much more complex” Canada-U.S. “trade war negotiations.” Right-leaning framing pivots to a customs “dispute,” tariffs, and Carney “defends” trade with Beijing, implying justification is necessary, while a positive “good talk” softens the confrontation.",
+      "Center coverage adds logistical and institutional detail—Shenzhen, APEC , a roughly 20-minute meeting, and participating officials—without intensifying either narrative.",
+      "All perspectives acknowledge Carney’s claim, the commodity-versus-semiconductor distinction, and the meeting, reflecting shared interest in trade while diverging over China’s strategic meaning and U.S. tariff pressure."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "On Nov 18, Canadian Prime Minister Mark Carney said at the APEC summit in Shenzhen that Canada's trade with China is not a top priority for President Donald Trump , noting Canada primarily exports commodities rather than sensitive technologies.",
+      "Peter Navarro criticized Carney after the Canadian leader suggested Canada could turn to Chinese automakers if trade negotiations with Washington fail to preserve an integrated North American auto industry.",
+      "On Tuesday, Carney met with Chinese President Jinping and both agreed on $280 million in tariff relief for Canadian exports, while Canada extended exemptions for Chinese steel and aluminum for two years.",
+      "Trade negotiations with the United States remain Canada's priority, though tensions persist after Washington imposed 50% tariffs on about $20 billion in Canadian goods, prompting retaliation from Ottawa.",
+      "Later on Nov 18, Carney will meet with Trump in Shenzhen to discuss bilateral trade, aiming to secure a deal \"that is in the interest of Canadians."
+    ],
+    "title": "Carney says Canada’s growing trade ties with China are not a top concern for Trump",
+    "topic": null,
+    "topic_full": null
   }
 ]
