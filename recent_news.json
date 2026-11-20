@@ -1,49 +1,75 @@
 [
   {
-    "article_path": "/article/b76dffa1-fa2f-48fb-a035-4f2cb25616a9",
-    "article_url": "https://ground.news/article/b76dffa1-fa2f-48fb-a035-4f2cb25616a9",
-    "bias": null,
+    "article_path": "/article/fiona-cincinnatis-miracle-hippo-dies-at-9",
+    "article_url": "https://ground.news/article/fiona-cincinnatis-miracle-hippo-dies-at-9",
+    "bias": [
+      "Left-Leaning coverage frames Fiona’s death as an 11-day medical crisis, stressing “world famous” status and around-the-clock care, while right-leaning coverage de-emphasizes treatment and biography, foregrounding the zoo ’s announcement and the hat’s ingestion in a terse cause-and-effect frame.",
+      "Center coverage adds emotional and historical texture—“miracle hippo,” “beloved,” premature birth, age nine, and repeated veterinary efforts—while explaining how the hat entered the habitat.",
+      "The dividing line is whether the story signifies prolonged caregiving and public loss or simply an unusual incident.",
+      "All perspectives converge on Fiona’s death, the hat, and the zoo’s account; left and center also emphasize intensive care."
+    ],
     "bias_bar_text": null,
     "center_pct": null,
     "error": null,
     "left_pct": null,
     "location": null,
     "right_pct": null,
-    "status": "no_change",
+    "status": "ok",
     "summary": [
-      "Anthropic priced its initial public offering at $83 per share on Wednesday evening—exceeding its previously marketed $70 to $78 range—as its shares prepare to begin trading today on the Nasdaq Global Select Market under the ticker symbol \"ANT\".",
-      "By selling 980 million shares at $83 apiece, the offering raises approximately $81.34 billion, officially surpassing SpaceX’s $75 billion initial debut from June to become the largest initial public offering on record.",
-      "The final pricing gives the Claude maker a fully diluted market valuation of roughly $1.5 trillion, positioning it among the world's most valuable public companies ahead of its opening bell.",
-      "Combined with a separate $26 billion private placement from major technology backers—including Google, Microsoft, Nvidia, and AMD—Anthropic's total capitalization around the listing exceeds $105 billion before fees.",
-      "The record-breaking debut lands during a volatile stretch for technology equities, serving as a critical test of institutional appetite for pure-play artificial intelligence stocks amid heightened scrutiny over massive data center capital expenditures."
+      "On Thursday, the Cincinnati Zoo announced that Fiona, a beloved Nile hippopotamus, died after ingesting a visitor's knit cap that accidentally entered her habitat.",
+      "The incident occurred approximately 11 days ago when a visitor tossed a hat caught by a ceiling fan, propelling it through a narrow gap into the Hippo Cove enclosure where Fiona ate it.",
+      "Veterinarians provided 24-hour care using medication and a nine-foot scope, but the 2,400-pound hippo was too large for surgery; her complex digestive system made removing the obstruction extremely difficult.",
+      "Zoo spokesperson Michelle Curley confirmed that despite multiple attempts by the dedicated care team, Fiona could not overcome the medical emergency and did not recover.",
+      "Fiona gained international fame as a premature birth survivor and remained a beloved symbol of Cincinnati, survived by her mother, Bibi, and half-brother, Fritz, at the zoo."
     ],
     "title": "Source Icon",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/trump-xi-and-putin-pledge-un-reforms-increased-fuel-supplies-and-nuclear-dialogue-at-historic-meeting_88839a",
-    "article_url": "https://ground.news/article/trump-xi-and-putin-pledge-un-reforms-increased-fuel-supplies-and-nuclear-dialogue-at-historic-meeting_88839a",
+    "article_path": "/article/anthropic-hits-2-trillion-valuation-as-shares-begin-trading-on-nasdaq_759ccb",
+    "article_url": "https://ground.news/article/anthropic-hits-2-trillion-valuation-as-shares-begin-trading-on-nasdaq_759ccb",
     "bias": [
-      "Left-Leaning coverage frames the Shenzhen summit as “historic” but “optical” and “platitude-rich,” stressing its 80–90-minute duration, vague declaration, absent Ukraine, and no concrete nuclear reductions or energy targets.",
-      "Right-Leaning coverage celebrates Trump “making history,” foregrounding leadership, great-power cooperation, nuclear deterrence, UN reform, and opposition to “rogue globalist organisations” such as the ICC.",
-      "The pivotal divide is whether the communiqué signals strategic breakthrough or propaganda, and whether ICC limits protect sovereignty or weaken accountability.",
-      "Center coverage presents a possible “photo op,” balancing energy and nuclear dialogue against unresolved conflicts.",
-      "All emphasize unprecedented diplomacy , peace language, and geopolitical stakes, reflecting broader disputes over nationalism, institutions, and great-power order."
+      "Left-Leaning coverage pairs the record-setting IPO with warnings about an “AI bubble,” “systemic risks,” job and safety threats, and possible retreat from ethical commitments, portraying the $2 trillion valuation and 34% opening surge as potential overreach.",
+      "Right-Leaning coverage emphasizes a “stunning debut,” “whopping” valuation, investor confidence, and wealth for founders and employees, while de-emphasizing the later decline and governance concerns.",
+      "Center coverage treats the offering as a “barometer” of AI appetite, stressing costs, competition, and volatility.",
+      "All highlight the $111.50 opening and historic scale, but diverge over whether it signals progress, peril, or uncertain market exuberance."
     ],
-    "bias_bar_text": "Left 29% Center 41% Right 30%",
-    "center_pct": 41.0,
+    "bias_bar_text": null,
+    "center_pct": 37.0,
+    "error": null,
+    "left_pct": 36.0,
+    "location": null,
+    "right_pct": 27.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, AI giant Anthropic begins trading on the Nasdaq under the ticker ANT, pricing at $83 per share with a valuation above $1.5 trillion.",
+      "Surpassing the $75 billion raised by SpaceX, Anthropic raised a record $81.3 billion for its IPO, setting the stage for this week's high-profile public debut.",
+      "With 14% of its assets tied to Anthropic, the Destiny Tech100 fund saw options volume jump to more than 10x the 30-day average Monday as traders positioned for the IPO.",
+      "Sen. Elizabeth Warren warned Wednesday that the IPO brings systemic risks, while Sen. Chris Van Hollen called the development \"extremely dangerous for humanity\" requiring urgent accountability.",
+      "Evan LeFlore, director of AI, innovation, and economic opportunity at Better Markets, warned that \"anyone holding a broad index fund will likely own this company,\" citing circular industry demand financed substantially by debt."
+    ],
+    "title": "Anthropic hits $2 trillion valuation as shares begin trading on Nasdaq",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/2f730f2d-3519-4f21-b98c-2c23197128a5",
+    "article_url": "https://ground.news/article/2f730f2d-3519-4f21-b98c-2c23197128a5",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 43.0,
     "error": null,
     "left_pct": 29.0,
     "location": null,
-    "right_pct": 30.0,
-    "status": "ok",
+    "right_pct": 28.0,
+    "status": "no_change",
     "summary": [
-      "On Thursday, Donald Trump, Xi Jinping , and Vladimir Putin concluded a 90-minute trilateral summit in Shenzhen, releasing a joint four-point statement on United Nations reform, refined petroleum supplies, state-official immunity, and nuclear dialogue.",
-      "Comparisons to the 1945 Yalta Conference surfaced, where Allied leaders reshaped the post-Second World War order; ahead of the talks, an official warned against a \"redistribution of influence\" among the three powers.",
-      "Leaders committed to United Nations reform and pledged to increase refined petroleum production while \"engaging in dialogue\" on nuclear risks; they also affirmed \"respect for the immunity of state officials\" against International Criminal Court overreach.",
-      "Chinese officials blocked a reporter from the trilateral opening after a question about Nvidia CEO Jensen Huang; footage captured Putin telling Xi that \"I don't think anyone even expected things to go so well.\"",
-      "Asia correspondent Helen-Ann Smith notes the talks are \"unlikely\" to have secured major breakthroughs, despite \"historic significance\" emphasized by leaders; the meeting raised concerns for Kyiv and Taipei over the shifting geopolitical landscape."
+      "On Thursday, November 19, U.S. President Donald Trump, Chinese President Xi Jinping , and Russian President Vladimir Putin convened in Shenzhen for their first-ever trilateral summit, marking an unprecedented gathering of the world's three largest nuclear powers.",
+      "Held on the sidelines of the Asia-Pacific Economic Cooperation summit, the closed-door discussions at Kylin Villa lasted about 80 minutes as the leaders exchanged views on international stability and strategic challenges.",
+      "The leaders issued a four-point \"Declaration toward Peace,\" asserting that the International Criminal Court \"must not abuse jurisdiction\"—a stance of particular significance for leaders facing international legal scrutiny.",
+      "China, Russia, and the U.S. pledged that a nuclear war \"cannot be won and must never be fought,\" committing to dialogue on reducing nuclear risks and preventing proliferation among the world's nuclear powers.",
+      "Despite the summit's historic nature, experts anticipated no major breakthroughs, with the three powers remaining divided on unresolved conflicts including the war in Ukraine and broader questions of spheres of influence."
     ],
     "title": "Trump, Xi and Putin Pledge UN Reforms, Increased Fuel Supplies and Nuclear Dialogue at Historic Meeting",
     "topic": null,
@@ -57,11 +83,11 @@
       "The 251–11 tally becomes overwhelming support on one side, decisive factional defeat on the other, while center coverage emphasizes procedure, the January floor vote, and a “restive party.” All acknowledge Jeffries’s nomination, pending election, and likely first Black speakership, but their dividing line is whether internal dissent signals reformist pressure or ideological extremism."
     ],
     "bias_bar_text": null,
-    "center_pct": 47.0,
+    "center_pct": 46.0,
     "error": null,
     "left_pct": 33.0,
-    "location": "United States",
-    "right_pct": 20.0,
+    "location": null,
+    "right_pct": 21.0,
     "status": "ok",
     "summary": [
       "On Wednesday, November 18, House Minority Leader Hakeem Jeffries secured the Democratic nomination for speaker in a 251-11 closed-door vote, positioning him to become the first Black speaker of the House.",
@@ -71,713 +97,732 @@
       "With Democrats poised to hold one of the largest majorities in decades, the party plans to prioritize an affordable America agenda while preparing to investigate the administration of President Donald Trump."
     ],
     "title": "Democrats formally nominate Rep. Hakeem Jeffries, paving way for him to be the first Black speaker",
-    "topic": "Democratic Party",
-    "topic_full": "Democratic Party · United States"
+    "topic": null,
+    "topic_full": null
   },
   {
-    "article_path": "/article/8ec3c600-ec3f-48a6-a1a0-91600361bcb6",
-    "article_url": "https://ground.news/article/8ec3c600-ec3f-48a6-a1a0-91600361bcb6",
-    "bias": null,
+    "article_path": "/article/trump-lands-in-china-for-historic-meeting-with-xi-putin_73bacd",
+    "article_url": "https://ground.news/article/trump-lands-in-china-for-historic-meeting-with-xi-putin_73bacd",
+    "bias": [
+      "Left-Leaning coverage frames the summit as risky power politics , using terms like “war criminal,” “dictators,” and “devastating electoral defeat” to condemn Trump’s handshake with Putin and stress Ukraine and Europe’s exclusion.",
+      "Right-Leaning coverage instead portrays Xi’s “red-carpet welcome” and “breaks protocol” gesture as proof of Trump’s stature, celebrating a “historic” challenge to Western dominance while treating criticism as distraction.",
+      "The dividing lines are whether the meeting signals diplomatic respect or great-power bargaining over others, and whether AI-chip controls constitute protectionism or security policy.",
+      "Center coverage deemphasizes partisan drama, emphasizing symbolism, uncertainty, and a broad agenda.",
+      "All acknowledge the unprecedented gathering, trade tensions, and its geopolitical stakes."
+    ],
     "bias_bar_text": null,
-    "center_pct": 34.0,
+    "center_pct": 33.0,
     "error": null,
-    "left_pct": 36.0,
-    "location": "China",
+    "left_pct": 37.0,
+    "location": null,
     "right_pct": 30.0,
-    "status": "no_change",
+    "status": "ok",
     "summary": [
-      "On Thursday, U.S. President Donald Trump, Chinese President Xi Jinping, and Russian President Vladimir Putin convened in Shenzhen for their first-ever trilateral summit, addressing nuclear arms, trade, and regional conflicts.",
-      "Xi greeted Trump at the airport with a hug, breaking diplomatic protocol, while Putin arrived separately; analysts characterize the summit as primarily symbolic with low expectations for substantive breakthroughs.",
-      "Discussions addressed nuclear security, Ukraine's war, and Iran, with Beijing maintaining that Washington and Moscow must reduce their arsenals before it agrees to cap its smaller stockpile of around 600 warheads.",
-      "European officials expressed alarm that regional security could be negotiated without their input, while technical outages at Microsoft and the Federal Aviation Administration undermined the administration's ability to project strength.",
-      "Trump and Xi plan to meet in December at the G20 Leaders' Summit in Miami, with analysts expecting Washington and Beijing to maintain relatively stable ties despite ongoing trade and technology tensions."
+      "On Thursday, November 19, 2026, U.S. President Donald Trump, Chinese President Xi Jinping, and Russian President Vladimir Putin convened for their first trilateral summit in Shenzhen, China, on the sidelines of the APEC gathering.",
+      "Xi personally welcomed Trump at the airport on Wednesday, breaking decades of diplomatic protocol with a rare hug; the summit addresses nuclear arms, Iran, and Ukraine amid low expectations for breakthroughs.",
+      "Putin condemned Western sanctions as \"instruments of economic dominance,\" while Xi called for \"free and open trade\" to ensure stability, positioning China as a partner in global technological development.",
+      "European officials fear regional security architecture could be negotiated without their input, while technical outages in the U.S. distract from President Trump's effort to project strength during the summit.",
+      "Analysts maintain low expectations for substantive nuclear arms control breakthroughs, though the three leaders may continue discussions during the G20 Leaders' Summit in Miami this December."
     ],
     "title": "Trump lands in China for historic meeting with Xi, Putin",
-    "topic": "Politics",
-    "topic_full": "Politics · China"
+    "topic": null,
+    "topic_full": null
   },
   {
-    "article_path": "/article/democrat-mary-peltola-wins-us-senate-race-in-alaska-beating-incumbent-republican-dan-sullivan_5f3baa",
-    "article_url": "https://ground.news/article/democrat-mary-peltola-wins-us-senate-race-in-alaska-beating-incumbent-republican-dan-sullivan_5f3baa",
-    "bias": [
-      "Left-Leaning coverage frames Mary Peltola’s roughly 50.1% victory as a “historic” Democratic breakthrough, “flipping” a traditionally Republican state, expanding the Senate to 56–44, and delivering a “stinging loss” to Republicans and Trump.",
-      "Right-Leaning coverage acknowledges the result but emphasizes the narrow margin, “decoy Dan,” and alleged “cheating scandal,” portraying the same-name candidate as possible vote manipulation or fraud.",
-      "Center coverage stresses ranked-choice rules, the 50% threshold, and cautious “allegations.” All perspectives recognize Peltola’s win, Alaska ’s political significance, and the same-name controversy, but their divergent tones reflect broader divides over representation, electoral legitimacy, and Democratic power."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 46.0,
+    "article_path": "/article/white-house-national-cyber-director-cairncross-to-leave-his-post-report_110c97",
+    "article_url": "https://ground.news/article/white-house-national-cyber-director-cairncross-to-leave-his-post-report_110c97",
+    "bias": null,
+    "bias_bar_text": "Left 25% Center 44% Right 31%",
+    "center_pct": 44.0,
     "error": null,
-    "left_pct": 31.0,
-    "location": "Alaska",
-    "right_pct": 23.0,
-    "status": "ok",
+    "left_pct": 25.0,
+    "location": null,
+    "right_pct": 31.0,
+    "status": "no_change",
     "summary": [
-      "On Tuesday, Nov. 17, Democrat Mary Peltola unseated two-term Republican Sen. Dan Sullivan, flipping Alaska's Senate seat to Democratic control for the first time in 18 years and marking the ninth seat Democrats flipped this midterm.",
-      "Allegations that Peltola's campaign recruited retired teacher Dan J. Sullivan as a spoiler candidate roiled the race, prompting Trump to order the Justice Department to sue to block certification if the incumbent lost.",
-      "Peltola secured 50% of first-choice votes, rendering ranked-choice tabulation unnecessary; a federal judge dismissed the Justice Department's lawsuit on Nov. 1, ruling such action would \"clearly violate\" voters' ballot secrecy rights.",
-      "With 56 seats, Democrats hold their largest Senate majority in 16 years when the new Congress convenes, surpassing the 53-47 margin Republicans held before the midterms and completing a nine-seat wave.",
-      "Peltola will become the first Alaska Native elected to the U.S. Senate , sharing this historic milestone with Minnesota Democratic Sen.-elect Peggy Flanagan, marking a breakthrough for Indigenous representation in Congress."
+      "On Thursday, White House National Cyber Director Sean Cairncross resigned from his post amid a week of devastating outages across the country that disrupted banking and airline operations.",
+      "The spate of outages began last week when Microsoft Outlook experienced a day-long shutdown, followed the next day by a national ground stop from the Federal Aviation Administration, only the second since 9/11.",
+      "Chase officials revealed that 'customer names and email addresses' may have been stolen during a cyberattack, while credit card giants Visa and Mastercard were also impacted by the same breach orchestrated by a ransomware group claiming 'tens of thousands' of customer records.",
+      "Trump Administration officials claimed outages stemmed from AI-driven software patching, yet cybersecurity expert James Knight maintained the pattern of disruptions was too suspicious to be mere software errors.",
+      "Cairncross, who previously led the Milenium Challenge Corporation, is departing now to give the White House time to secure Senate confirmation before Democrats take control of Congress in January."
     ],
-    "title": "Democrat Mary Peltola wins US Senate race in Alaska, beating incumbent Republican Dan Sullivan",
-    "topic": "2026 Midterm Elections",
-    "topic_full": "2026 Midterm Elections · Alaska"
+    "title": "White House National Cyber Director Cairncross to Leave His Post: Report",
+    "topic": null,
+    "topic_full": null
   },
   {
-    "article_path": "/article/white-house-withdraws-heidi-overtons-fda-nomination-after-trump-pick-received-bipartisan-pushback_7b4ae3",
-    "article_url": "https://ground.news/article/white-house-withdraws-heidi-overtons-fda-nomination-after-trump-pick-received-bipartisan-pushback_7b4ae3",
+    "article_path": "/article/melania-trump-gives-a-peek-inside-her-marriage-motherhood-and-more-in-new-series-wtop-news",
+    "article_url": "https://ground.news/article/melania-trump-gives-a-peek-inside-her-marriage-motherhood-and-more-in-new-series-wtop-news",
+    "bias": null,
+    "bias_bar_text": "Left 51% Center 29% R 20%",
+    "center_pct": 29.0,
+    "error": null,
+    "left_pct": 51.0,
+    "location": null,
+    "right_pct": 20.0,
+    "status": "no_change",
+    "summary": [
+      "On Thursday, Nov. 19, First Lady Melania Trump arrived at Lincoln Center in New York City for the premiere of \"Melania: The Series,\" a two-part docuseries debuting on Amazon Prime Video on Friday, Nov. 20.",
+      "Directed by Brett Ratner, the series traces Melania's humble beginnings in Slovenia through her life in the White House, with the first lady stating, \"It's the first time I was involved from the idea till the end.\"",
+      "Melania discussed their 20-year-old son, Barron Trump, describing him as \"very strong\" because \"he grew up very fast\" in the spotlight, and noted his encouragement of the president's social media campaign efforts.",
+      "Amazon purchased the series and accompanying film for $40 million, while President Donald Trump missed the event due to travel; guests at Alice Tully Hall included former Attorney General Pam Bondi and senior adviser Kellyanne Conway.",
+      "The series arrives less than a year after the \"Melania\" film, which documented the first lady's transition to the White House, following her memoir published in October 2024."
+    ],
+    "title": "Melania Trump gives a peek inside her marriage, motherhood and more in new series – WTOP News",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/house-democrat-investigates-government-agencies-use-of-messaging-apps-to-discuss-official-business-wtop-news",
+    "article_url": "https://ground.news/article/house-democrat-investigates-government-agencies-use-of-messaging-apps-to-discuss-official-business-wtop-news",
     "bias": [
-      "Left-Leaning coverage frames Overton’s withdrawal as a White House retreat, using terms like “pulled,” “dropped,” “controversial,” and “bipartisan backlash,” while emphasizing abortion concerns, “vaccine skepticism,” reproductive-rights opposition, and the FDA’s vacancy.",
-      "Right-Leaning coverage portrays Republican senators as having “derailed” Trump’s nominee, stresses her independence from Trump, and recalls his “ROCKSTAR” praise while mentioning possible replacements.",
-      "Center coverage de-emphasizes partisan drama, focusing on insufficient votes and the impending committee vote.",
-      "All perspectives agree the nomination collapsed amid Senate uncertainty, but their emphasis reflects broader divides over public health, abortion, presidential loyalty, and Republican coalition politics ."
+      "Left-Leaning coverage casts the dispute in urgent, accusatory terms, spotlighting Signal, disappearing messages, possible illegal deletion, and phrases such as “openly flouting” the law; it even cites alleged exchanges involving an FBI lawyer and a Donald Trump Jr. associate.",
+      "Center coverage shifts toward preservation duties and possible “circumventing” of record-keeping requirements, while stopping short of treating violations as established.",
+      "Right-Leaning coverage is comparatively sparse and procedural, repeatedly framing Raskin as a “House Democrat” who “investigates,” de-emphasizing alleged misconduct.",
+      "Across perspectives, the shared focus is whether official communications on nongovernment apps must be preserved and whether transparency obligations were potentially bypassed."
     ],
     "bias_bar_text": null,
-    "center_pct": 60.0,
+    "center_pct": 68.0,
     "error": null,
-    "left_pct": 19.0,
+    "left_pct": 25.0,
     "location": "United States",
-    "right_pct": 21.0,
+    "right_pct": 7.0,
     "status": "ok",
     "summary": [
-      "On Tuesday, The White House withdrew Heidi Overton's nomination to lead the Food and Drug Administration after determining she lacked sufficient Senate support.",
-      "Her nomination faced bipartisan resistance in Congress, alongside criticism from Antiabortion forces and supporters of Health Secretary Robert Kennedy's Make America Healthy Again movement.",
-      "Previously expressing \"strong concerns,\" Republican Sen. Bill Cassidy of Louisiana, chairman of the Senate Health and Pensions Committee, called Overton's role \"almost disqualifying.\"",
-      "Officials stated the White House intends to \"go in a new direction at FDA \" while continuing to support Kennedy's health agenda, necessitating a new candidate search.",
-      "Since Marty Makary's resignation in May, the agency has operated under acting Commissioner Kyle Diamantas, leaving the administration to identify a replacement to lead the FDA."
+      "On Friday, Rep. Jamie Raskin , the incoming chairman of the House Judiciary Committee, demanded that federal agencies preserve communications on encrypted apps like Signal to prevent potential record destruction.",
+      "Raskin warned that President Donald Trump's administration may be using Signal's auto-delete features to circumvent record-keeping laws, alleging widespread \"destruction, mutilation, and concealment\" of government documents.",
+      "The Maryland Democrat cited an obtained Signal exchange between the FBI's top lawyer and an associate of Donald Trump Jr. that allegedly discussed an ongoing healthcare fraud investigation.",
+      "Raskin notified the FBI, the Justice Department, Homeland Security, the Bureau of Prisons, and Immigration and Customs Enforcement that agencies are legally required to preserve all records regarding official business.",
+      "The White House and the Pentagon previously dismissed concerns, claiming disgruntled former employees spread false claims about Signal, which is not authorized for sensitive or classified national defense information."
     ],
-    "title": "Trump’s pick Heidi Overton dropped as nominee for FDA commissioner",
+    "title": "House Democrat investigates government agencies’ use of messaging apps to discuss official business",
+    "topic": "Department of Justice",
+    "topic_full": "Department of Justice · United States"
+  },
+  {
+    "article_path": "/article/stacey-abrams-plans-to-refocus-her-fair-fight-voting-rights-group-on-threats-to-democracy",
+    "article_url": "https://ground.news/article/stacey-abrams-plans-to-refocus-her-fair-fight-voting-rights-group-on-threats-to-democracy",
+    "bias": [
+      "Left-Leaning coverage frames Abrams’s shift as an urgent defense of “voting rights” against “threats to democracy,” with “voter disenfranchisement” invoking alarm over democratic backsliding.",
+      "Right-Leaning coverage treats it more as a strategic organizational redirection, stressing that Abrams’s claims lack specifics and subtly inviting skepticism about the threats’ scale.",
+      "Center coverage stays closer to transition language, noting the winding down of voting operations and her “fundraising prowess.” The pivotal divide is whether the change represents necessary democratic protection or political repositioning; all perspectives agree on Abrams’s role, Fair Fight’s 2018 origins, and its broader new mission, reflecting wider disputes over election legitimacy and partisan power."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 42.0,
+    "error": null,
+    "left_pct": 32.0,
+    "location": "Georgia",
+    "right_pct": 26.0,
+    "status": "ok",
+    "summary": [
+      "Atlanta Democrat Stacey Abrams is winding down Fair Fight's voting-focused operations after eight years. The organization raised nearly $220 million from thousands of donors during that period.",
+      "Fair Fight helped establish permanent voter protection infrastructure within the Democratic Party . The organization now employs 22 people, down from a peak of 60 before financial troubles forced layoffs after the 2022 elections.",
+      "Abrams described the shift as a \"necessary evolution\" as President Donald Trump's second term enters its final two years. She plans to focus on shoring up democratic processes and confronting what she describes as authoritarian maneuvers.",
+      "Supporters stressed that donors and activists should not view Fair Fight's shift as a reason to let up on advocacy efforts. Allies like former Wisconsin Democratic Party chair Ben Wikler praised the organization's role in building voter protection infrastructure.",
+      "Abrams emphasized that voter suppression threats \"are not going to end with Donald Trumps exit.\" She intends to educate citizens on how state legislatures shape policy on budgets, healthcare, and education rather than focusing solely on ballot access."
+    ],
+    "title": "Stacey Abrams plans to refocus her Fair Fight voting rights group on threats to democracy",
+    "topic": "US Politics",
+    "topic_full": "US Politics · Georgia"
+  },
+  {
+    "article_path": "/article/anthropic-stock-falls-9-to-open-first-full-day-of-trading-amid-ai-sell-off",
+    "article_url": "https://ground.news/article/anthropic-stock-falls-9-to-open-first-full-day-of-trading-amid-ai-sell-off",
+    "bias": [
+      "Left-Leaning coverage frames Anthropic ’s post-IPO decline as evidence of systemic anxiety over “historic AI spending,” “uncertainty,” and a potentially “bruising” sell-off, pairing the “blockbuster” offering with warnings about speculative excess.",
+      "Right-Leaning coverage acknowledges the “record IPO” but emphasizes investors who “retreated,” a “sharp fall” of more than 9%, and likely pressure on major indexes—stressing weakened confidence in the AI investment thesis.",
+      "Center coverage moderates both narratives with precise figures: shares rose from $83 to $111.50 before closing at $97.17, while the Nasdaq fell over 1%.",
+      "All perspectives agree the debut failed to revive AI optimism, reflecting broader disputes over technology valuations, spending, and market sustainability."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 27.0,
+    "error": null,
+    "left_pct": 59.0,
+    "location": "United States",
+    "right_pct": 14.0,
+    "status": "ok",
+    "summary": [
+      "Anthropic shares tumbled on Friday, retreating 9% after a 17% surge during Thursday's blockbuster initial public offering, pressuring the Nasdaq Composite at the opening bell.",
+      "Raising $93.5 billion, the company completed the largest initial public offering on record, yielding a $1.7 trillion valuation and making Anthropic more valuable than Meta.",
+      "An increasingly \"hawkish\" Federal Reserve signaled aggressive rate hikes in October minutes, while investors worried about artificial intelligence data center spending sustainability amid rising rates.",
+      "Wall Street's \"fear gauge,\" the Vix index, hit 30—its highest level since the Iran war—as major AI-related stocks including Nvidia and AMD declined amid the sell-off.",
+      "Group chief executive of asset manager GAM Holding Albert Saporta warned the AI \"capex binge\" is unravelling, while chief investment officer at New Jersey-based Modera Wealth Management Gaurav Mallik called it \"a garden variety correction."
+    ],
+    "title": "Anthropic stock tumbles in first full day of trading amid AI sell-off",
+    "topic": "Anthropic",
+    "topic_full": "Anthropic · United States"
+  },
+  {
+    "article_path": "/article/outage-at-nsas-highly-classified-communications-network-has-been-resolved-cnn",
+    "article_url": "https://ground.news/article/outage-at-nsas-highly-classified-communications-network-has-been-resolved-cnn",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 90.0,
+    "error": null,
+    "left_pct": 10.0,
+    "location": "United States",
+    "right_pct": null,
+    "status": "no_change",
+    "summary": [
+      "On Friday, the National Security Agency resolved an outage of its internal communications network, known as NSANet, that locked large swaths of employees out of the system at its Maryland headquarters.",
+      "Multiple current officials confirmed the outage was not a cyberattack but instead stemmed from the NSA's handling of software updates for vulnerabilities in PHP, a programming language powering about 70% of websites worldwide.",
+      "Private researchers disclosed the vulnerabilities last month, with artificial intelligence tools aiding discovery; the NSA subsequently urged organizations to apply the necessary software patches.",
+      "The disruption lasted almost four days, locking employees out of classified email systems; however, several officials noted the agency's most sensitive intelligence gathering systems remained functional throughout.",
+      "Employees must follow staggered arrival times to prevent system overloading, with the expectation that the majority of staff will return to work by midday Friday as operations normalize."
+    ],
+    "title": "Outage at NSA’s highly classified communications network has been resolved: CNN",
     "topic": "US Politics",
     "topic_full": "US Politics · United States"
   },
   {
-    "article_path": "/article/skydance-to-fold-paramount-tv-studios-into-warner-bros-tv-under-channing-dungey-and-matt-thunell",
-    "article_url": "https://ground.news/article/skydance-to-fold-paramount-tv-studios-into-warner-bros-tv-under-channing-dungey-and-matt-thunell",
+    "article_path": "/article/florida-executes-convicted-killer-thomas-overton-in-record-breaking-20th-inmate-put-to-death-this-year",
+    "article_url": "https://ground.news/article/florida-executes-convicted-killer-thomas-overton-in-record-breaking-20th-inmate-put-to-death-this-year",
     "bias": [
-      "Coverage splits over meaning more than the deal itself: left-leaning framing calls it a “shakeup,” “collapsing” two “prominent” studios into a “mega-studio,” and warns of “extensive layoffs”—a possibility, not a confirmed outcome—while noting CBS Studios remains separate.",
-      "Center coverage stresses consolidated creative resources, operational support, and a “unified powerhouse” following Skydance’s major Warner Bros .",
-      "Discovery acquisition; the new Warner Bros.",
-      "Television Studios is slated for early 2027 or the following year under Channing Dungey and Matt Thunell.",
-      "Right-Leaning coverage largely de-emphasizes implications, using restrained language such as “single entity.” All acknowledge the planned combination, revealing a divide between disruption and consolidation."
+      "Left-Leaning coverage foregrounds Texas’s prolonged execution, with words such as “struggled,” “moaned,” “pain,” “screams,” and “did not go to plan” framing lethal injection as potentially inhumane and procedurally flawed, while also invoking “brutal killings” for victim context.",
+      "Right-Leaning coverage de-emphasizes Texas and portrays Florida’s execution of “convicted killer” Thomas Overton—linked to a triple murder—as lawful punishment, emphasizing the “record-breaking” 20th execution.",
+      "Center coverage largely presents simultaneous executions and the record neutrally.",
+      "The pivotal divide is whether the story centers state-inflicted suffering or criminal culpability; all acknowledge Florida’s record and the executions, reflecting broader punishment-versus-human-rights tensions."
     ],
-    "bias_bar_text": "Left 55% Center 40%",
+    "bias_bar_text": null,
+    "center_pct": 22.0,
+    "error": null,
+    "left_pct": 56.0,
+    "location": "Florida",
+    "right_pct": 22.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, Florida executed Thomas Mitchell Overton, 71, by lethal injection for the 1991 murders of Susan and Michael MacIvor, marking the state's record-breaking 20th execution this year.",
+      "Overton was convicted in 1999 of strangling the pregnant Susan MacIvor and her husband Michael at their Tavernier home; DNA evidence linked him to the crime scene in 1996 after his arrest on an unrelated burglary charge.",
+      "Separately, Texas executed Reinaldo Dennes on Thursday in a procedure lasting over an hour, with spiritual adviser Rev. Jeff Hood calling it 'by far the worst one' due to apparent drug complications.",
+      "Sharon MacIvor, the victim's sister, said watching Overton die gave her 'relief,' while Floridians for Alternatives to the Death Penalty called Governor Ron DeSantis the 'deadliest governor' in state history.",
+      "Under Governor Ron DeSantis, Florida has carried out more than half the nation's executions this year and plans two additional executions in December, reflecting an aggressive death penalty stance before he leaves office in January."
+    ],
+    "title": "Florida executes convicted killer Thomas Overton in record-breaking 20th inmate put to death this year",
+    "topic": "Florida Politics",
+    "topic_full": "Florida Politics · Florida"
+  },
+  {
+    "article_path": "/article/west-presses-iran-at-iaea-to-let-inspections-resume-at-bombed-nuclear-sites",
+    "article_url": "https://ground.news/article/west-presses-iran-at-iaea-to-let-inspections-resume-at-bombed-nuclear-sites",
+    "bias": [
+      "Left-Leaning coverage foregrounds “bombed nuclear sites,” stressing the destructive context and the need to restore IAEA oversight, while right-leaning framing spotlights Iran ’s unverified enriched-uranium stockpile, saying it “raises alarm” and portraying Western demands as justified security enforcement.",
+      "Both use “stonewalling,” but the right repeats it more forcefully to depict deliberate obstruction; left coverage more sharply evokes the consequences of U.S.-Israeli strikes.",
+      "Center coverage stays closer to diplomatic process, emphasizing “inspections” and “urges” without expanding the security narrative.",
+      "The pivotal divide is whether the story is chiefly about post-strike monitoring or an unresolved nuclear threat, reflecting broader tensions over accountability, military action, and distrust of Iran."
+    ],
+    "bias_bar_text": "10% Center 40% Right 50%",
     "center_pct": 40.0,
     "error": null,
-    "left_pct": 55.0,
+    "left_pct": 10.0,
     "location": null,
-    "right_pct": 5.0,
+    "right_pct": 50.0,
     "status": "ok",
     "summary": [
-      "On Wednesday, Skydance announced it will combine Warner Bros . Television Group and Paramount Television Studios into a single entity called Warner Bros. Television Studios, effective in early 2027.",
-      "Warner Bros. Television Group chief Channing Dungey and Paramount Television Studios head Matt Thunell will serve as co-presidents, reporting to Skydance Television Chief George Cheeks and overseeing scripted, unscripted, and BET Studios programming.",
-      "Skydance aims to achieve at least $6 billion in merger-related cost savings while servicing nearly $80 billion in net debt; consolidation is expected to lead to layoffs as duplicating jobs are eliminated.",
-      "Separately, President David Stapf will continue leading CBS Studios as a standalone entity under Cheeks, producing broadcast hits including 'NCIS' and 'FBI'.",
-      "The new Warner Bros. Television Studios will house more than 120 active series and major franchises including 'Ted Lasso,' 'The Pitt,' and the upcoming series 'Neuromancer'."
+      "On Thursday, the United States, Britain, France, and Germany urged Iran to allow inspectors back into nuclear sites bombed in June 2025, accusing Tehran of \"stonewalling\" at the IAEA Board of Governors meeting.",
+      "Iran has denied the International Atomic Energy Agency access since military strikes destroyed or damaged three uranium-enrichment plants in June 2025, leaving highly enriched material close to weapons grade unaccounted for.",
+      "IAEA Director General Rafael Grossi noted recent inspections occurred only at the undamaged Bushehr power plant, while Western powers stated the Agency has lost \"continuity of knowledge\" regarding Iran's verified stockpile.",
+      "Tehran responded Wednesday that \"acts of aggression\" and threats from the United States and Israel prevent normal safeguards, citing the U.S. offer of up to $20 million for information on its nuclear program.",
+      "While the United States and Israel have not launched major strikes since their 12-day campaign last year, the ongoing nine-month war against Iran has fueled speculation of fresh attacks as diplomatic talks remain deadlocked."
     ],
-    "title": "Skydance to combine Warner Bros. TV Group and Paramount Television Studios",
+    "title": "West presses Iran at IAEA to let inspections resume at bombed nuclear sites",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/israel-says-it-concludes-gaza-tank-raid_c7f5a8",
-    "article_url": "https://ground.news/article/israel-says-it-concludes-gaza-tank-raid_c7f5a8",
+    "article_path": "/article/warming-has-gotten-so-out-of-hand-nations-call-for-sucking-carbon-out-of-air-somehow",
+    "article_url": "https://ground.news/article/warming-has-gotten-so-out-of-hand-nations-call-for-sucking-carbon-out-of-air-somehow",
     "bias": [
-      "Left-Leaning coverage calls the action a “raid” and “highest-profile” incursion, foregrounding Israeli force; right-leaning coverage stresses a “largest” or “rare” “armored operation” against a “terrorist militia,” while adding Palestinian displacement, movement permissions, and Hamas’s unconfirmed allegation of a truce violation.",
-      "The pivotal divide is whether the event is primarily a security operation or a breach with civilian consequences.",
-      "Center coverage is more attributed and restrained, describing a “ground operation” despite a US-brokered ceasefire.",
-      "All report Israel ’s stated tunnel-related objective and unusual post-ceasefire scale, but the suspected target and Israel’s rationale lack independent verification."
+      "Coverage shows limited ideological divergence: left and center versions frame UN climate talks as acknowledging failure to avoid a warming “danger zone,” while the shorter right excerpt de-emphasizes that context and stresses extraordinary intervention.",
+      "Across perspectives, “out of hand,” “sucking,” and “somehow” add alarm, colloquial skepticism, or technological unease; center coverage presents removal as potentially necessary but costly and uncertain.",
+      "All report it as a supplement to emissions cuts, requiring unproven technology and tens of trillions of dollars.",
+      "Thus, the main divide is emphasis rather than competing narratives, and these conclusions rest on limited excerpts lacking scientific attribution or technical detail."
     ],
-    "bias_bar_text": "11% Center 33% Right 56%",
-    "center_pct": 33.0,
+    "bias_bar_text": "Left 54% Center 42%",
+    "center_pct": 42.0,
     "error": null,
-    "left_pct": 11.0,
+    "left_pct": 54.0,
     "location": null,
-    "right_pct": 56.0,
+    "right_pct": 4.0,
     "status": "ok",
     "summary": [
-      "Israel’s military said it concluded a tank raid in central Gaza to dismantle a suspected Hamas tunnel as part of an operation against Hamas infrastructure.",
-      "The military said the Salahudeen Road reopened, but residents reported sporadic gunfire and said the route remained dangerous.",
-      "About 6,000 Palestinians fled the area, according to the Hamas-run Gaza government media office, amid fears of renewed fighting.",
-      "Gaza health authorities said at least 1,600 Palestinians had been killed in Israeli strikes since the cease-fire, while Israel’s military reported five Israeli soldiers killed."
+      "The United Nations climate negotiations, known as COP31, are scheduled to end Friday in Turkey, with early drafts acknowledging the world must remove carbon dioxide from the atmosphere after failing to keep temperatures below 1.5 degrees Celsius.",
+      "Earlier this year, a United Nations annual report confirmed the planet will breach the Paris agreement's 1.5 degrees Celsius threshold, making carbon removal a necessary addition to urgent emission reductions.",
+      "United Nations Environment Programme Director Inger Andersen stated the world needs to remove 320 billion metric tons of carbon dioxide this century; Berkeley Earth climate scientist Zeke Hausfather estimates costs could reach $66 trillion by 2100.",
+      "Climate Analytics CEO Bill Hare warned that relying on removal is futile without deep emission cuts, while Denmark's environment minister Samira Nawa emphasized pollution reduction remains the most important tool available.",
+      "Denmark and Ethiopia are leading a newly formed coalition called the Group of Negative Emitters, aiming for a 110% reduction of emissions to go beyond net zero goals."
     ],
-    "title": "Israel says it concludes Gaza tank raid",
+    "title": "COP31 Drafts Call for Carbon Removal as 1.5C Limit Slips Away",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/misinformation-about-a-fema-test-leveraged-distrust-in-spanish-speaking-communities",
-    "article_url": "https://ground.news/article/misinformation-about-a-fema-test-leveraged-distrust-in-spanish-speaking-communities",
+    "article_path": "/article/mamdani-proposes-extending-rikers-island-closure-deadline-by-five-years-to-2032_f11ef1",
+    "article_url": "https://ground.news/article/mamdani-proposes-extending-rikers-island-closure-deadline-by-five-years-to-2032_f11ef1",
     "bias": [
-      "Left-Leaning coverage foregrounds vulnerable Spanish-speaking communities, framing false claims as “misinformation” that “leveraged distrust,” while explaining the simulated FEMA alert’s radio and television reach.",
-      "Right-Leaning coverage shifts attention to nationwide alarm, portraying claims of “global outages” as “widespread misinformation” that “surged online.” The dividing line is whether the episode is primarily exploitation of community distrust or rapid digital amplification of an expansive threat narrative; neither supplies evidence measuring community impact.",
-      "Both perspectives emphasize the national FEMA test and circulation of false claims, reflecting broader tensions over institutional trust, minority vulnerability, and online panic."
+      "Left-Leaning coverage frames Rikers as a “notorious” “stain on our city,” casting Mamdani’s “bold” closure plan as humane reform responding to violence, abuse, and overcrowding; right-leaning coverage instead stresses the five-year delay, construction capacity, and population reduction, using phrases like “scheme,” “quietly hunting,” and “thin out” to suggest secrecy or risk.",
+      "The pivotal divide is whether reducing detainees by nearly 40%—about 1,000 people—with $290 million in investment signals rehabilitation or threatens accountability and public safety.",
+      "Center coverage mainly foregrounds the legally significant shift from 2027 to 2032.",
+      "All perspectives recognize four replacement jails and the need to close Rikers, reflecting broader tensions over decarceration, government competence, and public safety."
     ],
-    "bias_bar_text": "Left 83% R 17%",
-    "center_pct": null,
+    "bias_bar_text": null,
+    "center_pct": 53.0,
     "error": null,
-    "left_pct": 83.0,
-    "location": null,
+    "left_pct": 27.0,
+    "location": "New York",
+    "right_pct": 20.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, Mayor Zohran Mamdani unveiled a plan to close Rikers Island by the end of 2032, outlining $290 million in investments aimed at reducing New York City's jail population by nearly 40%.",
+      "City officials acknowledged they will miss the legally mandated August 31, 2027, closure deadline, as Rikers has long struggled with systemic violence, overcrowding, and crumbling infrastructure that prompted federal intervention.",
+      "The strategy targets reducing the inmate population from approximately 6,600 to around 4,500 by 2032, supported by $50 million in annual programming and nearly $8 million for expanded supervised release.",
+      "Demolition of the North Infirmary Command will begin in 2027 as the administration transfers vacant facilities from the Department of Correction to the Department of Citywide Administrative Services for future planning.",
+      "Meeting the 2032 deadline requires amending the law mandating an August 31, 2027, closure, securing cooperation from prosecutors and the state court system, and establishing a task force to address case delays."
+    ],
+    "title": "Mamdani announces plans to close Rikers Island by 2032",
+    "topic": "Zohran Mamdani",
+    "topic_full": "Zohran Mamdani · New York"
+  },
+  {
+    "article_path": "/article/colorado-schools-dont-need-to-verify-student-sex-for-sports-participation-officials-say",
+    "article_url": "https://ground.news/article/colorado-schools-dont-need-to-verify-student-sex-for-sports-participation-officials-say",
+    "bias": [
+      "Left-Leaning coverage frames the guidance as protecting privacy and access, stressing that schools “don’t need to verify” sex and should not demand DNA tests or physical exams, while describing the initiative as seeking to “bar transgender athletes.” Right-leaning coverage foregrounds “girls’ sports” and portrays officials’ advice as limiting the practical force of the voter-approved restriction, emphasizing tension rather than administrative rationale.",
+      "Center coverage bridges both, using terms like “transgender ban” and “controversial gender tests” while noting possible litigation or legislation.",
+      "The pivotal divide is whether nonverification safeguards students or undermines sex-based rules; all sides emphasize the guidance itself and its transgender-sports implications, reflecting broader disputes over privacy, fairness, and state authority."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 60.0,
+    "error": null,
+    "left_pct": 20.0,
+    "location": "Colorado",
+    "right_pct": 20.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, The Colorado Department of Education issued guidance directing schools not to use DNA testing, physical exams, or photographs to verify student-athletes' sex when implementing Proposition 134, which takes effect January 1, 2027.",
+      "Voters approved the ballot measure with 52% of the vote this month, requiring public school sports teams to be designated as male- or female-only based on biological sex, unless the sport allows open participation.",
+      "Erin Lee, executive director of Protect Kids Colorado, argued the guidance \"appears to undermine meaningful implementation,\" while Z Williams, director of the Bread and Roses Legal Center, called the measure \"unenforceable from the beginning.\"",
+      "Schools may comply by designating teams as male, female, or co-ed, the agency stated, while clarifying that the Colorado High School Activities Association possesses no enforcement authority over the new law.",
+      "Officials acknowledge that unresolved questions may lead to future litigation or legislation, as Democratic Gov.-elect Phil Weiser previously indicated he could seek changes to the measure during the 2027 session."
+    ],
+    "title": "Colorado Proposition 134 guidance says schools shouldn't verify students' sex; proponents respond",
+    "topic": "Colorado Politics",
+    "topic_full": "Colorado Politics · Colorado"
+  },
+  {
+    "article_path": "/article/harambe-was-killed-a-decade-ago-at-the-same-zoo-as-fiona",
+    "article_url": "https://ground.news/article/harambe-was-killed-a-decade-ago-at-the-same-zoo-as-fiona",
+    "bias": [
+      "Left coverage frames Harambe and Fiona as “beloved” animals and “tragic” losses, while the briefer right-leaning account similarly portrays Fiona’s death as another sorrowful zoo event but offers less sustained emotion.",
+      "The pivotal divide is context: center coverage highlights the “international backlash” after Harambe was shot, the danger posed by the boy’s presence, and Fiona’s “miraculous survival” after premature birth, whereas the flanks largely de-emphasize that institutional and historical arc.",
+      "None of the perspectives details the boy’s condition, the zoo’s fuller rationale, or Fiona’s cause of death.",
+      "All converge on the Cincinnati Zoo, Harambe’s 2016 shooting, and public affection for both animals."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 47.0,
+    "error": null,
+    "left_pct": 40.0,
+    "location": "Cincinnati",
+    "right_pct": 13.0,
+    "status": "ok",
+    "summary": [
+      "Fiona, the Cincinnati Zoo & Botanical Garden's 9-year-old hippo, died Thursday after ingesting a visitor's knit hat. The animal had been under care since Nov. 8, when she swallowed the item.",
+      "A child tossed the hat, which a fan then propelled through a 1-foot gap above the 12-foot-tall viewing window into the habitat. Zoo spokesperson Michelle Curley noted the item entered by accident.",
+      "Care teams attempted to help Fiona pass the hat naturally using vibration plates and fluids, but surgery was not possible. The zoo said 'necessary supportive care today in an attempt to save her' was ultimately unsuccessful.",
+      "Fiona's death prompted immediate comparisons to Harambe, the 17-year-old gorilla killed at the Cincinnati Zoo in 2016. Marianne King posted on Facebook that 'the two saddest days in all my time here in Cincinnati' involved these two animals .",
+      "The hippo's death drew responses from Cincinnati Mayor Aftab Pureval and Gov. Amy Acton. Public reactions varied between calls for increased zoo safety and compassion for staff, with some noting that 'accidents do happen."
+    ],
+    "title": "Cincinnati Zoo Faces Renewed Scrutiny After Fiona Dies and Harambe Comparisons Return",
+    "topic": "Conservation",
+    "topic_full": "Conservation · Cincinnati"
+  },
+  {
+    "article_path": "/article/pure-michigan-has-a-poop-problem-dangerous-fecal-levels-befoul-3-of-4-rivers",
+    "article_url": "https://ground.news/article/pure-michigan-has-a-poop-problem-dangerous-fecal-levels-befoul-3-of-4-rivers",
+    "bias": [
+      "Left-Leaning coverage frames Michigan ’s waterways as a government-accountability failure, pairing “poop problem,” “dangerous,” and “befoul” with scrutiny of legislative quarrels and billions spent on rehabilitation.",
+      "Right-Leaning coverage acknowledges the same scale—about 75% of rivers and streams exceed fecal limits—but de-emphasizes spending, lawmakers, and personal narratives, presenting pollution mainly through farm runoff, failing septic systems, and unsafe swimming.",
+      "Center coverage occupies a middle space, stressing rivers “in trouble” while adding the Grand River’s “precious gift” imagery and a resident’s reluctance to swim near the Capitol.",
+      "All perspectives agree on contamination, its sources, federal involvement, and public-health stakes, while diverging over responsibility and governmental effectiveness."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 37.0,
+    "error": null,
+    "left_pct": 52.0,
+    "location": "Michigan",
+    "right_pct": 11.0,
+    "status": "ok",
+    "summary": [
+      "An estimated 75% of Michigan's rivers and streams are tainted with elevated levels of fecal pollution, according to Molly Rippke, who leads E. coli testing for the Michigan Department of Environment , Great Lakes and Energy.",
+      "Pollution stems from livestock farms, failing septic systems, and aging sewage infrastructure dumping waste into waterways including the Grand River and the Rouge across the state.",
+      "E. coli outbreaks diminish home values by an average of $13,000 when sales coincide with contamination, while at least 12.4 million people spend time on Michigan rivers annually.",
+      "Rep. Mike McFall cited industry lobbying influence as a barrier to regulation, while Sen. Roger Hauck attributed inaction to fears of mandating compliance without providing funding assistance.",
+      "With the state employing just one full-time E. coli monitor, local groups like the Eaton Conservation District lead testing efforts but receive only $40,000 in annual operating cash."
+    ],
+    "title": "Michigan Tests Find 75% of Rivers and Streams Exceed Fecal Limits",
+    "topic": "Environment",
+    "topic_full": "Environment · Michigan"
+  },
+  {
+    "article_path": "/article/trumps-pick-to-lead-watchdog-says-hes-no-stooge",
+    "article_url": "https://ground.news/article/trumps-pick-to-lead-watchdog-says-hes-no-stooge",
+    "bias": [
+      "Left-Leaning coverage foregrounds Democrats’ doubts that Eric Ueland can independently lead Congress’s “critical watchdog,” portraying the rush to confirm him before Republicans potentially lose Senate control as politically strategic; “rubber-stamp,” “skeptical Democrats,” and “stooge” sharpen its wary tone.",
+      "Right-Leaning framing emphasizes Ueland’s defense—that he is no “stooge” or “rubber-stamp”—and de-emphasizes broader conflict, casting Democratic scrutiny as an accusation of partisan control.",
+      "Center coverage bridges both sides by focusing on the hearing, his pledge to investigate the White House , and clashes over congressional spending power.",
+      "All agree the GAO’s oversight role and Ueland’s independence are pivotal, reflecting wider disputes over executive authority and congressional checks."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 59.0,
+    "error": null,
+    "left_pct": 31.0,
+    "location": "United States",
+    "right_pct": 10.0,
+    "status": "ok",
+    "summary": [
+      "President Donald Trump 's nominee Eric Ueland told senators on Thursday that investigating the White House, where he currently works as a top official, would be a \"hallmark\" of his tenure as head of the Government Accountability Office.",
+      "Ueland's nomination bypassed the 10-member commission required by statute to recommend candidates, raising concerns given his current role as deputy director of the White House Office of Management and Budget, whose spending freezes the GAO has repeatedly found unlawful.",
+      "Earlier in the week, more than 20 former inspectors general opposed the nomination, citing independence concerns. Responding to criticism, Ueland told lawmakers, \"I'm not here as a plant, a stooge, a lackey for anybody.\"",
+      "Senate Committee ranking member Gary Peters warned that moving ahead would do \"irreversible damage to the GAO,\" as Democrats object to the short-circuit process used to advance Ueland before Republicans lose control.",
+      "If confirmed, Ueland would oversee the GAO for a 15-year term. With a budget of more than $900 million and nearly 3,000 employees, the agency serves as Congress's primary investigative arm and umpire for federal spending."
+    ],
+    "title": "Trump's Pick to Lead Watchdog Says He's No 'Stooge' as Democrats Question His Independence",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/democrats-open-probe-into-nvidia-influence-on-us-megaspeed-investigation",
+    "article_url": "https://ground.news/article/democrats-open-probe-into-nvidia-influence-on-us-megaspeed-investigation",
+    "bias": [
+      "Left-Leaning coverage frames the Nvidia matter as “interfered” oversight and a broader Democratic effort to maintain pressure after taking Congress, while right-leaning coverage emphasizes records requests, administrative accountability, and Nvidia’s possible “sway,” including a deadline that makes scrutiny procedural and immediate.",
+      "Center coverage uses restrained “influence” language and adds context about the Foreign Affairs Committee, Megaspeed, and an alleged personal connection.",
+      "The pivotal divide is whether this is corporate intrusion, political oversight, or a Commerce Department-handling question; all perspectives stress the “probe” and potentially “illegal” chip diversion to China, reflecting wider debates over regulation, power, and China."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 45.0,
+    "error": null,
+    "left_pct": 22.0,
+    "location": "United States",
+    "right_pct": 33.0,
+    "status": "ok",
+    "summary": [
+      "Democratic lawmakers opened an inquiry into whether Nvidia influenced a Commerce Department investigation of Megaspeed over possible chip diversion to China.",
+      "In a November 19 letter, House Democrats asked whether the department allowed Nvidia to interfere with federal enforcement activity.",
+      "Commerce and Justice officials said the two-year investigation included requests for Nvidia’s records, a joint inspection of Megaspeed, and an interview with Alice Huang.",
+      "Megaspeed said it follows US export-control laws, while Nvidia said it cooperates with department officials and seeks guidance."
+    ],
+    "title": "Democrats open probe into Nvidia influence on US Megaspeed investigation",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/ogunquit-family-files-federal-lawsuit-against-town-over-rooster-sculptures",
+    "article_url": "https://ground.news/article/ogunquit-family-files-federal-lawsuit-against-town-over-rooster-sculptures",
+    "bias": [
+      "Left-Leaning coverage frames the dispute as a civil-rights showdown, using phrases like “First Amendment rights,” “national legal backing,” and “fight with town” to cast the family against punitive government power.",
+      "Right-Leaning coverage foregrounds the “colorful tin roosters” and the daughter’s autism , portraying officials’ “demands that they remove” them as coercive while de-emphasizing fines, advertising, and the sign ordinance.",
+      "Center coverage stays more procedural, emphasizing a federal lawsuit, “giant” statues, and penalties exceeding $1,500 or nearly $2,000.",
+      "Across perspectives, the pivotal divide is personal accommodation versus commercial regulation, though all highlight the family, daughter, sculptures, and municipal conflict."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 37.0,
+    "error": null,
+    "left_pct": 43.0,
+    "location": "Maine",
+    "right_pct": 20.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, Dave and Sara LeBlanc filed a federal lawsuit against Ogunquit, Maine, alleging the town violated their First Amendment rights by fining them for displaying 6-foot metal rooster statues outside their home.",
+      "Town code enforcement officer Tyler McOsker repeatedly fined the family, claiming the statues constitute unpermitted commercial signage for The Omelette Factory, while the LeBlancs maintain the roosters provide \"comfort and structure\" for their autistic 6-year-old daughter, Pyper.",
+      "The LeBlancs have paid approximately $1,700 in fines, prompting attorney Griffin Brunk of the Institute for Justice to call the enforcement \"textbook speaker-based discrimination.\" The lawsuit seeks reimbursement and a permanent injunction.",
+      "Neighbors have rallied behind the family by displaying their own rooster ornaments in solidarity; the \"Roosters of Ogunquit\" Facebook page has attracted 18,000 supporters, while the lawsuit notes the town has not fined other residents displaying similar statues.",
+      "Seeking a permanent injunction, the family asks the court to declare the Ogunquit Zoning Code \"unconstitutionally vague\" and bar the town from future enforcement against displays on their property."
+    ],
+    "title": "Maine Parents Sue Town over Autistic Daughter’s Metal Rooster Statues – WTOP News",
+    "topic": "Autism",
+    "topic_full": "Autism · Maine"
+  },
+  {
+    "article_path": "/article/newly-released-notes-reveal-juror-concerns-during-lindsay-clancy-murder-trial_d24db9",
+    "article_url": "https://ground.news/article/newly-released-notes-reveal-juror-concerns-during-lindsay-clancy-murder-trial_d24db9",
+    "bias": [
+      "Left-Leaning coverage frames the matter as a procedural appeal centered on the defense’s claim that prosecutors never proved Clancy “murdered her children,” while right-leaning coverage spotlights jury-note disputes, a “deadlocked” panel, alleged disregard for reasonable-doubt instructions, and trial “chaos.” The emotional contrast is telling: restrained legal language versus “SEE IT,” “clashed,” “drama,” and “scores legal win,” portraying the same review either as due-process scrutiny or a defendant’s strategic victory.",
+      "Center coverage bridges both, emphasizing juror concerns and why full-court review matters.",
+      "All perspectives agree the high court will hear the petition after a mistrial, reflecting wider divides over institutional fairness and courtroom accountability."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 57.0,
+    "error": null,
+    "left_pct": 14.0,
+    "location": "Massachusetts",
+    "right_pct": 29.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, the Massachusetts Supreme Judicial Court agreed to hear arguments in Lindsay Clancy's appeal seeking to dismiss murder charges stemming from the 2023 deaths of her three young children.",
+      "Newly released jury notes from Clancy's first trial revealed a holdout juror reportedly refused to follow instructions on reasonable doubt; defense attorneys argue Judge William Sullivan should have investigated the juror rather than declaring a mistrial.",
+      "Her lawyers contend the mistrial lacked 'manifest necessity,' the legal standard required to retry a defendant over their objection, arguing the court extinguished viable alternatives to declaring a mistrial.",
+      "Judge William Sullivan scheduled a retrial for March 29, 2027, after rejecting the motion to dismiss earlier this month; prosecutors signaled they intend to seek first-degree murder charges again.",
+      "Associate Justice Elizabeth Dewar ordered a 'review of the merits' of Clancy's petition and scheduled oral arguments for January, pausing momentum toward the March retrial as the high court determines if prosecution can proceed."
+    ],
+    "title": "Massachusetts' top court to hear Lindsay Clancy's bid to toss murder charges",
+    "topic": "US Crime",
+    "topic_full": "US Crime · Massachusetts"
+  },
+  {
+    "article_path": "/article/texas-death-row-execution-takes-more-than-an-hour-as-inmate-heard-complaining-of-pain",
+    "article_url": "https://ground.news/article/texas-death-row-execution-takes-more-than-an-hour-as-inmate-heard-complaining-of-pain",
+    "bias": [
+      "Left-Leaning coverage frames Reinaldo Dennes’s more-than-hour-long lethal injection as “torment,” “botched,” and evidence against capital punishment, foregrounding screams, pain, and failed IV attempts while de-emphasizing his conviction and officials’ suggestion that complaints were exaggerated.",
+      "Right-Leaning accounts also stress the “unusual” procedure—sometimes invoking “horror” or “fiasco”—but balance it with his jeweler-killing conviction, age, Florida’s “record” 20th execution, and the official account.",
+      "Center coverage presents “renewed scrutiny” while juxtaposing witness distress with competing claims.",
+      "The dividing line is whether vocalizations signify inflicted suffering or possible simulation; all emphasize the prolonged procedure, pain reports, and lethal-injection reliability, reflecting broader punishment and institutional-trust divides."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 48.0,
+    "error": null,
+    "left_pct": 35.0,
+    "location": "Fayetteville",
     "right_pct": 17.0,
     "status": "ok",
     "summary": [
-      "A simulated emergency alert from FEMA on Tuesday triggered false narratives about worldwide blackouts that circulated rapidly across Spanish-language platforms within global Latino communities.",
-      "Service outages at Microsoft, JPMorgan Chase, and the National Security Agency preceded the test; online actors distorted these real events as alleged evidence of an impending catastrophe.",
-      "The DDIA analyzed over 2,200 Spanish-language posts between Nov 11 and Nov 17, finding that content with 'alarmist headlines' amassed over 95 million views across mainstream and clickbait-style outlets.",
-      "Misinformation campaigns targeting Latinos exploited cultural sentiments, referencing Bad Bunny's track 'El Apagón' to frame power outages as ubiquitous hardships rather than just viral threats.",
-      "Experts Rafael Olavarría and Arthur Soto-Vásquez note this vulnerability stems from historical distrust of authority, suggesting the incident offers audiences an opportunity to examine their online information sources."
+      "On Thursday, November 19, 2026, Texas executed Reinaldo Dennes after a prolonged procedure, while Florida carried out its record 20th execution of the year, putting Thomas Mitchell Overton to death at Florida State Prison.",
+      "Dennes, 70, was convicted of the 1996 murder of diamond dealer Janos Szucs during a $3.5 million heist; Overton, 71, was executed for the 1991 murders of Susan and Michael MacIvor during a home invasion.",
+      "Struggling for over an hour to establish intravenous access, Texas prison staff ultimately utilized Dennes' foot and neck. Witnesses reported the inmate shouted in apparent agony, though officials suggested he may have been exaggerating.",
+      "Prison officials maintained all established protocols were followed appropriately during the procedure. Florida Governor Ron DeSantis has accelerated the state's capital punishment schedule, with two additional executions confirmed for December.",
+      "Both executions follow renewed national scrutiny of lethal injection protocols, particularly after Tennessee's failed attempt in September. These cases reflect ongoing debates regarding execution procedures and the aging death row population nationwide."
     ],
-    "title": "Misinformation about a FEMA test leveraged distrust in Spanish-speaking communities",
-    "topic": null,
-    "topic_full": null
+    "title": "Texas death row execution takes more than an hour as inmate heard complaining of pain",
+    "topic": "US Politics",
+    "topic_full": "US Politics · Fayetteville"
   },
   {
-    "article_path": "/article/bernie-kosar-continues-recovery-one-year-after-transplant-surgery",
-    "article_url": "https://ground.news/article/bernie-kosar-continues-recovery-one-year-after-transplant-surgery",
-    "bias": [
-      "Left- and right-leaning coverage largely converge in concise, wire-style framing: Kosar marks one year since his liver transplant and feels “happily surprised,” with his nine late-game-winning drives supporting a restrained comeback parallel.",
-      "Center-Leaning coverage adds warmer, community-focused rhetoric, calling him a “beloved Browns legend,” describing the transplant as “life-saving,” and labeling the recovery a “greatest comeback.” The pivotal divide is emphasis: left and right foreground the anniversary and football record, while center highlights donor Bryce Dunlap, gratitude to Cleveland and University Hospitals, and Kosar carrying his granddaughter.",
-      "All perspectives share a celebratory recovery narrative rooted in sports identity and resilience."
-    ],
+    "article_path": "/article/exclusive-citi-incorrectly-booked-trades-underestimated-risky-assets-by-35-billion-sources-say",
+    "article_url": "https://ground.news/article/exclusive-citi-incorrectly-booked-trades-underestimated-risky-assets-by-35-billion-sources-say",
+    "bias": null,
     "bias_bar_text": null,
-    "center_pct": 65.0,
+    "center_pct": 67.0,
     "error": null,
-    "left_pct": 20.0,
-    "location": "Cleveland",
-    "right_pct": 15.0,
-    "status": "ok",
+    "left_pct": null,
+    "location": "United States",
+    "right_pct": 33.0,
+    "status": "no_change",
     "summary": [
-      "On Wednesday, former Cleveland Browns quarterback Bernie Kosar marked one year since his life-saving liver transplant, appearing at University Hospitals Cleveland Medical Center with his granddaughter, Alia Rose Kosar-Beck.",
-      "Kosar received the organ from 21-year-old Bryce Dunlap of North Olmsted on November 17, 2025, after battling liver failure and Parkinson's disease diagnosed in 2024; the Dunlap family requested a directed donation.",
-      "Dr. Zoe Stewart Lewis, chief of transplant surgery, called Kosar 'the model patient' whose mental clarity improved significantly; he reduced daily medication from 50 pills and maintains blood tests every six weeks.",
-      "\"What a difference a year makes,\" Kosar said, reflecting on his improved quality of life; he committed to advocating for organ donation and helping former athletes affected by cognitive issues.",
-      "As Kosar approaches his 63rd birthday next Wednesday, he remains dedicated to honoring Dunlap's memory and inspiring others through his recovery journey and second chance at life."
+      "Citigroup resolved an internal capital modeling issue at a European trading subsidiary this summer, correcting a $35 billion underestimation of risk-weighted assets. The bank said the subsidiary remained fully compliant with regulatory minimums throughout.",
+      "The firm incorrectly booked trades using an internal model based on its own statistical assumptions, causing the asset underestimation. Once recorded using a standard risk model, the value of risk-weighted assets shot up significantly.",
+      "Problems date back to 2020, when the Federal Reserve and the Office of the Comptroller of the Currency identified risk management deficiencies. Citigroup was fined $400 million and faced an additional $136 million penalty in 2024 for delays in fixing data issues.",
+      "Citi completed remedial actions and injected capital to restore the subsidiary's buffers. The lender operates under tight supervisory scrutiny while targeting submission of paperwork to regulators this year to lift restrictions.",
+      "Shaking off the \"regulatory shackles\" would free up resources and bolster Citigroup shares, according to analysts. Lifting restrictions would mark a key achievement for Fraser as the bank resolves oversight challenges."
     ],
-    "title": "Bernie Kosar marks 1 year since liver transplant, says he feels ‘happily surprised’",
-    "topic": "Sports",
-    "topic_full": "Sports · Cleveland"
+    "title": "Citi underestimated risky assets by $35 billion after incorrectly recording trades: Report",
+    "topic": "Citigroup",
+    "topic_full": "Citigroup · United States"
   },
   {
-    "article_path": "/article/vance-likens-democrats-2026-themes-to-trumps-in-pitch-to-el-sayed",
-    "article_url": "https://ground.news/article/vance-likens-democrats-2026-themes-to-trumps-in-pitch-to-el-sayed",
+    "article_path": "/article/army-postpones-controlled-lead-detonation-after-pleas-from-iowa-lawmakers",
+    "article_url": "https://ground.news/article/army-postpones-controlled-lead-detonation-after-pleas-from-iowa-lawmakers",
     "bias": [
-      "Left-Leaning coverage frames Vance’s outreach as a “radical change” after a “bitter” campaign, inviting skepticism—especially from activists—about whether cooperation genuinely serves Michigan workers or is tactical.",
-      "Right-Leaning coverage instead stresses an “optimistic message,” “civil” relations, and “opening the door to compromise,” while spotlighting Vance’s comparison of Democrats’ 2026 themes with Trump’s 2024 message and the January meeting.",
-      "Center coverage de-emphasizes interpretation, presenting a meeting after “sharp,” “personal” attacks as political transition.",
-      "The dividing line is reconciliation versus strategic repositioning, though all perspectives emphasize the contentious campaign and post-election willingness to meet."
+      "Left-Leaning coverage frames the plan as an impending “environmental disaster,” using phrases like “toxic lead bomb,” “madness,” and “forgot to warn people” to stress institutional negligence, contamination, and cross-state health risks.",
+      "Right-Leaning coverage emphasizes unstable explosives and necessary precautions, portraying the same operation as a “massive explosion” requiring evacuation, while criticizing notice and safeguards.",
+      "Center coverage more often explains “controlled” detonations, school closures, evacuation boundaries, and the EPA’s “imminent and substantial endangerment” designation.",
+      "The five-ton stockpile and potential Illinois plume divide interpretations: reckless exposure versus urgent disposal.",
+      "All perspectives highlight instability, lead hazards, evacuations , and postponement, reflecting broader tensions over environmental risk, government competence, and institutional trust."
     ],
     "bias_bar_text": null,
     "center_pct": 59.0,
     "error": null,
     "left_pct": 29.0,
-    "location": "Michigan",
+    "location": "Iowa",
     "right_pct": 12.0,
     "status": "ok",
     "summary": [
-      "On Monday, Vice President JD Vance expressed willingness to work with Senator-elect Abdul El-Sayed, softening his tone after a contentious election season. The two are scheduled to meet at the U.S. Capitol on January 3, 2027, for the swearing-in ceremony.",
-      "Republicans, including Vance and President Donald Trump, repeatedly attacked El-Sayed over his identity throughout the election campaign. Vance described El-Sayed as a representative of \"terrible evil\" and a \"little weasel.\"",
-      "Vance told Fox News that if El-Sayed wants to work to make lives better, he will \"find us a very willing partner.\" El-Sayed responded, \"For me, it will always be about serving working people.\"",
-      "Addressing Vance as \"Habibi,\" an Arabic term meaning \"my beloved,\" El-Sayed noted the irony that Vance is constitutionally obligated to swear him in. His victory speech drew laughter from supporters.",
-      "El-Sayed emphasized policy priorities including \"Medicare for all\" and getting \"money out of politics\" during his campaign. He also extended an invitation to Trump on NPR's Newsmakers, saying there is \"a lot we could work on."
+      "The U.S. Army rescheduled the detonation of around 9,500 pounds of lead azide at the Iowa Army Ammunition Plant in Middletown to Monday, Nov. 23, following intense public concern over potential environmental contamination.",
+      "Staff discovered that 68 barrels of lead azide had degraded after 20 years of storage, creating a \"highly unstable and dangerous situation\" that prompted the Army to plan controlled detonation rather than risk accidental explosion.",
+      "University of Iowa Public Health professor Patrick O'Shaughnessy called the planned detonation \"unprecedented,\" while residents fielded by the Des Moines County Extension office expressed feeling \"deathly afraid\" for their health and animals.",
+      "IDPH Director Dr. Sameer Vohra advised Illinois residents to stay indoors and keep windows closed for 24-48 hours, while the Sierra Club sued Thursday seeking to halt the detonation entirely.",
+      "Acting Army Secretary Adam R. Telle directed the delay to the \"latest possible moment\" before a forecasted temperature drop, with the Army planning to monitor air, soil, and water quality during and after the detonation."
     ],
-    "title": "Vance and El-Sayed Are Looking to Meet After a Bitter, Personal Campaign Season",
-    "topic": "JD Vance",
-    "topic_full": "JD Vance · Michigan"
-  },
-  {
-    "article_path": "/article/idaho-fish-and-game-commissioner-pleads-guilty-to-misdemeanor-hunting-charges",
-    "article_url": "https://ground.news/article/idaho-fish-and-game-commissioner-pleads-guilty-to-misdemeanor-hunting-charges",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 79.0,
-    "error": null,
-    "left_pct": 21.0,
-    "location": "Idaho",
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "Idaho Fish and Game Commissioner Brody Harshbarger agreed to plead guilty to two misdemeanor hunting charges—hunting without a valid tag and shooting across a road—in exchange for prosecutors dropping poaching and trespassing counts.",
-      "The charges stemmed from a December 20, 2025, incident in Fremont County, where Harshbarger and Eric Murphy allegedly killed two bull elk unlawfully near Spring Hollow boat ramp without permission to shoot on the property.",
-      "Under the plea agreement, Harshbarger faces a $500 fine for each of the two charges and a one-year revocation of hunting privileges, with sentencing scheduled for December 9, 2026, according to court records.",
-      "Although Harshbarger remains an Idaho Fish and Game commissioner, his profile was removed from the agency's website on Monday, and Governor Brad Little is working to ensure the position's responsibilities are fulfilled.",
-      "Calling it an 'extremely important matter,' Sheryl Hill of Ashton said hunters have remained unrepresented on the commission since charges were filed, prompting public calls for answers regarding representation."
-    ],
-    "title": "Idaho Fish and Game Commissioner to Plead Guilty on Hunting Charges, Prompting Calls for Accountability",
-    "topic": "Idaho",
-    "topic_full": "Idaho · Idaho"
-  },
-  {
-    "article_path": "/article/susan-smiths-parole-bid-ex-husband-david-smith-fears-running-into-woman-who-drowned-their-two-sons",
-    "article_url": "https://ground.news/article/susan-smiths-parole-bid-ex-husband-david-smith-fears-running-into-woman-who-drowned-their-two-sons",
-    "bias": [
-      "Left-Leaning coverage foregrounds trauma—David Smith “haunts” and “fears” encountering Susan Smith, with emphasis on barely remembering his murdered sons—and raises a policy tension between “no parole” rules and her eligibility.",
-      "Center coverage is more procedural but emotionally sharp, framing her as seeking to “beg for parole,” stressing alleged lack of “remorse,” suicidal intent, and a prior unanimous denial.",
-      "Right-Leaning coverage adopts a punitive law-and-order tone, highlighting “killing sons,” an “alleged bid to win lover,” and the demand for “in prison until she dies.” All emphasize the 1994 drowning, two young victims, and a parole bid after 30 years, reflecting shared condemnation but differing priorities over grief, procedure, motive, and punishment."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 51.0,
-    "error": null,
-    "left_pct": 36.0,
-    "location": "Columbia",
-    "right_pct": 13.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, November 19, 2026, convicted killer Susan Smith will appear before the South Carolina Board of Paroles and Pardons seeking release for her 1995 life sentence for drowning her two sons in 1994.",
-      "Smith initially claimed a man carjacked her vehicle, sparking a nationwide search before she confessed nine days later to letting her car roll into John D. Long Lake with her boys trapped inside.",
-      "Urging the board to deny her release, ex-husband David Smith plans to attend the hearing and vowed to keep her behind bars for life. \"I will be here every two years going forward,\" David told the board.",
-      "The South Carolina Board of Paroles and Pardons unanimously rejected Smith's first request in 2024, and members are expected to consider the crime 's severity and her prison conduct, including disciplinary violations.",
-      "Currently working as a wardkeeper at Leath Correctional Institution, Smith remains eligible for parole every two years until released or deceased, even as prosecutors and family members continue to oppose her freedom."
-    ],
-    "title": "Susan Smith to ask for parole again 32 years after drowning her sons in a South Carolina lake",
-    "topic": "US Crime",
-    "topic_full": "US Crime · Columbia"
-  },
-  {
-    "article_path": "/article/us-army-conducting-controlled-explosions-in-southeast-iowa-on-nov-20",
-    "article_url": "https://ground.news/article/us-army-conducting-controlled-explosions-in-southeast-iowa-on-nov-20",
-    "bias": [
-      "Left-Leaning coverage frames the planned destruction of 68 barrels—nearly five tons—of degraded lead azide as an “Impending Environmental Disaster,” stressing airborne lead, dust maps, and possible regional harm.",
-      "Center coverage adds the EPA’s “imminent and substantial endangerment” assessment, projected exposure, and school closures while presenting precautions alongside risks.",
-      "Right-Leaning coverage emphasizes “controlled detonations” and a “planned safety operation,” portraying temporary evacuation as protective while de-emphasizing health and environmental detail.",
-      "The dividing line is whether the Army’s action signifies looming contamination or managed hazard reduction.",
-      "All perspectives acknowledge the November 20 operation, loud explosions, unstable material, and safety concerns, reflecting wider tensions over environmental caution and confidence in official control."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 66.0,
-    "error": null,
-    "left_pct": 24.0,
-    "location": "Iowa",
-    "right_pct": 10.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, Nov. 20, the U.S. Army will conduct two controlled detonations at the Iowa Army Ammunition Plant near Middletown at approximately noon to destroy degraded lead azide explosives.",
-      "Army spokesperson Justine Barati noted the operation targets 68 barrels of lead azide stored for nearly 20 years, which crystallized and became too unstable to move safely.",
-      "Residents in Middletown City Park must vacate from 8 a.m. to 2 p.m. Friday as a precaution due to potential localized window damage from the consecutive, rapid detonations.",
-      "Families and pets can find shelter at the Armed Forces Reserve Center at 16815 U.S. 34 in Middletown, which offers refreshments and gym facilities during the operation.",
-      "Modeling predicts an airborne plume up to 20 miles wide, and the Environmental Protection Agency permitted the operation under the Resource Conservation and Recovery Act with hourly map updates."
-    ],
-    "title": "Lead From Army Detonation in Iowa Town Could Pose Health Risks",
+    "title": "Army postpones controlled lead detonation after pleas from Iowa lawmakers",
     "topic": "U.S. Army",
     "topic_full": "U.S. Army · Iowa"
   },
   {
-    "article_path": "/article/the-geo-group-geo-another-facility-sale-500m-asr-planned-channelchek",
-    "article_url": "https://ground.news/article/the-geo-group-geo-another-facility-sale-500m-asr-planned-channelchek",
+    "article_path": "/article/number-of-people-seeking-unemployment-aid-ticks-higher-yet-still-low-historically-wtop-news",
+    "article_url": "https://ground.news/article/number-of-people-seeking-unemployment-aid-ticks-higher-yet-still-low-historically-wtop-news",
     "bias": [
-      "The left-leaning framing casts the $453 million sale as a transfer of an “embattled” “immigrant detention center,” emphasizing controversy and possible avoidance of Washington oversight.",
-      "Center coverage instead presents a business transaction, highlighting GEO’s planned $500 million buyback, “capital returns,” “recurring earnings,” and a continuing 10-year services contract.",
-      "Thus, the same ownership change becomes either an accountability and immigration-policy issue or an investor opportunity.",
-      "Right-Leaning coverage is de-emphasized in the supplied material.",
-      "All perspectives represented agree on the buyer, price, and GEO’s prior ownership, while their differing emphases reflect broader tensions over privatized detention, federal authority, and corporate finance."
+      "Left-Leaning coverage frames the rise from 202,000 to 203,000 claims as historically low, emphasizing “solid job security” and treating it as no major deterioration.",
+      "Right-Leaning coverage instead spotlights continuing claims reaching 1.763 million, the miss against 197,000–198,000 forecasts, and phrases like “unexpectedly jump” and “low hire, low fire, low inspire” to portray stagnation.",
+      "Center coverage mediates, calling the labor market “stable” while noting workers “struggling to find new opportunities” and possible Fed action.",
+      "All acknowledge low initial claims and broad stability, but diverge over whether reassurance or hidden weakness better captures the economy."
     ],
     "bias_bar_text": null,
-    "center_pct": 67.0,
+    "center_pct": 53.0,
     "error": null,
-    "left_pct": 33.0,
-    "location": "Tacoma",
-    "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "On Wednesday, the GEO Group sold the Northwest ICE Processing Center in Tacoma , Washington, to the U.S. Department of Homeland Security for $453 million, shifting ownership from private operator to federal government.",
-      "Despite federal ownership, GEO will continue operating the facility under a new 10-year, $1.5 billion contract running through Oct. 27, 2036, maintaining day-to-day management and staffing services.",
-      "The 1,635-bed facility's sale yields approximately $340 million in net proceeds after taxes and fees, which GEO plans to deploy toward a $500 million accelerated share repurchase program.",
-      "U.S. Representative Pramila Jayapal, Ranking Member of the House Subcommittee on Immigration, Integrity, Security, and Enforcement, fears the government overpaid, citing Tacoma's $72.6 million property assessment and warning federal ownership could bypass state oversight.",
-      "La Resistencia, an immigrant rights organization, vows to continue fighting for permanent facility closure, while GEO remains in \"active negotiation\" to sell three additional company-owned facilities to DHS before year-end."
-    ],
-    "title": "ICE Buys Washington Immigrant Detention Center From GEO Group for $453 Million",
-    "topic": "Immigration and Customs Enforcement",
-    "topic_full": "Immigration and Customs Enforcement · Tacoma"
-  },
-  {
-    "article_path": "/article/mississippi-saw-a-spike-in-inactive-voters-for-the-midterms-democrats-want-answers",
-    "article_url": "https://ground.news/article/mississippi-saw-a-spike-in-inactive-voters-for-the-midterms-democrats-want-answers",
-    "bias": [
-      "Left-Leaning framing foregrounds Democratic scrutiny, using “spike” and “want answers” to make the roughly 60,000-voter increase in “inactive” classifications feel unresolved and worthy of investigation.",
-      "Right-Leaning presentations emphasize the administrative development and Democratic demand itself, potentially portraying it as a partisan challenge, while remaining restrained and alleging neither wrongdoing nor election effects.",
-      "Center coverage softens the divide by noting a possible integration-process explanation, though details are truncated.",
-      "The key fault line is whether the change merits heightened scrutiny or may reflect routine administration—not whether fraud or disenfranchisement occurred.",
-      "All perspectives report the increase, midterm timing, and call for investigation, reflecting competing priorities of accountability and procedural caution."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 47.0,
-    "error": null,
-    "left_pct": 47.0,
-    "location": "Mississippi",
-    "right_pct": 6.0,
-    "status": "ok",
-    "summary": [
-      "The Mississippi Legislative Black Caucus scheduled a news conference for Thursday to demand a legislative inquiry into over 230,000 voters marked inactive ahead of the November midterm elections, an increase of nearly 60,000 since the presidential election two years ago.",
-      "Republican Secretary of State Michael Watson announced a partnership with Experian in 2025 intended to strengthen election integrity by using credit and Social Security data alongside Postal Service records to verify voter addresses.",
-      "Voters marked inactive had to cast provisional ballots; statewide approval reached 75%, but Associated Press data shows the rate dropped to 34% in Hinds County, home to Jackson, compared with 60% there in 2024.",
-      "State Rep. Cheikh Taylor, chair of the Mississippi Democratic Party , plans to introduce legislation increasing transparency in credit-data use and allowing voters to confirm identities before deactivation. Republican state senator Jeremy England suggested the proposal could draw bipartisan support.",
-      "Democrats seek to prevent what they termed \"disenfranchisement\" by ensuring eligible voters are not mistakenly deactivated as they build momentum ahead of next year's race for governor, where multiple statewide offices will be contested."
-    ],
-    "title": "Mississippi Democrats Seek Inquiry Into Surge in Inactive Voters",
-    "topic": "2026 Midterm Elections",
-    "topic_full": "2026 Midterm Elections · Mississippi"
-  },
-  {
-    "article_path": "/article/threats-from-iran-have-increased-substantially-us-intelligence-director-says",
-    "article_url": "https://ground.news/article/threats-from-iran-have-increased-substantially-us-intelligence-director-says",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 16.0,
-    "error": null,
-    "left_pct": 10.0,
+    "left_pct": 21.0,
     "location": "United States",
-    "right_pct": 74.0,
-    "status": "no_change",
-    "summary": [
-      "On Wednesday, Director of National Intelligence Jay Clayton told the House Homeland Security Committee that Iranian threats against Americans have \"substantially increased,\" pledging the intelligence community will detect, deter, and combat lethal plotting.",
-      "Despite public concern over technology outages, Homeland Security Secretary Markwayne Mullin and Clayton confirmed there is no evidence linking recent disruptions at the Federal Aviation Administration and Microsoft to Iranian cyberattacks.",
-      "U.S. forces struck an Islamic Revolutionary Guard Corps missile site on Qeshm Island last Tuesday, following multiple Iranian attacks on radar facilities in Bahrain that caused little damage.",
-      "Secretary of State and National Security Adviser Marco Rubio stated Wednesday there was \"no credible threat\" to Washington, while the White House reinforced that assessment in a separate statement.",
-      "Intelligence reports suggesting Iran discussed a \"dirty bomb\" attack in Washington fueled public anxiety despite Tehran's denials, though FBI Deputy Director Christopher Raia labeled such reporting \"aspirational\" while monitoring advanced-stage plotting."
-    ],
-    "title": "Threats from Iran have increased substantially, US intelligence director says",
-    "topic": "Iran War",
-    "topic_full": "Iran War · United States"
-  },
-  {
-    "article_path": "/article/danish-parliament-approves-defense-deal-expanding-us-military-presence-in-greenland",
-    "article_url": "https://ground.news/article/danish-parliament-approves-defense-deal-expanding-us-military-presence-in-greenland",
-    "bias": [
-      "Left-Leaning coverage frames the 109–0 approval as the product of U.S. “coercion,” warning America may be “increasingly alone” and stressing sovereignty, self-determination, and alliance damage.",
-      "Right-Leaning accounts foreground “expanded US military access,” new bases, and Arctic “conflict,” portraying the deal as a strategic security gain while de-emphasizing Greenlandic autonomy; Trump’s threats are acknowledged but folded into a practical resolution.",
-      "Center coverage presents a “standoff” and “hard-wrought agreement,” adding possible missile defense and post-independence provisions.",
-      "All emphasize expanded access, restored stability, and tensions rooted in Trump’s Greenland ambitions, reflecting wider divides over power, sovereignty, and security."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 44.0,
-    "error": null,
-    "left_pct": 32.0,
-    "location": "Denmark",
-    "right_pct": 24.0,
+    "right_pct": 26.0,
     "status": "ok",
     "summary": [
-      "Denmark’s parliament unanimously ratified a trilateral defense agreement with the United States and Greenland on Thursday—passing by a 109–0 vote in the Folketing—to expand the American military footprint across the strategic Arctic island.",
-      "Signed in September to amend and supplement the foundational 1951 defense pact, the executive agreement permits Washington to modernize Pituffik Space Base, establish additional defense areas at Narsarsuaq and Mestersvig, and deploy elements of its \"Golden Dome\" missile defense system.",
-      "The pact resolves months of intense transatlantic friction sparked earlier this year when U.S. President Donald Trump refused to rule out military or economic force to acquire the semi-autonomous territory on national security grounds.",
-      "While formally preserving Danish sovereignty and recognizing Greenlanders’ right to self-determination, the treaty remains permanently binding even if Greenland later chooses independence, requires local procurement for base construction where possible, and bars non-NATO powers from establishing installations on the island.",
-      "Following approval by Greenland’s parliament, Inatsisartut, earlier this month in a 16–0 vote with seven abstentions, the agreement will formally enter into force once Copenhagen delivers diplomatic notification to Washington."
+      "New unemployment claims rose to 203,000 for the week ended Nov 14, 2026, exceeding the 197,000 forecast by economists, the US Department of Labor reported.",
+      "Despite this slight increase, applications for state benefits remain at historically low levels below 220,000, indicating that the labor market continues to maintain stability.",
+      "For the week ended Nov 7, 2026, the number of people receiving unemployment benefits rose 70,000 to 1.763 million, while the four-week average climbed 2,000 to 197,750.",
+      "Federal Reserve minutes noted that policymakers \"generally expected labor market conditions to remain stable in the near term and viewed upside and downside risks to the labor market as broadly balanced.\"",
+      "Maintaining a stable labor environment allows the central bank to focus on inflation, which it claims is being fueled by the ongoing US-Israeli war with Iran."
     ],
-    "title": "Danish Parliament Approves Defense Deal Expanding U.S. Military Presence in Greenland",
-    "topic": "Denmark Politics",
-    "topic_full": "Denmark Politics · Denmark"
+    "title": "Number of People Seeking Unemployment Aid Ticks Higher yet Still Low Historically",
+    "topic": "US Economy",
+    "topic_full": "US Economy · United States"
   },
   {
-    "article_path": "/article/16-ecuadorian-fishermen-file-lawsuit-against-trump-administration-over-us-military-strike-and-detention_35e0dc",
-    "article_url": "https://ground.news/article/16-ecuadorian-fishermen-file-lawsuit-against-trump-administration-over-us-military-strike-and-detention_35e0dc",
+    "article_path": "/article/california-ag-issues-subpoena-to-nvidia-in-probe-of-china-chips",
+    "article_url": "https://ground.news/article/california-ag-issues-subpoena-to-nvidia-in-probe-of-china-chips",
     "bias": [
-      "The supplied material offers a sharp left-versus-right asymmetry: left-leaning coverage calls the strike “manifestly unlawful,” “kidnapping and torture,” and “extrajudicial executions,” highlighting serious burns, fishermen’s denial of drug trafficking, and the claim that no armed conflict justified force.",
-      "No developed right-leaning analysis is supplied, so a lawful- military counter-frame cannot be attributed beyond the administration’s stated counter-smuggling rationale.",
-      "Center coverage presents “catastrophic harm” and a campaign “supposedly targeting drug smugglers,” retaining more attributional distance.",
-      "Left and center converge on sixteen plaintiffs, a drone strike, and alleged injuries, while independent verification and a detailed U.S. response remain de-emphasized."
+      "Left-Leaning coverage frames the subpoena around possible investor deception, chip leakage, national-security risks, and even consequences for Asian American women, using terms like “scandal” while retaining investigative qualifiers.",
+      "Right-Leaning coverage intensifies the personal and geopolitical drama, foregrounding “Chinese spy,” “disgraced former CEO,” “stunning resignation,” and “dangerous” corporate power, while suggesting intelligence ties and elite misconduct.",
+      "Center coverage de-emphasizes sensationalism, stressing the procedural “probe,” unanswered questions, and Nvidia ’s nonresponse.",
+      "The pivotal divide is whether Huang’s alleged affair is context for regulatory scrutiny or evidence of compromised national interests.",
+      "All perspectives agree that California issued a subpoena over possible Chinese access, disclosure failures, and unresolved allegations—not a proven transfer or finding of wrongdoing—reflecting broader disputes over corporate accountability, China, and cultural suspicion."
     ],
     "bias_bar_text": null,
-    "center_pct": 46.0,
+    "center_pct": 45.0,
     "error": null,
-    "left_pct": 34.0,
-    "location": "Ecuador",
-    "right_pct": 20.0,
+    "left_pct": 21.0,
+    "location": "California",
+    "right_pct": 34.0,
     "status": "ok",
     "summary": [
-      "Sixteen Ecuadorian fishers are suing the American government in District Court on Monday, alleging forces abducted and tortured them after a March 17 drone strike sank their boat, the Negra Francisca Duarte.",
-      "The lawsuit targets Operation Southern Spear, an administration boat-strike campaign launched in late 2025, which the Washington Office estimates has killed at least 238 people while officials provide scant evidence of narcotics trafficking.",
-      "Two armed drones destroyed the vessel 385 nautical miles from Manta, Ecuador , on March 17, severely burning two crew members, despite prior Ecuadorian authorities' inspections confirming the boat carried no drugs.",
-      "Survivors claim uniformed personnel hooded and jailed them for weeks in El Salvador; Dan Kovalik, the attorney representing the fishermen, says the men seek accountability from the incoming Democrat-controlled Congress for the \"manifestly unlawful\" attacks.",
-      "This filing joins mounting legal challenges, including a wrongful death lawsuit from Trinidadian fishers and an ACLU Freedom of Information Act suit demanding release of secret Justice Department legal opinions justifying the strikes."
+      "On Thursday, California Attorney General Rob Bonta served an investigative subpoena on Nvidia , probing whether the company's advanced chips or confidential information were diverted to China in potential violation of state law.",
+      "The investigation follows revelations earlier this month that former CEO Jensen Huang engaged in an extramarital affair with Alice Huang, a Singapore-based data center executive whom U.S. officials accused of being a Chinese spy.",
+      "Some members of Congress are urging the Department of Commerce to investigate whether Megaspeed, a major Nvidia customer, diverted chips to China, though the company claims such assertions lack 'verifiable evidence.'",
+      "Board chair Harvey Jones confirmed this week that Nvidia will not reinstate Huang, despite his desire to return and support from Elon Musk, as share prices have plummeted 22% since early November.",
+      "Bonta said, 'Nvidia is in a messy, transnational situation but the underlying principle of our corporate securities law is clear: Companies cannot mislead their investors,' noting further subpoenas are possible."
     ],
-    "title": "16 Ecuadorian Fishermen File Lawsuit Against Trump Administration Over U.S. Military Strike and Detention",
-    "topic": "Politics",
-    "topic_full": "Politics · Ecuador"
+    "title": "California AG issues subpoena to Nvidia in probe of China chips",
+    "topic": "Nvidia",
+    "topic_full": "Nvidia · California"
   },
   {
-    "article_path": "/article/south-carolina-officials-urge-fcc-to-allow-prison-cellphone-jamming",
-    "article_url": "https://ground.news/article/south-carolina-officials-urge-fcc-to-allow-prison-cellphone-jamming",
+    "article_path": "/article/this-marathoner-ran-7-races-this-year-doing-them-pregnant-was-not-part-of-the-plan",
+    "article_url": "https://ground.news/article/this-marathoner-ran-7-races-this-year-doing-them-pregnant-was-not-part-of-the-plan",
     "bias": [
-      "Left-Leaning coverage frames prison cellphone jamming as the culmination of “years of advocacy,” emphasizing officials’ claims that devices are the “No. 1 security threat” and citing a near-fatal officer attack; right-leaning accounts foreground FCC Chair Brendan Carr, “crimes ordered from behind bars,” killings, drug rings, and a 2010 shooting, portraying jamming as necessary enforcement while briefly raising interference concerns.",
-      "Center coverage presents a procedural rule change and uses “crack down” and “illegal cell phones,” while noting Broad River as a possible first site.",
-      "All perspectives emphasize “contraband,” criminal activity, and correctional security, reflecting a broader divide over forceful public-safety measures versus implementation and communication risks."
+      "Left-Leaning coverage foregrounds pregnancy, nervousness, and medical approval, using terms like “mom-to-be,” “unusual,” and “not part of the plan” to frame an unconventional, autonomy-centered story.",
+      "Right-Leaning coverage de-emphasizes medical context and prior experience, instead portraying the feat as an athletic milestone, stressing that she finished New York at 34 weeks and calling it an “achievement.” Center coverage remains measured, adding the personal detail of a “hometown race” and treating pregnancy as an unexpected twist.",
+      "All perspectives emphasize seven World Marathon Majors, but their framing reflects broader divides over health, women’s autonomy, and achievement."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 64.0,
+    "error": null,
+    "left_pct": 21.0,
+    "location": "New York",
+    "right_pct": 15.0,
+    "status": "ok",
+    "summary": [
+      "On November 1, 2026, 38-year-old nurse practitioner Deirdre Keane completed the World Marathon Majors while pregnant, finishing the New York City Marathon at 34 weeks gestation.",
+      "Keane designated 2026 as a 'bucket list' year, signing up for seven World Marathon Majors and other races before starting a family after marrying last year.",
+      "She competed in the Sydney Marathon at 25 weeks, Berlin at 29 weeks, and Chicago at 31 weeks, with her husband Brian providing hydration at multiple race points.",
+      "The New York course passed Weill Cornell hospital at mile 16, where Keane joked about the proximity: 'The marathon passed a block away from Weill Cornell at mile 16, where I'm delivering.'",
+      "Inspired by her late father, John, who ran marathons while battling cancer, Keane hopes to model resilience for her son and views running as overcoming hard things."
+    ],
+    "title": "Woman runs 7 marathons while pregnant this year",
+    "topic": "Athletics",
+    "topic_full": "Athletics · New York"
+  },
+  {
+    "article_path": "/article/trump-disappeared-them-in-2025-i-found-them-locked-up-and-famished",
+    "article_url": "https://ground.news/article/trump-disappeared-them-in-2025-i-found-them-locked-up-and-famished",
+    "bias": [
+      "Left-Leaning coverage foregrounds policy-related harm, using “went hungry,” “pocketed money ,” “indefinite detention,” and “poor human-rights records” to stress deprivation, oversight, and accountability.",
+      "The right-leaning excerpt stays narrower, presenting allegations that deportees lacked food and guards took relatives’ money without explicitly interpreting the broader deportation policy.",
+      "Center coverage intensifies the rhetoric with “disappeared,” “locked up,” and “famished,” while highlighting deportees from Cuba and Myanmar sent to poverty-stricken, unstable South Sudan.",
+      "Across perspectives, detention, hunger, thirst, and alleged financial exploitation are shared emphases, with the main divide concerning policy accountability and contextual depth."
     ],
     "bias_bar_text": null,
     "center_pct": 48.0,
     "error": null,
-    "left_pct": 36.0,
-    "location": "Columbia",
-    "right_pct": 16.0,
+    "left_pct": 42.0,
+    "location": "Juba",
+    "right_pct": 10.0,
     "status": "ok",
     "summary": [
-      "The Federal Communications Commission will vote Thursday on a regulation change allowing state and local prisons to use jamming technology against contraband cellphones, according to FCC Chairman Brendan Carr.",
-      "Inmates have used smuggled devices to order violence, drug operations, and kidnappings, prompting South Carolina leaders and federal officials to push for years to change the law allowing jamming in state prisons.",
-      "Captain Robert Johnson, a corrections officer shot six times in a 2010 hit ordered by an inmate, called the phones \"weapons of mass destruction\" at Wednesday's press conference after undergoing 38 surgeries.",
-      "South Carolina Department of Corrections Director Joel Anderson said the state will immediately submit an application to implement jamming at Broad River Correctional Facility in Columbia once the FCC approves the change.",
-      "While telecommunications groups and inmate advocates have opposed jamming over interference concerns, FCC Chairman Brendan Carr said opposition has waned as technology improved, allowing precise signal blocking confined to prison grounds."
+      "Deportees held by South Sudan in a Juba \"safe house\" face severe hunger and thirst behind locked gates, with guards restricting all contact and confining detainees to a gated three-story building.",
+      "Under the Trump administration , thousands have been expelled to more than 30 nations as part of a third-country deportation policy the Supreme Court allowed last year despite legal challenges regarding torture protections.",
+      "Guards solicited payments ranging from $100 to $1,000 from detainees' families, promising food and water that rarely arrived; Tuan Phan lost 20 pounds while confined in the facility.",
+      "South Sudan's Foreign Ministry claims detainees receive adequate care, yet the Trump administration instructed the Embassy not to visit or monitor their treatment, according to a U.S. congressional aide.",
+      "Scheduled for December, Supreme Court hearings will determine whether third-country deportations violate the Constitution and international protections against torture, with fast-track proceedings underway."
     ],
-    "title": "FCC Expected to Allow State Prisons to Jam Contraband Cellphone Signals with Thursday Vote – WTOP News",
-    "topic": "FCC",
-    "topic_full": "FCC · Columbia"
+    "title": "US Deportees in South Sudan Went Hungry as Guards Pocketed Money From Relatives, Families Say",
+    "topic": "Donald Trump",
+    "topic_full": "Donald Trump · Juba"
   },
   {
-    "article_path": "/article/florida-set-to-conduct-20th-execution-this-yearnew-state-recordwith-execution-of-military-veteran-and-dozier-school-survivor-thomas-overton",
-    "article_url": "https://ground.news/article/florida-set-to-conduct-20th-execution-this-yearnew-state-recordwith-execution-of-military-veteran-and-dozier-school-survivor-thomas-overton",
-    "bias": [
-      "Left-Leaning coverage frames Florida’s 20th execution as a troubling escalation, using phrases like “shattered its own annual record,” “troubling hallmarks,” and “notoriously abusive” to foreground systemic concerns, declining national support, and Overton’s trauma.",
-      "Center coverage presents a procedural account, emphasizing the “record-breaking” figure, his conviction, and a parallel Texas “lethal injection.” Right-leaning coverage largely de-emphasizes broader context but pivots to “mishandled evidence,” portraying the pivotal divide as evidentiary fairness rather than capital-punishment policy.",
-      "Across perspectives, the shared focus is Florida surpassing 19 executions, Overton’s scheduled Thursday execution, and ongoing legal controversy—reflecting wider conflicts over punishment, due process, and institutional power."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 39.0,
-    "error": null,
-    "left_pct": 50.0,
-    "location": "Florida",
-    "right_pct": 11.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, November 19, 2026, Florida is scheduled to execute Thomas Overton at Florida State Prison, marking the state's 20th execution this year and setting a new annual record.",
-      "Overton, an Army veteran and survivor of the abusive Dozier School, was sentenced for the 1991 murders of Michael and Susan MacIvor; attorneys allege the investigation involved \"extraordinary failures\" including mishandled DNA evidence and psychic contamination.",
-      "His legal team filed a Supreme Court petition challenging Florida's clemency system, arguing the \"clemency process as it was originally intended no longer exists.\" The jury recommended death sentences by non-unanimous votes of 9-3 and 8-4.",
-      "Governor Ron DeSantis has overseen record executions; Overton will be the 15th military veteran put to death under his administration. Advocates recently urged Governor-elect Byron Donalds to halt future proceedings after taking office in January.",
-      "A recent Gallup poll found national support for capital punishment has dipped below 50 percent for the first time since 1971. Other states like Ohio and Pennsylvania have recently moved to review or commute death sentences amid the national shift."
-    ],
-    "title": "Florida set to carry out its record-breaking 20th execution same day as a Texas lethal injection",
-    "topic": "Florida Politics",
-    "topic_full": "Florida Politics · Florida"
-  },
-  {
-    "article_path": "/article/former-sen-ben-sasses-memoir-on-surviving-cancer-co-written-with-his-daughter-is-set-for-march-9",
-    "article_url": "https://ground.news/article/former-sen-ben-sasses-memoir-on-surviving-cancer-co-written-with-his-daughter-is-set-for-march-9",
-    "bias": [
-      "Left-Leaning coverage frames the memoir through “mortality,” life priorities, and the doctors’ prediction of “four months or less,” emphasizing illness as a profound test and source of reflection.",
-      "Right-Leaning coverage de-emphasizes that prognosis and political context, foregrounding “surviving cancer ,” co-authorship, and publication details, while using “dying” through the title’s language of a “strange gift.” Center coverage bridges these approaches with restrained human-interest framing, including both medical seriousness and family context.",
-      "The key dividing line is whether the story stresses existential vulnerability or recovery and publication; all perspectives, however, portray it primarily as a personal account rather than a partisan controversy."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 52.0,
-    "error": null,
-    "left_pct": 37.0,
-    "location": "Nebraska",
-    "right_pct": 11.0,
-    "status": "ok",
-    "summary": [
-      "On March 9, Hachette Book Group imprint Center Street will publish \"Redeem the Time: The Strange Gift of Dying and the Lost Art of Living,\" co-authored by former Senator Ben Sasse and his daughter, Alex Sasse.",
-      "Sasse, 54, announced in December 2025 that he was diagnosed with Stage 4 pancreatic cancer; after doctors gave him four months to live, he completed the memoir in hospital hallways.",
-      "The memoir reflects on time, workaholism, and family rather than being a standard cancer narrative, as Sasse notes the \"gift of dying\" shatters the \"insane delusions of self-control.\"",
-      "Center Street describes the work as a \"poignant book that reflects on many of these themes,\" including the need for family and embodied communities in an era of digital rootlessness.",
-      "Sasse previously served as president of the University of Florida and authored \"Them: Why We Hate Each Other and How to Heal\" and \"The Vanishing American Adult."
-    ],
-    "title": "Former Sen. Ben Sasse’s memoir on surviving cancer, co-written with his daughter, is set for March 9",
-    "topic": "Ben Sasse",
-    "topic_full": "Ben Sasse · Nebraska"
-  },
-  {
-    "article_path": "/article/outgoing-texas-ag-ken-paxton-dismisses-lawsuit-against-cair",
-    "article_url": "https://ground.news/article/outgoing-texas-ag-ken-paxton-dismisses-lawsuit-against-cair",
-    "bias": [
-      "Left-Leaning coverage frames Paxton’s action chiefly as “abandoning” an effort to “ban” CAIR, linking it to a Democratic “sweep” and emphasizing civil-liberties concerns; center coverage adds CAIR’s identity as a Muslim civil-rights group, the proposed “terrorist organization” designation, the lack of a judicial ruling, and Abbott’s separate designation.",
-      "Right-Leaning accounts portray a major attempt to “shut down” CAIR and the “Muslim Brotherhood,” stress the procedural “without prejudice” filing, and use emphatic “DROPS” while attributing the retreat to Democratic victories.",
-      "All agree the lawsuit ended, but their dividing line is whether that outcome signals political retreat, civil-rights protection, or unresolved security claims amid broader partisan conflict."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 30.0,
-    "error": null,
-    "left_pct": 35.0,
-    "location": "Texas",
-    "right_pct": 35.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, outgoing Texas Attorney General Ken Paxton filed a notice of nonsuit, ending his Collin County lawsuit against the Council on American-Islamic Relations. The move follows Paxton's loss in his U.S. Senate race.",
-      "Allegations in the February filing claimed the Council functioned as a 'front group' for Hamas and sought to advance Sharia law. Gov. Greg Abbott had previously issued a state proclamation labeling the group a terrorist organization.",
-      "Paxton's office has recently abandoned lawsuits targeting the NCAA over transgender athletes, marking a broader retreat from politically charged cases. CAIR previously rejected the state's accusations as retaliation for its political advocacy.",
-      "Although the lawsuit is dismissed, Abbott's designation remains in effect as a separate issue. Incoming Gov. Gina Hinojosa has pledged to remove the label when she assumes office.",
-      "Hinojosa told the Washington Post, 'We have to use public safety measures for public safety,' dismissing what she called political misuse of power. Mustafaa Carroll, CAIR-Dallas executive director, expressed hope for unity under the incoming administration."
-    ],
-    "title": "Ken Paxton’s Office Drops Lawsuit Seeking to Ban Muslim Civil Rights Group in Texas",
-    "topic": "Ken Paxton",
-    "topic_full": "Ken Paxton · Texas"
-  },
-  {
-    "article_path": "/article/walmart-raises-outlook-for-3rd-time-this-year-after-a-solid-quarter",
-    "article_url": "https://ground.news/article/walmart-raises-outlook-for-3rd-time-this-year-after-a-solid-quarter",
-    "bias": [
-      "Coverage is broadly positive but diverges in emphasis: left-leaning accounts portray Walmart ’s growth as broad-based, driven by inflation-weary shoppers seeking cheaper groceries and gas, with upbeat language such as “solid,” “growing number,” and a “flywheel” gathering momentum; right-leaning coverage frames upper-income households as the force that “fuel” sales and “led” market-share gains, adding scale through $188.8 billion in global revenue and 5.2% growth.",
-      "Center coverage bridges the narratives, highlighting the third outlook increase while stressing a “cautious outlook.” The dividing line is whether Walmart’s success reflects broad consumer cost pressure or affluent-market strength; all agree sales rose and guidance improved, reflecting wider debates over inflation, class, and economic resilience."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 55.0,
-    "error": null,
-    "left_pct": 24.0,
-    "location": "United States",
-    "right_pct": 21.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, Walmart reported $188.8 billion in revenue, a 5.2% increase, and raised its full-year guidance for the third time this year.",
-      "Upper-Income households drove the performance, while the retailer launched a $120 membership bundle combining Walmart+ and Sam's Club Plus ahead of the holidays.",
-      "Global e-commerce sales rose 17% and U.S. online sales jumped 23%, though federal legislation requiring capped prices on high-cost Medicare drugs weighed on comparable sales.",
-      "Walmart CEO John Furner stated the company is \"growing our core business and gaining market share,\" though the raised outlook was more conservative than some analysts expected.",
-      "Analysts look to the retailer as a barometer for the broader economy, tracking how resilient households prioritize value as shoppers become more selective with holiday spending."
-    ],
-    "title": "Walmart raises sales and earnings outlook as e-commerce sales jump again",
-    "topic": "Walmart",
-    "topic_full": "Walmart · United States"
-  },
-  {
-    "article_path": "/article/hackers-access-financial-data-of-retired-nyc-government-workers-politico-reports_396df7",
-    "article_url": "https://ground.news/article/hackers-access-financial-data-of-retired-nyc-government-workers-politico-reports_396df7",
-    "bias": [
-      "Left-Leaning coverage frames the breach as an urgent privacy and security threat, using phrases like “quietly slipped into,” “hackers,” and “sensitive” data while suggesting attackers sought settlement funds and invoking broader cyberattack concerns.",
-      "Right-Leaning coverage narrows the issue to unauthorized access, stressing that no evidence shows retirees’ money was “stolen,” thereby separating exposure from confirmed financial loss.",
-      "Center coverage emphasizes operational context—Atticus Administration, settlement payments, and the approximately $53 million settlement—while using restrained terms such as “accessed” and “compromised.” All perspectives highlight financial and medical information affecting up to 4,000 retirees, but their divide reflects competing concerns over privacy risk, institutional vulnerability, and evidentiary caution."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 69.0,
-    "error": null,
-    "left_pct": 23.0,
-    "location": "New York",
-    "right_pct": 8.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, Politico reported that hackers accessed financial and health data of 4,000 retired New York City government workers through Atticus Administration, which manages a $53 million settlement with EmblemHealth.",
-      "Retirees submitted claims for co-pay reimbursements under the GHI Senior Care plan for 2022 and 2023, creating the database that hackers infiltrated this fall.",
-      "After Atticus flagged submissions as \"invalid\" on October 12, 2026, the company confirmed with disbursement partners that \"no claimant payout was created, changed or redirected\" during the breach.",
-      "Spokesperson Alex Gomez confirmed Wednesday that Emblem's investigation is ongoing, and officials stated that claims processing and distribution will continue despite the breach.",
-      "The identity of the hackers and their motive remain publicly unknown, highlighting broader cybersecurity risks when governments rely on third-party contractors to handle sensitive information."
-    ],
-    "title": "Hackers access financial data of retired NYC government workers, Politico reports",
-    "topic": "New York State Politics",
-    "topic_full": "New York State Politics · New York"
-  },
-  {
-    "article_path": "/article/campbell-county-blames-meth-denies-excessive-force-in-fatal-jail-restraint-lawsuit",
-    "article_url": "https://ground.news/article/campbell-county-blames-meth-denies-excessive-force-in-fatal-jail-restraint-lawsuit",
+    "article_path": "/article/arrested-in-barcelona-guipuzcoa-malaga-and-melilla-four-jihadists-who-used-ai-for-radicalization_1826f4",
+    "article_url": "https://ground.news/article/arrested-in-barcelona-guipuzcoa-malaga-and-melilla-four-jihadists-who-used-ai-for-radicalization_1826f4",
     "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 36.0,
-    "error": null,
-    "left_pct": 64.0,
-    "location": "Wyoming",
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "Campbell County denied on Monday that jail staff caused Kenneth Durrah's death, arguing in court filings that his 2022 passing resulted from his own concealed drug ingestion rather than deputies' use of force or inadequate medical care.",
-      "The civil rights lawsuit alleges law enforcement used excessive force and showed deliberate indifference to Durrah's medical needs before he died at the Campbell County Detention Center on Dec. 1, 2022, while strapped to a restraint chair.",
-      "Video footage shows Durrah telling Detention Officer Samuel Boyles, \"It's too tight, please,\" while restrained. Deputies left him in the chair for half an hour without summoning medical aid after witnessing him ingest suspected methamphetamine, the complaint states.",
-      "Defending their actions, the county argues the strip search and restraint chair were justified by Durrah's resistance and suspected contraband. Defense disputes deliberate indifference claims, asserting staff began CPR and applied an AED when they found him unresponsive.",
-      "An autopsy described the cause of death as \"sudden cardiac death, consistent with\" excited delirium due to methamphetamine, but the lawsuit argues prone restraint produced a fatal chemical imbalance that deputies failed to mitigate."
-    ],
-    "title": "Campbell County blames meth, denies excessive force in fatal jail restraint lawsuit",
-    "topic": "Wyoming, United States",
-    "topic_full": "Wyoming, United States · Wyoming"
-  },
-  {
-    "article_path": "/article/jpmorgan-says-third-party-vendors-targeted-in-cyberattack",
-    "article_url": "https://ground.news/article/jpmorgan-says-third-party-vendors-targeted-in-cyberattack",
-    "bias": [
-      "Left-Leaning coverage dramatizes the incident through phrases like “dark web hackers” and “richest clients,” foregrounding the alleged leak of roughly 16,000 customers’ data and its populist implications.",
-      "Center coverage moderates that alarm by distinguishing vendor-held marketing data from JPMorgan’s core systems and specifying possible names, emails, phone numbers, and account IDs.",
-      "Right-Leaning coverage de-emphasizes the leak, repeating that third-party vendors were “targeted” and framing the episode as limited in scope.",
-      "The pivotal divide is whether this is a consequential privacy breach or a vendor-level attack; all perspectives agree that third-party providers were attacked, reflecting broader differences over institutional risk and accountability."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 66.0,
-    "error": null,
-    "left_pct": 11.0,
-    "location": "United States",
-    "right_pct": 23.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, JPMorgan Chase announced that third-party vendors providing services to the firm were targeted by a cyberattack, though the bank confirmed there is no disruption to its own services.",
-      "Investigation findings suggest attackers accessed 'certain marketing data' held by the vendors, which may include customer names and email addresses.",
-      "A spokesperson told Reuters there is 'no connection to the service disruption of some customers experienced earlier this week' when technical issues affected multiple banks.",
-      "JPMorgan will contact impacted customers directly to offer support, including complimentary credit monitoring, as it addresses the security incident.",
-      "These incidents follow several recent technical problems, including a nationwide Federal Aviation Administration ground stop last week, Microsoft's global email outage, and a massive hack at Binance last month."
-    ],
-    "title": "JPMorganChase reports cyberattack on third-party service providers",
-    "topic": "JP Morgan",
-    "topic_full": "JP Morgan · United States"
-  },
-  {
-    "article_path": "/article/van-gogh-painting-sells-for-record-1904m-after-dispute",
-    "article_url": "https://ground.news/article/van-gogh-painting-sells-for-record-1904m-after-dispute",
-    "bias": [
-      "Left-Leaning coverage foregrounds Nazi persecution, possible dispossession, and a “dark cloud” over the sale, portraying the £145 million result as ethically troubling.",
-      "Right-Leaning framing stresses Sotheby’s claim that no evidence established duress, uses phrases like “shaky ground,” “risk-taking,” and “eye-watering” to cast the heirs’ challenge as legally uncertain yet commercially dramatic.",
-      "Center coverage treats the provenance dispute as a “complex past,” emphasizing the last-minute agreement and market implications.",
-      "The pivotal divide is whether settlement resolves injustice or merely permits trading amid unresolved history.",
-      "All emphasize the $190.4 million record, reflecting tensions between restitution, property rights, and commerce."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 44.0,
-    "error": null,
-    "left_pct": 28.0,
-    "location": "United States",
-    "right_pct": 28.0,
-    "status": "ok",
-    "summary": [
-      "On Wednesday night, Vincent van Gogh 's painting of blossoming chestnut trees sold for $190.4 million at Sotheby's in Manhattan, ending an eleventh-hour dispute after the Blaquier-Arrieta family and heirs of Samuel Fischer reached a Monday settlement.",
-      "Heirs of Samuel Fischer staked a claim last week, alleging the painting was sold in 1936 under duress of Nazi persecution; lawyer Gunnar Schnabel represented their interests in negotiations that preceded the auction.",
-      "All 12 works from the Blaquier-Arrieta collection sold for $412 million, falling short of Sotheby's $450 million estimate, with other notable sales including a Paul Cézanne painting for $111 million and a Camille Pissaro cityscape for $24.2 million.",
-      "Art adviser Ralph DeLuca noted the auction room felt \"tepid,\" with \"no mood, no Champagne atmosphere,\" yet the final results offer evidence of the high-end art market's cautious recovery from a yearslong recession.",
-      "The 1890 canvas set an auction record for Van Gogh and became the sixth most expensive painting ever sold at auction when adjusted for inflation, surpassing the previous record of $117.2 million set in 2022 for a landscape from Paul Allen's collection."
-    ],
-    "title": "Van Gogh Painting Sells for Record $190.4m After Dispute",
-    "topic": "Vincent Van Gogh",
-    "topic_full": "Vincent Van Gogh · United States"
-  },
-  {
-    "article_path": "/article/humans-must-remain-in-control-of-ai-says-bishop",
-    "article_url": "https://ground.news/article/humans-must-remain-in-control-of-ai-says-bishop",
-    "bias": [
-      "Left-Leaning coverage frames the bishops’ AI task force around “ regulation ,” “guardrails,” and “worker protections,” presenting oversight as necessary to “protect humanity” and addressing employment risks.",
-      "Right-Leaning coverage shifts from labor policy to moral authority: “must” and “control” emphasize human command, while “the clock is ticking” adds urgency and “human dignity” and “the common good” invoke tradition.",
-      "Center coverage links the initiative to Pope Leo’s warning that AI is the “biggest challenge today” and calls for “robust” regulation.",
-      "Despite these divides, all portray the task force, safeguards, and human welfare as essential amid broader technological and cultural anxieties."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 52.0,
-    "error": null,
-    "left_pct": 33.0,
-    "location": "United States",
-    "right_pct": 15.0,
-    "status": "ok",
-    "summary": [
-      "On Wednesday, November 18, Bishop Oscar Cantú of San Jose, California, urged the U.S. Conference of Catholic Bishops in Baltimore to ensure humans maintain control over artificial intelligence to safeguard human dignity and the common good.",
-      "Bishop Cantú leads the newly formed USCCB task force, which seeks to implement Pope Leo's vision from the encyclical 'Magnifica Humanitas' to keep technology rooted in human dignity and Catholic social teaching.",
-      "The task force will provide webinars and become a clearinghouse for best practices while advocating for 'clear guardrails on the development and use of AI,' including transparency, accountability, and human oversight.",
-      "With technology expected to reach full speed within six months to a year, the Church is engaging major technology companies, which have expressed 'genuine openness to dialogue' regarding moral and ethical questions at stake.",
-      "The Church aims to become a 'school of discernment in the digital age' to protect vulnerable persons, while insisting that 'moral responsibility in conflict cannot be delegated to an algorithm,' Cantú said."
-    ],
-    "title": "US Catholic bishops’ new AI task force urges regulation and worker protections",
-    "topic": "Artificial Intelligence",
-    "topic_full": "Artificial Intelligence · United States"
-  },
-  {
-    "article_path": "/article/israel-police-probe-suspected-arson-attack-on-mosque-near-afula-nationalist-graffiti-found_eaf05e",
-    "article_url": "https://ground.news/article/israel-police-probe-suspected-arson-attack-on-mosque-near-afula-nationalist-graffiti-found_eaf05e",
-    "bias": [
-      "Left-Leaning coverage frames the mosque fire as “settler terror,” “organized Zionist terrorism,” and part of a wider pattern of occupation, anti-Arab violence, and displacement, foregrounding alleged masked attackers, a Molotov cocktail, Shin Bet involvement, and “far-right incitement.” Right-leaning coverage narrows the event to a “suspected hate crime ,” retaining uncertainty while emphasizing law-and-order concerns and accusations of “incitement” tied to Netanyahu’s camp.",
-      "Center coverage similarly stresses a police probe and religious desecration without assigning definitive blame.",
-      "The pivotal divide is whether the fire represents systemic settler violence or an isolated suspected crime; all perspectives acknowledge the fire, nationalist graffiti, investigation, and communal danger."
-    ],
-    "bias_bar_text": "Left 67% 11% R 22%",
-    "center_pct": 11.0,
-    "error": null,
-    "left_pct": 67.0,
+    "bias_bar_text": "Left 25% Center 37% Right 38%",
+    "center_pct": 37.0,
+    "error": "Message: \n",
+    "left_pct": 25.0,
     "location": null,
-    "right_pct": 22.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday morning, a fire broke out at a mosque near Afula, prompting the Shin Bet and Israel Police to launch an investigation into a suspected hate crime . Firefighters from Israel Fire and the Rescue Authority extinguished the blaze.",
-      "Nationalist and anti-Islamic graffiti slogans, including the word 'revenge' in Hebrew, were found sprayed on the mosque walls. The incident follows a suspected nationalist car-ramming attack in Kafr Kassem on Wednesday evening that wounded at least three people.",
-      "The mosque's imam told Walla that three attackers arrived carrying a Molotov cocktail and gasoline, spray-painted 'revenge,' then set the building on fire. Fortunately, the blaze was not intense, and the imam and others extinguished it upon arrival for prayers.",
-      "\"I am not concerned that this incident will lead to unrest,\" the imam stated, adding that the community has spoken with the Israel Police, who have collected evidence and are working to apprehend the attackers.",
-      "Investigators are examining how the suspects reached the village near Afula, with one possibility being they arrived on foot through forests adjacent to the site. The Rescue Services are also analyzing the circumstances of the fire."
-    ],
-    "title": "Israel Police probe suspected arson attack on mosque near Afula, nationalist graffiti found",
+    "right_pct": 38.0,
+    "status": "fail",
+    "summary": null,
+    "title": "Arrested in Barcelona, Guipúzcoa, Málaga and Melilla Four Jihadists Who Used AI for Radicalization",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/mamdani-defends-october-7-post-repeats-genocide-accusation",
-    "article_url": "https://ground.news/article/mamdani-defends-october-7-post-repeats-genocide-accusation",
+    "article_path": "/article/zohran-mamdani-stands-by-israel-genocide-post-after-backlash",
+    "article_url": "https://ground.news/article/zohran-mamdani-stands-by-israel-genocide-post-after-backlash",
+    "bias": [
+      "Center-Leaning coverage frames Mamdani’s October 7 statement as an effort to mourn the “totality” of the conflict, noting his condemnation of the attacks as “horrific war crimes” while reaffirming that Israel’s actions in Gaza constitute “genocide.” Right-leaning coverage instead portrays that linkage as disproportionate and “tone-deaf,” emphasizing Jewish New Yorkers’ fears, antisemitism concerns, and questioning that left him “flustered,” “grilled,” or “twists in the wind”; an Israeli official’s “dangerous man” label intensifies the threat framing.",
+      "The pivotal divide is whether mentioning Gaza contextualizes mourning or displaces Israeli victims.",
+      "Both sides acknowledge his defense and condemnation, reflecting the broader Israel-Gaza and antisemitism-versus-Palestinian-rights divide."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "New York City Mayor Zohran Mamdani defended his decision on Wednesday to devote most of his Oct. 7 statement to criticizing Israel's military response in Gaza, arguing he could not separate the two events.",
+      "His original statement acknowledged Hamas' \"horrific war crimes\" and more than 1,100 Israelis killed, before shifting to accusations that Israel's actions in Gaza amount to an \"ongoing genocide\" funded by United States tax dollars.",
+      "Speaking onstage at the New York Times DealBook Summit, Mamdani told interviewer Andrew Ross Sorkin that his views on \"universality\" prevented him from separating his commentary on the massacre from the subsequent military operation.",
+      "Hours after releasing the statement, Mamdani attended a memorial vigil for roughly 1,200 people killed and 250 taken hostage by Hamas, where admirers of the terrorist organization heckled him.",
+      "Acknowledging spiking antisemitic hate crimes in New York, Mamdani affirmed his role as mayor of the most Jewish city in the United States while addressing disagreements over his views on Israel and Palestine."
+    ],
+    "title": "Zohran Mamdani Stands by Israel ‘Genocide’ Post After Backlash",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/gaza-doctor-abu-safiya-lost-14-kilos-the-prison-doctors-statement-disturbed",
+    "article_url": "https://ground.news/article/gaza-doctor-abu-safiya-lost-14-kilos-the-prison-doctors-statement-disturbed",
+    "bias": [
+      "Left-Leaning coverage frames the six-month extension as “abduction,” “arbitrary detention,” and a “kangaroo court,” foregrounding Abu Safiya’s reported health decline, alleged mistreatment, lawyer’s account that release was denied on security grounds, his denial of Hamas ties, detention since December 27, and international criticism; “the Occupation” adds geopolitical condemnation.",
+      "The right-leaning headline uses a narrower institutional frame—an extension “without charges”—and de-emphasizes health, treatment, representation, and competing allegations without endorsing or rejecting the detention’s justification.",
+      "Both identify Abu Safiya as a Gaza hospital director and report the same extension without charges, exposing a humanitarian-versus-procedural emphasis amid the conflict."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "An Israeli court in Beersheba extended the detention of Dr. Hussam Abu Safiya, director of Kamal Adwan Hospital, by six months, ruling he \"poses a threat to the state of Israel.\"",
+      "Abu Safiya has been imprisoned without charge or trial since December 27, 2024, following his arrest during an Israeli military raid on the hospital where he insisted on remaining to provide care.",
+      "The Office of the United Nations High Commissioner for Human Rights reports Abu Safiya has been \"subjected to torture and other ill-treatment,\" including solitary confinement, severe assaults, and denial of medical care.",
+      "Amnesty International UK described the extension as \"shameful,\" challenging the British government to \"publicly demand\" his immediate release, while more than 800 UK healthcare workers have petitioned the foreign secretary.",
+      "Held under Israel's \"unlawful combatants\" law, the physician's detention is described by Amnesty International as a \"flagrant violation of international law,\" as courts recently dismissed petitions seeking the release of 14 other Palestinian doctors."
+    ],
+    "title": "Israeli Court Extends Gaza Doctor Abu Safia’s Detention without Charge",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/witkoff-and-kushner-join-russia-china-us-summit-remotely",
+    "article_url": "https://ground.news/article/witkoff-and-kushner-join-russia-china-us-summit-remotely",
     "bias": null,
     "bias_bar_text": null,
     "center_pct": null,
@@ -787,18 +832,17 @@
     "right_pct": null,
     "status": "fail",
     "summary": null,
-    "title": "Zohran Mamdani Stands by Israel ‘Genocide’ Post After Backlash",
+    "title": "Witkoff and Kushner Join Russia-China-US Summit Remotely",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/jewish-israeli-arrested-after-ramming-at-least-eight-in-kafr-kassem-hit-and-run",
-    "article_url": "https://ground.news/article/jewish-israeli-arrested-after-ramming-at-least-eight-in-kafr-kassem-hit-and-run",
+    "article_path": "/article/marana-approves-business-license-for-mtc-immigration-detention-facility",
+    "article_url": "https://ground.news/article/marana-approves-business-license-for-mtc-immigration-detention-facility",
     "bias": [
-      "Left-Leaning coverage frames the event as intentional anti-Palestinian violence, stressing “settler,” “deliberate,” and “terrorist act,” while emphasizing Israeli identity and Palestinian victimization.",
-      "Right-Leaning coverage foregrounds the arrest, “ramming incident,” possible drug impairment, and procedural investigation, though its secondary use of “deliberate manslaughter” and “occupied Arab territories” introduces sharper political language.",
-      "The pivotal divide is whether the vehicle strikes constitute terrorism or loss of control—a question center coverage presents as unresolved through “hit-and-run” and competing explanations.",
-      "Across perspectives, reports emphasize at least eight injuries at multiple locations and an investigation, reflecting broader disputes over intent, accountability, and the Israeli-Palestinian conflict."
+      "Left-Leaning coverage frames Marana’s November 18 license as lifting a “final bureaucratic roadblock,” emphasizing town-code grounds for approval and repeatedly foregrounding “immigration detention.” Right-leaning coverage presents the same action as routine licensing, using the more institutional “immigration detention facility” and offering little discussion of allegations, oversight, or broader implications.",
+      "Center coverage adds a sharper accountability frame, highlighting MTC’s acknowledged omission of a “sexual misconduct allegation” from a federal audit and portraying the operator as “defends” amid scrutiny.",
+      "Across perspectives, the shared focus is MTC’s planned operation in a former state prison and the license as a remaining administrative barrier; community reaction, conditions, population, and timing are de-emphasized."
     ],
     "bias_bar_text": null,
     "center_pct": null,
@@ -808,64 +852,13 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
-      "A driver struck eight Palestinians in Kafr Qassem on Wednesday, injuring victims who required immediate hospital transport for treatment.",
-      "Initial reports identify the driver as a Jewish Israeli settler, with the incident occurring in the Arab town of Kafr Qasim in central Israel.",
-      "Surveillance footage documents the vehicle striking two individuals, providing visual evidence of the hit-and-run incident as it unfolded across the town.",
-      "Several victims received hospital treatment for moderate injuries. An eyewitness described \"hysteria\" and people in panic after hearing screams near an event hall.",
-      "Israel Police are examining several lines of inquiry, including potential intoxication or a nationalistic motive, while keeping all possibilities open as investigation continues."
+      "On Wednesday, Nov. 18, Marana issued a business license to Management & Training Corporation , clearing the final bureaucratic hurdle for the U.S. Immigration and Customs Enforcement detention center to become operational.",
+      "The town issued the license after reviewing the 2023 Prison Rape Elimination Act report, during which MTC initially claimed no reports of sexual abuse despite contradictory state records.",
+      "MTC faces scrutiny over inconsistent reporting; former Gov. Doug Ducey terminated the company's contract following a 2015 riot, according to investigations by Lookout and the Intercept.",
+      "Community group Pima Resists ICE denounced the decision Thursday, stating the town 'utterly failed' to conduct due diligence, according to organizer Bennett Burke.",
+      "Federal officials plan to nearly triple the detention facility's capacity as it prepares to open, while Marana confirmed no open building permits remain for the site."
     ],
-    "title": "Jewish Israeli arrested after ramming at least eight in Kafr Kassem hit-and-run",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/trump-lets-put-it-this-way-i-know-everything_7ea26b",
-    "article_url": "https://ground.news/article/trump-lets-put-it-this-way-i-know-everything_7ea26b",
-    "bias": [
-      "Left-Leaning coverage frames Trump’s refusal to promise pressure on China as inconsistency, calling his claim that America spies “better” a “boast” while stressing business ties and the stakes of a “key trip.” Right-leaning coverage instead amplifies confidence through “I KNOW EVERYTHING,” “spy better,” and a “positive development,” portraying reciprocal espionage as strategic strength and de-emphasizing the refusal itself.",
-      "Center coverage uses attribution—“claims” and “upper hand”—to temper the assertion without endorsing it.",
-      "The dividing line is whether espionage signals hypocrisy, cautious pragmatism, or national advantage; all perspectives nonetheless emphasize mutual spying, the Xi meeting, and rivalry shaped by competing economic and geopolitical priorities."
-    ],
-    "bias_bar_text": "Left 30% 10% Right 60%",
-    "center_pct": 10.0,
-    "error": null,
-    "left_pct": 30.0,
-    "location": null,
-    "right_pct": 60.0,
-    "status": "ok",
-    "summary": [
-      "On Wednesday, President Donald Trump , currently in Shenzhen for the Asia-Pacific Economic Cooperation summit, said he would not press China to stop spying on the nation because both countries engage in mutual intelligence gathering.",
-      "Trump defended the intelligence rivalry, stating, \"We spy on them...we spy on China, they spy on us.\" He claimed deep business ties with Beijing make the surveillance relationship a reality of international commerce.",
-      "These remarks followed reports involving Nvidia CEO Jensen Huang and Alice Huang, a businesswoman Chinese intelligence suspects has ties to spying. The scandal reached the White House and threatened Commerce Secretary Howard Lutnick.",
-      "Trump dismissed the Nvidia scandal as a \"tragedy,\" calling Jensen Huang a \"brilliant man\" despite intelligence concerns. Separately, he downplayed recent technology outages at Microsoft, Apple, JPMorgan Chase, and United Airlines as routine equipment installation issues.",
-      "High-Stakes meetings with Chinese President Jinping and Russian President Vladimir Putin remain on Trump's agenda in Shenzhen, where he intends to discuss ending the war in Iran and denuclearization."
-    ],
-    "title": "Trump says US, China spy on each other, claims US does it better",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/musk-pledges-higher-tesla-output-at-china-plant-chinese-state-media-says_c2024b",
-    "article_url": "https://ground.news/article/musk-pledges-higher-tesla-output-at-china-plant-chinese-state-media-says_c2024b",
-    "bias": [
-      "Coverage diverges mainly in emphasis: center-leaning accounts foreground Tesla ’s planned production increase and Musk’s warning about “geopolitical potholes” linked to Taiwan, while right-leaning coverage spotlights cordial China ties, his son’s visit, and phrases like “superfan,” “toy paradise,” and “cute moment.” The same Taiwan reference becomes a strategic risk in one framing but a veiled statement confronting China’s “red line” in the other.",
-      "Center coverage treats “pledges” and “boost” cautiously, whereas the right stresses personal enthusiasm and spectacle.",
-      "Both portray Musk’s China favorably and report continued Shanghai output, reflecting shared attention to manufacturing dependence and the wider tension between commercial engagement and geopolitical suspicion."
-    ],
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": null,
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "Elon Musk said Tesla would continue increasing output at its Shanghai factory, according to Yuyuan Tantian, a social media account affiliated with China’s state broadcaster CCTV.",
-      "Yuyuan Tantian reported that Musk made the remarks during a meeting with Ren Hongbin, head of the China Council for the Promotion of International Trade.",
-      "Tesla delivered 810,889 Model 3 and Model Y vehicles from its Shanghai plant in the first 10 months of the year, up 21.4% from a year earlier.",
-      "The factory can produce more than 950,000 vehicles annually, sources 98% of its parts from China, and exports vehicles to Europe, South Korea, and Australia."
-    ],
-    "title": "Musk pledges higher Tesla output at China plant, Chinese state media says",
+    "title": "Arizona town approves business license for immigration detention facility",
     "topic": null,
     "topic_full": null
   }
