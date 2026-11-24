@@ -1,14 +1,143 @@
 [
   {
-    "article_path": "/article/democrats-clinch-at-least-258-house-seats-most-since-1992-as-chuck-hubbard-flips-north-carolina-district",
-    "article_url": "https://ground.news/article/democrats-clinch-at-least-258-house-seats-most-since-1992-as-chuck-hubbard-flips-north-carolina-district",
-    "bias": null,
+    "article_path": "/article/us-prepares-to-raise-tariffs-on-china-and-other-countries-wsj_a0a30d",
+    "article_url": "https://ground.news/article/us-prepares-to-raise-tariffs-on-china-and-other-countries-wsj_a0a30d",
+    "bias": [
+      "Left-Leaning coverage frames the tariff plan as a “sneaky” Supreme Court “workaround” and renewed “trade wall,” emphasizing legal evasion and escalating tensions; right-leaning coverage instead portrays it as an effort to “protect American businesses” from foreign subsidies and excess capacity, though terms like “tariff bomb” and “barrage” dramatize the confrontation.",
+      "The pivotal divide is whether the policy is an improper revival of invalidated duties or legitimate economic defense, with the right also stressing India and global leverage.",
+      "Center coverage emphasizes “tariff risks,” market losses, and uncertain country-by-country rates.",
+      "All perspectives agree tariffs may rise against China, the EU, and others amid trade-war pressures."
+    ],
     "bias_bar_text": null,
     "center_pct": null,
     "error": null,
     "left_pct": null,
     "location": null,
     "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "President Donald Trump's administration is preparing to announce new tariffs on goods from China, the European Union, and more than a dozen other economies as soon as Tuesday, replacing levies struck down by the Supreme Court.",
+      "Trade Representative Jamieson Greer launched investigations in March under Section 301 of the Trade Act into manufacturing practices across 16 economies, examining industrial subsidies, government-supported lending, and market access restrictions.",
+      "Japan, South Korea, and the European Union could face tariff rates of 15% or less under negotiated agreements, while India and Vietnam may face higher duties, and China is expected to face the highest rates due to industrial subsidies.",
+      "These anticipated tariffs may be imposed alongside duties introduced earlier this year under a separate forced labor investigation, which implemented tariffs of 10% or 12.5% on 60 trading partners, though that action faces a legal challenge.",
+      "Washington argues that foreign government intervention creates excess production, placing American manufacturers at a competitive disadvantage, and officials may include provisions allowing further tariff increases if targeted economies fail to address concerns during future negotiations."
+    ],
+    "title": "Source Icon",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/us-civil-distinction-trump-to-present-medal-to-former-mayor-of-new-york-rudy-giuliani",
+    "article_url": "https://ground.news/article/us-civil-distinction-trump-to-present-medal-to-former-mayor-of-new-york-rudy-giuliani",
+    "bias": [
+      "Left-Leaning coverage frames Trump’s medal for Giuliani through political loyalty and election controversy, using terms like “pardons,” “conviction,” and “trying to overturn” to question the honor’s legitimacy.",
+      "Right-Leaning coverage foregrounds Giuliani’s crime-reduction and anti-Mafia record, 9/11 leadership, and the praise-filled label “America’s Mayor,” while “spectacular disgrace” casts later troubles as decline rather than the award’s defining context.",
+      "Center coverage is more event-focused, noting the ceremony, “fierce political ally,” and institutional praise without strongly endorsing either interpretation.",
+      "All acknowledge the award, Giuliani’s mayoralty, and Trump connection, but differ sharply over whether loyalty, legacy, or election conduct matters most."
+    ],
+    "bias_bar_text": "Left 35% Center 44% R 21%",
+    "center_pct": null,
+    "error": null,
+    "left_pct": 35.0,
+    "location": null,
+    "right_pct": 21.0,
+    "status": "ok",
+    "summary": [
+      "President Donald Trump is scheduled to present former New York City Mayor Rudy Giuliani with the Presidential Medal of Freedom—the nation's highest civilian honor—during an Oval Office ceremony on Tuesday, November 24.",
+      "Trump originally announced his intention to grant the award in September 2025, calling Giuliani the \"greatest Mayor in the history of New York City, and an equally great American Patriot\".",
+      "Speaking ahead of the ceremony, the 82-year-old Giuliani stated he had not yet read the formal citation but expected the honor to focus on his leadership of New York City following the September 11, 2001, terrorist attacks.",
+      "Once widely hailed as \"America's Mayor\" and named Time's Person of the Year in 2001, Giuliani later served as Trump's personal attorney and became a central figure in efforts to challenge the 2020 presidential election results.",
+      "Those post-election efforts led to severe legal and financial fallout, including his disbarment in New York and Washington, D.C., court sanctions, and a $148 million defamation judgment awarded to two former Georgia election workers."
+    ],
+    "title": "Trump to present Rudy Giuliani with Presidential Medal of Freedom",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/us-army-to-detonate-degraded-bomb-making-material-in-iowa-after-getting-court-approval",
+    "article_url": "https://ground.news/article/us-army-to-detonate-degraded-bomb-making-material-in-iowa-after-getting-court-approval",
+    "bias": [
+      "Left-Leaning coverage frames the plan as a “toxic blast,” stressing “no safe level of lead,” contamination fears, and alleged Army opacity, while portraying Trump’s intervention as “sowed confusion” and possible political blame-shifting.",
+      "Right-Leaning accounts emphasize deteriorating explosives, “death or destruction,” and the “safest option,” casting Trump as decisive and warning that delay could endanger residents, sometimes faulting Democratic governors.",
+      "Center coverage foregrounds court-approved safeguards and a “controlled removal,” while acknowledging competing risks.",
+      "The pivotal divide is whether lead-dust exposure or an uncontrolled explosion deserves priority; all perspectives highlight roughly 68 barrels and 10,000 pounds, the court ruling, and public-safety stakes, reflecting broader environmental-versus-order-and-accountability divides."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": 28.0,
+    "location": "Iowa",
+    "right_pct": 28.0,
+    "status": "ok",
+    "summary": [
+      "The U.S. Army confirmed it will detonate 68 barrels of degraded lead azide Wednesday morning at the Iowa Army Ammunition Plant in Middletown following an appeals court ruling.",
+      "Crystallization of the material discovered in March created an unstable situation; experts warn friction or freezing temperatures could trigger an accidental, potentially fatal explosion.",
+      "The 8th U.S. Circuit Court of Appeals lifted a temporary hold Monday on the emergency permit, ruling the Environmental Protection Agency adequately addressed safety concerns regarding dust dispersal.",
+      "Acting Army Secretary Adam Telle announced the operation is proceeding as a \"consensus decision,\" despite President Donald Trump and Gov.-elect Rob Sand earlier calling for further review.",
+      "Residents are sealing homes as a precaution, while Missouri Gov. Mike Kehoe emphasizes this is a federal operation beyond state control of Iowa, Missouri and Illinois."
+    ],
+    "title": "US Army to detonate degraded bomb-making material in Iowa after getting court approval",
+    "topic": "U.S. Army",
+    "topic_full": "U.S. Army · Iowa"
+  },
+  {
+    "article_path": "/article/rep-jimmy-gomez-to-resign-after-house-ethics-panel-finds-evidence-of-sexual-misconduct",
+    "article_url": "https://ground.news/article/rep-jimmy-gomez-to-resign-after-house-ethics-panel-finds-evidence-of-sexual-misconduct",
+    "bias": [
+      "Left-Leaning coverage foregrounds the Ethics Committee’s “damning” report, “sexual misconduct,” and the staffer’s distress, including specific allegations, while right-leaning coverage intensifies the framing with “alleged sex assault,” “criminal sexual assault,” “explosive,” and “Democrat implosion,” stressing power imbalance, partisan accountability, and broader Democratic dysfunction.",
+      "The pivotal divide is whether this is chiefly an ethics finding or evidence of possible criminality and party-wide failure.",
+      "Center coverage moderates both, emphasizing the committee’s process, Gomez’s disagreement, and that he was already expected to leave.",
+      "All perspectives highlight the report, unwelcome advances, staffer harm, and resignation, reflecting wider disputes over accountability, institutional culture, and partisan interpretation."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": 26.0,
+    "location": "United States",
+    "right_pct": 25.0,
+    "status": "ok",
+    "summary": [
+      "The House Ethics Committee found substantial evidence that Democratic Rep. Jimmy Gomez of California engaged in sexual misconduct, including making unwanted sexual advances and having sexual contact with a congressional staffer without her consent.",
+      "The investigation concluded that Gomez's conduct caused the former aide significant and ongoing emotional distress, contributing to her decision to leave her congressional job, and highlighted concerns about power imbalances and workplace conditions on Capitol Hill.",
+      "Gomez acknowledged making personal mistakes outside his marriage and accepted responsibility for their impact, but disputed the committee's conclusions and maintained that his actions were consensual.",
+      "Following the report's release, Gomez announced that he would resign from Congress on December 1, after losing his reelection bid to fellow Democrat Angela Gonzales-Torres earlier in November."
+    ],
+    "title": "Rep. Jimmy Gomez to resign after House Ethics panel finds evidence of sexual misconduct",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/81afb55e-6327-4bde-8e6d-7c92ac563483",
+    "article_url": "https://ground.news/article/81afb55e-6327-4bde-8e6d-7c92ac563483",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": 32.0,
+    "location": "United States",
+    "right_pct": 25.0,
+    "status": "no_change",
+    "summary": [
+      "On Monday, Nvidia's board unanimously reinstated Jensen Huang as president, CEO, and board member, effective immediately, after receiving input from senior U.S. government officials. Nvidia shares surged roughly 30% in early trading.",
+      "Huang had resigned on November 12 following revelations of extramarital affairs, including one with a woman suspected by U.S. intelligence of being a Chinese spy. The board previously stated it would not reinstate him.",
+      "President Donald Trump personally lobbied board members to secure Huang's return, arguing it served the American economy. Directors stated they were satisfied with Huang's \"candor and ability to lead\" after a series of meetings.",
+      "Nvidia formed a National Security and Export Control Committee and is searching for a Chief Compliance Officer to strengthen oversight. An independent investigation into reports that Huang was targeted by a foreign intelligence effort will proceed.",
+      "House committees scheduled closed-door interviews with Huang for December 1, with Republican lawmakers questioning whether the board's national security assurances address export compliance concerns. Congressional scrutiny persists despite the market rally."
+    ],
+    "title": "Nvidia reinstates Jensen Huang as CEO",
+    "topic": "Jensen Huang",
+    "topic_full": "Jensen Huang · United States"
+  },
+  {
+    "article_path": "/article/democrats-clinch-at-least-258-house-seats-most-since-1992-as-chuck-hubbard-flips-north-carolina-district",
+    "article_url": "https://ground.news/article/democrats-clinch-at-least-258-house-seats-most-since-1992-as-chuck-hubbard-flips-north-carolina-district",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": 30.0,
+    "location": "United States",
+    "right_pct": 21.0,
     "status": "no_change",
     "summary": [
       "On Sunday, Democrat Chuck Hubbard defeated Republican Rep. Virginia Foxx in North Carolina, pushing Democrats to 258 House seats—their largest majority since 1992.",
@@ -17,847 +146,649 @@
       "Planned probes into President Trump's financial dealings will utilize Democratic subpoena powers, though the White House warned such oversight might amount to \"blatant criminality.\"",
       "Hakeem Jeffries is poised to become the first Black speaker of the House on Jan. 3, 2027, while Rep. Jim Jordan vowed House Republicans will fight to regain power."
     ],
-    "title": "Source Icon",
-    "topic": null,
-    "topic_full": null
+    "title": "Democrats Clinch at Least 258 House Seats, Most Since 1992, as Chuck Hubbard Flips North Carolina District",
+    "topic": "2026 Midterm Elections",
+    "topic_full": "2026 Midterm Elections · United States"
   },
   {
-    "article_path": "/article/nvidia-reinstates-jensen-huang-as-ceo_7047db",
-    "article_url": "https://ground.news/article/nvidia-reinstates-jensen-huang-as-ceo_7047db",
+    "article_path": "/article/microsoft-365-outage-leaves-many-employees-students-without-communication",
+    "article_url": "https://ground.news/article/microsoft-365-outage-leaves-many-employees-students-without-communication",
     "bias": [
-      "Left-Leaning coverage frames Huang’s reinstatement as a “stunning reversal” caused by Trump’s “pressure,” stressing governance, workplace conduct, and possible conflicts of interest; phrases like “soap opera” and “sex scandal” heighten skepticism.",
-      "Right-Leaning accounts emphasize Nvidia ’s strategic value, Trump’s endorsement, and the roughly 25–33% stock surge, portraying Huang as a “fearless leader” or “national treasure,” while foregrounding Chinese-intelligence allegations and official national-security reassurance.",
-      "Center coverage de-emphasizes partisan judgment, highlighting the board’s unanimous vote and continuing inquiry.",
-      "All perspectives note Huang returned after 11 days, but their divide reflects broader tensions over accountability, political influence, markets, and China."
+      "Left-Leaning coverage foregrounds the outage’s human toll—students, employees, and disrupted communication—while terms like “exposing weaknesses” and attention to the CEO’s apology frame accountability.",
+      "Center coverage widens the lens to institutional “shortcomings” and a “historic outage,” portraying Code Red as a broad overhaul of crisis management.",
+      "Right-Leaning accounts dramatize engineers’ confusion through “fog of war,” 24-hour duration, and 11,000 messages across 11 chats, emphasizing fragmented diagnostics and tighter controls.",
+      "The pivotal divide is user harm versus corporate governance versus operational disorder.",
+      "All perspectives agree the failure was major, Microsoft ’s response urgent, and stronger systems, faster fixes, and AI-assisted recovery necessary."
     ],
-    "bias_bar_text": "Left 29% Center 43% Right 28%",
-    "center_pct": 43.0,
-    "error": null,
-    "left_pct": 29.0,
-    "location": null,
-    "right_pct": 28.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, Nvidia reinstated Jensen Huang as CEO, president, and board director just 11 days after his resignation, citing \"input\" from senior U.S. government officials regarding national security concerns.",
-      "Huang's return follows a scandal involving an affair with Alice Huang, a woman U.S. intelligence identified as a possible Chinese government spy, triggering investigations by Congress and California Attorney General Rob Bonta.",
-      "President Trump publicly advocated for rehiring on Sunday, calling Huang a \"Great Patriot and National Treasure.\" Nvidia shares surged 30 percent following the announcement, recovering losses incurred since the scandal broke two weeks ago.",
-      "Republican Rep. Don Bacon stated, \"Congress needs to get to the bottom of who approved high end computer chips sales to China.\" Treasury Secretary Scott Bessent previously cited a \"culture of noncompliance\" at the company.",
-      "National Intelligence Director Jay Clayton confirmed an ongoing federal investigation into Alice Huang and her firm, declining to discuss findings. Reports indicate she maintained contact with China's spy agency for over a year while engaging with the CEO."
-    ],
-    "title": "Nvidia reinstates Jensen Huang as CEO",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/us-army-plans-to-carry-out-detonation-at-iowa-plant-despite-indefinite-pause-court-records-say_e610e0",
-    "article_url": "https://ground.news/article/us-army-plans-to-carry-out-detonation-at-iowa-plant-despite-indefinite-pause-court-records-say_e610e0",
-    "bias": [
-      "Left-Leaning coverage frames the Army’s planned detonation of roughly five tons of lead azide as an environmental and constitutional breach, using phrases like “bypass,” “toxic explosives,” and “literal tons of lead dust” while stressing schools, evacuations, plume risks, and alternatives.",
-      "Right-Leaning coverage foregrounds deteriorating, “deadly bomb-making chemicals,” portraying emergency authority as necessary and the court’s intervention as a “judicial coup” granting “activists veto power.” Center coverage emphasizes procedural uncertainty and competing claims.",
-      "The pivotal divide is whether delay risks catastrophe or detonation risks contamination; all agree the material is unstable, the permit was paused, and nearby communities face consequential safety risks."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 64.0,
+    "bias_bar_text": "L 23% Center 54% R 23%",
+    "center_pct": null,
     "error": null,
     "left_pct": 23.0,
-    "location": "Iowa",
-    "right_pct": 13.0,
+    "location": null,
+    "right_pct": 23.0,
     "status": "ok",
     "summary": [
-      "On Wednesday, November 25, 2026, the U.S. Army plans to detonate nearly five tons of degraded lead azide at the Iowa Army Ammunition Plant in Middletown, citing urgent need to prevent an uncontrolled blast.",
-      "Explosives experts discovered 68 drums of lead azide had crystallized, creating an 'immediate threat' of spontaneous explosion as temperatures drop below 30 degrees. The Army contends controlled detonation is the 'lowest risk' method.",
-      "Although the Eighth Circuit Court of Appeals temporarily halted the EPA permit Thursday, the Department of Justice argues the Army may invoke an 'emergency munitions and explosives exclusion' to proceed without it.",
-      "Iowa Governor Kim Reynolds activated the State Emergency Operations Center Friday to coordinate state response as residents express concerns about toxic lead exposure, which the Centers for Disease Control and Prevention warns is dangerous to children.",
-      "Officials rescheduled the operation for Wednesday to allow for 'optimal weather conditions' and mitigation measures, including wetting the ground. State agencies continue coordinating air and water monitoring to track potential impacts on surrounding communities."
+      "Microsoft declared a \"Code Red\" to overhaul service failure prevention after a 24-hour outage disrupted Exchange Online, Outlook, Teams, and Copilot worldwide.",
+      "The Nov. 12-13 outage hit governments and businesses across Australia, Japan, and the United States, stemming from an undetected Windows scalability defect introduced in July that exhausted CPU and memory.",
+      "Corporate Vice President Amanda Silver wrote that engineers worked through a \"fog of war,\" exchanging more than 11,000 messages across 11 Teams chats while diagnostic data remained scattered across fragmented systems.",
+      "M365 Core President Jason Henderson acknowledged safeguards were insufficient, revealing that a failed component had experienced \"roughly ten years' worth of acceptable failures\" and patch deployments took five to six days.",
+      "Microsoft set a one-hour target to resolve future incidents worldwide and plans to deploy AI agents to help engineers diagnose system health data faster under the Code Red initiative."
     ],
-    "title": "U.S. Army plans to carry out detonation at Iowa plant despite indefinite pause, court records say",
-    "topic": "U.S. Army",
-    "topic_full": "U.S. Army · Iowa"
+    "title": "Microsoft Declares ‘Code Red’ After Historic Outage, Internal Memos Show",
+    "topic": null,
+    "topic_full": null
   },
   {
-    "article_path": "/article/mexican-drug-lord-on-fbis-10-most-wanted-list-arrested-in-shoot-out_cbdd5b",
-    "article_url": "https://ground.news/article/mexican-drug-lord-on-fbis-10-most-wanted-list-arrested-in-shoot-out_cbdd5b",
+    "article_path": "/article/3-affairs-werent-all-jensen-huang-revealed-more-to-nvidia-board-before-return",
+    "article_url": "https://ground.news/article/3-affairs-werent-all-jensen-huang-revealed-more-to-nvidia-board-before-return",
     "bias": [
-      "Left-Leaning coverage frames El Chapo Isidro’s capture through civilian fallout—“night of terror,” “war scenes,” 11 deaths, burning vehicles, and a disrupted baseball game—casting militarized enforcement as a source of danger despite calling it a major blow.",
-      "Right-Leaning coverage emphasizes a security “victory,” “elite” forces, the $5 million reward, U.S. intelligence, and the alleged trafficking threat, while terms like “kingpin,” “chaos,” and “bloody raid” heighten menace and valorize action.",
-      "Center coverage is more attributed and cautious, noting possible further bloodshed and limited coordination details.",
-      "All emphasize the capture, FBI status, cartel violence, and U.S.-Mexico cooperation, revealing broader divides over force, sovereignty, and public safety."
+      "Left-Leaning coverage cautiously foregrounds “allegedly” disclosed “more affairs,” stressing uncertainty and personal accountability, while right-leaning coverage intensifies the moral narrative with “confessed,” “scandal,” “weren’t all,” and even “at least four,” portraying an escalating controversy around Huang’s “comeback.” The pivotal divide is whether his return is chiefly an unverified misconduct disclosure or a broader character and geopolitical controversy, with right and center perspectives highlighting alleged Beijing links, while the left de-emphasizes them.",
+      "Center coverage instead stresses institutional acceptance— a unanimous board vote and employees chanting “We love you, Jensen”—and uses the cooler verb “disclosed.” All perspectives connect the alleged affairs to reinstatement and rely on reported claims, reflecting shared focus amid cultural, moral, and geopolitical divides."
     ],
-    "bias_bar_text": null,
-    "center_pct": 40.0,
+    "bias_bar_text": "L 17% Center 26% Right 57%",
+    "center_pct": null,
     "error": null,
-    "left_pct": 32.0,
-    "location": "United States",
-    "right_pct": 28.0,
+    "left_pct": 17.0,
+    "location": null,
+    "right_pct": 57.0,
     "status": "ok",
     "summary": [
-      "On Friday, Mexican forces arrested Fausto Isidro Meza Flores, a cartel leader on the FBI 's Ten Most Wanted list, during a raid in Guasave, Sinaloa; the Defence Ministry, known as Defensa, confirmed the operation on Saturday.",
-      "Intelligence coordination with US agencies prompted the operation after the FBI added Meza Flores to its Ten Most Wanted Fugitives list on February 4, 2025, with the US State Department offering up to US$5 million for his capture.",
-      "Four soldiers died while rushing to reinforce the raid when armed men attempted to block the arrest, Defensa reported; seven suspected gunmen also died during the clash, and officials detained eight people, including the cartel leader.",
-      "Meza Flores and two aides arrived in Mexico City at 5:20 a.m. on Saturday aboard a military plane, transferred to FEMDO, the federal prosecutors' unit, after troops seized a Barrett.50-calibre rifle and ten other firearms.",
-      "Neither Defensa nor federal prosecutors have published formal charges, a court date, or an extradition request; until a court rules, the detainees remain suspects, leaving the long-term legal outcome for Meza Flores uncertain."
+      "According to The Wall Street Journal, Nvidia co-founder Jensen Huang disclosed additional extramarital affairs to the chipmaker's board of directors before the board unanimously voted on Monday, November 23, to reinstate him as CEO, president, and a board director.",
+      "The newly disclosed relationships go beyond the previously reported affairs that prompted Huang's November 12 resignation, which included a relationship with a woman alleged by U.S. officials to be a Chinese intelligence operative as well as relationships with two Nvidia employees.",
+      "Despite the expanded admissions, Nvidia's board stated it was satisfied with Huang's candor and leadership ability—reversing its stance from just days earlier when Chairman Harvey Jones had declared the company would not rehire him over conduct inconsistent with corporate standards.",
+      "Along with bringing Huang back, Nvidia announced it is searching for a new chief compliance officer and continuing an independent investigation—through a newly formed oversight committee—into whether foreign intelligence services targeted Huang or compromised company operations.",
+      "The board's decision followed direct lobbying from President Donald Trump and Vice President JD Vance, as well as assurances from senior U.S. government officials that Huang's return did not pose a national security risk."
     ],
-    "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-    "topic": "Organized Crime",
-    "topic_full": "Organized Crime · United States"
+    "title": "Jensen Huang disclosed additional affairs to Nvidia board before reinstatement as CEO: Report",
+    "topic": null,
+    "topic_full": null
   },
   {
-    "article_path": "/article/california-man-found-guilty-of-starting-deadly-and-devastating-pacific-palisades-fire_e1e775",
-    "article_url": "https://ground.news/article/california-man-found-guilty-of-starting-deadly-and-devastating-pacific-palisades-fire_e1e775",
+    "article_path": "/article/review-hexed-is-magical-enough-but-feels-all-too-familiar",
+    "article_url": "https://ground.news/article/review-hexed-is-magical-enough-but-feels-all-too-familiar",
     "bias": [
-      "Left-Leaning coverage foregrounds the fire’s human toll, using phrases like “deadly and devastating” and “most destructive” to emphasize 12 deaths, displacement, and ruined communities, while right-leaning coverage adopts a punitive, politically combative tone through “damning verdict,” “loner,” and “The Left,” highlighting prosecution evidence, alleged resentment toward a “wealthy neighborhood,” and portraying the conviction as a rebuttal to climate-change explanations.",
-      "The center perspective de-emphasizes partisan implications, stressing the mistrial, retrial, and distinction between ignition and later spread.",
-      "All sides agree on the guilty verdict, arson-related charges, and potential 40-year sentence, but their framing reflects wider divides over victim-centered consequence, law-and-order accountability, and climate politics."
+      "The left-leaning reviews frame *Hexed* as a culturally meaningful, “surprisingly edgy” Disney fantasy, praising its “nuance” and “minus the problematic politics ” while faulting its “paint-by-numbers” construction and “not terribly crafty” storytelling; center coverage instead foregrounds a “heartwarming” mother-daughter bond, accessible magic, and entertainment value, tempered by a “forgettable” or “lackluster villain.” The pivotal divide is whether witchcraft and fantasy warrant political-cultural interpretation or primarily genre evaluation.",
+      "Still, both emphasize Hailee Steinfeld, family relationships, magical spectacle, and uneven plotting, revealing a broader divide between progressive sensitivity to representation and conventional focus on emotional appeal and narrative execution."
     ],
-    "bias_bar_text": null,
-    "center_pct": 50.0,
+    "bias_bar_text": "Left 50% Center 50%",
+    "center_pct": null,
     "error": null,
-    "left_pct": 28.0,
-    "location": "California",
-    "right_pct": 22.0,
+    "left_pct": 50.0,
+    "location": null,
+    "right_pct": null,
     "status": "ok",
     "summary": [
-      "On Friday, a jury unanimously convicted Jonathan Rinderknecht, 30, of arson for lighting the Jan. 1, 2025, Lachman Fire, which later erupted into the catastrophic Palisades Fire.",
-      "Prosecutors secured the conviction after a June mistrial where jurors deadlocked 10-2 in favor of acquittal; this retrial centered on the theory that the initial blaze smoldered underground as a \"holdover\" fire for six days.",
-      "To link Rinderknecht to the origin site, prosecutors used geolocation data placing him near the fire's start and ChatGPT prompts about forest fires; defense attorney Steve Haney countered there was no direct proof.",
-      "The resulting wildfire became the most destructive in Los Angeles history, killing 12 people and destroying 6,837 structures in Los Angeles and Malibu; sentencing for the former Uber driver is scheduled for March 17.",
-      "Federal investigators bolstered their \"holdover\" theory with lab tests showing a 91 percent ignition rate using a lighter, evidence that helped prove the Jan. 1 ignition point caused the Jan. 7 catastrophe."
+      "On Wednesday, November 25, 2026, Disney releases the animated fantasy Hexed, starring Billie Doe as a teenager who discovers her hereditary witchcraft after her mother, Alice , accidentally reveals their secret.",
+      "Alice fled the magical queendom of Hexe to escape Queen Celeste , suppressing Billie's abilities to protect her daughter until an accidental power manifestation forced their return to the realm.",
+      "Critics praise the film's immersive visuals, noting scenes look 'wonderfully immersive on a 20-foot one' screen, while Walton Goggins receives acclaim as the cantankerous three-eyed cat Beef Roger Crummchuk, described as the film's 'most pleasingly unexpected element.'",
+      "Despite critical praise for visuals, some reviews suggest the film 'vexes in that it can be kind of meh,' citing a formulaic narrative and reliance on pop songs over original musical numbers.",
+      "Aiming to capture family audiences over Thanksgiving, Hexed competes against The Cat in the Hat, with observers noting the film's 'infectious energy' could drive seasonal success despite its formulaic plot."
     ],
-    "title": "California man found guilty of starting deadly and devastating Pacific Palisades fire",
-    "topic": "Wildfires",
-    "topic_full": "Wildfires · California"
+    "title": "Hexed Review: Walton Goggins & Hailee Steinfeld's Magic Makes Up For Disney's Forgettable New Villain",
+    "topic": null,
+    "topic_full": null
   },
   {
-    "article_path": "/article/780a01f1-7433-41ab-a3df-04b2d1423ae2",
-    "article_url": "https://ground.news/article/780a01f1-7433-41ab-a3df-04b2d1423ae2",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 43.0,
-    "error": null,
-    "left_pct": 31.0,
-    "location": "United States",
-    "right_pct": 26.0,
-    "status": "no_change",
-    "summary": [
-      "On Friday, November 20, 2026, the S&P 500 and Dow Jones Industrial Average both entered correction territory, declining more than 10% from their October 6 record highs.",
-      "Nvidia CEO Jensen Huang's November 12 resignation amid accounting probes rattled investor confidence, while Anthropic's mid-November IPO failed to restore tech sector enthusiasm as the stock quickly faded.",
-      "The Nasdaq Composite plunged roughly 5.3% on Friday, wiping out year-to-date gains and marking its largest weekly decline since March 2020.",
-      "Investors rotated into defensive assets as institutional money moved toward retail and consumer staples, while yields on U.S. Treasury bonds fell sharply during the flight to safety.",
-      "Futures markets indicate a 95% probability of a 25-basis-point interest rate hike at the Federal Reserve's December meeting, with investors monitoring next week's personal consumption expenditures figures."
-    ],
-    "title": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction",
-    "topic": "Business",
-    "topic_full": "Business · United States"
-  },
-  {
-    "article_path": "/article/exclusive-us-discussing-military-training-for-syrian-forces",
-    "article_url": "https://ground.news/article/exclusive-us-discussing-military-training-for-syrian-forces",
+    "article_path": "/article/us-consumer-confidence-soars-with-elections-in-the-rearview-mirror-and-gas-prices-in-decline-wtop-news",
+    "article_url": "https://ground.news/article/us-consumer-confidence-soars-with-elections-in-the-rearview-mirror-and-gas-prices-in-decline-wtop-news",
     "bias": [
-      "Left- and right-leaning coverage largely converges, emphasizing U.S. discussions to train Syrian soldiers in demining and portraying the mission’s post-2024 historical significance without strongly partisan language.",
-      "Both repeat the potentially charged phrase “former rebel fighters,” framing Syria’s new leadership similarly, while the right de-emphasizes implementation risks and the left offers no pronounced anti- military critique.",
-      "Center coverage widens the frame, stressing “distrust,” legal hurdles, a possible “large-scale mission,” and a potential troop return, making limited training seem connected to broader intervention.",
-      "The dividing line is thus scope and caution, though all emphasize the tentative proposal and anonymous sourcing."
+      "Left-Leaning coverage frames confidence as “soaring” because election uncertainty ended and gas prices fell, using upbeat language but de-emphasizing numerical and historical context.",
+      "Right-Leaning coverage likewise celebrates a “surge,” yet pivots toward “labor market hopes” that “pop,” declining “inflation fears,” a nearly two-year high, and the 103.3 reading beating the 92.5 forecast—an emphasis on jobs , prices, and expectations rather than political transition.",
+      "Center coverage supplies context: confidence rose from 91.9 to 103.3 for a second consecutive month, with elections in the “rearview mirror.” Across perspectives, agreement centers on stronger confidence, cheaper gas, and reduced uncertainty."
     ],
     "bias_bar_text": null,
-    "center_pct": 42.0,
+    "center_pct": null,
     "error": null,
-    "left_pct": 25.0,
+    "left_pct": 33.0,
     "location": "United States",
-    "right_pct": 33.0,
+    "right_pct": 16.0,
     "status": "ok",
     "summary": [
-      "The United States is discussing plans to train Syrian soldiers in demining, five people familiar with the proposal said, marking the first potential training mission with Syria's military since rebel fighters took power in Damascus in 2024.",
-      "Established in Jordan last year, the Damascus Coordination Center provides the framework for cooperation between Syrian authorities, the US, and regional allies following President Bashar al-Assad's overthrow.",
-      "About 15 US allies, including Britain, France, Germany, Saudi Arabia, and the United Arab Emirates, would participate in the framework, with approximately $200 million in potential funding from Operation Inherent Resolve.",
-      "Legal hurdles under the Leahy Laws, which prohibit assistance to forces with credible human rights abuse allegations, and skepticism within the Syrian defense ministry remain significant barriers to the mission.",
-      "If the proposal advances, the US could return a small number of troops to Syria as soon as next year, with the initial demining program potentially serving as a model for wider future cooperation."
+      "The Conference Board reported today that the Consumer Confidence Index soared to 103.3 in November, surpassing the 92.5 forecast by analysts and rising from October's 91.9 reading.",
+      "Prices at the pump fell to $3.61 a gallon on average nationwide, according to AAA, while election-related uncertainty faded. Fergus McCormick, senior economist at The Conference Board, described the gain as a potential result of lower post-election volatility.",
+      "Consumers expressed stronger confidence in the job market, with the share calling jobs \"plentiful\" rising to 30.8% from 26.2%. Those viewing jobs as \"hard to get\" fell to 18.4% from 21.4%.",
+      "With 44.9% of Consumers considering a vacation in the next six months, spending plans edge upward. This trend offers a positive outlook for retailers as winter holiday shopping gets underway.",
+      "Reports arriving Wednesday include the PCE price index and GDP estimates, which may test consumer sentiment. Consumers expect 5.7% inflation over the next 12 months, though analysts warn hotter inflation prints could cool the current mood."
     ],
-    "title": "US discussing military training for Syrian forces",
-    "topic": "US Foreign Policy",
-    "topic_full": "US Foreign Policy · United States"
+    "title": "US consumer confidence soars with elections in the rearview mirror and gas prices in retreat",
+    "topic": "US Economy",
+    "topic_full": "US Economy · United States"
   },
   {
-    "article_path": "/article/trump-says-hes-inclined-to-strike-iran-after-new-year-if-no-deal-reached",
-    "article_url": "https://ground.news/article/trump-says-hes-inclined-to-strike-iran-after-new-year-if-no-deal-reached",
+    "article_path": "/article/trump-to-meet-nato-chief-mark-rutte-on-wednesday-white-house-says",
+    "article_url": "https://ground.news/article/trump-to-meet-nato-chief-mark-rutte-on-wednesday-white-house-says",
     "bias": [
-      "Left-Leaning coverage frames Trump’s conditional threat as an “ominous hint” and “escalation,” foregrounding Qatar-led mediation, the naval blockade, and Gulf instability; right-leaning coverage stresses Iranian attacks, threats to vessels, and the alleged Kuwait air-base strike, portraying force as deterrence after “meaningless” talks.",
-      "Its rhetoric favors “renewed hostilities” and mocks negotiators as “professional tap dancers” or “pirouette specialists,” while the left’s tone is foreboding and anti-escalation.",
-      "Center coverage bridges them by emphasizing timing—possible strikes in 2027—and conditional attribution, while highlighting Iranian “stalling.” All agree talks remain unresolved and strikes are contemplated, reflecting wider divides over diplomacy, culpability, and U.S. power."
+      "Left-Leaning coverage frames Trump’s meeting with NATO chief Mark Rutte as fallout from his Putin encounter, using terms like “backlash” and “criticism” and spotlighting European unease, even noting his friendly posture toward Putin and Xi.",
+      "Right-Leaning coverage de-emphasizes that controversy, foregrounding the official schedule and Europe’s “desire” to join U.S.-backed Ukraine negotiations, while describing “Russia’s war in Ukraine” more directly.",
+      "Center coverage bridges the divide by emphasizing “ongoing tensions” over NATO spending, Russia, and Ukraine.",
+      "All agree on the Palm Beach meeting and its diplomatic context, but differ over whether it signals damage, routine coordination, or strategic negotiation."
     ],
     "bias_bar_text": null,
-    "center_pct": 33.0,
+    "center_pct": null,
     "error": null,
-    "left_pct": 25.0,
+    "left_pct": 21.0,
     "location": "United States",
-    "right_pct": 42.0,
+    "right_pct": 54.0,
     "status": "ok",
     "summary": [
-      "On Sunday, President Donald Trump told Fox News he is inclined to resume major military strikes against Iran after the New Year if ongoing negotiations fail to produce an agreement.",
-      "Frustrated by Tehran's negotiating tactics, Trump labeled Iranian negotiators \"professional tap dancers,\" accusing them of stalling as attacks persist near the Strait of Hormuz and in Bahrain.",
-      "The Wall Street Journal reports Iran possesses approximately 1,500 ballistic missiles and produces around 50 monthly, while two American aircraft carrier strike groups operate in the Arabian Sea alongside refueling assets in Israel.",
-      "Regional allies in the Persian Gulf fear renewed American strikes could trigger Iranian retaliation against energy infrastructure, recalling missile and drone attacks during Operation Epic Fury.",
-      "Regarding potential naval confrontations, Trump told Fox News, \"I hope they do; they'll all be at the bottom of the sea like the rest of the navy,\" though he has not finalized a strike decision."
+      "The White House announced on Monday that President Donald Trump will meet NATO Secretary General Mark Rutte late Wednesday afternoon in Palm Beach, Florida, as European governments seek involvement in US-backed Ukraine peace efforts.",
+      "Following a summit in Asia last week, Trump described Russian President Vladimir Putin and Chinese President Xi Jinping as his \"friend,\" drawing criticism from Democratic opponents in the United States and concern among Western allies.",
+      "Defending the contacts, Rutte stated it is \"normal for major nuclear powers to meet.\" He has repeatedly sought to ease tensions within NATO and retain the support of the US president.",
+      "US special envoy Jared Kushner said last week that Trump is open to security guarantees for Ukraine based on NATO's Article 5, believing Russia had grown \"comfortable\" with that approach.",
+      "Trump has frequently criticized Western partners over defense spending and trade tariffs, while also citing insufficient support for the United States during the US-Israeli war on Iran."
     ],
-    "title": "Trump says he’s inclined to strike Iran after new year if no deal reached",
-    "topic": "Iran War",
-    "topic_full": "Iran War · United States"
-  },
-  {
-    "article_path": "/article/a-silver-soup-tureen-once-owned-by-jp-morgan-could-fetch-8-million-at-a-christies-auction",
-    "article_url": "https://ground.news/article/a-silver-soup-tureen-once-owned-by-jp-morgan-could-fetch-8-million-at-a-christies-auction",
-    "bias": [
-      "Rather than offering competing ideological narratives, the coverage largely converges on a J.P.",
-      "Morgan–Owned silver tureen potentially fetching nearly $8 million at Christie’s.",
-      "The left-leaning presentation adds the formal “Meissonnier Tureen,” December timing, and playful phrases such as “perfect gift” and “host with the most,” while center coverage supplies dimensions emphasizing scale; the right-leaning version is more concise, retaining “huge” and the cautious “could fetch.” No side introduces notably partisan language or a pivotal political dispute: provenance, luxury, and auction value are foregrounded, while broader historical context and social implications are de-emphasized."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 75.0,
-    "error": null,
-    "left_pct": 18.0,
-    "location": "United States",
-    "right_pct": 7.0,
-    "status": "ok",
-    "summary": [
-      "A 44-pound , 18-inch-long Louis XV silver soup tureen once owned by American financier J.P. Morgan is headlining a December 1 auction at Christie’s in London with a presale estimate of £4 million to £6 million .",
-      "Crafted in Paris in the 1730s by celebrated French rococo goldsmith and sculptor Juste-Aurèle Meissonnier, the shell-shaped vessel features a cover sculpted with intricate silver animals and produce—including a duck, crab, fish, oyster, snail, and artichoke.",
-      "Originally commissioned by the second Duke of Kingston, the tureen passed through the collections of British aristocrats, Russian statesmen, and J.P. Morgan before being separated from its matching twin—now housed at the Cleveland Museum of Art—following a 1977 auction.",
-      "The piece leads a broader sale of museum-quality decorative arts and silver from the collection of the prominent Argentine Blaquier-Arrieta family.",
-      "The upcoming London sale follows a blockbuster Sotheby’s auction of 12 paintings from the same family's collection last week that totaled $412 million, highlighted by Vincent van Gogh’s Châtaigniers en fleurs selling for $190.4 million."
-    ],
-    "title": "A Silver Soup Tureen Once Owned by JP Morgan Could Fetch $8 Million at a Christie's Auction",
-    "topic": "JP Morgan",
-    "topic_full": "JP Morgan · United States"
-  },
-  {
-    "article_path": "/article/writers-unhappy-with-pen-america-over-gaza-and-other-issues-seek-to-form-a-new-pen-chapter",
-    "article_url": "https://ground.news/article/writers-unhappy-with-pen-america-over-gaza-and-other-issues-seek-to-form-a-new-pen-chapter",
-    "bias": [
-      "Left-Leaning coverage frames PEN Writes US as a response to “frustration” and “tensions” over Gaza, stressing equal advocacy and support for boycotts—signals of institutional failure and Palestinian solidarity.",
-      "Right-Leaning coverage largely de-emphasizes those demands, presenting an “independent” chapter and emphasizing cultural-institutional fracture without adding a distinct ideological claim; “unhappy” underscores dissent but remains mild.",
-      "Center coverage foregrounds recognition procedures and the PEN Charter, portraying an organizational alternative.",
-      "The pivotal divide is whether Gaza reflects unequal advocacy requiring activism or mainly an internal dispute.",
-      "All perspectives highlight more than 100 participants, independence, and Gaza-related conflict, reflecting wider debates over free expression and political solidarity."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 60.0,
-    "error": null,
-    "left_pct": 30.0,
-    "location": "United States",
-    "right_pct": 10.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, more than 100 writers, including Ta-Nehisi Coates, M. Gessen, and Jacqueline Woodson, announced the formation of PEN Writes US, seeking independence from PEN America amid tensions over the war in Gaza.",
-      "Numerous writers have criticized PEN America's response to the war in Gaza, contending the organization has been reluctant to defend Palestinian writers with the same force it advocates for writers elsewhere.",
-      "Novelist Maaza Mengiste said PEN Writes aims to be a \"stripped-down, egalitarian organization\" run by writers, taking a broader view that supports cultural boycotts unlike PEN America.",
-      "PEN America stated it remains focused on defending free expression as a \"universal right that must be protected regardless of viewpoint\" while building an inclusive literary community.",
-      "Organizers are seeking recognition at next September's PEN International Congress in Montenegro, a process involving formation of a steering committee and \"seeking interest from the full diversity of writers\" nationwide."
-    ],
-    "title": "Writers Unhappy with PEN America over Gaza and Other Issues Seek to Form a New PEN Chapter",
+    "title": "Trump to meet NATO chief ​Mark Rutte on Wednesday, White House says",
     "topic": "US Politics",
     "topic_full": "US Politics · United States"
   },
   {
-    "article_path": "/article/fire-breaks-out-at-la-estate-of-will-smith-and-jada-pinkett-report",
-    "article_url": "https://ground.news/article/fire-breaks-out-at-la-estate-of-will-smith-and-jada-pinkett-report",
+    "article_path": "/article/one-person-has-died-from-bird-flu",
+    "article_url": "https://ground.news/article/one-person-has-died-from-bird-flu",
     "bias": [
-      "Left-Leaning coverage frames the overnight fire as celebrity “Drama,” stressing uncertainty over whether anyone was home, the cause, and the damage.",
-      "Right-Leaning accounts heighten spectacle with “engulfed,” “enormous,” “shocking,” and “terrifying,” foregrounding the $42 million mansion, celebrity wealth, no reported injuries, and a possible 2021 recurrence—turning a contained structure fire into a vivid risk-and-privilege narrative.",
-      "Center coverage is more restrained, attributing reports and identifying a shed, though “scary moment” adds emotion.",
-      "The partisan dividing line is scope and significance: human uncertainty versus elite excess and danger.",
-      "All agree firefighters controlled the blaze and its cause remains under investigation."
-    ],
-    "bias_bar_text": "L 15% Center 38% Right 47%",
-    "center_pct": 38.0,
-    "error": null,
-    "left_pct": 15.0,
-    "location": null,
-    "right_pct": 47.0,
-    "status": "ok",
-    "summary": [
-      "A fire broke out early Monday at the $42 million Calabasas, California estate belonging to Will Smith and Jada Pinkett, a property they purchased in 2003.",
-      "Investigators determined the fire was accidental, originating in a storage shed at the Calabasas property and prompting an immediate emergency response.",
-      "Los Angeles County Fire Department personnel and Los Angeles County Sheriff's Deputies arrived at 12:04 a.m., spending over two hours extinguishing the blaze while ensuring no other structures were damaged.",
-      "No injuries occurred during the incident, and the Oscar-winner, 58, and his spouse, 55, were reported safe with the primary residence unaffected.",
-      "The estate previously faced a 2021 fire causing smoke damage and forced evacuations during the 2018 Woolsey wildfires, reflecting recurring environmental risks the family has navigated."
-    ],
-    "title": "Fire breaks out at LA estate of Will Smith and Jada Pinkett, report",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/trump-says-he-spoke-directly-and-indirectly-with-nvidias-board-about-reinstating-jensen-huang_6677b4",
-    "article_url": "https://ground.news/article/trump-says-he-spoke-directly-and-indirectly-with-nvidias-board-about-reinstating-jensen-huang_6677b4",
-    "bias": [
-      "Left-Leaning coverage frames Huang’s reinstatement as “reckless,” “meddling,” and possibly a “farce,” stressing Trump’s intervention, congressional oversight, the affair, and alleged Chinese-intelligence links.",
-      "Right-Leaning coverage portrays Trump as rescuing a “national treasure,” saying a “mistake has been corrected,” dismissing scandal attention with “sex sells,” and treating Nvidia ’s roughly 30% stock rebound as proof of economic wisdom; it also warns Huang might have moved to China.",
-      "Center coverage more cautiously highlights “scrutiny” and undocumented assurances.",
-      "All emphasize the unanimous return, strategic importance, national-security stakes, and market surge, revealing a broader divide over executive power, corporate accountability, and U.S.-China competition."
+      "Left-Leaning coverage presents “three people” contracting “ bird flu ,” foregrounding that one “died” but largely de-emphasizing occupational and transmission context.",
+      "Right-Leaning coverage uses the starker term “fatal” and the formal “avian influenza,” while emphasizing dairy-farm workers, infected cattle, Yakima County, and “no evidence” of human-to-human spread—framing the episode as an animal-exposure event with limited immediate risk rather than a wider crisis.",
+      "Center coverage stays closest to attributed, quantitative wording, repeatedly noting that the WHO reported three cases and one death.",
+      "All perspectives share those core facts, revealing more a divide over alarm versus containment and public-health context than over the event itself."
     ],
     "bias_bar_text": null,
-    "center_pct": 34.0,
+    "center_pct": null,
     "error": null,
-    "left_pct": 29.0,
+    "left_pct": 8.0,
+    "location": "United States",
+    "right_pct": 58.0,
+    "status": "ok",
+    "summary": [
+      "The World Health Organization confirmed on Tuesday that the United States notified it of three human bird flu cases in Washington state, including one death.",
+      "All three adults worked on dairy farms in Yakima County, Washington, where cattle recently contracted the avian influenza virus, according to the WHO.",
+      "One patient developed mild symptoms without hospitalization; a second with underlying medical conditions suffered severe respiratory illness and died on Nov 1. A third recovered from conjunctivitis.",
+      "Genetic sequencing confirmed all three infections were caused by H5N1, a subtype of influenza A virus. The WHO reported no evidence of human-to-human transmission based on available information.",
+      "While public health risk remains low, the Centers for Disease Control and Prevention reported 75 human H5 infections since February 2024, including these three cases."
+    ],
+    "title": "US Reports Three Bird Flu Cases, One Death in Washington State, WHO Says",
+    "topic": "Bird Flu",
+    "topic_full": "Bird Flu · United States"
+  },
+  {
+    "article_path": "/article/anthropic-falls-below-83-ipo-price-in-swift-reversal-after-record-listing_c4bc3c",
+    "article_url": "https://ground.news/article/anthropic-falls-below-83-ipo-price-in-swift-reversal-after-record-listing_c4bc3c",
+    "bias": [
+      "Left-Leaning coverage treats Anthropic ’s record IPO as an AI-boom bellwether, pairing “blockbuster” scale with “bubble” fears and even “catastrophic risks,” while portraying its slide below $83 as the honeymoon ending.",
+      "Right-Leaning coverage stresses “stretched AI valuations,” interest rates, losses, and infrastructure costs, using “fizzles out” to frame the rally’s failure.",
+      "Center coverage, where present, emphasizes the measurable reversal—from a $111.50 opening to roughly $82—and investors “wiping out gains.” All perspectives highlight the record debut, subsequent decline, and broader technology sell-off, but diverge over whether the episode signals speculative excess, market mechanics, or fundamental economic weakness."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": 22.0,
     "location": "United States",
     "right_pct": 37.0,
     "status": "ok",
     "summary": [
-      "Nvidia 's board of directors voted unanimously on Monday to reinstate Jensen Huang as CEO and president, citing input from senior U.S. government officials who determined his return poses no national security risk.",
-      "Huang resigned on November 12 after admitting to an affair with Alice Huang, a businesswoman U.S. intelligence agencies suspect of spying for China, triggering a leadership crisis at the AI chipmaker.",
-      "President Donald Trump dialed into the board meeting to advocate for Huang's return, confirming he was \"totally involved\" in the decision. The White House said Trump spoke with the board directly and indirectly.",
-      "Nvidia shares surged nearly 30% Monday, the company's biggest gain in over two decades. An independent committee will continue investigating whether Huang was targeted by a foreign intelligence effort.",
-      "Huang is scheduled to testify before the Senate Banking Committee on December 1 regarding the affair scandal. The probe will examine the company's compliance with U.S. export controls and foreign intelligence risks."
+      "Shares of artificial intelligence developer Anthropic fell below their $83 initial public offering price during premarket trading on Tuesday, November 24, dropping as much as 7.3% to an intraday low of $81.28.",
+      "The slide erases all post-listing gains just days after the Claude maker's record-breaking Nasdaq debut on November 19, when shares opened at $111.50 before closing at $97.17 and declining across subsequent sessions.",
+      "Anthropic missed out on Monday's broader technology and AI stock rally—sparked by Nvidia's reinstatement of CEO Jensen Huang—as investors weighed the company's roughly $901 billion in long-term infrastructure spending commitments against its $81 billion annualized revenue run rate.",
+      "Market analysts noted that stabilizing underwriter Morgan Stanley had already exercised its full 147-million-share overallotment option immediately following the offering, leaving the stock without conventional secondary-market price support.",
+      "Despite drawing more than $500 billion in institutional demand to become the largest IPO in history, Anthropic's rapid pullback mirrors the trajectory of SpaceX earlier in 2026 and reflects mounting investor caution over AI capital expenditures and safety scrutiny."
     ],
-    "title": "Trump says he spoke ‘directly and indirectly’ with Nvidia’s board about reinstating Jensen Huang",
-    "topic": "Nvidia",
-    "topic_full": "Nvidia · United States"
+    "title": "Anthropic falls below $83 IPO price in swift reversal after record listing",
+    "topic": "Anthropic",
+    "topic_full": "Anthropic · United States"
   },
   {
-    "article_path": "/article/trump-thinks-china-will-buy-another-250-boeing-airplanes_0f14d3",
-    "article_url": "https://ground.news/article/trump-thinks-china-will-buy-another-250-boeing-airplanes_0f14d3",
-    "bias": null,
-    "bias_bar_text": "Center 58% Right 42%",
-    "center_pct": 58.0,
-    "error": "Message: \n",
-    "left_pct": null,
-    "location": null,
-    "right_pct": 42.0,
-    "status": "fail",
-    "summary": null,
-    "title": "Trump Says He Expects China to Buy Another 250 Boeing Planes",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/us-greer-we-do-want-to-get-along-with-canada",
-    "article_url": "https://ground.news/article/us-greer-we-do-want-to-get-along-with-canada",
+    "article_path": "/article/trump-made-up-to-15mn-on-nvidia-shares-after-huangs-return-report",
+    "article_url": "https://ground.news/article/trump-made-up-to-15mn-on-nvidia-shares-after-huangs-return-report",
     "bias": [
-      "Left-Leaning coverage foregrounds diplomatic “progress” toward a U.S.-Canada agreement while treating China-related criticism as an attributed “concern,” though “Beijing-friendly moves” sharpens the portrayal of Ottawa.",
-      "Right-Leaning coverage reverses the emphasis: “warns” and “bipartisan concerns” frame Canada’s China deals as a strategic threat, while “tariff-relief” highlights a prospective economic win.",
-      "Center coverage bridges these narratives, pairing “constructive” talks with specific disputes over Chinese electric vehicles and expanded tariff relief.",
-      "The pivotal divide is whether China ties are mainly a diplomatic complication or a security challenge; all perspectives nevertheless stress Greer’s role, negotiation progress, and Ottawa’s China relationship, reflecting wider tensions over trade openness and geopolitical alignment."
-    ],
-    "bias_bar_text": "Left 74% C 19% 7%",
-    "center_pct": 19.0,
-    "error": null,
-    "left_pct": 74.0,
-    "location": null,
-    "right_pct": 7.0,
-    "status": "ok",
-    "summary": [
-      "Trade Representative Jamieson Greer says the United States and Canada are making progress toward a trade agreement, though Canada's growing trade relationship with China remains a concern.",
-      "President Donald Trump told reporters on Friday that 'work remains to be done' on a U.S.-Canada deal, after Carney met Chinese leader Xi Jinping in Shenzhen on November 17 during APEC discussions.",
-      "Ottawa's decision to lower tariffs on Chinese electric vehicles to 6.1 percent, down from 100 percent, prompted Greer to call such moves 'a little bit backwards' while Washington manages North American trade.",
-      "In a Fox News interview on November 22, Greer said the nations are 'fairly close on finding a landing zone,' noting most trade between them remains duty-free and supports jobs on both sides.",
-      "Greer described a 'philosophical difference' in how the countries approach trade, with the United States prioritizing solutions to globalization's challenges while Canada favors freer trade policies."
-    ],
-    "title": "U.S. trade chief sees progress in Canada talks, raises China concerns",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/us-extradition-order-exists-for-arrested-mexican-drug-lord-el-chapo-isidro",
-    "article_url": "https://ground.news/article/us-extradition-order-exists-for-arrested-mexican-drug-lord-el-chapo-isidro",
-    "bias": [
-      "Center-Leaning coverage frames the development cautiously as an official-confirmed extradition request involving an “alleged drug lord,” while right-leaning coverage stresses decisive U.S. action—“wants” him “extradited”—and portrays the suspect as among the FBI’s “most wanted fugitives,” destined for the U.S. justice system.",
-      "The pivotal divide is whether this is primarily a legal update or evidence of forceful American enforcement, with right-leaning material also invoking Mexican military detention and possible Trump pressure; the center de-emphasizes those political dimensions.",
-      "Both perspectives highlight his capture, Mexico’s confirmation, and the extradition process, reflecting shared concern over transnational crime but differing views of authority, accountability, and U.S.-Mexico relations."
+      "Left-Leaning coverage frames Trump’s reported $15 million Nvidia windfall as “corrupt,” “psychotically crooked,” and an “abuse of power,” emphasizing self-interest and conflict after he reportedly urged Jensen Huang ’s return.",
+      "Right-Leaning narratives recast the same episode as a “golden portfolio,” “boom,” or “jackpot,” stressing possible paper gains, diversified holdings, and the White House claim that accounts were independently managed.",
+      "Center coverage foregrounds uncertainty—at least $12 million held, but no confirmed realized profit—and the “extraordinary intervention.” The sharpest divide concerns ethics versus portfolio management, alongside whether national-security objections broaden the story beyond partisan suspicion; all acknowledge Nvidia’s surge, Trump’s holdings, and uncertain estimates."
     ],
     "bias_bar_text": null,
-    "center_pct": 40.0,
+    "center_pct": null,
     "error": null,
-    "left_pct": null,
+    "left_pct": 39.0,
     "location": "United States",
-    "right_pct": 60.0,
+    "right_pct": 33.0,
     "status": "ok",
     "summary": [
-      "On Friday night, Mexican military forces detained Fausto Isidro Meza Flores, known as \"El Chapo Isidro,\" in Sinaloa. Security Minister Omar Garcia Harfuch confirmed Monday that The United States has an active extradition order for the alleged drug lord.",
-      "Defense Minister Ricardo Trevilla reported the operation involved 361 military personnel and 14 aircraft. Sixteen suspected group members died after gunmen attacked security forces attempting to free Meza Flores in Guasave.",
-      "For over 2 decades, the criminal organization trafficked large quantities of heroin, methamphetamine, cocaine, and marijuana into The United States, according to the State Department. Meza Flores is listed as one of the FBI's 10 most wanted fugitives.",
-      "Mexican officials have not yet indicated whether they will act on The United States extradition request. President Claudia Sheinbaum stated that US authorities provided intelligence but did not participate directly in the operation.",
-      "This arrest is the latest in a series of high-profile captures as Mexico faces pressure from President Donald Trump to intensify a crackdown. Trump has threatened unilateral military action if his administration believes insufficient progress is made."
+      "On Monday, Nvidia reinstated CEO Jensen Huang following President Donald Trump 's direct lobbying, triggering a 30% share surge that the Financial Times estimates increased Trump's Nvidia holdings by as much as $15 million.",
+      "Huang resigned on November 12 amid reports of multiple extramarital affairs, including one with a woman suspected of ties to Chinese intelligence. Trump publicly dismissed these security concerns while pressuring the board to reinstate him.",
+      "Financial disclosures filed November 5 show Trump owned at least $12 million in Nvidia stock at the end of 2025. CNBC analysis indicates he made at least 108 transactions involving Nvidia shares during his second term.",
+      "Senator Ruben Gallego questioned whether Trump profited from his intervention, posting on social media that the White House is \"the most corrupt in history.\" The White House maintains Trump's portfolio is independently managed by third-party institutions with no presidential input.",
+      "Nvidia's board continues investigating whether Huang was targeted by foreign intelligence while the CEO is scheduled to testify before Congress on December 1. Lawmakers are demanding records on chip export approvals to assess potential conflicts of interest."
     ],
-    "title": "US extradition order exists for arrested Mexican drug lord 'El Chapo Isidro'",
-    "topic": "Cartels",
-    "topic_full": "Cartels · United States"
-  },
-  {
-    "article_path": "/article/trump-praises-nvidias-reinstatement-of-huang",
-    "article_url": "https://ground.news/article/trump-praises-nvidias-reinstatement-of-huang",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 20.0,
-    "error": null,
-    "left_pct": 34.0,
-    "location": "United States",
-    "right_pct": 46.0,
-    "status": "no_change",
-    "summary": [
-      "On Monday, Nvidia's board unanimously voted to reinstate Jensen Huang as president and CEO, reversing his resignation from earlier this month. President Donald Trump praised the move, calling it the \"correct and proper decision.\"",
-      "Huang's return comes 11 days after he resigned November 12 amid FBI and Nvidia investigations into an extramarital relationship with Alice Huang, a Singaporean tech executive suspected of working as a spy for the Chinese government.",
-      "President Trump asserted that Attorney General Todd Blanche confirmed the U.S. government possesses no evidence that Huang \"engaged in any unlawful conduct.\" Trump added the government has no reason to believe his return \"poses any risk\" to national security.",
-      "Fox Business journalist Charles Gasparino warned the reinstatement could trigger a political scandal, describing the controversy as \"L'affaire Jensen\" and suggesting it may fuel Democratic impeachment efforts. Gasparino questioned Trump's political judgment in supporting the move.",
-      "Nvidia established a National Security and Export Control Oversight Committee composed of independent directors to oversee compliance. Trump urged the board to fulfill its \"Patriotic Duty to protect U.S. National Security\" while investigations continue."
-    ],
-    "title": "Trump celebrates Jensen Huang’s return to Nvidia, says DOJ saw no violation of law",
+    "title": "Trump May Have Made Up to $15 Million on Nvidia Shares Following Huang’s Return, FT Estimates",
     "topic": "Donald Trump",
     "topic_full": "Donald Trump · United States"
   },
   {
-    "article_path": "/article/nyc-9-11-toxin-portal-gets-11-million-visits-in-two-months-as-mamdani-orders-more-documents-released",
-    "article_url": "https://ground.news/article/nyc-9-11-toxin-portal-gets-11-million-visits-in-two-months-as-mamdani-orders-more-documents-released",
-    "bias": [
-      "Coverage agrees that New York City released 84,000 additional September 11-related records under Mayor Zohran Mamdani , while diverging sharply in emphasis: left-leaning reports foreground “toxin,” first responders, air quality, 11 million portal visits, and long-hidden information, portraying disclosure as a public-health and accountability issue; right-leaning reports use “massive trove,” “secret,” and “waited 25 years to see,” stressing institutional secrecy, delay, and a “transparency push.” Center coverage uses restrained language such as “long-held” and highlights advocacy by people with 9/11-related illnesses.",
-      "Left and right converge on the release’s scale and public significance, reflecting broader disagreements over government trust and accountability."
-    ],
+    "article_path": "/article/democrats-supporting-abortion-rights-won-big-in-the-midterms-but-vast-changes-are-unlikely-soon-wtop-news",
+    "article_url": "https://ground.news/article/democrats-supporting-abortion-rights-won-big-in-the-midterms-but-vast-changes-are-unlikely-soon-wtop-news",
+    "bias": null,
     "bias_bar_text": null,
-    "center_pct": 53.0,
+    "center_pct": null,
     "error": null,
-    "left_pct": 20.0,
-    "location": "New York",
-    "right_pct": 27.0,
-    "status": "ok",
-    "summary": [
-      "On Sunday, New York City Mayor Zohran Mamdani and the NYC Law Department released 84,000 additional records related to September 11, 2001, bringing the total available to more than 440,000 pages.",
-      "Following a court settlement with 9/11 Health Watch, the city established the portal after previous administrations claimed they could not locate records previously stored with an insurance company named Captive.",
-      "More than 11 million people have visited the portal, searching for pivotal materials like the 'Harding Memo' and documents known as the '68 Boxes' to understand toxic air quality and the city's response.",
-      "Survivors are using the portal to document their 'presence' at Ground Zero, a step required for enrollment in the World Trade Center Health Program and the September 11th Victim Compensation Fund.",
-      "The city has committed $34 million in the FY 2027 budget to maintain the portal, with Mamdani pledging to continue releasing records until survivors and first responders receive the information they deserve."
-    ],
-    "title": "NYC 9/11 Toxin Portal Gets 11 Million Visits in Two Months as Mamdani Orders More Documents Released",
-    "topic": "Zohran Mamdani",
-    "topic_full": "Zohran Mamdani · New York"
-  },
-  {
-    "article_path": "/article/nvidia-skyrockets-30-on-huangs-return-as-ceo-recovering-nearly-all-the-losses-since-he-disclosed-affair",
-    "article_url": "https://ground.news/article/nvidia-skyrockets-30-on-huangs-return-as-ceo-recovering-nearly-all-the-losses-since-he-disclosed-affair",
-    "bias": [
-      "Left-Leaning coverage uses a straightforward, non-ideological headline and emphasizes unanimous approval, consultation with senior U.S. officials, and whether Huang posed a “national security risk.” Right-leaning coverage, with limited partisan wording, uses urgent “BREAKING” framing and stresses decisive restoration of Huang as CEO and board director, de-emphasizing security and personal context.",
-      "Center coverage highlights the affair “scandal,” “skyrockets” and a roughly 30% Nvidia gain, plus AI-stock and broader U.S.-market recovery, while recalling “brutal losses.” All agree Huang returned immediately by unanimous board action; the divide is whether the event is chiefly a security-sensitive leadership decision, institutional restoration, or market catalyst."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 55.0,
-    "error": null,
-    "left_pct": 22.0,
+    "left_pct": 50.0,
     "location": "United States",
-    "right_pct": 23.0,
-    "status": "ok",
+    "right_pct": null,
+    "status": "no_change",
     "summary": [
-      "On Monday, Nvidia Corp. reinstated Jensen Huang as president and chief executive officer, effective immediately, sending shares of the chipmaker soaring more than 27%.",
-      "Huang resigned earlier this month following reports of extramarital affairs, including one with Alice Huang, who allegedly maintained contact with an officer at China's Ministry of State Security.",
-      "The NVIDIA Board unanimously voted to reinstate Huang following 'a series of discussions and meetings,' noting they 'received input from senior levels of the United States government' confirming no national security risk.",
-      "Nvidia's stock opened up 33%, its biggest intraday gain since May 2003, while the Philadelphia Stock Exchange Semiconductor Index soared 14% and the Nasdaq composite rose 6.5%.",
-      "Huang said he is 'honored to return to NVIDIA and lead one of the most consequential technology companies in the world' at the beginning of a new industrial revolution."
+      "Democrats who ran on abortion rights platforms secured major victories in recent congressional and state elections, gaining full control in six states where they previously shared power.",
+      "Wisconsin Gov. David Crowley and Pennsylvania Gov. Josh Shapiro are now pushing for state constitutional amendments to codify abortion rights, following voter approval in a dozen states including Nevada and Virginia this year.",
+      "In Georgia, incoming Democratic lieutenant governor Josh McLaurin hopes to repeal the state's six-week ban despite a GOP-held Senate; Texas Democrat Nathan Johnson pledged to end lawsuits against out-of-state medical providers.",
+      "Congressional Democrats aim to advance legislation barring abortion bans before viability, yet any measure would likely face a veto from President Donald Trump without GOP support for an override.",
+      "Anti-Abortion advocates, including Kelsey Pritchard of SBA Pro-Life America, are pressuring The FDA to further restrict mifepristone access while planning continued restrictive legislation to build momentum for future sessions."
     ],
-    "title": "Nvidia Shares Skyrocket 30% on Huang's Return as CEO, Erasing Nearly All Recent Losses",
-    "topic": "Nvidia",
-    "topic_full": "Nvidia · United States"
+    "title": "Democrats supporting abortion rights won in the midterms, but changes unlikely soon",
+    "topic": "Abortion",
+    "topic_full": "Abortion · United States"
   },
   {
-    "article_path": "/article/medicare-for-all-is-back-on-drawing-board-does-it-stand-a-better-chance-this-time",
-    "article_url": "https://ground.news/article/medicare-for-all-is-back-on-drawing-board-does-it-stand-a-better-chance-this-time",
+    "article_path": "/article/ap-investigation-the-dea-allowed-14-million-fentanyl-pills-to-go-unseized-in-major-probe-wtop-news",
+    "article_url": "https://ground.news/article/ap-investigation-the-dea-allowed-14-million-fentanyl-pills-to-go-unseized-in-major-probe-wtop-news",
     "bias": [
-      "Left-Leaning coverage frames Medicare for All ’s rise as a dramatic policy breakthrough, using phrases like “catapulted to the forefront” and warning Medicaid cuts “threaten to leave millions of people without care,” thus emphasizing urgency and human consequences.",
-      "Right-Leaning coverage largely limits itself to portraying universal healthcare as a major Democratic priority, de-emphasizing those consequences and broader policy context.",
-      "Center coverage presents a more conditional frame—“back on the drawing board” and whether it has a “better chance”—while detailing first-100-days plans and insurance tax breaks.",
-      "The dividing lines are urgency, feasibility, and government’s role; all agree the once-“long shot” proposal now occupies the Democratic agenda."
+      "Across the coverage, the central frame is remarkably shared: agents “monitored” a 2024 hotel transaction yet “did not intervene,” while at least 1.4 million fentanyl pills went unseized and the DEA denied knowingly permitting trafficking.",
+      "Left-Leaning presentation intensifies accountability through “allowed,” “major,” and a whistleblower complaint; right-leaning presentation likewise emphasizes agency ineffectiveness but offers no distinct ideological interpretation.",
+      "Center coverage adds granular surveillance details and the buyer’s “nonchalantly” casual conduct, sharpening the unresolved question of why agents did not act.",
+      "Thus, the notable divide is emphasis—not competing narratives—against a common backdrop of oversight, enforcement, and fentanyl harm."
     ],
     "bias_bar_text": null,
-    "center_pct": 57.0,
+    "center_pct": null,
     "error": null,
-    "left_pct": 24.0,
-    "location": "Washington",
+    "left_pct": 41.0,
+    "location": "United States",
+    "right_pct": 16.0,
+    "status": "ok",
+    "summary": [
+      "An Associated Press investigation found the Drug Enforcement Administration permitted at least 1.4 million fentanyl pills to be trafficked between August 2024 and April 2025 while pursuing a larger trafficking ring.",
+      "Authorities launched the investigation in summer 2024 targeting alleged ring leader Heriberto Salazar Amaya, monitoring the operation for months to dismantle the network rather than seizing individual shipments.",
+      "Fentanyl reached multiple communities in New Mexico, where overdose deaths spiked 44% last year. Former DEA official Kevin Small criticized the tactic, saying agents drive cars plastered with \"One Pill Can Kill\" while allowing thousands of pills to flow.",
+      "Albuquerque officials recently declared a state of emergency and sued the Justice Department for $153 million in damages. DEA spokesperson Amanda Wozniak defended the decisions as \"lawful and coordinated\" with federal prosecutors.",
+      "Heriberto Salazar Amaya, who generated an estimated $2 million monthly in sales, was arrested in April 2025 on drug trafficking charges. Prosecutors charged 15 others in the case; the alleged leader is scheduled to be tried next year."
+    ],
+    "title": "The DEA Allowed 1.4 Million Fentanyl Pills to Go Unseized in Major Probe: AP Investigation",
+    "topic": "DEA",
+    "topic_full": "DEA · United States"
+  },
+  {
+    "article_path": "/article/china-extends-pause-on-us-minerals-ban-to-maintain-truce_39c246",
+    "article_url": "https://ground.news/article/china-extends-pause-on-us-minerals-ban-to-maintain-truce_39c246",
+    "bias": [
+      "Center-Leaning coverage presents China ’s extended suspension of gallium, germanium, and antimony export restrictions as a concise effort to maintain a “truce,” while right-leaning coverage portrays it as Beijing’s attempt to “avoid further escalation” amid technology rivalry and U.S. AI-chip restrictions.",
+      "The center emphasizes the policy action and strategic minerals; the right foregrounds a “fragile trade truce,” Trump-Xi diplomacy, and the reported January 27, 2027 endpoint, casting the move as tactical leverage rather than simple cooperation.",
+      "Both perspectives agree the suspension seeks to manage tensions and involves critical supply chains, reflecting broader divides over whether U.S.-China relations signify pragmatic negotiation or persistent geopolitical confrontation."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": null,
+    "location": "United States",
+    "right_pct": 71.0,
+    "status": "ok",
+    "summary": [
+      "China extended its suspension of export restrictions on gallium, germanium, and antimony shipments to the United States through January 27.",
+      "The minerals are used in semiconductors, satellites, and military equipment, making the suspension an important part of the fragile trade truce.",
+      "China’s Commerce Ministry said U.S. restrictions on advanced artificial-intelligence chips violated agreements between the countries’ leaders and warned of countermeasures."
+    ],
+    "title": "China extends pause on US minerals ban to maintain truce",
+    "topic": "China Politics",
+    "topic_full": "China Politics · United States"
+  },
+  {
+    "article_path": "/article/house-democrat-expands-investigation-into-donald-trump-jrs-investment-firm",
+    "article_url": "https://ground.news/article/house-democrat-expands-investigation-into-donald-trump-jrs-investment-firm",
+    "bias": [
+      "Left-Leaning coverage frames the inquiry as an ethics and influence story, using phrases like “probe,” “government access,” “profited,” and skeptically quoted “serendipitous timing” to suggest possible favoritism after Trump’s reelection.",
+      "Right-Leaning coverage de-emphasizes those implications, foregrounding a “House Democrat” expanding an “investigation,” which can portray scrutiny of Trump Jr.’s firm as partisan targeting rather than evidence of wrongdoing.",
+      "Center coverage stays procedural, emphasizing records requests, Raskin’s institutional role, and “lucrative” contracts.",
+      "The dividing line is whether investments preceding federal benefits signal access or merely warrant documentation; all perspectives agree on the investigation, records request, and sequence of events, reflecting broader disputes over accountability, political motive, and government influence."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": 25.0,
+    "location": "United States",
+    "right_pct": 13.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, House Judiciary Committee ranking member Rep. Jamie Raskin sent letters demanding records from four companies linked to 1789 Capital, the venture firm employing Donald Trump Jr., as he expands his investigation into potential conflicts of interest.",
+      "Investigators allege 1789 Capital's investments coincided with favorable government actions, questioning whether Trump Jr. leveraged political influence to secure federal contracts and regulatory changes for companies connected to the investment firm.",
+      "Since Trump Jr. joined in 2024, 1789 Capital grew from $150 million to $3 billion in managed assets; Hadrian Automation received nearly $1 billion in federal Navy and Army contracts after the firm's investment.",
+      "The Trump administration issued an executive order on Friday directing federal contractors to withhold communications with Congress; Raskin called the move \"blatantly unlawful\" and a violation of congressional oversight duties.",
+      "Trump Jr. and the firms have forcefully denied allegations of wrongdoing, with company lawyers describing the investigation as \"a political document\" and defending their investment thesis as predating the Trump administration."
+    ],
+    "title": "House Democrat Expands Investigation Into Donald Trump Jr.'s Investment Firm",
+    "topic": "Donald Trump Jr.",
+    "topic_full": "Donald Trump Jr. · United States"
+  },
+  {
+    "article_path": "/article/president-trump-to-offer-thanksgiving-pardons-for-turkeys-named-freedom-and-feathers-at-the-white-house",
+    "article_url": "https://ground.news/article/president-trump-to-offer-thanksgiving-pardons-for-turkeys-named-freedom-and-feathers-at-the-white-house",
+    "bias": [
+      "Left-Leaning coverage spotlights Trump, the pardon ritual, and a naming contest that “goes off the rails,” using “hilarious” to cast the White House spectacle as chaotic or absurd.",
+      "Right-Leaning accounts instead frame the birds as “feathered VIPs,” stressing their “luxury” hotel stay, farmer training, and an upbeat, distinctly American tradition, while portraying public voting as participation rather than mockery.",
+      "Center coverage adds institutional context—the 79th ceremony and retirement at Texas A&M—without the sharper tonal contrast.",
+      "The divisive line is whether the event signals presidential frivolity or celebratory pageantry; all perspectives nevertheless emphasize Trump’s role, Freedom and Feather, public attention, and the birds’ reprieve."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": 19.0,
+    "location": "United States",
     "right_pct": 19.0,
     "status": "ok",
     "summary": [
-      "House Democratic leader Hakeem Jeffries announced plans to pursue Medicare for All expansions on January 3, 2027, including lowering the eligibility age below 65 and adding dental, vision, and hearing benefits.",
-      "About 6 in 10 voters nationally said the federal government should play a bigger role in healthcare, with the same proportion very concerned about costs, pushing universal coverage ideas to the forefront of the Democratic agenda.",
-      "Senate health committee chair Bernie Sanders is championing efforts to reverse Medicaid cuts and extend Affordable Care Act tax credits, while Rep. Pramila Jayapal coordinates with Jeffries on advancing legislation.",
-      "President Donald Trump threatened to veto these efforts, calling Medicare for All a 'socialist takeover of our healthcare system,' though he indicated potential dealmaking with Jeffries and Senate Democratic leader Chuck Schumer.",
-      "Most bills in the 100-member Senate require a 60-vote threshold to advance, creating hurdles for the 56-seat Democratic majority; advocates like Brad Woodhouse of Protect Our Care urge lawmakers to persist regardless."
+      "On Monday, the White House announced \"Freedom and Feathers\" as the winning names for two turkeys set to be pardoned by President Donald Trump on Tuesday at the 79th National Thanksgiving Turkey ceremony on the South Lawn.",
+      "Critics on X \"hijacked\" the public naming contest Sunday to mock Trump and his supporters, offering alternative suggestions after voting concluded on the official options: \"Freedom and Feathers,\" \"Commander and Chief,\" and \"Honey and Ham.\"",
+      "Both West Virginia-raised turkeys were prepared by National Turkey Federation Chairwoman Christy Puffenbarger, who directed Scott and Becky Rightsell's Deans Gap Farm operation where the birds were raised.",
+      "Following the Tuesday ceremony, neither bird will end up on a holiday dinner table; instead, Freedom and Feathers will retire to a University in Texas to live out their remaining days.",
+      "While both turkeys receive an official pardon annually, only one takes the spotlight during the ceremonial event, marking the 79th anniversary of the National Thanksgiving Turkey presentation tradition at the White House."
     ],
-    "title": "Incoming Democrats Will Pursue Steps Toward Medicare for All, Jeffries Says",
-    "topic": "Medicare For All",
-    "topic_full": "Medicare For All · Washington"
+    "title": "Trump will offer Thanksgiving pardons for turkeys Freedom and Feathers at the White House",
+    "topic": "Thanksgiving",
+    "topic_full": "Thanksgiving · United States"
   },
   {
-    "article_path": "/article/amtrak-train-derails-in-lafayette-after-striking-18-wheeler-hauling-bulldozer",
-    "article_url": "https://ground.news/article/amtrak-train-derails-in-lafayette-after-striking-18-wheeler-hauling-bulldozer",
+    "article_path": "/article/scientists-discover-quasar-formed-within-a-mere-630-million-years-of-the-big-bang-setting-a-record-wtop-news",
+    "article_url": "https://ground.news/article/scientists-discover-quasar-formed-within-a-mere-630-million-years-of-the-big-bang-setting-a-record-wtop-news",
     "bias": [
-      "Left-Leaning coverage presents a restrained account, emphasizing an Amtrak–18-wheeler “collision” and two-car derailment while de-emphasizing passenger count, injuries, and the truck’s being stuck.",
-      "Center coverage adds context—roughly 95 passengers, a bulldozer, possible minor injuries, and four hospital transports—though its use of “crash” and “derails” heightens urgency.",
-      "Right-Leaning framing portrays the train as “ramming” a truck “stuck on tracks” amid “holiday travel chaos,” stressing force, danger, and disruption.",
-      "The pivotal divide is whether this is a straightforward accident or a dramatic failure with broader travel consequences; all perspectives emphasize the collision and derailment, reflecting differing priorities over restraint, human impact, and alarm."
+      "Left-Leaning coverage celebrates the quasar’s cosmic significance, using phrases like “dawn of creation,” “slow-chomping black hole,” and repeated “record” language to evoke wonder, while de-emphasizing formation theories.",
+      "Right-Leaning framing instead stresses scientific tension, calling the universe “newborn” and saying “we don’t understand how it’s possible,” portraying the 360-million-solar-mass black hole as a challenge requiring alternatives.",
+      "Center coverage bridges these tones, highlighting Euclid, the 40-million-year record advance, and possible gas-cloud explanations, while occasionally using “gigantic” or “devours gas.” All emphasize the 630-million-year timing, distance, and record, reflecting shared fascination amid broader divides over celebrating discovery versus questioning established models."
     ],
     "bias_bar_text": null,
-    "center_pct": 83.0,
-    "error": null,
-    "left_pct": 8.0,
-    "location": "Louisiana",
-    "right_pct": 9.0,
-    "status": "ok",
-    "summary": [
-      "On Sunday at approximately 6:05 p.m., an Amtrak train derailed in the 100 block of Thru-Way Park Road in Lafayette, Louisiana , after striking an 18-wheeler hauling a bulldozer.",
-      "The 18-wheeler became stuck on the tracks before crossing guard arms closed, but it remains unclear why the vehicle failed to clear the crossing before the train arrived.",
-      "Lafayette Police Sgt Wood stated, \"The lead locomotive and two baggage cars derailed,\" with approximately 95 passengers on board during the collision.",
-      "Four passengers were transported to an area hospital with non-life-threatening injuries, while Amtrak coordinated bus transportation for remaining passengers to New Orleans.",
-      "Burlington Northern Santa officials are investigating the incident while The Lafayette Fire Department and Office of Emergency Preparedness remain on-site managing the response."
-    ],
-    "title": "Several People Injured After Amtrak Train and 18-Wheeler Carrying Bulldozer Collide",
-    "topic": "Train Derailment",
-    "topic_full": "Train Derailment · Louisiana"
-  },
-  {
-    "article_path": "/article/buying-batmans-ride-may-take-a-bruce-wayne-budget-as-1992-batmobile-heads-to-auction",
-    "article_url": "https://ground.news/article/buying-batmans-ride-may-take-a-bruce-wayne-budget-as-1992-batmobile-heads-to-auction",
-    "bias": [
-      "Although grouped as left, center, and right, these headlines show no clear ideological divide: all frame an entertainment auction.",
-      "The left grouping emphasizes extravagance through “Bruce Wayne budget” and “a few million dollars to spare,” while the right grouping heightens prestige and excitement with “iconic” and “next big score.” Center coverage is less promotional, supplying the $5–$7 million estimate and details such as original paint, a Chevrolet V-8, and flame-shooting exhaust.",
-      "The real dividing line is tonal—cost anxiety versus collectible glamour—not partisan interpretation.",
-      "Across perspectives, the 1992 *Batman Returns* Batmobile, one of three film versions, its auction, and multimillion-dollar value remain shared anchors."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 62.0,
-    "error": null,
-    "left_pct": 31.0,
-    "location": "United States",
-    "right_pct": 7.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, the custom-made Batmobile from Tim Burton's 1992 blockbuster Batman Returns hits the auction block in Gardena, near Los Angeles, as the centerpiece of a Julien Auctions sale featuring superhero memorabilia.",
-      "Known as the \"Number One Hero\" car, the 6-meter-long vehicle retains its original paint, Chevrolet V-8 engine, and radio-controlled flaming exhaust system that Michael Keaton's Batman used to torch Penguin's circus goons.",
-      "Citing Burton's \"darker aesthetic,\" Julien called the car \"one of the most recognized and important cinematic vehicles in Hollywood history.\" It recently left the Marconi Automotive Museum in Tustin, Calif.",
-      "With a preauction estimate of $5 million to $7 million, the vehicle could break the 2013 Batmobile auction record set when Adam West's 1960s TV series car sold for $4.6 million including fees.",
-      "Under an agreement with Warner Bros. Consumer Products Inc., the buyer must secure approval before exhibiting the vehicle at events, and it \"must remain stationary when exhibited to the public,\" as Julien noted it is \"not street legal."
-    ],
-    "title": "One of Three 1992 Batmobiles From Batman Returns Heads to Auction",
-    "topic": "Movies & TV",
-    "topic_full": "Movies & TV · United States"
-  },
-  {
-    "article_path": "/article/sen-elect-abdul-el-sayed-says-hes-open-to-working-with-the-trump-administration",
-    "article_url": "https://ground.news/article/sen-elect-abdul-el-sayed-says-hes-open-to-working-with-the-trump-administration",
-    "bias": [
-      "Left-Leaning coverage frames El-Sayed’s willingness to cooperate as a striking turn from a “tense campaign season” marked by mutual “attacks,” emphasizing lower costs and improved access rather than partisan branding.",
-      "Right-Leaning coverage redirects attention toward Trump, portraying him as having “signaled openness” to bipartisan Medicare legislation, while its use of “TrumpCare” links the proposal directly to the president.",
-      "Center coverage bridges the two by highlighting El-Sayed’s “Trumpcare for All,” blending Medicare for All with Trump-friendly language.",
-      "The pivotal divide is whether cooperation represents reconciliation, policy rebranding, or Trump-led bipartisan opportunity; all emphasize healthcare cooperation, reflecting broader disputes over ownership of reform and presidential influence."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 41.0,
-    "error": null,
-    "left_pct": 47.0,
-    "location": "Michigan",
-    "right_pct": 12.0,
-    "status": "ok",
-    "summary": [
-      "Sen. Abdul El-Sayed said Sunday he is open to working with President Donald Trump and Vice President Vance to lower healthcare costs, stating \"plans are in the works\" for meetings.",
-      "This outreach marks a dramatic shift from the campaign, when Trump repeatedly labeled El-Sayed a \"jihadist\" and referred to him by his middle name, \"Mohamed,\" prompting El-Sayed to accuse him of Islamophobia.",
-      "El-Sayed supports \"Medicare for All\" and proposed a public option modeled on public schools; he suggested on social media that new legislation could be named \"Trumpcare\" to guarantee healthcare \"from cradle to grave.\"",
-      "During a Fox News interview Saturday, President Trump expressed willingness to work with Democrats, noting their proposals have \"good points\" and \"bad points,\" creating reciprocal momentum for El-Sayed's outreach.",
-      "Scheduled to be sworn in by Vance in January, El-Sayed told Trump on election night that after the swearing-in, \"you can just go on and call me senator,\" marking the formal start of legislative engagement."
-    ],
-    "title": "Abdul El-Sayed says he’s open to working with the Trump administration",
-    "topic": "Abdul El-Sayed",
-    "topic_full": "Abdul El-Sayed · Michigan"
-  },
-  {
-    "article_path": "/article/openai-scientist-proposes-industry-ai-limits-tied-to-model-intelligence-metric",
-    "article_url": "https://ground.news/article/openai-scientist-proposes-industry-ai-limits-tied-to-model-intelligence-metric",
-    "bias": [
-      "Left-Leaning coverage frames AI limits as precautionary governance, using “escapes of its agents” and “powerful models” to stress risk and institutional oversight.",
-      "Right-Leaning accounts recast the same proposal as an “industry-wide AI brake,” emphasizing “loss of control,” near-term danger, and whether rival laboratories have agreed, while portraying limits as necessary to “keep AI safe.” Center coverage is less polarized, tying restrictions to security milestones, monitoring, and the perplexity metric.",
-      "The key dividing line is whether coordination represents prudent safeguards or a potentially sweeping brake on innovation, though all perspectives highlight Pachocki’s proposal, Altman’s support, shared metrics, and concern that capability is outpacing control—reflecting wider disputes over regulation, technological power, and competition."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 37.0,
-    "error": null,
-    "left_pct": 15.0,
-    "location": "United States",
-    "right_pct": 48.0,
-    "status": "ok",
-    "summary": [
-      "On Sunday, OpenAI Chief Scientist Jakub Pachocki proposed industry-wide limits on developing powerful AI models, calling for common thresholds based on \"perplexity\" until safety requirements are met.",
-      "Pachocki warned that AI could accelerate advances in its own development as soon as 2027, potentially outpacing researchers' ability to monitor the technology safely.",
-      "Developers should commit to not crossing agreed capability thresholds until new monitoring mechanisms are in place, with proposed limits utilizing \"perplexity,\" a measurement gauging how well models predict text.",
-      "CEO Sam Altman endorsed the proposal, calling Pachocki's essay \"the most important thing OpenAI has published in awhile\" and saying such limits would help ensure safety and control.",
-      "The proposal emerges as Democrats prepare for renewed AI regulation debate following congressional victories, potentially clashing with President Donald Trump, who has opposed broad restrictions on development."
-    ],
-    "title": "OpenAI Scientist Proposes Industry AI Limits Tied to Model Intelligence Metric",
-    "topic": "OpenAI",
-    "topic_full": "OpenAI · United States"
-  },
-  {
-    "article_path": "/article/states-sue-spacex-over-grok-deepfakes",
-    "article_url": "https://ground.news/article/states-sue-spacex-over-grok-deepfakes",
-    "bias": [
-      "The supplied material offers no right-leaning coverage, so a left-right contrast cannot be established.",
-      "Left-Leaning framing foregrounds “sexual deepfakes,” “weak safeguards,” “mounting legal risk,” and Grok ’s “spicy mode,” portraying the lawsuits as corporate-accountability and regulatory warnings amid broader litigation.",
-      "Center coverage more narrowly emphasizes alleged “child sexual abuse material,” “nonconsensual” imagery, profits, and requested civil penalties or injunctions, while signaling dispute through “claims.” Both perspectives highlight Virginia and Oregon’s allegations, inadequate safeguards, and potential harm to children and unwitting adults, reflecting wider debates over AI governance, corporate power, and consent."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 68.0,
+    "center_pct": null,
     "error": null,
     "left_pct": 21.0,
     "location": "United States",
-    "right_pct": 11.0,
+    "right_pct": 13.0,
     "status": "ok",
     "summary": [
-      "Oregon and Virginia filed suits against SpaceX and X Corp., alleging the company deceived users about the safety of generative AI tools and the proliferation of CSAM and NCII on its platforms.",
-      "They allege Grok's creators intentionally implemented weak safeguards to entice users to its \"lagging product,\" including safety prompts instructing the system to \"assume good intent\" regarding terms like \"teenage\" and \"girl.\"",
-      "Tens of thousands of reports submitted to the National Center for Missing and Exploited Children's CyberTipline lacked key information, preventing the Center from acting 90 percent of the time.",
-      "While Musk promoted Grok's \"spicy mode\" and boasted about \"hitting #1 on the App Store in one country after another!,\" the chatbot faced international outrage for its ability to \"undress\" people.",
-      "These suits follow legal actions from Baltimore and Tennessee, as Grok made headlines last winter after users prompted it to generate sexualized photos of women and minors."
+      "On Tuesday, a German-led team announced the discovery of Dun Aonghasa, the most distant quasar ever observed, which formed within 630 million years of the Big Bang.",
+      "The European Space Agency's Euclid telescope captured the object as it appeared 13.1 billion years ago, when the universe was less than 5% of its current age.",
+      "Corroborated by the Hubble and Webb space telescopes, the findings reveal the quasar's black hole possesses a mass equivalent to 360 million suns.",
+      "This discovery represents the biggest advancement in nearly a decade, pushing back the observable timeline by nearly 40 million years to establish a new early-universe deadline.",
+      "Astronomer Julien Wolf, who led the study published in Astronomy & Astrophysics, noted the record could fall again, offering \"the promise of a vast horizon still to explore."
     ],
-    "title": "Virginia, Oregon sue Musk's SpaceX over Grok AI's creation of child sexual abuse images and videos",
-    "topic": "Elon Musk",
-    "topic_full": "Elon Musk · United States"
+    "title": "Scientists Discover Quasar Formed Within a Mere 630 Million Years of the Big Bang, Setting a Record",
+    "topic": "Space",
+    "topic_full": "Space · United States"
   },
   {
-    "article_path": "/article/rene-haas-to-remain-ceo-of-chipmaker-arm-through-2033-amid-nvidia-top-job-chatter",
-    "article_url": "https://ground.news/article/rene-haas-to-remain-ceo-of-chipmaker-arm-through-2033-amid-nvidia-top-job-chatter",
+    "article_path": "/article/us-envoy-not-certain-military-aid-to-israel-will-end-this-year-as-trump-promised",
+    "article_url": "https://ground.news/article/us-envoy-not-certain-military-aid-to-israel-will-end-this-year-as-trump-promised",
     "bias": [
-      "Center-Leaning coverage frames Rene Haas’s contract extension through 2033 as a measured reaffirmation of Arm leadership amid “speculation” about Nvidia ’s top job, while right-leaning coverage presents it as decisively “rules out” or even a “cancellation” of Nvidia’s approach.",
-      "The center emphasizes Haas’s “wholly committed” statement, SoftBank’s vice-chair role, and broader corporate context; the right foregrounds the personnel drama and, unusually, an emotive allegation involving an “alleged Chinese spy.” The pivotal divide is whether the extension merely signals commitment or definitively rejects Nvidia, despite no confirmed offer.",
-      "Both sides agree Haas remains at Arm, revealing differing preferences for cautious context versus confrontation and closure."
+      "Left-Leaning coverage frames the episode as U.S.-Israeli cooperation continuing “despite Trump’s pledge,” suggesting inconsistency and undermined commitment; right-leaning coverage emphasizes implementation barriers, especially Congress’s allocation of the roughly $3.8 billion and the need for congressional approval, while “surprise announcement” adds a sharper partisan edge.",
+      "Both use “casts doubt,” but the left stresses political contradiction and the right institutional limits.",
+      "Center coverage softens the clash through “not certain” and “decades” of aid, foregrounding uncertainty and historical stakes.",
+      "Across perspectives, Huckabee’s hesitation and Trump’s promise remain common ground, reflecting broader divides over executive power, Israel policy, and credibility."
     ],
     "bias_bar_text": null,
-    "center_pct": 42.0,
+    "center_pct": null,
     "error": null,
-    "left_pct": 5.0,
+    "left_pct": 12.0,
     "location": "United States",
-    "right_pct": 53.0,
+    "right_pct": 62.0,
     "status": "ok",
     "summary": [
-      "On Nov 23, Arm Holdings CEO Rene Haas extended his contract through 2033, stating, \"I'm wholly committed to realizing Arm's full potential for many years to come.\" The decision ends speculation that Nvidia could recruit him to replace Jensen Huang.",
-      "Nvidia's board previously approached Haas in its search for a successor following Huang's resignation earlier this month, the Financial Times reported. Huang's exit came amid revelations of extramarital affairs involving an alleged Chinese spy.",
-      "Analysts identified Haas as a strong candidate because he previously served as vice president at Nvidia before joining Arm in 2013. As CEO since 2022, he oversaw Arm's return to public markets through a $65 billion Nasdaq listing.",
-      "Nvidia finance chief Colette Kress currently serves as interim CEO at the company. Meanwhile, Haas is set to become SoftBank Group vice chairman on December 1 while continuing to lead Arm.",
-      "US-Listed shares of Arm rose nearly 9 per cent in premarket trading on Nov 23, signaling investor confidence in Haas's commitment. The gains followed a broader rebound in AI stocks after last week's selloff."
+      "On Tuesday, United States Ambassador to Israel Mike Huckabee cast doubt on whether Washington would end its $3.8 billion in annual military aid to Israel by year-end, challenging President Donald Trump's recent promise.",
+      "During the Nov 3 midterm elections, Trump announced a deal with Israeli Prime Minister Benjamin Netanyahu to stop providing around $4 billion in annual funding, claiming Israel no longer needed the money and calling it a 'bad talking point.'",
+      "Huckabee, a Republican former governor of Arkansas, noted that Congress allocated the funding; an immediate cessation is uncertain without legislative approval, as the existing MoU is supposed to continue for two more years.",
+      "The Democrats won control of both houses of Congress from Republicans, complicating the landscape as Netanyahu navigates public opposition regarding the war in Gaza and apprehension about the future of the US-Israel alliance.",
+      "Huckabee, an Evangelical Christian and staunch Israel supporter, said he hoped there would not be a 'dramatic, seismic shift' in US-Israel relations, arguing the partnership benefits citizens of both countries."
     ],
-    "title": "Rene Haas to remain CEO of chipmaker Arm through 2033 amid Nvidia top job chatter",
-    "topic": "Nvidia",
-    "topic_full": "Nvidia · United States"
+    "title": "US envoy 'not certain' military aid to Israel will end this year as Trump promised",
+    "topic": "Mike Huckabee",
+    "topic_full": "Mike Huckabee · United States"
   },
   {
-    "article_path": "/article/father-and-daughter-detained-by-ice-at-seattle-airport-were-traveling-to-family-baptism-lawyer-says",
-    "article_url": "https://ground.news/article/father-and-daughter-detained-by-ice-at-seattle-airport-were-traveling-to-family-baptism-lawyer-says",
+    "article_path": "/article/feds-john-williams-indicates-higher-interest-rates-likely-over-time-to-address-inflation",
+    "article_url": "https://ground.news/article/feds-john-williams-indicates-higher-interest-rates-likely-over-time-to-address-inflation",
     "bias": [
-      "Left-Leaning coverage foregrounds the human setting—“family baptism”—and portrays the airport detention through “chaos,” cellphone video, and “masked” or unclearly identified officers, inviting attention to the enforcement scene.",
-      "Right-Leaning coverage largely de-emphasizes those operational details, instead highlighting reported social-media “outrage,” while its headline remains comparatively descriptive and retains the baptism context.",
-      "Center coverage attributes the family-purpose claim to the lawyer and includes “chaos” but fewer details on video or clothing.",
-      "Across perspectives, all emphasize the father and daughter’s detention while boarding for California, revealing differing priorities: procedure and human impact versus public reaction."
+      "No left-leaning framing is provided; the meaningful contrast is between center and right perspectives.",
+      "Center coverage emphasizes “persistently high inflation ,” “higher interest rates,” and the Fed’s “work to do,” casting tighter policy as the necessary response.",
+      "Right-Leaning coverage stresses gradual action “over time,” continued economic growth, and bringing inflation “under control” on a “timely and sustained” basis, adding the 3.5% year-end estimate and possible target achievement after 2027.",
+      "Center coverage de-emphasizes growth implications, while right coverage de-emphasizes the policy mechanism.",
+      "Both agree inflation exceeds the 2% target and requires further action."
     ],
     "bias_bar_text": null,
-    "center_pct": 35.0,
+    "center_pct": null,
     "error": null,
-    "left_pct": 34.0,
-    "location": "United States",
-    "right_pct": 31.0,
+    "left_pct": 7.0,
+    "location": "New York",
+    "right_pct": 60.0,
     "status": "ok",
     "summary": [
-      "On Saturday, masked immigration officers detained Ricardo Larrondo Mendoza and his daughter, Sofia Hernandez Mejia, on a jet bridge at Seattle-Tacoma International Airport while they were traveling to a family baptism in California.",
-      "Immigration and Customs Enforcement alleged the two overstayed visas; ICE stated another passenger 'hurled hot coffee on the officers' during the confrontation. Defense attorney Olia Catala countered that the family has no criminal record and is seeking asylum.",
-      "Bystanders filmed the struggle on unmarked officers, describing panic and confusion. Catala said, 'If somebody is running at you or charging at you and they're not wearing a uniform, you don't know who they are.'",
-      "Alaska Airlines reported receiving no advance notice of the enforcement action, which delayed the flight during a busy Thanksgiving weekend. The Port of Seattle stated the arrest was distressing and will engage federal officials to review what occurred.",
-      "Washington Gov. Bob Ferguson, a Democrat, condemned ICE's tactics as 'deeply un-American' and called for the agency's abolition. Both detainees remain held at the Northwest ICE Processing Center in Tacoma."
+      "On Monday, New York Federal Reserve President John Williams said persistently high inflation points toward tighter monetary policy, emphasizing that returning to the 2% target is \"100% essential.\"",
+      "Inflation has remained above the Fed's 2% target for more than five years, prompting central bank officials to worry the public could lose confidence in the Fed's inflation goals.",
+      "Williams noted the economy shows resilience, with growth expected at 2.75% in both 2026 and 2027, while the current 4.1% unemployment rate should fall to around 4% next year.",
+      "Energy prices remain elevated and conflicts in Iran pressure inflation, though Williams said there is \"little evidence\" the AI surge will cause persistent inflation.",
+      "The Federal Open Market Committee meets December 8-9, with markets fully pricing in a quarter percentage point rate increase from the current 3.75%-4.00% range, as Williams continues assessing incoming data."
     ],
-    "title": "Father and daughter detained by ICE at Seattle airport were traveling to family baptism, lawyer says",
-    "topic": "Immigration and Customs Enforcement",
-    "topic_full": "Immigration and Customs Enforcement · United States"
+    "title": "Fed's Williams says inflation still too high, signals more rate hikes possible",
+    "topic": "US Economy",
+    "topic_full": "US Economy · New York"
   },
   {
-    "article_path": "/article/democrats-plan-12-debates-for-their-2028-presidential-primary-with-the-first-in-june-wtop-news",
-    "article_url": "https://ground.news/article/democrats-plan-12-debates-for-their-2028-presidential-primary-with-the-first-in-june-wtop-news",
+    "article_path": "/article/sanofi-to-buy-us-drugmaker-insmed-for-41-billion_9b1fb6",
+    "article_url": "https://ground.news/article/sanofi-to-buy-us-drugmaker-insmed-for-41-billion_9b1fb6",
     "bias": [
-      "Left-Leaning coverage frames the DNC’s 12-debate plan, beginning in June, as a consequential reform battle: “strict” limits on “dark money” and demands to “reject” super PACs could disrupt candidates’ strategies and provoke intra-party conflict.",
-      "Center coverage presents the pledge as a “significant new condition” and a win for progressives seeking to curb big-money influence, while largely emphasizing procedural access.",
-      "Right-Leaning accounts de-emphasize those consequences, stressing instead a potentially “huge” or “crowded” Democratic field and repeating the requirement in more restrained terms.",
-      "The dividing line is whether the rule represents reform or partisan constraint; all perspectives share the schedule, timing, and spending restriction, reflecting broader disputes over money, party control, and ideological accountability."
+      "Left-Side coverage foregrounds Insmed’s medicines for “chronic and disabling” lung diseases, using clinical seriousness rather than ideological language; right-side coverage emphasizes the $175-per-share cash offer, 17.5% premium, expected earnings-per-share accretion by 2028, first-half-2027 closing, and a market “boosted” by the announcement.",
+      "Center coverage bridges the two, calling the purchase “transformative,” the “biggest” move in years, and a “bet” on growth beyond Dupixent amid future patent expirations.",
+      "Across perspectives, the shared frame is Sanofi’s roughly $41 billion portfolio expansion and stronger respiratory and rare-disease position, while emphasis divides therapeutic purpose from corporate strategy and shareholder returns."
     ],
     "bias_bar_text": null,
-    "center_pct": 38.0,
-    "error": null,
-    "left_pct": 32.0,
-    "location": "United States",
-    "right_pct": 30.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, the Democratic National Committee announced 12 presidential primary debates for the 2028 election cycle, with the first debate scheduled for June.",
-      "Following midterm victories, the DNC designed these rules to strengthen its eventual nominee and secure the White House .",
-      "To qualify for the stage, candidates must sign a pledge denouncing \"dark money spending in our primary\" and meet polling and grassroots fundraising thresholds.",
-      "The DNC will limit debate participation to 20 candidates, split over two nights if necessary to accommodate the expected field of hopefuls.",
-      "DNC senior adviser Minyon Moore and executive director Roger Lau are leading the debate planning committee, with further venue and schedule details expected in January."
-    ],
-    "title": "Democrats plan 12 debates for their 2028 presidential primary, with the first in June",
-    "topic": "Democratic Party",
-    "topic_full": "Democratic Party · United States"
-  },
-  {
-    "article_path": "/article/iran-claims-290-billion-in-compensation-from-the-united-states-otherwise-threatens-to-pay-back",
-    "article_url": "https://ground.news/article/iran-claims-290-billion-in-compensation-from-the-united-states-otherwise-threatens-to-pay-back",
-    "bias": [
-      "Left-Leaning coverage foregrounds Iran’s $290 billion claim and frames the conflict as a war “unleashed” by the United States, emphasizing historical responsibility while de-emphasizing retaliation.",
-      "Right-Leaning accounts recast the same demand as “reparations,” stressing Iran’s alleged “threatens to pay back” posture, a “naval blockade,” and possible “harsh response,” thus prioritizing security and coercion.",
-      "Center coverage adds the February 28 war, Gulf states’ alleged role, and a $300 billion reconstruction memorandum, giving broader context.",
-      "All perspectives report Iranian judicial claims attributed to Hassan Abdolianpour, but differ over whether the story signifies legal grievance, geopolitical accountability, or escalating confrontation."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 36.0,
-    "error": null,
-    "left_pct": 35.0,
-    "location": "Iran",
-    "right_pct": 29.0,
-    "status": "ok",
-    "summary": [
-      "Iranian courts have demanded that the United States pay $290 billion in damages, according to Hassan Abdolianpour.",
-      "Abdolianpour said domestic courts had issued rulings awarding the damages against the United States.",
-      "He said lawsuits had also been filed against Gulf Arab nations for allegedly allowing their territory to be used for attacks on Iran.",
-      "Iranian state television reported that the claims cover United States actions dating back decades."
-    ],
-    "title": "Iran's Courts Order US to Pay $290 Billion in Damages",
-    "topic": "Iran War",
-    "topic_full": "Iran War · Iran"
-  },
-  {
-    "article_path": "/article/zscaler-announces-first-quarter-fiscal-year-2027-financial-results",
-    "article_url": "https://ground.news/article/zscaler-announces-first-quarter-fiscal-year-2027-financial-results",
-    "bias": [
-      "The left-leaning presentation, though largely non-ideological, emphasizes transaction mechanics: an all-stock $43.9 billion purchase, a 1.135-share exchange ratio, and an implied $260.41 per-share value.",
-      "Right-Leaning coverage, also lacking clear partisan framing, uses promotional phrases such as “mega deal” and “kicks off,” stressing consolidation and the possibility of creating one of the world’s largest cybersecurity companies, while noting that investor response was not uniform.",
-      "Center coverage calls the move a “bet,” highlights the deal’s record scale, quarterly results, and contrasting trading—Zscaler up over 13% while CrowdStrike fell.",
-      "All portray expansion and a major industry transaction."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 55.0,
+    "center_pct": null,
     "error": null,
     "left_pct": 22.0,
-    "location": "United States",
-    "right_pct": 23.0,
+    "location": "France",
+    "right_pct": 26.0,
     "status": "ok",
     "summary": [
-      "CrowdStrike announced on Monday it will acquire Zscaler in an all-stock deal valued at about $43.9 billion. \"Today, safety is required to let AI in,\" said George Kurtz, the chief executive and founder of CrowdStrike.",
-      "Enterprise customers increasingly seek to reduce their number of security vendors, driving the merger of CrowdStrike’s device security and Zscaler's network platform into a single, comprehensive security provider.",
-      "Anticipated synergies include $500 million in annual cost savings within 24 months, with the combined entity targeting more than $10 billion in annual recurring revenue at closing.",
-      "With the deal expected to close in the second half of fiscal 2028, existing CrowdStrike shareholders will own about 84.1% of the combined company, while Zscaler CEO Jay Chaudhry joins the board.",
-      "Increasing AI adoption drives demand for advanced threat detection, while rival Palo Alto Networks agreed last week to acquire Applied Compute to compete in the evolving cybersecurity market."
+      "On Tuesday, Sanofi announced it will acquire US drugmaker Insmed for $41 billion, marking the largest pharmaceutical deal since 2023 and the biggest move yet under CEO Belen Garijo.",
+      "CEO Garijo, who took the role in May, is countering a looming patent cliff as Sanofi's blockbuster drug Dupixent faces impending generic competition toward decade's end.",
+      "Sanofi will pay $175 per share in cash, representing a 17.5% premium to Insmed's last closing price, and gains respiratory assets Arikayce and Brinsupri plus a pipeline of experimental candidates.",
+      "Barclays analysts called the deal a \"breath of fresh air,\" significantly improving Sanofi's Dupixent patent expiry outlook, while Sanofi expects annual cost benefits exceeding $500 million from the transaction.",
+      "Sanofi finance chief François Roger expects the transaction to close in the first half of 2027 and become accretive to earnings per share by the end of 2028."
     ],
-    "title": "CrowdStrike Bets on Network Security with $43.9 Billion Zscaler Deal",
-    "topic": "CrowdStrike",
-    "topic_full": "CrowdStrike · United States"
+    "title": "Sanofi to buy US drugmaker Insmed for $41 billion",
+    "topic": "Business",
+    "topic_full": "Business · France"
   },
   {
-    "article_path": "/article/israeli-strike-kills-worker-with-un-palestinian-agency-in-gaza-agency-says",
-    "article_url": "https://ground.news/article/israeli-strike-kills-worker-with-un-palestinian-agency-in-gaza-agency-says",
+    "article_path": "/article/spacex-and-tesla-entrusts-five-directors-for-merger-talks-ft-reports_b12f7e",
+    "article_url": "https://ground.news/article/spacex-and-tesla-entrusts-five-directors-for-merger-talks-ft-reports_b12f7e",
     "bias": [
-      "Left-Leaning coverage frames the Jabalia incident as part of “Israeli attacks” continuing despite an October 2025 “ceasefire,” foregrounding Palestinian casualties and the reported toll of at least 1,600; right-leaning coverage de-emphasizes that broader indictment, highlighting immediate victims, three wounded, and a child’s “acute lead poisoning” amid failing batteries and tent conditions.",
-      "Both use charged casualty language—“kills,” “injures,” and “continued violence”—but the left stresses alleged military pattern while the right broadens humanitarian risk; a center presentation stays narrower, using attribution such as “agency says.” All converge on Adel Al-Helo’s death near a water well, reflecting shared concern over Gaza’s humanitarian costs amid geopolitical disagreement."
+      "Left-Leaning coverage frames the proposed all-stock merger as a “mega merger” that could “boost” Tesla ’s robotaxi business, while stressing a year-end “race” ahead of anticipated scrutiny from a future Democratic-led Congress.",
+      "Right-Leaning coverage instead portrays “difficult for shareholders,” spotlighting dilution, governance, valuation, cash generation, synergies, and “major hurdles,” even as “largest ever” language dramatizes the roughly $3.5 trillion scale.",
+      "Center coverage de-emphasizes size and consequences, focusing procedurally on five directors—three Tesla, two SpaceX—and special committees.",
+      "Across perspectives, the talks remain incomplete; the divide reflects competing priorities: technological expansion and political power versus investor protection and corporate discipline."
     ],
-    "bias_bar_text": "Left 31% Center 30% Right 39%",
-    "center_pct": 30.0,
+    "bias_bar_text": null,
+    "center_pct": null,
     "error": null,
-    "left_pct": 31.0,
-    "location": null,
+    "left_pct": 26.0,
+    "location": "United States",
+    "right_pct": 52.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, The Financial Times reported that Tesla and Space Exploration Technologies appointed five independent directors to special committees guiding negotiations for a potential merger between the two companies.",
+      "Each company formed a special committee of independent directors last month to consider a merger, though talks remain in early stages with no proposed terms for a deal yet.",
+      "SpaceX directors Roelof Botha and Randy Glein join Tesla board members Robyn Denholm, Kathleen Wilson-Thompson, and Jack Hartung on the panels; CEO Elon Musk cannot participate in the negotiations.",
+      "A merger would require approval from a majority of all outstanding Tesla shares, as Musk does not control the company's voting power as he does with SpaceX.",
+      "Investors could value Tesla's robotaxi service as an AI business if it merges with SpaceX, utilizing the space company's AI infrastructure, heavy capital spending, and Starlink network to expand quickly."
+    ],
+    "title": "SpaceX and Tesla entrusts five directors for merger talks, FT reports",
+    "topic": "Tesla",
+    "topic_full": "Tesla · United States"
+  },
+  {
+    "article_path": "/article/five-women-killed-every-hour-by-relatives-in-2025",
+    "article_url": "https://ground.news/article/five-women-killed-every-hour-by-relatives-in-2025",
+    "bias": [
+      "Left-Leaning coverage frames the more than 47,000 deaths—“five” per hour—as evidence of gendered domestic violence, stressing an “urgent need” for prevention and contrasting women’s private-sphere risk with men’s.",
+      "Right-Leaning coverage emphasizes persistence and comparative trends, using “denounces,” “deeply rooted,” and sometimes “murdered” to portray entrenched family violence while noting femicide declines more slowly than overall homicide.",
+      "Center coverage spotlights Africa’s “highest toll” and report timing.",
+      "All stress the same UN-linked figure, roughly 129 daily and broadly unchanged, but their dividing lines—structural gender inequality, regional ranking, or broader crime trends—reflect wider ideological priorities."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": 24.0,
+    "location": "United States",
+    "right_pct": 46.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, a UN report revealed that relatives killed more than 47,000 women and girls globally in 2025, representing 129 victims every day.",
+      "Of the 78,000 intentional homicides last year, around 60 percent were committed by intimate partners or family members, crimes deeply rooted in social norms and gender stereotypes.",
+      "Africa recorded the highest number at 22,100 deaths, followed by Asia with 15,100 victims; between 63 and 97 percent of reported cases do not result in a conviction.",
+      "UNODC Executive Director Monica Juma warned that social norms make killing female relatives 'tolerable,' while Women Deputy Executive Director Nyaradzayi Gumbonzvanda urged institutions to believe survivors.",
+      "The International Day launches the annual 16 Days of Activism against Gender-Based Violence, as 70 percent of women in public life experience online violence amid eroding trust in justice systems."
+    ],
+    "title": "Five women killed each hour by relatives in 2025: UN",
+    "topic": "Women's Rights",
+    "topic_full": "Women's Rights · United States"
+  },
+  {
+    "article_path": "/article/social-media-platforms-not-liable-for-racist-buffalo-mass-shooting-says-ny-high-court-by-4-3-vote",
+    "article_url": "https://ground.news/article/social-media-platforms-not-liable-for-racist-buffalo-mass-shooting-says-ny-high-court-by-4-3-vote",
+    "bias": [
+      "Center-Leaning coverage frames the 4–3 ruling as a narrow legal decision: platforms were not liable because the shooter’s conduct was “too extraordinary,” while “addictive design” claims may survive elsewhere and Section 230 remained unresolved.",
+      "Right-Leaning coverage emphasizes consequences for victims’ families, portraying the court as “shielding” “social media giants” and warning, “Our country is now less safe,” while invoking the emotionally charged “massacre.” The center foregrounds the victims’ identities and the shooter as an “avowed white supremacist”; the right de-emphasizes those details in favor of corporate accountability and public safety.",
+      "Both acknowledge the ruling and surviving design claims, reflecting tensions over platform power, liability, and security."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": null,
+    "location": "Buffalo",
+    "right_pct": 25.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, New York's Court of Appeals rejected lawsuits from survivors and families of the 2022 Buffalo supermarket massacre seeking to hold major social media companies liable for the racist mass shooting. The 4-3 ruling found the gunman's actions were \"so extraordinary as to sever the causal chain as a matter of law.\"",
+      "Families argued that platforms like Alphabet's Google and YouTube, Meta Platforms' Instagram, Reddit, and Snap's Snapchat used \"addictive\" designs that radicalized shooter Payton Gendron. They claimed these features were \"designed to prey on neurological frailties,\" contributing to his violent actions.",
+      "In an unsigned opinion, the majority ruled victims failed to show the attack was a \"natural and foreseeable consequence\" of the defendants' platform decisions. The court stated the shooter's actions were \"so extraordinary as to sever the causal chain as a matter of law.\"",
+      "Attorney Matthew Bergman stated plaintiffs are \"evaluating their legal options\" following the decision. John Elmore, representing affected families, criticized the ruling, claiming it has made New York \"less safe.\"",
+      "Gendron is currently serving a life sentence for state crimes after pleading guilty in February 2023, while jury selection began October 13 for a separate federal trial where he faces the death penalty. The ruling leaves questions of social media platform liability largely unresolved."
+    ],
+    "title": "Social media companies not liable for Buffalo mass shooting, New York's highest court rules",
+    "topic": "New York State Politics",
+    "topic_full": "New York State Politics · Buffalo"
+  },
+  {
+    "article_path": "/article/us-defense-chief-has-yet-to-approve-patriot-missiles-already-allocated-to-ukraine-ft-reports_5bb98c",
+    "article_url": "https://ground.news/article/us-defense-chief-has-yet-to-approve-patriot-missiles-already-allocated-to-ukraine-ft-reports_5bb98c",
+    "bias": [
+      "Left-Leaning coverage frames the missing final approval for roughly 60 Patriot interceptors as Trump-era pressure on Kyiv, using terms like “squeeze,” “blocks,” and helping Putin, while stressing that Europe paid for missiles already allocated and warning Ukraine could be left vulnerable.",
+      "Right-Leaning coverage likewise uses “stalls,” “withholding,” and “no rush,” but emphasizes bureaucratic dysfunction, a global interceptor shortage, and a possible “quick peace deal” strategy.",
+      "Center coverage de-emphasizes motive, presenting an unresolved approval delay and noting uncertainty.",
+      "The pivotal divide is whether leverage or logistics explains the hold-up; all perspectives nevertheless stress Russia’s intensifying attacks and Ukraine’s urgent defensive need, reflecting wider disputes over aid, accountability, and peace."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": 32.0,
+    "location": "Ukraine",
     "right_pct": 39.0,
     "status": "ok",
     "summary": [
-      "On Monday, an Israeli airstrike in the Jabalia refugee camp killed Adel Al-Helo, a worker for the UN Palestinian refugee agency UNRWA , and wounded three others.",
-      "UNRWA staff were performing regular duties at a water well when the strike occurred, exposing the persistent risks humanitarian personnel face while maintaining essential infrastructure in Gaza.",
-      "An UNRWA spokesperson told Reuters, \"the strike hit a target on the street near the water well,\" describing the precise location where staff were engaged in water operations.",
-      "The Israeli military said it was checking Reuters' request for comment on the strike as Israeli troops now control around two-thirds of Gaza's territory following the operation.",
-      "Since an October 2025 US-backed ceasefire, at least 1,600 Palestinians have been killed, reflecting the fragility of the truce and ongoing military pressure in the territory."
+      "On Tuesday, Defense Secretary Pete Hegseth withheld approval for the transfer of about 60 Patriot air defence interceptors Washington had already agreed to supply to Ukraine, the Financial Times reported.",
+      "Russian ballistic missiles strike Ukraine at a rate of about 150 monthly, while the country received only 12 Patriot interceptors per month this year; Ukrainian officials warn that empty launchers allow nearly every incoming missile to reach its target.",
+      "Outstanding allocations of PAC-3 and PAC-2 interceptors, financed by Western allies, remain stalled at The Pentagon; scheduled shipments include eight missiles for September, 10 for October, 10 for November, and 12 for December, none yet approved.",
+      "Ukrainian President Volodymyr Zelensky stated Sunday, \"It is very important that America authorise the transfer of missiles for Patriot systems that our partners have already paid for,\" and warned Russian intelligence indicates new strikes are imminent.",
+      "Deteriorating ties between President Donald Trump and Zelensky complicate the delay, with Trump recently suggesting a \"new president\" was needed in Kyiv; analysts fear the administration is using aid as leverage to pressure Ukraine into territorial concessions."
     ],
-    "title": "Israeli strike kills worker with UN Palestinian agency in Gaza, agency says",
-    "topic": null,
-    "topic_full": null
+    "title": "US defense chief has yet to approve Patriot missiles already allocated to Ukraine, FT reports",
+    "topic": "Ukraine War",
+    "topic_full": "Ukraine War · Ukraine"
   },
   {
-    "article_path": "/article/hundreds-gather-in-philadelphia-for-pro-palestinian-demonstration-and-counterprotest",
-    "article_url": "https://ground.news/article/hundreds-gather-in-philadelphia-for-pro-palestinian-demonstration-and-counterprotest",
+    "article_path": "/article/vance-and-rubio-meet-with-qatari-pm-as-uncertainty-mounts-over-trumps-intentions-with-iran_494aa1",
+    "article_url": "https://ground.news/article/vance-and-rubio-meet-with-qatari-pm-as-uncertainty-mounts-over-trumps-intentions-with-iran_494aa1",
     "bias": [
-      "Left-Leaning coverage frames the ride as pro-Palestinian activism against businesses perceived as supporting Israel, emphasizing organizers’ claim that the Kristallnacht timing was “coincidental” and portraying counterprotesters as obstructive or harassing.",
-      "Right-Leaning coverage instead calls the action “antisemitic,” invokes “Kristallnacht,” and celebrates a “backfire,” presenting Jewish restaurants as targeted and the counterprotest as a defensive victory; terms like “leftist agitators,” “blood libel,” and “drowned out” sharpen its emotional tone.",
-      "The pivotal divide is whether the boycott targeted Israeli-linked institutions or Jewish businesses themselves, alongside disputed crowd size—police estimates of roughly 300 protesters versus 200 counterprotesters versus claims of overwhelming crowds.",
-      "Both sides emphasize confrontation, police separation, and three arrests, reflecting broader disputes over Israel, antisemitism, and protest legitimacy."
+      "Left-Leaning coverage frames the meetings as a “diplomatic solution” to prevent war, stressing that Qatar seeks to “revive” talks and that the region “cannot afford” escalation; uncertainty signals concern over Trump’s intentions.",
+      "Right-Leaning coverage portrays negotiations as “stalled” or a “slowdown,” emphasizes Qatar transmitting Iranian proposals, and supports diplomacy only “without surrendering American leverage,” while charged references to “secret” talks and tankers hitting mines heighten threat perceptions.",
+      "Center coverage stays nearer the middle, highlighting uncertainty, mediation, security, and a critical-minerals framework.",
+      "All perspectives agree Qatar is mediating and negotiations are paused, but divide over de-escalation versus leverage and Iran’s regional intentions."
     ],
     "bias_bar_text": null,
     "center_pct": null,
     "error": null,
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
+    "left_pct": 32.0,
+    "location": "United States",
+    "right_pct": 47.0,
     "status": "ok",
     "summary": [
-      "On Sunday, a massive crowd of counter-protesters gathered in Rittenhouse Square, Philadelphia, to support Jewish-owned businesses targeted by a bike boycott organized by groups calling the restaurants \"Zionist establishments.\"",
-      "A flyer circulating since October 30, 2026, promoted the boycott against six Jewish-owned eateries including Goldie and K'Far Cafe; critics condemned the timing, as the event fell on the 88th anniversary of Kristallnacht, the 1938 Nazi pogrom.",
-      "Pennsylvania Governor Josh Shapiro and Philadelphia Mayor Cherelle Parker condemned the targeting as antisemitism, while the businesses, owned by Michael Solomonov's group, faced scrutiny for prior fundraising of more than $100,000 for the Friends of United Hatzalah following the October 7, 2023, Hamas attack.",
-      "The bike boycott effectively collapsed soon after starting as counter-demonstrators formed lines outside the targeted eateries; Philadelphia Police reported three arrests during the tense event, though no major physical altercations occurred.",
-      "Organizers have reportedly teased another event dubbed a \"ride of return\" slated for November 15, 2026, while community members emphasize the need for ongoing patronage rather than just a one-day surge."
+      "On Monday, Qatari Prime Minister Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani meets with US Secretary of State Marco Rubio in Washington to discuss regional security as Qatar continues its role as key intermediary between the United States and Iran.",
+      "Earlier this month, President Donald Trump announced \"Operation Iron Gate,\" a joint land-and-sea blockade against Iran, declaring that preventing Tehran from acquiring nuclear weapons remains strictly \"non-negotiable.\"",
+      "Trump claimed military strikes degraded Iran's industrial infrastructure by about 85 per cent, prompting a noticeable shift in Tehran's diplomatic posturing, though he warned American forces remain \"locked and loaded\" should regional dynamics deteriorate.",
+      "While maintaining high combat readiness, the President expressed optimism regarding potential de-escalation and stated that Israel and the entire Middle East are \"protected from Iranian danger and threats.\"",
+      "Washington and Tehran remain deadlocked with minimal headway in formal diplomatic initiatives, as the region navigates a fragile status quo more than eight months after the initial wave of joint US-Israeli strikes."
     ],
-    "title": "Hundreds gather in Philadelphia for Pro-Palestinian demonstration and counterprotest",
-    "topic": null,
-    "topic_full": null
+    "title": "Vance and Rubio meet with Qatari PM as uncertainty mounts over Trump’s intentions with Iran",
+    "topic": "US Foreign Policy",
+    "topic_full": "US Foreign Policy · United States"
   },
   {
-    "article_path": "/article/gaza-doctor-abu-safiya-lost-14-kilos-the-prison-doctors-statement-disturbed",
-    "article_url": "https://ground.news/article/gaza-doctor-abu-safiya-lost-14-kilos-the-prison-doctors-statement-disturbed",
+    "article_path": "/article/exclusive-jd-vances-ties-to-prized-venezuelan-oil-contract-under-investigation-by-us-senate-panel",
+    "article_url": "https://ground.news/article/exclusive-jd-vances-ties-to-prized-venezuelan-oil-contract-under-investigation-by-us-senate-panel",
     "bias": [
-      "Left-Leaning coverage frames the six-month extension as “abduction,” “arbitrary detention,” and a “kangaroo court,” foregrounding Abu Safiya’s reported health decline, alleged mistreatment, lawyer’s account that release was denied on security grounds, his denial of Hamas ties, detention since December 27, and international criticism; “the Occupation” adds geopolitical condemnation.",
-      "The right-leaning headline uses a narrower institutional frame—an extension “without charges”—and de-emphasizes health, treatment, representation, and competing allegations without endorsing or rejecting the detention’s justification.",
-      "Both identify Abu Safiya as a Gaza hospital director and report the same extension without charges, exposing a humanitarian-versus-procedural emphasis amid the conflict."
+      "Left-Leaning coverage frames the inquiry as possible abuse of office, calling the deal “lucrative,” labeling Vitol a “major donor,” and urging Vance to “lawyer up.” Right-leaning coverage instead emphasizes personal networks—his ties to a trader, a former executive who allegedly “financed his political career,” and Senate action that “targets” him—suggesting institutional hostility or political-financial entanglement.",
+      "The pivotal divide is whether to foreground alleged official favoritism or the investigator’s motives and Vance’s relationships.",
+      "Center coverage is more restrained, focusing on whether he played a role in awarding the contract.",
+      "All emphasize the Senate investigation and Venezuelan oil, reflecting broader accountability-versus-partisan persecution tensions."
     ],
     "bias_bar_text": null,
     "center_pct": null,
     "error": null,
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "An Israeli court in Beersheba extended the detention of Dr. Hussam Abu Safiya, director of Kamal Adwan Hospital, by six months, ruling he \"poses a threat to the state of Israel.\"",
-      "Abu Safiya has been imprisoned without charge or trial since December 27, 2024, following his arrest during an Israeli military raid on the hospital where he insisted on remaining to provide care.",
-      "The Office of the United Nations High Commissioner for Human Rights reports Abu Safiya has been \"subjected to torture and other ill-treatment,\" including solitary confinement, severe assaults, and denial of medical care.",
-      "Amnesty International UK described the extension as \"shameful,\" challenging the British government to \"publicly demand\" his immediate release, while more than 800 UK healthcare workers have petitioned the foreign secretary.",
-      "Held under Israel's \"unlawful combatants\" law, the physician's detention is described by Amnesty International as a \"flagrant violation of international law,\" as courts recently dismissed petitions seeking the release of 14 other Palestinian doctors."
-    ],
-    "title": "Israeli Court Extends Gaza Doctor Abu Safia’s Detention without Charge",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/donald-trump-says-he-convinced-nvidia-to-reinstate-jensen-huang",
-    "article_url": "https://ground.news/article/donald-trump-says-he-convinced-nvidia-to-reinstate-jensen-huang",
-    "bias": [
-      "Left-Leaning coverage frames Trump’s intervention as a “spy scandal,” stressing alleged Chinese intelligence ties, unanswered briefings, and his “clams up” evasiveness; “jaw-dropping claim” signals disbelief.",
-      "Right-Leaning coverage instead portrays a reassuring resolution, emphasizing that Trump “assured” Nvidia ’s board Huang was “absolutely fine,” unlikely to face prosecution, and even a “great patriot,” while highlighting business confidence and the reversal.",
-      "Center coverage shifts toward long-term AI competition and China’s potential recruitment, using “reportedly” and “convinced” to temper attribution.",
-      "The pivotal divide is transparency and national security versus executive influence and market stability; all acknowledge Trump’s role and Huang’s reinstatement, reflecting wider trust and geopolitical priorities."
-    ],
-    "bias_bar_text": "Left 40% Center 25% Right 35%",
-    "center_pct": 25.0,
-    "error": null,
-    "left_pct": 40.0,
-    "location": null,
+    "left_pct": 27.0,
+    "location": "United States",
     "right_pct": 35.0,
     "status": "ok",
     "summary": [
-      "On Monday, Nvidia reinstated CEO Jensen Huang 11 days after his resignation, with President Donald Trump confirming he persuaded the board to bring Huang back, calling it an \"absolutely GREAT decision.\"",
-      "Huang initially stepped down on November 13 following revelations of affairs with two employees and Alice Huang, a businesswoman whom U.S. officials alleged was a Chinese intelligence operative. The controversy also involves alleged diversion of advanced American AI chips to China.",
-      "President Trump told CNBC he provided the board with \"assurance\" regarding Huang's legal standing, stating he would not have recommended the executive's return if he believed Huang had done anything wrong. Trump described him as a \"Great Patriot and National Treasure.\"",
-      "Lawmakers from both parties criticized the reinstatement, citing unresolved national security concerns. House Foreign Affairs Committee Chairman Brian Mast announced Huang will appear before congressional committees on December 1 to address allegations involving Chinese intelligence and chip smuggling.",
-      "To oversee trade compliance, Nvidia established a National Security and Export Control Committee as it cooperates with ongoing government inquiries. Huang is scheduled for closed-door interviews with three House committees to address national security implications of the controversy."
+      "A U.S. Senate committee is investigating whether Vice President JD Vance used his office to help political donor John Addison secure a lucrative contract to sell Venezuelan oil, according to a letter reviewed by Reuters.",
+      "Senator Maggie Hassan cited flight records placing Vance and Addison at a Montana airport in December 2025, though both men deny meeting to discuss the potential oil deal.",
+      "Addison, a former Vitol trader who donated $300,000 to Vance's 2022 Senate bid, allegedly discussed the Venezuelan crude opportunity with the Vice President before the January invasion.",
+      "Hassan demanded communications between Vance's office and Addison by December 14, ahead of her January role chairing the Senate Homeland Security and Governmental Affairs Committee.",
+      "The administration planned to sell Venezuelan crude to fund its political transition, with the State Department reporting the U.S. handled more than $12 billion in revenue this year."
     ],
-    "title": "Donald Trump Says He 'Convinced' Nvidia to Reinstate Jensen Huang",
+    "title": "JD Vance's ties to prized Venezuelan oil contract under investigation by US Senate panel: Reuters",
+    "topic": "JD Vance",
+    "topic_full": "JD Vance · United States"
+  },
+  {
+    "article_path": "/article/israeli-airstrike-kills-senior-hamas-security-official-in-gaza-hamas-sources-say_7c8598",
+    "article_url": "https://ground.news/article/israeli-airstrike-kills-senior-hamas-security-official-in-gaza-hamas-sources-say_7c8598",
+    "bias": [
+      "Left-Leaning coverage foregrounds Palestinian suffering, describing the strike as an “assassination” and “war crime” meant to create “chaos,” while highlighting six additional deaths, including a reported teenager, and presenting Abu Nahel as a “martyr.” Right-leaning coverage instead frames it as a counterterrorism success, calling him a “terrorist,” saying Israel “eliminates” him, and invoking “No Terrorist Will Escape,” while emphasizing alleged attacks on Israelis and Hamas repression.",
+      "Center coverage de-emphasizes moralized language, attributes claims, and notes uncertainty over identity and casualty totals, often reporting seven deaths.",
+      "All perspectives agree an Israeli strike killed a senior Hamas security official in Gaza, but their dividing line—civilian harm versus deterrence—reflects broader humanitarian, security, and geopolitical divides."
+    ],
+    "bias_bar_text": "Left 29% Center 31% Right 40%",
+    "center_pct": null,
+    "error": null,
+    "left_pct": 29.0,
+    "location": null,
+    "right_pct": 40.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, an Israeli airstrike killed Naeem Abu Nahel, the director of Hamas ' internal security apparatus, in western Gaza City, according to Hamas sources.",
+      "The IDF and Shin Bet conducted the joint operation to counter Hamas members allegedly regrouping and rearming across the Gaza Strip, according to Israeli military statements.",
+      "Tuesday's strikes killed three people in Khan Younis and three near the Netzarim corridor, while medics reported five people were wounded in the attacks.",
+      "Israeli troops now control about two-thirds of the Gaza Strip; Abu Nahel's security service had previously gathered intelligence on Palestinians suspected of collaborating with Israel.",
+      "Israel's ongoing assault has killed more than 74,000 Palestinians since 2023, while the Hamas-run interior ministry denies allegations of rearming despite intensified military activity."
+    ],
+    "title": "Israeli Airstrike Kills Senior Hamas Security Official in Gaza, Hamas Sources Say",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/trump-says-iran-increased-missile-and-drone-attacks-following-us-midterm-elections_bcd1ff",
-    "article_url": "https://ground.news/article/trump-says-iran-increased-missile-and-drone-attacks-following-us-midterm-elections_bcd1ff",
+    "article_path": "/article/even-kristen-welker-couldnt-let-this-slide-el-sayed-schooled-on-israels-jewish-identity",
+    "article_url": "https://ground.news/article/even-kristen-welker-couldnt-let-this-slide-el-sayed-schooled-on-israels-jewish-identity",
     "bias": [
-      "Left-Leaning coverage frames Trump’s claims as “threats,” “accusations,” and dangerous escalation, stressing his “bottom of the sea” rhetoric and controversial link between Democratic midterm gains and Iranian attacks; right-leaning coverage portrays Iran as “aggressive” and “emboldened,” while celebrating a “highly effective blockade,” U.S. interceptions, and economic pressure.",
-      "The pivotal divide is whether renewed strikes signal reckless brinkmanship or necessary deterrence, with the reported 14-tanker convoy and Strait of Hormuz conditions central to right-wing framing but de-emphasized on the left.",
-      "Center coverage presents an impasse and “fiery warning” more cautiously.",
-      "All emphasize escalating U.S.-Iran tensions and stalled negotiations, reflecting broader divides over intervention, strength, and diplomacy."
+      "The center-leaning account frames Abdul El-Sayed ’s position with the relatively neutral verb “questions,” emphasizing a debate over Israel’s Jewish-state status, while right-leaning coverage portrays it as an “attack” on Israel and a test of whether Jewish and democratic identities can coexist.",
+      "The pivotal dividing line is El-Sayed’s statement, “I don’t believe in ethnostates”: one framing leaves broader principles open, whereas the other highlights alleged inconsistency by invoking countries with religious identities.",
+      "Terms such as “atrocious,” “schooled,” “left-wing Democrat,” and “single out Israel” add condemnation and confrontation.",
+      "Both perspectives center the interview and Israel’s identity, reflecting wider disputes over nationalism, minority inclusion, and U.S. debates about Israel."
     ],
     "bias_bar_text": null,
     "center_pct": null,
@@ -867,24 +798,62 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
-      "On Sunday, President Donald Trump claimed Democratic Midterm Elections results vindicated his warnings, blaming Democrats for Stock Markets decline and increased Iranian aggression.",
-      "Following the Midterm Elections, Democrats secured control of both the House and Senate, ending two years of unified Republican control with at least 258 House seats.",
-      "Stock Markets experienced significant losses last week, with the Nasdaq and Dow falling more than 10 percent below records, while Iran launched numerous drone and missile attacks against American installations.",
-      "American forces struck an Iranian missile site on Qeshm Island after Iran launched drones against facilities in Bahrain, though Central Command reported the intercepted attacks caused no damage.",
-      "Oil prices declined considerably in recent weeks, with Brent falling approximately 3.4 percent and West Texas Intermediate declining roughly 5.8 percent, though Trump alleged without evidence that Democrats and Iran manipulated energy costs."
+      "On Sunday, Michigan Sen.-elect Abdul El-Sayed questioned whether Israel should define itself as a Jewish state during an interview on NBC's Meet the Press, reiterating his opposition to countries organized around a particular ethnic or religious identity.",
+      "El-Sayed criticized Israeli politician Gadi Eisenkot's coalition efforts for deliberately excluding Arab parties, pointing to the negotiations as evidence of friction between Israel's Jewish and democratic identities.",
+      "Eisenkot maintains that coalition partners must recognize Israel as a Jewish and democratic state, support the Declaration of Independence, and recognize Hamas as a terrorist organization.",
+      "Turning to domestic politics, the Michigan Democrat stated he is open to working with the Trump administration, noting planned conversations with President Donald Trump and Vice President JD Vance.",
+      "These comments reflect growing debates within the Democratic Party over Israel's national identity, as El-Sayed defended backing Sen. Chris Van Hollen to replace Sen. Chuck Schumer as Senate Democratic leader."
     ],
-    "title": "Trump Says Iran Increased Missile and Drone Attacks Following U.S. Midterm Elections",
+    "title": "Michigan Democrat Abdul El-Sayed Questions Israel’s Jewish State Status",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/sarah-mcbride-becomes-the-first-trans-member-of-congressional-leadership-in-a-248-vote-landslide",
-    "article_url": "https://ground.news/article/sarah-mcbride-becomes-the-first-trans-member-of-congressional-leadership-in-a-248-vote-landslide",
+    "article_path": "/article/gaza-health-emergency-epidemic-warning-of-high-rates-of-meningitis-within-the-strip-al-shawq-gate",
+    "article_url": "https://ground.news/article/gaza-health-emergency-epidemic-warning-of-high-rates-of-meningitis-within-the-strip-al-shawq-gate",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": "Message: \n",
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "fail",
+    "summary": null,
+    "title": "Health Ministry Declares ‘Epidemic Alert’ in Gaza Amid Sharp Rise in Meningitis Infections",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/iran-not-to-engage-in-talks-till-its-conditions-met-ghalibaf",
+    "article_url": "https://ground.news/article/iran-not-to-engage-in-talks-till-its-conditions-met-ghalibaf",
     "bias": [
-      "The available coverage is overwhelmingly left-leaning: it celebrates Sarah McBride’s 248-vote victory as a “ landslide ” and “historic” breakthrough, foregrounding her identity as the first transgender congressional leader, while portraying Republicans as having “targeted” her over bathroom access.",
-      "Center-Leaning treatment is more restrained, calling it a “top” Democratic post and situating it alongside Chris Coons’s ambitions, while de-emphasizing the vote tally and symbolism.",
-      "Right-Leaning coverage is de-emphasized in the analyses, so its counter-narrative cannot be established.",
-      "Across perspectives, the shared focus is McBride’s election and the politically divisive bathroom dispute, reflecting broader representation and culture-war divides."
+      "Left-Leaning coverage foregrounds sanctions and the alleged U.S. “blockade,” presenting Iran ’s refusal as conditional resistance, while right-leaning coverage recasts the seven conditions as “legitimate rights,” depicts U.S. “threats” as “signs of weakness,” and stresses Iran’s “decisive response” to “aggressive steps.” The pivotal divide is whether the demands represent obstructive preconditions or sovereignty claims, with terms like “refusal,” “enemy,” and “helplessness” intensifying competing emotional frames.",
+      "Center coverage de-emphasizes justification and broadens context through tanker explosions and Palestinian deaths.",
+      "All perspectives agree Ghalibaf tied talks to seven undisclosed conditions, reflecting wider disputes over sanctions, security, sovereignty, and regional power."
+    ],
+    "bias_bar_text": "Left 43% Center 34% R 23%",
+    "center_pct": null,
+    "error": null,
+    "left_pct": 43.0,
+    "location": null,
+    "right_pct": 23.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, Iranian parliament speaker Mohammad Bagher Ghalibaf said Tehran will not negotiate with the United States until seven conditions are met, warning that miscalculations by adversaries could widen the regional conflict.",
+      "Iranian state media reported that demands include lifting sanctions, ending the U.S. naval blockade of Iranian ports, and releasing seized assets. Ghalibaf warned Iran would shift the geographical scope of the conflict if adversaries make mistakes.",
+      "Separately, the Revolutionary Guard said three oil tankers struck naval mines in the Strait of Hormuz on Monday, catching fire despite U.S. aerial escort. The Guard claimed the vessels were 'in violation of regulations' regarding transit."
+    ],
+    "title": "Iran Won't Talk With US Until Seven Conditions Met, Ghalibaf Says",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/us-imposes-sanctions-on-dozens-linked-to-irans-shadow-banking-networks_06f49f",
+    "article_url": "https://ground.news/article/us-imposes-sanctions-on-dozens-linked-to-irans-shadow-banking-networks_06f49f",
+    "bias": [
+      "Left-Leaning coverage frames the sanctions as an escalation that deepens Iran’s “economic isolation,” emphasizing coercion and regional instability, while right-leaning coverage portrays “sweeping” action against a hostile “regime,” calling the network a “financial lifeline” and describing leaders as “panicking.” The nearly $15 billion figure is presented on the left as evidence of extensive financial channels, but on the right as proof of a major threat and weakening economy.",
+      "Center coverage tempers both with “alleged,” “suspected,” and “potentially linked.” The sharpest divide concerns sanctions’ effectiveness and humanitarian consequences, though all emphasize disrupting Iran’s currency access, trade, and sanctions evasion."
     ],
     "bias_bar_text": null,
     "center_pct": null,
@@ -894,13 +863,40 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
-      "On Thursday, House Democrats elected Representative Sarah McBride as co-chair of the House Democratic Policy and Communications Committee, making her the first openly transgender member of Congress to hold an elected leadership position.",
-      "Two years after Republicans targeted McBride by attempting to ban her from using Capitol women's restrooms, her election marks a significant shift as Democrats prepare to assume House control in January.",
-      "McBride secured 248 votes, the highest total among three candidates for co-chair. The committee serves as the House Democratic Caucus's messaging arm, developing communications strategy and drawing contrasts with Republican policy.",
-      "Emphasizing an \"inside strategy\" to build trust, McBride aims to focus on economic security and government accountability while leading caucus messaging alongside Rep. Maxwell Frost and Rep. Sydney Kamlager-Dove .",
-      "House Democrats this week elected Rep. Hakeem Jeffries as Speaker and Rep. Katherine Clark as majority leader, positioning the party leadership to guide the new Congress when it convenes January 3, 2027."
+      "On Monday, The Treasury Department issued new Iran-related sanctions targeting two dozen exchange houses and front companies to disrupt shadow banking networks.",
+      "Treasury's Financial Crimes Enforcement Network identified nearly $15 billion in potential Iranian shadow banking activity conducted from January 2025 to August 2026.",
+      "Treasury Secretary Scott Bessent said, \"Iran's economy is underwater, and its leaders are panicking,\" while the Central Bank oversees shadow banking through \"rahbar companies\" managing sanctions-evasion networks.",
+      "Measures announced under Operation Economic Outcast target intermediaries in the United Arab Emirates, Turkey, and Hong Kong, including Dubai-based entities linked to Iran's Armed Forces General Staff.",
+      "The State Department said Tehran uses these networks to finance weapons and support armed groups across the Middle East , though FinCEN data shows a decrease in shadow banking volume."
     ],
-    "title": "House Democrats Elect Delaware's Sarah McBride as First Transgender Party Leader",
+    "title": "US imposes sanctions on dozens linked to Iran's shadow banking networks",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/paxton-drops-brett-cooper-lawsuit-over-sb-14-trans-care",
+    "article_url": "https://ground.news/article/paxton-drops-brett-cooper-lawsuit-over-sb-14-trans-care",
+    "bias": [
+      "Left-Leaning coverage frames Paxton’s dropped cases as an “anti-trans” retreat, emphasizing “gender-affirming care,” naming doctors Brett Cooper and May Lau, noting a prior dismissal, and using phrases such as “led the nation” and “on his way out the door” to portray an aggressive campaign ending under pressure.",
+      "No right-leaning coverage is provided.",
+      "Center coverage instead stresses allegations that doctors illegally provided medications, calls the suits efforts to “punish” alleged violators, cites Paxton’s “failed Senate run,” and notes the physicians were among the first nationally accused under such bans.",
+      "Both highlight the dismissals and impending departure, but diverge over rights-centered versus legal-procedural meaning."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "On Friday, Texas Attorney General Ken Paxton filed notices of non-suit ending lawsuits against pediatricians Dr. Brett Cooper and Dr. May Lau, whom his office had accused of illegally providing gender-affirming care to minors.",
+      "Citing the 2023 Senate Bill 14, a state law barring doctors from prescribing gender-transitioning hormones to minors, Paxton had sued Cooper and Lau under the gender-affirming care restrictions.",
+      "Cooper faced accusations of using 'false, misleading, and deceptive acts' to conceal care, while Lau was accused of authorizing testosterone for at least 21 teenagers; both physicians deny the allegations.",
+      "Following his election defeat to Attorney General-elect Nathan Johnson, Paxton is dropping multiple cases as he prepares to leave office before Johnson takes over in January.",
+      "Former Republican Attorney General Rob McKenna told the Houston Chronicle that Paxton may be dropping cases to prevent his successor from claiming credit, suggesting this is 'not at all normal' behavior."
+    ],
+    "title": "Texas Drops Lawsuits that Accused Doctors of Illegally Providing Transgender Youth Care",
     "topic": null,
     "topic_full": null
   }
